@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+title: "糖友之家"
+description: "这是糖友之家博客，也是shop.tangyou.space的配套博客，也是个人记录健康日志的地方"
+url: "https://blog.tangyou.space" # 替换为你的用户名
+theme: Cayman
