@@ -4,5 +4,7 @@ url: "https://blog.tangyou.space" # 替换为你的用户名
 theme: jekyll-theme-Cayman
 include:
   - .html
+  - .md
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
