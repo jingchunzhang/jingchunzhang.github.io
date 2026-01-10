@@ -5,6 +5,7 @@ theme: jekyll-theme-Cayman
 include:
   - .html
   - .md
+  - docs
 plugins:
   - jekyll-sitemap
   - jekyll-feed
