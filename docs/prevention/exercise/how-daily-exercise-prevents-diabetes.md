@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "运动是良医：如何通过科学锻炼有效预防糖尿病"
 author: "danezhang"
 date: "2026-01-10"
