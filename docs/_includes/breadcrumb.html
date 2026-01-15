@@ -1,0 +1,56 @@
+{%- comment -%}
+面包屑导航组件 - 自动生成当前页面的导航面包屑
+{%- endcomment -%}
+
+{%- assign url_parts = page.url | remove_first: '/' | split: '/' -%}
+
+<nav class="breadcrumb" aria-label="breadcrumb">
+  <ol class="breadcrumb-list">
+    {%- comment -%} 首页 {%- endcomment -%}
+    <li class="breadcrumb-item">
+      {%- if page.url == '/' -%}
+        <span class="breadcrumb-current">首页</span>
+      {%- else -%}
+        <a href="/" class="breadcrumb-link">首页</a>
+      {%- endif -%}
+    </li>
+
+    {%- comment -%} 逐个处理URL中的目录 {%- endcomment -%}
+    {%- assign accumulated_path = '' -%}
+    {%- for part in url_parts -%}
+      {%- if part != '' and part != 'index.html' -%}
+        {%- assign accumulated_path = accumulated_path | append: '/' | append: part -%}
+        
+        {%- comment -%} 检查是否为最后一部分（文件名） {%- endcomment -%}
+        {%- if forloop.last and part contains '.' -%}
+          {%- comment -%} 最后一部分是文件名 - 显示当前页面标题 {%- endcomment -%}
+          <li class="breadcrumb-item breadcrumb-item--active">
+            <span class="breadcrumb-current">{{ page.title }}</span>
+          </li>
+        {%- else -%}
+          {%- comment -%} 这是一个目录 - 查找其标题 {%- endcomment -%}
+          {%- assign path_without_slash = accumulated_path | remove_first: '/' -%}
+          {%- assign display_title = part | replace: '-', ' ' | capitalize -%}
+          
+          {%- comment -%} 使用case语句根据路径设置显示标题 {%- endcomment -%}
+          {%- case path_without_slash -%}
+            {%- when 'prevention' -%}
+              {%- assign display_title = '糖尿病的预防：构建健康生活防线' -%}
+            {%- when 'prevention/diet' -%}
+              {%- assign display_title = '健康饮食：通过均衡营养预防糖尿病' -%}
+            {%- when 'prevention/exercise' -%}
+              {%- assign display_title = '规律运动：如何通过科学锻炼有效预防糖尿病' -%}
+            {%- when 'prevention/sleep' -%}
+              {%- assign display_title = '充足睡眠' -%}
+            {%- when 'prevention/emotion' -%}
+              {%- assign display_title = '情绪管理' -%}
+          {%- endcase -%}
+          
+          <li class="breadcrumb-item">
+            <a href="{{ accumulated_path }}/index.html" class="breadcrumb-link">{{ display_title }}</a>
+          </li>
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+  </ol>
+</nav>
