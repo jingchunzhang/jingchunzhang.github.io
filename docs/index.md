@@ -1,9 +1,13 @@
 ---
 layout: default
 title: 欢迎来到糖友空间博客
+lang: zh
+translation_key: index-en
 ---
 
 # 欢迎来到糖友空间博客
+
+> **[English Version](./index-en.md)** | **[英文版入口](./index-en.md)**
 
 您好, 欢迎访问 **[糖友空间博客](https://blog.tangyou.space)**。本站是 **[糖友空间](https://shop.tangyou.space)** 的官方配套博客, 致力于成为您在糖尿病管理路上的可靠伙伴。
 
