@@ -10,3 +10,12 @@ include:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+
+gitalk:
+  enable: true
+  clientID: 'Ov23liJ0om493oC1evt5'
+  clientSecret: '831be8e368fb599cc7c277bf331ad2efda9b6d36'
+  repo: 'https://jingchunzhang.github.io/'
+  owner: 'jingchunzhang'
+  admin: ['jingchunzhang']
+  distractionFreeMode: true
