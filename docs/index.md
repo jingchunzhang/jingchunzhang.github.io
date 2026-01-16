@@ -7,7 +7,7 @@ translation_key: index-en
 
 # 欢迎来到糖友空间博客
 
-> **[English Version](./index-en.md)** | **[英文版入口](./index-en.md)**
+> **[English Version](./index-en)** | **[英文版入口](./index-en)**
 
 您好, 欢迎访问 **[糖友空间博客](https://blog.tangyou.space)**。本站是 **[糖友空间](https://shop.tangyou.space)** 的官方配套博客, 致力于成为您在糖尿病管理路上的可靠伙伴。
 
@@ -45,7 +45,7 @@ translation_key: index-en
 
 除了专业的糖尿病知识分享, 我也会在这里记录我的个人点滴。
 
-*   **[关于我](./aboutme.md)**: 了解博主的职业背景与未来探索方向。
+*   **[关于我](./aboutme)**: 了解博主的职业背景与未来探索方向。
 *   **[个人健康日志](./health-log/)**: 分享我自己在健康管理、饮食与运动方面的实践与心得。
 *   **[技术个人思考](./tech-thoughts/)**: 记录我在IT领域的学习、工作与思考。
 

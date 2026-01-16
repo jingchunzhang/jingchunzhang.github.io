@@ -15,7 +15,7 @@ Among the various diabetes prevention methods, **a reasonable diet structure** i
 
 ## Core Articles
 
-### [Nutritional Wisdom: Scientific Diabetes Prevention Through Balanced Diet](./balanced-diet-diabetes-prevention-en.md)
+### [Nutritional Wisdom: Scientific Diabetes Prevention Through Balanced Diet](./balanced-diet-diabetes-prevention-en)
 
 An in-depth article systematically explaining how to prevent diabetes through balanced diet from three dimensions: problem presentation, physiological principles, and dietary choices. Includes practical daily meal examples, shopping suggestions, solutions to common challenges, and personalized advice for special populations.
 
@@ -28,7 +28,7 @@ An in-depth article systematically explaining how to prevent diabetes through ba
 - Monitoring indicators and adjustment strategies
 - Personalized advice for special populations (family history, prediabetes, overweight)
 
-### [Inflammation-Free, Sugar-Stable: How Anti-Inflammatory Diet Scientifically Prevents Diabetes](./anti-inflammatory-diet-diabetes-prevention-en.md)
+### [Inflammation-Free, Sugar-Stable: How Anti-Inflammatory Diet Scientifically Prevents Diabetes](./anti-inflammatory-diet-diabetes-prevention-en)
 
 An in-depth scientific article exploring the role of anti-inflammatory diet in diabetes prevention, comprehensively analyzing the scientific basis and application methods of anti-inflammatory diet from the molecular mechanisms of chronic inflammation and insulin resistance to specific dietary practices.
 
@@ -102,4 +102,4 @@ We hope that through the content of this section, you can establish your own sci
 
 **Remember: Prevention is always easier than treatment. Every correct dietary choice you make is an investment in future health.**
 
-[Back to Prevention Home](./../index-en.md)
+[Back to Prevention Home](./../)

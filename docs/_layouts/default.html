@@ -46,13 +46,13 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <div class="language-switch">
+        <div class="language-switch">
         {% if page.lang == 'en' %}
           <a href="./">中文</a>
         {% elsif page.lang == 'zh' or page.lang == nil %}
-          <a href="./index-en.md">English</a>
+          <a href="./index-en">English</a>
         {% else %}
-          <a href="./index-en.md">English</a>
+          <a href="./index-en">English</a>
         {% endif %}
       </div>
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>

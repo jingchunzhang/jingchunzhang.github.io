@@ -50,4 +50,4 @@ The following table shows the main numerical thresholds for diagnosing **Diabete
 
 ---
 
-[Back to Blog Home](./index.md)
+[Back to Blog Home](./)

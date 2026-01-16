@@ -17,7 +17,7 @@ This section will help you understand how emotions affect blood sugar metabolism
 
 ## Core Article
 
-### [Emotional Code: How Scientific Emotion Management Effectively Prevents Diabetes](./emotion-management-diabetes-prevention-en.md)
+### [Emotional Code: How Scientific Emotion Management Effectively Prevents Diabetes](./emotion-management-diabetes-prevention-en)
 
 An in-depth article systematically explaining how emotion management affects diabetes risk from five dimensions: problem presentation, physiological principles, key elements, practical guidelines, and population suggestions. Contains 8 practical tables, 6 charts/illustrations, and detailed suggestions for different populations.
 
@@ -125,7 +125,7 @@ Improving emotion management can bring measurable metabolic improvements within 
 - [Healthy Diet Section](./../diet/): Balanced nutrition and emotional health influence each other
 - [Regular Exercise Section](./../exercise/): Exercise is the best "natural antidepressant"
 - [Adequate Sleep Section](./../sleep/): Sleep and emotions influence each other, forming a vicious cycle
-- [Diabetes Diagnostic Criteria](./../diabetes-diagnostic-criteria-en.md): Understand diagnostic indicators for diabetes
+- [Diabetes Diagnostic Criteria](./../diabetes-diagnostic-criteria-en): Understand diagnostic indicators for diabetes
 
 ---
 
@@ -133,4 +133,4 @@ We hope the content of this section helps you establish scientific emotion manag
 
 **Remember: Mental health and metabolic health are inseparable. Managing emotions is an investment in future health.**
 
-[Back to Prevention Home](./../index-en.md)
+[Back to Prevention Home](./../)

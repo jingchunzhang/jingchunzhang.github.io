@@ -7,7 +7,7 @@ lang: en
 translation_key: prevention/emotion/emotion-management-diabetes-prevention
 ---
 
-> Breadcrumb: [Back to Prevention Home](../../index.md) > [Emotion Management](../index.md) > This Article
+> Breadcrumb: [Back to Prevention Home](../../) > [Emotion Management](../) > This Article
 
 ## Preface: The Overlooked Blind Spot in Diabetes Prevention
 
@@ -835,4 +835,4 @@ Diabetes prevention is not just "controlling diet," "increasing exercise," "ensu
 
 ---
 
-[Back to Emotion Management Section](../index.md) | [Back to Prevention Home](../../index.md)
+[Back to Emotion Management Section](../) | [Back to Prevention Home](../../)

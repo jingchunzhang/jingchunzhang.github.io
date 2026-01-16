@@ -7,7 +7,7 @@ lang: en
 translation_key: prevention/diet/anti-inflammatory-diet-diabetes-prevention
 ---
 
-> Breadcrumb: [Back to Prevention Home](../../index.md) > [Healthy Diet](../index.md) > This Article
+> Breadcrumb: [Back to Prevention Home](../../) > [Healthy Diet](../) > This Article
 
 ## Preface: From "Dietary Sugar Control" to "Dietary Anti-Inflammation" - An Cognitive Upgrade
 
@@ -842,4 +842,4 @@ Every anti-inflammatory food choice is an investment in your future body's healt
 
 ---
 
-[Back to Healthy Diet Section](../index.md) | [Back to Prevention Home](../../index.md)
+[Back to Healthy Diet Section](../) | [Back to Prevention Home](../../)

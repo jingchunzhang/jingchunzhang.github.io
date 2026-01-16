@@ -7,7 +7,7 @@ translation_key: index
 
 # Welcome to Tangyou Space Blog
 
-> **[中文版](./index.md)** | **[Chinese Version](./index.md)**
+> **[中文版](./)** | **[Chinese Version](./)**
 
 Hello, welcome to **[Tangyou Space Blog](https://blog.tangyou.space)**. This site is the official companion blog of **[Tangyou Space](https://shop.tangyou.space)**, committed to being your reliable partner on the journey of diabetes management.
 
@@ -45,7 +45,7 @@ Recovery is the key to long-term health management. We will discuss how to maint
 
 In addition to professional diabetes knowledge sharing, I also record my personal highlights here.
 
-*   **[About Me](./aboutme.md)**: Learn about the blogger's professional background and future exploration directions.
+*   **[About Me](./aboutme)**: Learn about the blogger's professional background and future exploration directions.
 *   **[Personal Health Log](./health-log/)**: Share my own practices and insights in health management, diet, and exercise.
 *   **[Technical Thoughts](./tech-thoughts/)**: Record my learning, work, and thinking in the IT field.
 

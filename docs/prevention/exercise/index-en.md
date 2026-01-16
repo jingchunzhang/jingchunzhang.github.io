@@ -17,9 +17,9 @@ translation_key: prevention/exercise/index
     {% endif %}
   {% endfor %}
   <li>
-      <a href="{{ site.baseurl }}/prevention/exercise/how-daily-exercise-prevents-diabetes-en.md">Exercise as Medicine: How Scientific Training Effectively Prevents Diabetes</a>
+      <a href="{{ site.baseurl }}/prevention/exercise/how-daily-exercise-prevents-diabetes-en">Exercise as Medicine: How Scientific Training Effectively Prevents Diabetes</a>
       <span> - 2026-01-10</span>
   </li>
 </ul>
 
-[Back to Prevention Home](../index-en.md)
+[Back to Prevention Home](../)

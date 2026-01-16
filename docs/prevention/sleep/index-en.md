@@ -17,7 +17,7 @@ This section will help you understand how sleep affects blood sugar metabolism f
 
 ## Core Article
 
-### [Sleep as Medicine: How Adequate Quality Sleep Effectively Prevents Diabetes](./how-sleep-prevents-diabetes-en.md)
+### [Sleep as Medicine: How Adequate Quality Sleep Effectively Prevents Diabetes](./how-sleep-prevents-diabetes-en)
 
 An in-depth article systematically explaining how sleep affects diabetes risk from five dimensions: problem presentation, physiological principles, key elements, practical guidelines, and population suggestions. Contains 7 practical tables, 8 charts/illustrations, and detailed medical background explanations for pregnant women.
 
@@ -127,7 +127,7 @@ Improving sleep can bring measurable metabolic improvements within weeks, includ
 - [Healthy Diet Section](./../diet/): Balanced nutrition is another pillar of diabetes prevention
 - [Regular Exercise Section](./../exercise/): Exercise and sleep promote each other
 - [Emotion Management Section](./../emotion/): Stress management helps improve sleep
-- [Diabetes Diagnostic Criteria](./../diabetes-diagnostic-criteria-en.md): Understand diagnostic indicators for diabetes
+- [Diabetes Diagnostic Criteria](./../diabetes-diagnostic-criteria-en): Understand diagnostic indicators for diabetes
 
 ---
 
@@ -135,4 +135,4 @@ We hope the content of this section helps you establish scientific sleep managem
 
 **Remember: Every adequate, high-quality night of sleep is a precious investment in your body's future health.**
 
-[Back to Prevention Home](./../index-en.md)
+[Back to Prevention Home](./../)
