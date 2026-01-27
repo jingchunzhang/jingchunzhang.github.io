@@ -33,18 +33,26 @@
           {%- assign display_title = part | replace: '-', ' ' | capitalize -%}
           
           {%- comment -%} 使用case语句根据路径设置显示标题 {%- endcomment -%}
-          {%- case path_without_slash -%}
-            {%- when 'prevention' -%}
-              {%- assign display_title = '糖尿病的预防：构建健康生活防线' -%}
-            {%- when 'prevention/diet' -%}
-              {%- assign display_title = '健康饮食：通过均衡营养预防糖尿病' -%}
-            {%- when 'prevention/exercise' -%}
-              {%- assign display_title = '规律运动：如何通过科学锻炼有效预防糖尿病' -%}
-            {%- when 'prevention/sleep' -%}
-              {%- assign display_title = '充足睡眠：通过优质睡眠预防糖尿病' -%}
-            {%- when 'prevention/emotion' -%}
-              {%- assign display_title = '情绪管理' -%}
-          {%- endcase -%}
+           {%- case path_without_slash -%}
+             {%- when 'prevention' -%}
+               {%- assign display_title = '糖尿病的预防：构建健康生活防线' -%}
+             {%- when 'treatment' -%}
+               {%- assign display_title = '糖尿病治疗' -%}
+             {%- when 'rehabilitation' -%}
+               {%- assign display_title = '糖尿病康复' -%}
+             {%- when 'health-log' -%}
+               {%- assign display_title = '个人健康日志' -%}
+             {%- when 'tech-thoughts' -%}
+               {%- assign display_title = '技术个人思考' -%}
+             {%- when 'prevention/diet' -%}
+               {%- assign display_title = '健康饮食：通过均衡营养预防糖尿病' -%}
+             {%- when 'prevention/exercise' -%}
+               {%- assign display_title = '规律运动：如何通过科学锻炼有效预防糖尿病' -%}
+             {%- when 'prevention/sleep' -%}
+               {%- assign display_title = '充足睡眠：通过优质睡眠预防糖尿病' -%}
+             {%- when 'prevention/emotion' -%}
+               {%- assign display_title = '情绪管理' -%}
+           {%- endcase -%}
           
           <li class="breadcrumb-item">
             <a href="{{ accumulated_path }}/index.html" class="breadcrumb-link">{{ display_title }}</a>
