@@ -9,12 +9,13 @@ translation_key: treatment-index
 
 Welcome to the diabetes treatment section.
 
-This section will cover:
+This section is organized into four dimensions for consistent navigation and internal linking:
 
-- Common treatment approaches (lifestyle, medications, insulin, etc.)
-- Monitoring and management tools (SMBG, CGM, etc.)
-- Guideline interpretations and new technology updates
+## Four Dimensions
 
-> Content will be added gradually.
+1. [Diet](./diet/)
+2. [Exercise](./exercise/)
+3. [Sleep](./sleep/)
+4. [Emotion & Stress](./emotion/)
 
-[Back to Home](./../)
+[Back to Blog](./../)

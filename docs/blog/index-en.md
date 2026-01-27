@@ -31,6 +31,13 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 
 ---
 
+## Growth & Monetization
+
+*   [Enter **Affiliate** Category](./affiliate/)
+*   [Enter **SEO** Category](./seo/)
+
+---
+
 ## Personal Records and Thoughts
 
 *   **[About Me](./aboutme)**

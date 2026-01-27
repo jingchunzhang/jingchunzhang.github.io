@@ -1,0 +1,22 @@
+---
+layout: default
+title: 情绪与压力管理：治疗期的“隐形用药”
+lang: zh
+translation_key: treatment-emotion-index
+---
+
+# 情绪与压力管理：治疗期的“隐形用药”
+
+压力与负面情绪会通过皮质醇等通路推高血糖，并影响依从性。治疗期需要一套可操作的情绪管理工具箱。
+
+## 核心文章
+
+- [治疗期情绪与压力管理：让控糖不再靠硬扛](./stress-emotion-diabetes-treatment.md)
+
+## 你可能也需要
+
+- [治疗期：饮食管理](./../diet/)
+- [治疗期：运动处方](./../exercise/)
+- [治疗期：睡眠与代谢](./../sleep/)
+
+[返回治疗首页](./../)

@@ -9,12 +9,13 @@ translation_key: rehabilitation-index
 
 Welcome to the diabetes recovery section.
 
-This section focuses on long-term health management after treatment, including:
+This section is organized into four dimensions for long-term, sustainable recovery management:
 
-- Lifestyle maintenance and review
-- Complication risk management (eyes, kidneys, nerves, cardiovascular, etc.)
-- Mental well-being and quality of life
+## Four Dimensions
 
-> Content will be added gradually.
+1. [Diet](./diet/)
+2. [Exercise](./exercise/)
+3. [Sleep](./sleep/)
+4. [Psychological Recovery](./emotion/)
 
-[Back to Home](./../)
+[Back to Blog](./../)
