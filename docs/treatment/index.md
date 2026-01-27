@@ -1,20 +1,5 @@
 ---
-layout: default
-title: 糖尿病治疗：治疗方法与技术进展
+layout: redirect
 lang: zh
-translation_key: treatment-index-en
+redirect_to: /blog/treatment/
 ---
-
-# 糖尿病治疗：治疗方法与技术进展
-
-欢迎来到糖尿病治疗专区。
-
-本栏目将聚焦：
-
-- 常见治疗方案（饮食/运动基础治疗、药物、胰岛素等）
-- 血糖监测与管理工具（指尖血糖、CGM 等）
-- 指南解读与新技术动态
-
-> 本栏目内容将逐步完善。
-
-[返回首页](./../)

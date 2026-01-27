@@ -1,8 +1,8 @@
-title: "糖友之家"
-description: "这是糖友之家博客，也是shop.tangyou.space的配套博客，也是个人记录健康日志的地方"
-url: "https://blog.tangyou.space" # 替换为你的用户名
+title: "糖友空间 Tangyou Space"
+description: "广州一诺张杨人工智能科技有限责任公司｜糖尿病知识与电子资料｜Shopify/WordPress 应用开发、广告联盟与 SEO 服务"
+url: "https://www.tangyou.space"
+baseurl: ""
 theme: jekyll-theme-Cayman
-sitemap: true
 include:
   - .html
   - .md
@@ -10,12 +10,12 @@ include:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-redirect-from
 
-gitalk:
-  enable: true
-  clientID: 'Ov23liJ0om493oC1evt5'
-  clientSecret: '831be8e368fb599cc7c277bf331ad2efda9b6d36'
-  repo: 'https://jingchunzhang.github.io/'
-  owner: 'jingchunzhang'
-  admin: ['jingchunzhang']
-  distractionFreeMode: true
+exclude:
+  - _ai
+  - _website
+  - _gemini
+  - _site
+  - ref.txt
+

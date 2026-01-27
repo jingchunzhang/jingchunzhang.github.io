@@ -1,56 +1,32 @@
 ---
 layout: default
-title: Welcome to Tangyou Space Blog
+title: Tangyou Space
 lang: en
-translation_key: index
+translation_key: home
 ---
 
-# Welcome to Tangyou Space Blog
+# Tangyou Space
 
-> **[中文版](./)** | **[Chinese Version](./)**
+We serve both individuals and businesses with two product lines:
 
-Hello, welcome to **[Tangyou Space Blog](https://blog.tangyou.space)**. This site is the official companion blog of **[Tangyou Space](https://shop.tangyou.space)**, committed to being your reliable partner on the journey of diabetes management.
+## For Individuals (B2C): Diabetes Knowledge & Digital Materials
 
-Our core mission is to share knowledge related to diabetes, covering every key stage from **prevention** to **treatment** to **recovery**. We believe that through systematic and scientific knowledge sharing, every friend can better manage their health and enjoy life.
+- Structured content across **Prevention / Treatment / Recovery**
+- Digital materials, tools, and services (subject to actual offerings)
+- Content hub: **[Blog](/blog/)**
 
-This is also my personal space, where I record my health logs and share my thoughts and insights in the IT technology field.
+## For Businesses (B2B): E-commerce Apps, Affiliate, and SEO
 
----
-
-## Core Focus: Three Pillars of Diabetes Management
-
-Articles on this blog will be primarily organized and updated around three core themes. You can click on the corresponding categories to browse based on your needs.
-
-### 1. Prevention
-
-Here, we explore how to effectively prevent diabetes through scientific diet, regular exercise, and healthy lifestyles. Content includes early risk identification, nutritional advice, weight management strategies, and more.
-
-*   [Enter **Prevention** Category](./prevention/)
-
-### 2. Treatment
-
-This category focuses on sharing current mainstream diabetes treatment methods and the latest technological advances, including but not limited to medication treatment, insulin use, blood glucose monitoring technology, and cutting-edge therapy developments.
-
-*   [Enter **Treatment** Category](./treatment/)
-
-### 3. Recovery
-
-Recovery is the key to long-term health management. We will discuss how to maintain stable health status after treatment, manage complication risks, and focus on psychological health and quality of life improvement.
-
-*   [Enter **Recovery** Category](./rehabilitation/)
+- Shopify / WordPress app & plugin development
+- Affiliate capabilities (tracking, attribution, payouts, program management)
+- SEO tools & consulting (technical SEO, content systems, growth experiments)
 
 ---
 
-## Personal Records and Thoughts
+## Quick Links
 
-In addition to professional diabetes knowledge sharing, I also record my personal highlights here.
-
-*   **[About Me](./aboutme)**: Learn about the blogger's professional background and future exploration directions.
-*   **[Personal Health Log](./health-log/)**: Share my own practices and insights in health management, diet, and exercise.
-*   **[Technical Thoughts](./tech-thoughts/)**: Record my learning, work, and thinking in the IT field.
-
----
-
-Thank you again for visiting!
-
-Don't forget to visit our main site **[shop.tangyou.space](https://shop.tangyou.space)** to discover more quality products and services.
+- **[Products & Services](/products/)**
+- **[Solutions](/solutions/)**
+- **[Blog](/blog/)**
+- **[About](/about/)**
+- **[Contact](/contact/)**

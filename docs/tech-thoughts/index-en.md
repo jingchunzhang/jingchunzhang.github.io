@@ -1,14 +1,5 @@
 ---
-layout: default
-title: Technical Thoughts
+layout: redirect
 lang: en
-translation_key: tech-thoughts-index
+redirect_to: /blog/tech-thoughts/index-en
 ---
-
-# Technical Thoughts
-
-This section records my learning, work, and thoughts in the IT field (engineering practices, productivity tools, AI-assisted development, etc.).
-
-> Content will be added gradually.
-
-[Back to Home](./../)

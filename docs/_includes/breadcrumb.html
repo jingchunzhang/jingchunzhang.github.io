@@ -1,19 +1,28 @@
 {%- comment -%}
 面包屑导航组件 - 自动生成当前页面的导航面包屑
+
+Notes:
+- 站点现在包含 / (官网) 与 /blog (博客)。
+- 旧博客路径（/prevention 等）会用 redirect stubs 迁移到 /blog/*。
 {%- endcomment -%}
 
 {%- assign url_parts = page.url | remove_first: '/' | split: '/' -%}
+{%- assign is_en = page.lang == 'en' -%}
+{%- assign index_file = 'index.html' -%}
+{%- if is_en -%}
+  {%- assign index_file = 'index-en.html' -%}
+{%- endif -%}
 
 <nav class="breadcrumb" aria-label="breadcrumb">
   <ol class="breadcrumb-list">
-    {%- comment -%} 首页 {%- endcomment -%}
-    <li class="breadcrumb-item">
-      {%- if page.url == '/' -%}
-        <span class="breadcrumb-current">首页</span>
-      {%- else -%}
-        <a href="/" class="breadcrumb-link">首页</a>
-      {%- endif -%}
-    </li>
+     {%- comment -%} 首页 / Home {%- endcomment -%}
+     <li class="breadcrumb-item">
+       {%- if page.url == '/' -%}
+         <span class="breadcrumb-current">{%- if is_en -%}Home{%- else -%}首页{%- endif -%}</span>
+       {%- else -%}
+         <a href="/" class="breadcrumb-link">{%- if is_en -%}Home{%- else -%}首页{%- endif -%}</a>
+       {%- endif -%}
+     </li>
 
     {%- comment -%} 逐个处理URL中的目录 {%- endcomment -%}
     {%- assign accumulated_path = '' -%}
@@ -32,33 +41,55 @@
           {%- assign path_without_slash = accumulated_path | remove_first: '/' -%}
           {%- assign display_title = part | replace: '-', ' ' | capitalize -%}
           
-          {%- comment -%} 使用case语句根据路径设置显示标题 {%- endcomment -%}
-           {%- case path_without_slash -%}
-             {%- when 'prevention' -%}
-               {%- assign display_title = '糖尿病的预防：构建健康生活防线' -%}
-             {%- when 'treatment' -%}
-               {%- assign display_title = '糖尿病治疗' -%}
-             {%- when 'rehabilitation' -%}
-               {%- assign display_title = '糖尿病康复' -%}
-             {%- when 'health-log' -%}
-               {%- assign display_title = '个人健康日志' -%}
-             {%- when 'tech-thoughts' -%}
-               {%- assign display_title = '技术个人思考' -%}
-             {%- when 'prevention/diet' -%}
-               {%- assign display_title = '健康饮食：通过均衡营养预防糖尿病' -%}
-             {%- when 'prevention/exercise' -%}
-               {%- assign display_title = '规律运动：如何通过科学锻炼有效预防糖尿病' -%}
-             {%- when 'prevention/sleep' -%}
-               {%- assign display_title = '充足睡眠：通过优质睡眠预防糖尿病' -%}
-             {%- when 'prevention/emotion' -%}
-               {%- assign display_title = '情绪管理' -%}
-           {%- endcase -%}
+           {%- comment -%} 使用case语句根据路径设置显示标题 {%- endcomment -%}
+            {%- case path_without_slash -%}
+              {%- when 'blog' -%}
+                {%- if is_en -%}{%- assign display_title = 'Blog' -%}{%- else -%}{%- assign display_title = '博客' -%}{%- endif -%}
+              {%- when 'blog/prevention' -%}
+                {%- if is_en -%}{%- assign display_title = 'Prevention' -%}{%- else -%}{%- assign display_title = '糖尿病预防' -%}{%- endif -%}
+              {%- when 'blog/treatment' -%}
+                {%- if is_en -%}{%- assign display_title = 'Treatment' -%}{%- else -%}{%- assign display_title = '糖尿病治疗' -%}{%- endif -%}
+              {%- when 'blog/rehabilitation' -%}
+                {%- if is_en -%}{%- assign display_title = 'Recovery' -%}{%- else -%}{%- assign display_title = '糖尿病康复' -%}{%- endif -%}
+              {%- when 'blog/health-log' -%}
+                {%- if is_en -%}{%- assign display_title = 'Health Log' -%}{%- else -%}{%- assign display_title = '个人健康日志' -%}{%- endif -%}
+              {%- when 'blog/tech-thoughts' -%}
+                {%- if is_en -%}{%- assign display_title = 'Tech Thoughts' -%}{%- else -%}{%- assign display_title = '技术个人思考' -%}{%- endif -%}
+              {%- when 'blog/prevention/diet' -%}
+                {%- if is_en -%}{%- assign display_title = 'Diet' -%}{%- else -%}{%- assign display_title = '健康饮食' -%}{%- endif -%}
+              {%- when 'blog/prevention/exercise' -%}
+                {%- if is_en -%}{%- assign display_title = 'Exercise' -%}{%- else -%}{%- assign display_title = '规律运动' -%}{%- endif -%}
+              {%- when 'blog/prevention/sleep' -%}
+                {%- if is_en -%}{%- assign display_title = 'Sleep' -%}{%- else -%}{%- assign display_title = '充足睡眠' -%}{%- endif -%}
+              {%- when 'blog/prevention/emotion' -%}
+                {%- if is_en -%}{%- assign display_title = 'Emotion' -%}{%- else -%}{%- assign display_title = '情绪管理' -%}{%- endif -%}
+
+              {%- comment -%} Back-compat (should mostly redirect) {%- endcomment -%}
+              {%- when 'prevention' -%}
+                {%- assign display_title = '糖尿病的预防：构建健康生活防线' -%}
+              {%- when 'treatment' -%}
+                {%- assign display_title = '糖尿病治疗' -%}
+              {%- when 'rehabilitation' -%}
+                {%- assign display_title = '糖尿病康复' -%}
+              {%- when 'health-log' -%}
+                {%- assign display_title = '个人健康日志' -%}
+              {%- when 'tech-thoughts' -%}
+                {%- assign display_title = '技术个人思考' -%}
+              {%- when 'prevention/diet' -%}
+                {%- assign display_title = '健康饮食：通过均衡营养预防糖尿病' -%}
+              {%- when 'prevention/exercise' -%}
+                {%- assign display_title = '规律运动：如何通过科学锻炼有效预防糖尿病' -%}
+              {%- when 'prevention/sleep' -%}
+                {%- assign display_title = '充足睡眠：通过优质睡眠预防糖尿病' -%}
+              {%- when 'prevention/emotion' -%}
+                {%- assign display_title = '情绪管理' -%}
+            {%- endcase -%}
           
-          <li class="breadcrumb-item">
-            <a href="{{ accumulated_path }}/index.html" class="breadcrumb-link">{{ display_title }}</a>
-          </li>
-        {%- endif -%}
-      {%- endif -%}
-    {%- endfor -%}
+           <li class="breadcrumb-item">
+             <a href="{{ accumulated_path }}/{{ index_file }}" class="breadcrumb-link">{{ display_title }}</a>
+           </li>
+         {%- endif -%}
+       {%- endif -%}
+     {%- endfor -%}
   </ol>
 </nav>

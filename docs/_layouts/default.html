@@ -46,7 +46,7 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-        <div class="language-switch">
+      <div class="language-switch">
         {% if page.lang == 'en' %}
           <a href="./">中文</a>
         {% elsif page.lang == 'zh' or page.lang == nil %}
@@ -55,6 +55,24 @@
           <a href="./index-en">English</a>
         {% endif %}
       </div>
+
+      <nav class="site-nav" aria-label="Primary">
+        {% if page.lang == 'en' %}
+          <a class="btn" href="{{ '/' | relative_url }}">Home</a>
+          <a class="btn" href="{{ '/products/' | relative_url }}">Products</a>
+          <a class="btn" href="{{ '/solutions/' | relative_url }}">Solutions</a>
+          <a class="btn" href="{{ '/blog/' | relative_url }}">Blog</a>
+          <a class="btn" href="{{ '/about/' | relative_url }}">About</a>
+          <a class="btn" href="{{ '/contact/' | relative_url }}">Contact</a>
+        {% else %}
+          <a class="btn" href="{{ '/' | relative_url }}">首页</a>
+          <a class="btn" href="{{ '/products/' | relative_url }}">产品与服务</a>
+          <a class="btn" href="{{ '/solutions/' | relative_url }}">解决方案</a>
+          <a class="btn" href="{{ '/blog/' | relative_url }}">博客</a>
+          <a class="btn" href="{{ '/about/' | relative_url }}">关于我们</a>
+          <a class="btn" href="{{ '/contact/' | relative_url }}">联系我们</a>
+        {% endif %}
+      </nav>
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
