@@ -14,6 +14,8 @@ translation_key: treatment-index-en
 ## 四个维度
 
 1. [饮食管理](./diet/)
+   - [治疗期饮食底层逻辑：营养密度（ANDI）与“为生而食”](./diet/nutrient-density-andi-eat-for-life-diabetes-treatment.md)
+   - [治疗期控糖的关键能力：掌控饥饿（毒性饥饿 vs 真实饥饿）](./diet/hunger-control-toxic-hunger-diabetes-treatment.md)
 2. [运动处方](./exercise/)
 3. [睡眠与代谢](./sleep/)
 4. [情绪与压力管理](./emotion/)

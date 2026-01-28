@@ -106,6 +106,8 @@ title: 健康饮食：通过均衡营养预防糖尿病
 
 ## 相关阅读
 
+- [如何用 GI/GL 让血糖更稳定（预防篇）](./glycemic-index-load-diabetes-prevention.md)
+- [豆类、纤维与抗性淀粉：预防胰岛素抵抗的“底盘”](./legumes-resistant-starch-diabetes-prevention.md)
 - [预防：规律运动](./../exercise/)
 - [预防：充足睡眠](./../sleep/)
 - [预防：情绪管理](./../emotion/)

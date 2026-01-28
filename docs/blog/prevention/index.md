@@ -20,6 +20,8 @@ title: 糖尿病的预防：构建健康生活防线
 
 饮食是预防糖尿病的基石。合理的饮食结构有助于维持理想体重、稳定血糖和改善胰岛素敏感性。我们将探讨:
 - **[食疗知慧：通过均衡饮食科学预防糖尿病](./diet/balanced-diet-diabetes-prevention.md)**
+- **[如何用 GI/GL 让血糖更稳定（预防篇）](./diet/glycemic-index-load-diabetes-prevention.md)**
+- **[豆类、纤维与抗性淀粉：预防胰岛素抵抗的“底盘”](./diet/legumes-resistant-starch-diabetes-prevention.md)**
 - **均衡营养**: 如何搭配主食、蛋白质、脂肪和蔬菜。
 - **血糖生成指数(GI)**: 选择低GI食物, 避免血糖剧烈波动。
 - **健康烹饪**: 采用蒸、煮、快炒等方式, 减少油盐糖的摄入。
