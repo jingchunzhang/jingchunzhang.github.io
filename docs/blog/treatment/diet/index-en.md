@@ -13,6 +13,11 @@ During treatment, diet is about **stable glucose, sustainable weight/metabolic i
 
 - [Diet During Diabetes Treatment: Turn “Glucose Control” Into Every Meal](./therapeutic-diet-diabetes-treatment-en.md)
 
+## More articles
+
+- [Nutrient Density (ANDI) & “Eat to Live”: An Upgrade Path for Treatment Diet](./nutrient-density-andi-eat-for-life-diabetes-treatment-en.md)
+- [Hunger Control & “Toxic Hunger”: Reduce Cravings to Stabilize Blood Sugar](./hunger-control-toxic-hunger-diabetes-treatment-en.md)
+
 ## Related
 
 - [Exercise](./../exercise/)

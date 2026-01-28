@@ -41,6 +41,14 @@ An in-depth scientific article exploring the role of anti-inflammatory diet in d
 - Inflammatory marker monitoring and personalized adjustment plans
 - Synergistic effects of anti-inflammatory diet with exercise, sleep, and stress management
 
+### [Glycemic Index (GI) & Glycemic Load (GL): Practical Tools for Diabetes Prevention](./glycemic-index-load-diabetes-prevention-en)
+
+A practical guide to GI and GL: how to interpret them, common pitfalls, and how to build meals that reduce glucose spikes without extreme restriction.
+
+### [Legumes & Resistant Starch: A “Slow-Carb” Strategy for Diabetes Prevention](./legumes-resistant-starch-diabetes-prevention-en)
+
+How beans, lentils, and resistant starch support steadier post-meal glucose, better satiety, and gut health—plus simple ways to add them into daily meals.
+
 ---
 
 ## Four Pillars of Dietary Prevention

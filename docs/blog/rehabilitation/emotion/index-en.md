@@ -12,6 +12,7 @@ Recovery is less about knowing and more about sustaining. This section focuses o
 ## Featured
 
 - [Psychological Recovery in Diabetes: Make Healthy Choices Feel Easier](./psychological-recovery-diabetes-en.md)
+- [Six Steps to Sustainable Goals: A Practical Method for Long-Term Diabetes Recovery](./six-steps-goals-diabetes-rehab-en.md)
 
 ## Related
 

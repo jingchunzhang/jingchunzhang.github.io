@@ -11,7 +11,8 @@ Recovery is about long-term sustainability: staying structured through social ev
 
 ## Featured
 
-- (Coming soon)
+- [Diet in Diabetes Recovery: Long-Term Structure That Works in Real Life](./long-term-diet-diabetes-recovery-en.md)
+- [Nuts & Seeds: Easy Daily Habits for Diabetes Recovery](./nuts-seeds-diabetes-rehab-en.md)
 
 ## Related
 

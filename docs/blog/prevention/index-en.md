@@ -22,6 +22,8 @@ Before starting, it is helpful to understand the diagnostic criteria for diabete
 
 Diet is the foundation of diabetes prevention. A reasonable diet structure helps maintain ideal weight, stabilize blood sugar, and improve insulin sensitivity. We will explore:
 - **[Nutritional Wisdom: Scientific Diabetes Prevention Through Balanced Diet](./diet/balanced-diet-diabetes-prevention-en)**
+- **[Glycemic Index (GI) & Glycemic Load (GL): Practical Tools for Diabetes Prevention](./diet/glycemic-index-load-diabetes-prevention-en)**
+- **[Legumes & Resistant Starch: A “Slow-Carb” Strategy for Diabetes Prevention](./diet/legumes-resistant-starch-diabetes-prevention-en)**
 - **Balanced Nutrition**: How to pair staples, proteins, fats, and vegetables.
 - **Glycemic Index (GI)**: Choose low-GI foods to avoid drastic blood sugar fluctuations.
 - **Healthy Cooking**: Use methods like steaming, boiling, and quick stir-frying to reduce oil, salt, and sugar intake.
