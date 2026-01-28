@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exercise in Treatment: Safe and Effective Prescription
+title: "Exercise in Treatment: Safe and Effective Prescription"
 lang: en
 translation_key: treatment-exercise-index
 ---

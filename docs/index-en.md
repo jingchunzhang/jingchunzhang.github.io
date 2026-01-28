@@ -13,7 +13,7 @@ We serve both individuals and businesses with two product lines:
 
 - Structured content across **Prevention / Treatment / Recovery**
 - Digital materials, tools, and services (subject to actual offerings)
-- Content hub: **[Blog](/blog/)**
+- Content hub: **[Blog](/blog/index-en.html)**
 
 ## For Businesses (B2B): E-commerce Apps, Affiliate, and SEO
 
@@ -25,8 +25,8 @@ We serve both individuals and businesses with two product lines:
 
 ## Quick Links
 
-- **[Products & Services](/products/)**
-- **[Solutions](/solutions/)**
-- **[Blog](/blog/)**
-- **[About](/about/)**
-- **[Contact](/contact/)**
+- **[Products & Services](/products/index-en.html)**
+- **[Solutions](/solutions/index-en.html)**
+- **[Blog](/blog/index-en.html)**
+- **[About](/about/index-en.html)**
+- **[Contact](/contact/index-en.html)**

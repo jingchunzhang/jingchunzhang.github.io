@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SEO: Basics, Advanced, and Companies
+title: "SEO: Basics, Advanced, and Companies"
 lang: en
 translation_key: seo-index
 ---

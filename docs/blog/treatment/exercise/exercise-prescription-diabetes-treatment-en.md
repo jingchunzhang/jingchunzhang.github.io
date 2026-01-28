@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exercise During Diabetes Treatment: A Safe, Effective Prescription You Can Sustain
+title: "Exercise During Diabetes Treatment: A Safe, Effective Prescription You Can Sustain"
 lang: en
 translation_key: treatment-exercise-prescription
 ---

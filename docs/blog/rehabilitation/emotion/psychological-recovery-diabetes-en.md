@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Psychological Recovery in Diabetes: Make Healthy Choices Feel Easier
+title: "Psychological Recovery in Diabetes: Make Healthy Choices Feel Easier"
 lang: en
 translation_key: rehab-emotion-psych
 ---

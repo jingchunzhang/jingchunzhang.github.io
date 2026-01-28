@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exercise in Recovery: From Control to Performance
+title: "Exercise in Recovery: From Control to Performance"
 lang: en
 translation_key: rehab-exercise-index
 ---

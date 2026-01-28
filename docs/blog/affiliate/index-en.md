@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Affiliate Marketing: From Basics to Industry Insights
+title: "Affiliate Marketing: From Basics to Industry Insights"
 lang: en
 translation_key: affiliate-index
 ---

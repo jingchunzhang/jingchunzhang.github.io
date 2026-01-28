@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Diet in Recovery: Sustainable Long-Term Strategy
+title: "Diet in Recovery: Sustainable Long-Term Strategy"
 lang: en
 translation_key: rehab-diet-index
 ---

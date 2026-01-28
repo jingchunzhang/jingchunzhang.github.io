@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exercise in Diabetes Recovery: From “Glucose Control” to “Fitness Restoration”
+title: "Exercise in Diabetes Recovery: From “Glucose Control” to “Fitness Restoration”"
 lang: en
 translation_key: rehab-exercise-recovery
 ---

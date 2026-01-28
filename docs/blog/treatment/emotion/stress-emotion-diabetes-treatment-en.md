@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Emotion and Stress During Diabetes Treatment: Stop White‑Knuckling Glucose Control
+title: "Emotion and Stress During Diabetes Treatment: Stop White‑Knuckling Glucose Control"
 lang: en
 translation_key: treatment-emotion-stress
 ---

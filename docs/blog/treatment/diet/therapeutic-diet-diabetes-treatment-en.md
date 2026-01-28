@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Diet During Diabetes Treatment: Turn “Glucose Control” Into Every Meal
+title: "Diet During Diabetes Treatment: Turn “Glucose Control” Into Every Meal"
 lang: en
 translation_key: treatment-diet-therapeutic
 ---

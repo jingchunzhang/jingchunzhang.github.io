@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Diet in Treatment: Glucose-Friendly Plate Strategy
+title: "Diet in Treatment: Glucose-Friendly Plate Strategy"
 lang: en
 translation_key: treatment-diet-index
 ---

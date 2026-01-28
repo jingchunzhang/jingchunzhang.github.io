@@ -11,7 +11,7 @@ translation_key: products
 
 - Prediabetes and long-term management content & digital materials
 - Focus areas: prevention, treatment, recovery, lifestyle management
-- Entry: **[Blog](/blog/)**
+- Entry: **[Blog](/blog/index-en.html)**
 
 ## B2B: E-commerce Apps & SEO
 

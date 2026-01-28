@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sleep Repair in Recovery: Stabilize Rhythm and Deep Sleep to Support Glucose Control
+title: "Sleep Repair in Recovery: Stabilize Rhythm and Deep Sleep to Support Glucose Control"
 lang: en
 translation_key: rehab-sleep-repair
 ---
