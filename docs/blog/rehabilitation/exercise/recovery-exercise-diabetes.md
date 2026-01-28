@@ -19,15 +19,15 @@ translation_key: rehab-exercise-recovery
 - 把肌肉与体能练上去
 - 把受伤与复发风险降下来
 
-![恢复期运动更强调可持续与安全](https://upload.wikimedia.org/wikipedia/commons/3/3c/People_walking.jpg)
+![恢复期运动更强调可持续与安全](https://upload.wikimedia.org/wikipedia/commons/6/6b/People_walking.jpg)
 
 *图片来源：Wikimedia Commons（步行示意）*
 
-![力量训练可帮助长期代谢与体能](https://upload.wikimedia.org/wikipedia/commons/9/9d/Barbell_training.jpg)
+![力量训练可帮助长期代谢与体能](https://upload.wikimedia.org/wikipedia/commons/3/32/Barbell_pad_back_squat.jpg)
 
 *图片来源：Wikimedia Commons（杠铃训练示意）*
 
-![拉伸与灵活性训练有助于降低损伤风险](https://upload.wikimedia.org/wikipedia/commons/6/6b/Yoga_asana.jpg)
+![拉伸与灵活性训练有助于降低损伤风险](https://upload.wikimedia.org/wikipedia/commons/1/12/Upward-facing_dog_pose.jpg)
 
 *图片来源：Wikimedia Commons（拉伸/瑜伽示意）*
 

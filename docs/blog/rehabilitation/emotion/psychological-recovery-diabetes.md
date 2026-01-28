@@ -25,15 +25,15 @@ translation_key: rehab-emotion-psych
 2) 建立可复盘、可迭代的习惯系统
 3) 提升面对压力与挫折的韧性
 
-![长期习惯来自可持续的小步迭代](https://upload.wikimedia.org/wikipedia/commons/2/2f/Notebook_and_pen.jpg)
+![长期习惯来自可持续的小步迭代](https://upload.wikimedia.org/wikipedia/commons/0/0a/Woman_writing_on_a_notebook_with_a_pen.jpg)
 
 *图片来源：Wikimedia Commons（笔记与记录示意，用于表达复盘与习惯系统）*
 
-![社会支持能显著提升长期依从性](https://upload.wikimedia.org/wikipedia/commons/5/5a/Group_discussion.jpg)
+![社会支持能显著提升长期依从性](https://upload.wikimedia.org/wikipedia/commons/6/6e/Group_discussion.jpg)
 
 *图片来源：Wikimedia Commons（小组讨论示意，用于表达支持系统）*
 
-![压力管理与放松训练有助于身心稳定](https://upload.wikimedia.org/wikipedia/commons/6/6b/Yoga_asana.jpg)
+![压力管理与放松训练有助于身心稳定](https://upload.wikimedia.org/wikipedia/commons/1/12/Upward-facing_dog_pose.jpg)
 
 *图片来源：Wikimedia Commons（放松/瑜伽示意）*
 

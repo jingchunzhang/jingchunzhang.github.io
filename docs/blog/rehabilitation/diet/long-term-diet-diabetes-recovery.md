@@ -19,15 +19,15 @@ translation_key: rehab-diet-longterm
 2. **降低并发症风险**（心血管、肾、眼、神经等）
 3. **在真实生活里可坚持**（社交、旅行、工作压力下仍能运转）
 
-![地中海饮食常被用于长期心代谢管理](https://upload.wikimedia.org/wikipedia/commons/4/4a/Mediterranean_diet.jpg)
+![地中海饮食常被用于长期心代谢管理](https://upload.wikimedia.org/wikipedia/commons/1/1e/Mediterranean_diet.jpg)
 
 *图片来源：Wikimedia Commons（地中海饮食示意）*
 
-![全谷物与豆类有助于纤维摄入](https://upload.wikimedia.org/wikipedia/commons/2/24/Assorted_grains.jpg)
+![全谷物与豆类有助于纤维摄入](https://upload.wikimedia.org/wikipedia/commons/7/71/Assorted_grains.jpg)
 
 *图片来源：Wikimedia Commons（谷物示意）*
 
-![阅读食品标签是长期管理的重要能力](https://upload.wikimedia.org/wikipedia/commons/2/2b/Nutrition_facts_label.jpg)
+![阅读食品标签是长期管理的重要能力](https://upload.wikimedia.org/wikipedia/commons/0/08/China_nutrition_facts_label.png)
 
 *图片来源：Wikimedia Commons（营养成分表示意）*
 

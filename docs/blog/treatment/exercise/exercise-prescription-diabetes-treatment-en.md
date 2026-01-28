@@ -18,15 +18,15 @@ Two common blockers:
 
 This article gives you a practical treatment‑phase “exercise prescription” framework: screening, choosing modalities, weekly dosing, and hypoglycemia management.
 
-![Walking is a common treatment‑phase aerobic option](https://upload.wikimedia.org/wikipedia/commons/2/2d/Walking_in_a_park.jpg)
+![Walking is a common treatment‑phase aerobic option](https://upload.wikimedia.org/wikipedia/commons/0/00/060_Olive_baboon_walking_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg)
 
 *Source: Wikimedia Commons (walking example)*
 
-![Resistance training supports muscle and insulin sensitivity](https://upload.wikimedia.org/wikipedia/commons/2/20/Dumbbell_training.jpg)
+![Resistance training supports muscle and insulin sensitivity](https://upload.wikimedia.org/wikipedia/commons/0/06/Dumbbell_bicep_curls.jpg)
 
 *Source: Wikimedia Commons (dumbbell training example)*
 
-![Proper footwear supports foot safety](https://upload.wikimedia.org/wikipedia/commons/8/82/Running_shoes.jpg)
+![Proper footwear supports foot safety](https://upload.wikimedia.org/wikipedia/commons/a/a7/Running_shoes.jpg)
 
 *Source: Wikimedia Commons (running shoes example)*
 

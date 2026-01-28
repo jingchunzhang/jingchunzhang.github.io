@@ -17,15 +17,15 @@ Stress and negative emotion can raise glucose via cortisol/adrenaline pathways, 
 
 So stress management isn’t “soft.” It’s an invisible medication that makes your plan sustainable.
 
-![Breathing and relaxation can reduce stress response](https://upload.wikimedia.org/wikipedia/commons/6/6d/Meditation_pose.jpg)
+![Breathing and relaxation can reduce stress response](https://upload.wikimedia.org/wikipedia/commons/7/7f/Yogini_Barbara_Tomasik_in_Meditation_pose_in_London.jpg)
 
 *Source: Wikimedia Commons (relaxation illustration)*
 
-![Stress often coexists with insomnia](https://upload.wikimedia.org/wikipedia/commons/1/14/Insomnia.jpg)
+![Stress often coexists with insomnia](https://upload.wikimedia.org/wikipedia/commons/0/07/Insomnia.jpg)
 
 *Source: Wikimedia Commons (insomnia illustration)*
 
-![Social support improves long‑term adherence](https://upload.wikimedia.org/wikipedia/commons/8/89/Support_group.jpg)
+![Social support improves long‑term adherence](https://upload.wikimedia.org/wikipedia/commons/7/78/Support_group.jpg)
 
 *Source: Wikimedia Commons (support group illustration)*
 

@@ -17,11 +17,11 @@ translation_key: treatment-sleep-metabolism
 
 这不是意志力问题，是生理规律。
 
-![夜间睡眠与代谢息息相关](https://upload.wikimedia.org/wikipedia/commons/9/9f/Sleeping_cat_on_bed.jpg)
+![夜间睡眠与代谢息息相关](https://upload.wikimedia.org/wikipedia/commons/5/5d/A_cat_sleeping_in_a_cat_bed.jpg)
 
 *图片来源：Wikimedia Commons（睡眠示意）*
 
-![睡眠呼吸暂停常与代谢问题相关](https://upload.wikimedia.org/wikipedia/commons/4/48/CPAP_machine.jpg)
+![睡眠呼吸暂停常与代谢问题相关](https://upload.wikimedia.org/wikipedia/commons/1/11/CPAP_machine.jpg)
 
 *图片来源：Wikimedia Commons（CPAP设备示意）*
 

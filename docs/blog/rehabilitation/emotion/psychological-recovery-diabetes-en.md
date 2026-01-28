@@ -25,15 +25,15 @@ This guide gives you an actionable psychological recovery framework to:
 2) build habits that are reviewable and improvable
 3) increase resilience under stress and setbacks
 
-![Sustainable habits come from small iterations](https://upload.wikimedia.org/wikipedia/commons/2/2f/Notebook_and_pen.jpg)
+![Sustainable habits come from small iterations](https://upload.wikimedia.org/wikipedia/commons/0/0a/Woman_writing_on_a_notebook_with_a_pen.jpg)
 
 *Source: Wikimedia Commons (notebook/notes image to represent reflection and habit systems)*
 
-![Support systems improve long-term adherence](https://upload.wikimedia.org/wikipedia/commons/5/5a/Group_discussion.jpg)
+![Support systems improve long-term adherence](https://upload.wikimedia.org/wikipedia/commons/6/6e/Group_discussion.jpg)
 
 *Source: Wikimedia Commons (group discussion image to represent social support)*
 
-![Stress regulation practices can stabilize mood and behavior](https://upload.wikimedia.org/wikipedia/commons/6/6b/Yoga_asana.jpg)
+![Stress regulation practices can stabilize mood and behavior](https://upload.wikimedia.org/wikipedia/commons/1/12/Upward-facing_dog_pose.jpg)
 
 *Source: Wikimedia Commons (yoga/relaxation image)*
 

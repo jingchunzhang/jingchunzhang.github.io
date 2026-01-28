@@ -19,15 +19,15 @@ This guide gives you a sustainable sleep-repair framework. The goal isn’t perf
 2. **Improve depth and continuity** (less fragmentation, easier sleep onset)
 3. **Screen for high-impact issues** (especially sleep apnea and nighttime hypoglycemia)
 
-![Morning light helps anchor circadian rhythm](https://upload.wikimedia.org/wikipedia/commons/3/3b/Sunrise_over_the_sea.jpg)
+![Morning light helps anchor circadian rhythm](https://upload.wikimedia.org/wikipedia/commons/1/1e/Sunrise_over_the_sea.jpg)
 
 *Source: Wikimedia Commons (sunrise image used to represent circadian timing cues)*
 
-![Sleep staging relates to recovery processes](https://upload.wikimedia.org/wikipedia/commons/8/8a/EEG_sleep.jpg)
+![Sleep staging relates to recovery processes](https://upload.wikimedia.org/wikipedia/commons/d/d8/Sleep_EEG_Stage_2.jpg)
 
 *Source: Wikimedia Commons (sleep EEG illustration)*
 
-![Sleep apnea can fragment sleep and worsen metabolic risk](https://upload.wikimedia.org/wikipedia/commons/0/0b/Sleep_apnea_diagram.png)
+![Sleep apnea can fragment sleep and worsen metabolic risk](https://upload.wikimedia.org/wikipedia/commons/2/24/CentralApnea.png)
 
 *Source: Wikimedia Commons (sleep apnea diagram)*
 

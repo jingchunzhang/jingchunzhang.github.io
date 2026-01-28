@@ -19,15 +19,15 @@ translation_key: treatment-emotion-stress
 
 所以，情绪与压力管理不是“软技能”，它是治疗期的“隐形用药”：让你更稳、更能坚持。
 
-![深呼吸与放松训练可降低应激水平](https://upload.wikimedia.org/wikipedia/commons/6/6d/Meditation_pose.jpg)
+![深呼吸与放松训练可降低应激水平](https://upload.wikimedia.org/wikipedia/commons/7/7f/Yogini_Barbara_Tomasik_in_Meditation_pose_in_London.jpg)
 
 *图片来源：Wikimedia Commons（冥想/放松示意）*
 
-![压力常伴随睡眠问题](https://upload.wikimedia.org/wikipedia/commons/1/14/Insomnia.jpg)
+![压力常伴随睡眠问题](https://upload.wikimedia.org/wikipedia/commons/0/07/Insomnia.jpg)
 
 *图片来源：Wikimedia Commons（失眠示意）*
 
-![社会支持能显著提高长期依从性](https://upload.wikimedia.org/wikipedia/commons/8/89/Support_group.jpg)
+![社会支持能显著提高长期依从性](https://upload.wikimedia.org/wikipedia/commons/7/78/Support_group.jpg)
 
 *图片来源：Wikimedia Commons（支持小组示意）*
 

@@ -11,15 +11,15 @@ translation_key: treatment-diet-therapeutic
 
 Diet in the treatment phase is not “eat as little as possible.” It’s about building a **glucose-friendly system** you can sustain: steadier post‑meal glucose, gradual improvement in weight and metabolic health, and better coordination with medication/insulin—while reducing hypoglycemia risk.
 
-![A balanced plate concept (vegetables, protein, starch)](https://upload.wikimedia.org/wikipedia/commons/6/6e/MyPlate.svg)
+![A balanced plate concept (vegetables, protein, starch)](https://upload.wikimedia.org/wikipedia/commons/e/e3/MyPlate_icon.svg)
 
 *Source: USDA MyPlate (illustration for plate structure)*
 
-![A blood glucose meter example](https://upload.wikimedia.org/wikipedia/commons/7/7e/Accu-Chek_Aviva_glucometer.jpg)
+![A blood glucose meter example](https://upload.wikimedia.org/wikipedia/commons/3/36/Accu-Chek_Aviva_2.jpg)
 
 *Source: Wikimedia Commons (glucometer example)*
 
-![An insulin pen example](https://upload.wikimedia.org/wikipedia/commons/6/67/Insulin_pen.jpg)
+![An insulin pen example](https://upload.wikimedia.org/wikipedia/commons/b/b4/Insulin_pen_%28labeled%29.jpg)
 
 *Source: Wikimedia Commons (insulin pen example)*
 

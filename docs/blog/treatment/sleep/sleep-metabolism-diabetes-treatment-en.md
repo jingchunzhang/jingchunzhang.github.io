@@ -15,11 +15,11 @@ Sleep is a metabolic control system running overnight. It shapes next‑day insu
 
 If you’ve noticed that after a late night you’re hungrier, crave sweets, and your glucose runs higher—that’s physiology, not willpower.
 
-![Sleep supports metabolic regulation](https://upload.wikimedia.org/wikipedia/commons/9/9f/Sleeping_cat_on_bed.jpg)
+![Sleep supports metabolic regulation](https://upload.wikimedia.org/wikipedia/commons/5/5d/A_cat_sleeping_in_a_cat_bed.jpg)
 
 *Source: Wikimedia Commons (sleep illustration)*
 
-![Sleep apnea treatment device (CPAP)](https://upload.wikimedia.org/wikipedia/commons/4/48/CPAP_machine.jpg)
+![Sleep apnea treatment device (CPAP)](https://upload.wikimedia.org/wikipedia/commons/1/11/CPAP_machine.jpg)
 
 *Source: Wikimedia Commons (CPAP example)*
 

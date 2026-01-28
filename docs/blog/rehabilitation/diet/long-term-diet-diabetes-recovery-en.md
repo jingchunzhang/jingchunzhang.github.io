@@ -19,15 +19,15 @@ This article focuses on three outcomes:
 2. **Lower complication risk** (cardio‑renal‑eye‑nerve)
 3. **Make it work in real life** (social events, travel, work stress)
 
-![Mediterranean-style eating is often used for long-term cardiometabolic health](https://upload.wikimedia.org/wikipedia/commons/4/4a/Mediterranean_diet.jpg)
+![Mediterranean-style eating is often used for long-term cardiometabolic health](https://upload.wikimedia.org/wikipedia/commons/1/1e/Mediterranean_diet.jpg)
 
 *Source: Wikimedia Commons (Mediterranean diet illustration)*
 
-![Whole grains and legumes support fiber intake](https://upload.wikimedia.org/wikipedia/commons/2/24/Assorted_grains.jpg)
+![Whole grains and legumes support fiber intake](https://upload.wikimedia.org/wikipedia/commons/7/71/Assorted_grains.jpg)
 
 *Source: Wikimedia Commons (grains illustration)*
 
-![Reading nutrition labels is a key long-term skill](https://upload.wikimedia.org/wikipedia/commons/2/2b/Nutrition_facts_label.jpg)
+![Reading nutrition labels is a key long-term skill](https://upload.wikimedia.org/wikipedia/commons/0/08/China_nutrition_facts_label.png)
 
 *Source: Wikimedia Commons (nutrition label example)*
 

@@ -11,15 +11,15 @@ translation_key: treatment-diet-therapeutic
 
 治疗期的饮食，不是“越少越好”，而是建立一套能长期坚持的**血糖友好型饮食系统**：既要让血糖更稳，也要让体重与代谢逐步改善，更要和药物/胰岛素方案协同，减少低血糖与反复波动。
 
-![一份均衡餐盘示意（蔬菜、蛋白质、主食）](https://upload.wikimedia.org/wikipedia/commons/6/6e/MyPlate.svg)
+![一份均衡餐盘示意（蔬菜、蛋白质、主食）](https://upload.wikimedia.org/wikipedia/commons/e/e3/MyPlate_icon.svg)
 
 *图片来源：USDA MyPlate（示意图，用于说明餐盘结构）*
 
-![血糖监测设备示意](https://upload.wikimedia.org/wikipedia/commons/7/7e/Accu-Chek_Aviva_glucometer.jpg)
+![血糖监测设备示意](https://upload.wikimedia.org/wikipedia/commons/3/36/Accu-Chek_Aviva_2.jpg)
 
 *图片来源：Wikimedia Commons（血糖仪示意）*
 
-![胰岛素注射笔示意](https://upload.wikimedia.org/wikipedia/commons/6/67/Insulin_pen.jpg)
+![胰岛素注射笔示意](https://upload.wikimedia.org/wikipedia/commons/b/b4/Insulin_pen_%28labeled%29.jpg)
 
 *图片来源：Wikimedia Commons（胰岛素注射笔示意）*
 

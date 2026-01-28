@@ -19,15 +19,15 @@ translation_key: rehab-sleep-repair
 2. **把睡眠质量抬上去**（更深、更少中断）
 3. **把高风险问题筛出来**（尤其是睡眠呼吸暂停与夜间低血糖）
 
-![规律作息有助于稳定生物钟](https://upload.wikimedia.org/wikipedia/commons/3/3b/Sunrise_over_the_sea.jpg)
+![规律作息有助于稳定生物钟](https://upload.wikimedia.org/wikipedia/commons/1/1e/Sunrise_over_the_sea.jpg)
 
 *图片来源：Wikimedia Commons（日出示意，用于表达生物钟与昼夜节律）*
 
-![睡眠与代谢、激素、食欲调节密切相关](https://upload.wikimedia.org/wikipedia/commons/8/8a/EEG_sleep.jpg)
+![睡眠与代谢、激素、食欲调节密切相关](https://upload.wikimedia.org/wikipedia/commons/d/d8/Sleep_EEG_Stage_2.jpg)
 
 *图片来源：Wikimedia Commons（睡眠脑电图示意）*
 
-![夜间呼吸暂停会影响睡眠深度与代谢](https://upload.wikimedia.org/wikipedia/commons/0/0b/Sleep_apnea_diagram.png)
+![夜间呼吸暂停会影响睡眠深度与代谢](https://upload.wikimedia.org/wikipedia/commons/2/24/CentralApnea.png)
 
 *图片来源：Wikimedia Commons（睡眠呼吸暂停示意图）*
 

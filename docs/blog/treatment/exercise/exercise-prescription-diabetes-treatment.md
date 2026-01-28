@@ -18,15 +18,15 @@ translation_key: treatment-exercise-prescription
 
 这篇文章给你一套可执行的治疗期“运动处方”框架：从评估、选择项目、安排频率强度，到监测与应对低血糖。
 
-![快走是最常见的治疗期有氧运动](https://upload.wikimedia.org/wikipedia/commons/2/2d/Walking_in_a_park.jpg)
+![快走是最常见的治疗期有氧运动](https://upload.wikimedia.org/wikipedia/commons/0/00/060_Olive_baboon_walking_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg)
 
 *图片来源：Wikimedia Commons（步行示意）*
 
-![阻力训练可提升肌肉量与胰岛素敏感性](https://upload.wikimedia.org/wikipedia/commons/2/20/Dumbbell_training.jpg)
+![阻力训练可提升肌肉量与胰岛素敏感性](https://upload.wikimedia.org/wikipedia/commons/0/06/Dumbbell_bicep_curls.jpg)
 
 *图片来源：Wikimedia Commons（哑铃训练示意）*
 
-![穿着合适的运动鞋有助于足部安全](https://upload.wikimedia.org/wikipedia/commons/8/82/Running_shoes.jpg)
+![穿着合适的运动鞋有助于足部安全](https://upload.wikimedia.org/wikipedia/commons/a/a7/Running_shoes.jpg)
 
 *图片来源：Wikimedia Commons（运动鞋示意）*
 

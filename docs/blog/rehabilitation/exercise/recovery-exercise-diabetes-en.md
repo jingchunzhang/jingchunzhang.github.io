@@ -17,15 +17,15 @@ Recovery exercise isn’t about going harder. It’s about **restoring and evolv
 - rebuild muscle and fitness
 - reduce injury and relapse risk
 
-![Recovery exercise emphasizes sustainability and safety](https://upload.wikimedia.org/wikipedia/commons/3/3c/People_walking.jpg)
+![Recovery exercise emphasizes sustainability and safety](https://upload.wikimedia.org/wikipedia/commons/6/6b/People_walking.jpg)
 
 *Source: Wikimedia Commons (walking illustration)*
 
-![Strength training supports long-term metabolism and function](https://upload.wikimedia.org/wikipedia/commons/9/9d/Barbell_training.jpg)
+![Strength training supports long-term metabolism and function](https://upload.wikimedia.org/wikipedia/commons/3/32/Barbell_pad_back_squat.jpg)
 
 *Source: Wikimedia Commons (barbell training illustration)*
 
-![Mobility work reduces injury risk](https://upload.wikimedia.org/wikipedia/commons/6/6b/Yoga_asana.jpg)
+![Mobility work reduces injury risk](https://upload.wikimedia.org/wikipedia/commons/1/12/Upward-facing_dog_pose.jpg)
 
 *Source: Wikimedia Commons (yoga/mobility illustration)*
 
