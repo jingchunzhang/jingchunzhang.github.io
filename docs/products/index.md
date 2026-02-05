@@ -19,3 +19,9 @@ translation_key: products
 - WordPress 插件 / 站点能力扩展
 - 广告联盟与增长：追踪、归因、结算、项目运营
 - SEO：技术 SEO、内容架构、关键词与落地页体系
+
+---
+
+## 购买须知
+
+- **[退款与退货政策](/policies/refund-policy)**

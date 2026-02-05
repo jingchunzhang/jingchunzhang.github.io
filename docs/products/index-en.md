@@ -19,3 +19,9 @@ translation_key: products
 - WordPress plugins / site extensions
 - Affiliate growth: tracking, attribution, payouts, program ops
 - SEO: technical SEO, content architecture, keyword & landing-page systems
+
+---
+
+## Purchase Information
+
+- **[Refund and Return Policy](/policies/refund-policy-en)**
