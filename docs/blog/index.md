@@ -15,6 +15,13 @@ translation_key: blog
 
 ---
 
+## 糖尿病基础知识 (必读)
+
+*   **[警惕“甜蜜的杀手”：糖尿病并发症全景概述](./diabetes-complications-overview)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[全球主流糖尿病诊断标准参考](./diabetes-diagnostic-criteria)**
+
+---
+
 ## 核心关注：糖尿病管理三部曲
 
 ### 1. 预防阶段
