@@ -15,6 +15,13 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 
 ---
 
+## Diabetes Basics (Must Read)
+
+*   **[Beware of the "Sweet Killer": A Panoramic Overview of Diabetes Complications](./diabetes-complications-overview-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[Mainstream Global Diabetes Diagnostic Criteria Reference](./diabetes-diagnostic-criteria-en)**
+
+---
+
 ## Core Focus: Three Pillars of Diabetes Management
 
 ### 1. Prevention

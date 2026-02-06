@@ -3,9 +3,13 @@ layout: default
 title: 警惕“甜蜜的杀手”：糖尿病并发症全景概述
 description: "全面解析糖尿病的急性和慢性并发症，包括心血管疾病、视网膜病变、肾病及神经病变，帮助糖友建立预防意识。"
 keywords: "糖尿病并发症, 糖尿病心血管疾病, 糖尿病视网膜病变, 糖尿病足, 酮症酸中毒"
+lang: zh
+translation_key: diabetes-complications-overview
 ---
 
 # 警惕“甜蜜的杀手”：糖尿病并发症全景概述
+
+> **[English Version](./diabetes-complications-overview-en)** | **[英文版入口](./diabetes-complications-overview-en)**
 
 **导读：** 确诊糖尿病并不可怕，可怕的是它带来的并发症。许多糖友在确诊初期往往感觉“不痛不痒”，从而忽视了血糖管理。然而，长期的高血糖就像浸泡在血管里的“腐蚀剂”，会悄无声息地损害全身的器官系统。了解并发症，不是为了制造恐慌，而是为了**早预防、早发现、早治疗**。
 
