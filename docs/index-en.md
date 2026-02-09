@@ -14,6 +14,7 @@ We serve both individuals and businesses with two product lines:
 - Structured content across **Prevention / Treatment / Recovery**
 - Digital materials, tools, and services (subject to actual offerings)
 - Content hub: **[Blog](/blog/index-en.html)**
+  - [Mastering Your Morning Numbers: The Power of Tracking](/blog/fasting_blood_sugar_tracking-en.html)
 
 ## For Businesses (B2B): E-commerce Apps, Affiliate, and SEO
 

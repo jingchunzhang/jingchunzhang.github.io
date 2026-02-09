@@ -14,6 +14,7 @@ translation_key: home
 - 覆盖 **预防 / 治疗 / 康复** 的系统化内容与资料
 - 电子资料、工具与服务（以实际产品为准）
 - 内容入口：**[博客 Blog](/blog/)**
+  - [掌控清晨血糖：记录饮食与运动的力量](/blog/fasting_blood_sugar_tracking.html)
 
 ## 面向企业（B2B）：独立站应用开发 & 广告联盟 & SEO
 
