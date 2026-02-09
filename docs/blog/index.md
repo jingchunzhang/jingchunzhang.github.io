@@ -17,8 +17,15 @@ translation_key: blog
 
 ## 糖尿病基础知识 (必读)
 
-*   **[警惕“甜蜜的杀手”：糖尿病并发症全景概述](./diabetes-complications-overview)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[警惕“甜蜜的杀手”：糖尿病并发症全景概述](./diabetes-complications-overview)**
 *   **[全球主流糖尿病诊断标准参考](./diabetes-diagnostic-criteria)**
+
+## 生活与管理 (最新更新)
+
+*   **[沉默的伙伴：糖尿病亲友支持指南](./caregiver_support)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[驾驭护理成本：2026年糖尿病费用管理实用建议](./managing_diabetes_costs)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[关于糖尿病饮食规划的5个误区，你该停止相信了](./meal_planning_myths)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[超越减肥：理解肥胖与2型糖尿病之间的生物学联系](./obesity_diabetes_link)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 
 ---
 
