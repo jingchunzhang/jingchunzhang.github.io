@@ -54,3 +54,9 @@ lang: zh
 **推荐阅读：**
 *   **[超越减肥：理解肥胖与2型糖尿病之间的生物学联系](./obesity_diabetes_link)** - 了解饮食背后的生物学机制。
 *   **[警惕“甜蜜的杀手”：糖尿病并发症全景概述](./diabetes-complications-overview)** - 科学饮食是预防并发症的第一道防线。
+
+---
+
+## 相关阅读
+
+{% include related-articles.html %}

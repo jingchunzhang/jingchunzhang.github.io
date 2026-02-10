@@ -64,3 +64,9 @@ Long-term stress and negative emotions can lead to elevated stress hormones, the
 We hope that through the content of this section, you can establish your own healthy lifestyle and build a solid defense against diabetes.
 
 [Back to Blog Home](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

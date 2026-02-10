@@ -20,3 +20,9 @@ Start with fundamentals: keywords, content, site structure, technical SEO, and l
 - [Affiliate](./../../affiliate/)
 
 [Back to SEO](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

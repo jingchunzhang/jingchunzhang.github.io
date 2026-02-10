@@ -16,3 +16,9 @@ Explore advanced topics: information architecture, topic clusters, log analysis,
 - (Coming soon)
 
 [Back to SEO](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

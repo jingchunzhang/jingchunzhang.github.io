@@ -30,3 +30,9 @@ This section is organized into four dimensions for long-term, sustainable recove
   - [Six Steps to Sustainable Goals: A Practical Method for Long-Term Diabetes Recovery](./emotion/six-steps-goals-diabetes-rehab-en.md)
 
 [Back to Blog](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

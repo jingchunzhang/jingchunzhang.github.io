@@ -28,3 +28,9 @@ This section is organized into four dimensions for consistent navigation and int
   - [Hunger Control & “Toxic Hunger”: Reduce Cravings to Stabilize Blood Sugar](./diet/hunger-control-toxic-hunger-diabetes-treatment-en.md)
 
 [Back to Blog](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

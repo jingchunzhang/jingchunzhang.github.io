@@ -28,3 +28,9 @@ During treatment, diet is about **stable glucose, sustainable weight/metabolic i
 - [Emotion & Stress](./../emotion/)
 
 [Back to Treatment](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

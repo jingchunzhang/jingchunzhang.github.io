@@ -23,3 +23,9 @@ Recovery is less about knowing and more about sustaining. This section focuses o
 - [Sleep](./../sleep/)
 
 [Back to Recovery](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

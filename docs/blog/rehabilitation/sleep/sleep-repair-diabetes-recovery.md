@@ -267,3 +267,9 @@ OSA 会让你“睡够了也不恢复”，并显著影响代谢风险。
 - [康复期：恢复期锻炼](./../exercise/)
 - [康复期：心理康复](./../emotion/)
 - [治疗期：睡眠与代谢](./../../treatment/sleep/)
+
+---
+
+## 相关阅读
+
+{% include related-articles.html %}

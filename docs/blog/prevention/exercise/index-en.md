@@ -29,3 +29,9 @@ translation_key: prevention/exercise/index
 </ul>
 
 [Back to Prevention Home](../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

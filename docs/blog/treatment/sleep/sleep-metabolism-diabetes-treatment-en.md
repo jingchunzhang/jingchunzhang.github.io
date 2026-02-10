@@ -128,3 +128,9 @@ Stick with it for two weeks. Many people notice steadier appetite, mood, and glu
 - [Treatment: Diet](./../diet/)
 - [Treatment: Exercise](./../exercise/)
 - [Treatment: Emotion & Stress](./../emotion/)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

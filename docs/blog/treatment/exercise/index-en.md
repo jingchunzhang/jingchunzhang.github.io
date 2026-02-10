@@ -22,3 +22,9 @@ Exercise during treatment should balance **glucose-lowering benefits** with **hy
 - [Emotion & Stress](./../emotion/)
 
 [Back to Treatment](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

@@ -179,3 +179,9 @@ If you can keep structure at most meals and review weekly, improvements in gluco
 - [Treatment: Sleep](./../sleep/)
 - [Treatment: Emotion & Stress](./../emotion/)
 - [Diabetes Diagnostic Criteria](./../../diabetes-diagnostic-criteria-en.md)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

@@ -54,3 +54,9 @@ Food is not just medicine; it's culture, comfort, and joy. Don't let myths rob y
 **Recommended Reading:**
 *   **[Beyond Weight Loss: The Biological Link Between Obesity and Diabetes](./obesity_diabetes_link-en)** - Understand the biological mechanisms behind diet and weight.
 *   **[Beware of the "Sweet Killer": Diabetes Complications Overview](./diabetes-complications-overview-en)** - Healthy eating is the first line of defense against complications.
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

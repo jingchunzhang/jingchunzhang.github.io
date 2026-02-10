@@ -22,3 +22,9 @@ Stress and negative emotions can raise glucose via cortisol-related pathways and
 - [Sleep](./../sleep/)
 
 [Back to Treatment](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

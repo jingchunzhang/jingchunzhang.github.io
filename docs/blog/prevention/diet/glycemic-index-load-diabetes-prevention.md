@@ -102,3 +102,9 @@ translation_key: prevention-diet-gi-gl
 - [返回：预防-健康饮食栏目](./)
 - [返回：预防首页](./../)
 - [治疗期：饮食管理（如果你已确诊）](./../../treatment/diet/)
+
+---
+
+## 相关阅读
+
+{% include related-articles.html %}

@@ -138,3 +138,9 @@ We hope the content of this section helps you establish scientific sleep managem
 **Remember: Every adequate, high-quality night of sleep is a precious investment in your body's future health.**
 
 [Back to Prevention Home](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

@@ -57,3 +57,9 @@ If you or a loved one is navigating the intersection of obesity and diabetes, kn
 **Recommended Reading:**
 *   **[5 Myths About Diabetic Meal Planning](./meal_planning_myths-en)** - Understand why "just eat less" is often wrong and how to fuel your body correctly.
 *   **[Beware of the "Sweet Killer": Diabetes Complications Overview](./diabetes-complications-overview-en)**
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

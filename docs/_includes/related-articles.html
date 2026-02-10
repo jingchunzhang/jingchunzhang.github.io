@@ -1,0 +1,57 @@
+{% comment %}
+Related Articles Component - 相关文章推荐
+使用方法: 在文章末尾添加 {% include related-articles.html %}
+{% endcomment %}
+
+{% assign current_lang = page.lang | default: 'zh' %}
+{% assign current_category = page.url | split: '/' | slice: 2, 2 | join: '/' %}
+
+## {% if current_lang == 'en' %}Related Articles{% else %}相关阅读{% endif %}
+
+<div class="related-articles">
+  <ul>
+    {% comment %}基于translation_key查找相关文章{% endcomment %}
+    {% if page.translation_key %}
+      {% assign related_posts = site.pages | where: "translation_key", page.translation_key | where_exp: "item", "item.url != page.url" | limit: 2 %}
+      {% for post in related_posts %}
+        <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    {% endif %}
+    
+    {% comment %}基于分类推荐{% endcomment %}
+    {% assign category_posts = site.pages | where_exp: "item", "item.url contains current_category" | where_exp: "item", "item.url != page.url" | where_exp: "item", "item.lang == current_lang" | limit: 3 %}
+    {% for post in category_posts %}
+      {% unless post.url contains 'index' %}
+        <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</div>
+
+<style>
+.related-articles {
+  background: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin-top: 2rem;
+}
+.related-articles h2 {
+  margin-top: 0;
+  color: #157878;
+  font-size: 1.3rem;
+}
+.related-articles ul {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+.related-articles li {
+  margin: 0.5rem 0;
+}
+.related-articles a {
+  color: #1e6bb8;
+  text-decoration: none;
+}
+.related-articles a:hover {
+  text-decoration: underline;
+}
+</style>

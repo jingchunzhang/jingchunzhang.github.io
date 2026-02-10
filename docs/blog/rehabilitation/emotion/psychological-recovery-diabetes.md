@@ -244,3 +244,9 @@ translation_key: rehab-emotion-psych
 - [康复期：恢复期锻炼](./../exercise/)
 - [康复期：睡眠修复](./../sleep/)
 - [治疗期：情绪与压力管理](./../../treatment/emotion/)
+
+---
+
+## 相关阅读
+
+{% include related-articles.html %}

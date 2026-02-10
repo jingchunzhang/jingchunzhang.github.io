@@ -16,3 +16,9 @@ Understand the affiliate ecosystem: market structure, compliance trends, platfor
 - (Coming soon)
 
 [Back to Affiliate](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

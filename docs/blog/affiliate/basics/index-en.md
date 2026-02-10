@@ -20,3 +20,9 @@ Learn affiliate marketing from scratch: roles, tracking, payouts, key terms, and
 - [SEO](./../../seo/)
 
 [Back to Affiliate](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

@@ -65,3 +65,9 @@ More sustainable defaults:
 - [Diet in Diabetes Recovery: From “Controlled” to “Sustainable”](./long-term-diet-diabetes-recovery-en.md)
 - [Back: Recovery / Diet](./)
 - [Back: Recovery Home](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

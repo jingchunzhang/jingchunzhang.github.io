@@ -23,3 +23,9 @@ Recovery is about long-term sustainability: staying structured through social ev
 - [Psychological Recovery](./../emotion/)
 
 [Back to Recovery](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

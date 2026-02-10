@@ -189,3 +189,9 @@ translation_key: treatment-diet-therapeutic
 - [治疗期：睡眠与代谢](./../sleep/)
 - [治疗期：情绪与压力管理](./../emotion/)
 - [糖尿病诊断标准参考](./../../diabetes-diagnostic-criteria.md)
+
+---
+
+## 相关阅读
+
+{% include related-articles.html %}

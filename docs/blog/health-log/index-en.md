@@ -14,3 +14,9 @@ This section records my health-management practices and retrospectives (diet, ex
 > Content will be added gradually.
 
 [Back to Home](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

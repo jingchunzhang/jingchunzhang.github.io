@@ -16,3 +16,9 @@ This section covers SEO from fundamentals to advanced practice and an overview o
 3. [Companies](./companies/)
 
 [Back to Blog](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

@@ -95,3 +95,9 @@ translation_key: rehab-emotion-six-steps
 - [康复期：恢复期锻炼](./../exercise/)
 - [返回：康复-心理康复栏目](./)
 - [返回：康复首页](./../)
+
+---
+
+## 相关阅读
+
+{% include related-articles.html %}

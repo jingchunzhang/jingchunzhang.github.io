@@ -54,3 +54,9 @@ For middle-aged and elderly people, body functions begin to change, and the prim
 Exercise is the most proactive and active health investment for preventing diabetes. It requires no expensive equipment, only determination and persevering action. Whether it is vigorous adolescents or friends entering middle and old age, should integrate exercise into daily life, as natural as eating and drinking. From today, choose a sport you like, move your legs, let us use sweat to build a solid defense line against diabetes, embrace a healthier and more energetic future.
 
 [Back to Exercise Section](./) | [Back to Prevention Home](../../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

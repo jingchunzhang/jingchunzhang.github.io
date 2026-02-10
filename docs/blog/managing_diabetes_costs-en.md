@@ -40,3 +40,9 @@ Financial stress affects health outcomes. If you are rationing insulin due to co
 ---
 **Recommended Reading:**
 *   **[The Silent Partners: A Guide for Supporting a Loved One](./caregiver_support-en)** - Seek understanding and support from family to face financial and emotional stress together.
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

@@ -16,3 +16,9 @@ This section covers the core knowledge of affiliate marketing, organized into th
 3. [Industry](./industry/)
 
 [Back to Blog](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

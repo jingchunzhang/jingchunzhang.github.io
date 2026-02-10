@@ -14,3 +14,9 @@ This section records my learning, work, and thoughts in the IT field (engineerin
 > Content will be added gradually.
 
 [Back to Home](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

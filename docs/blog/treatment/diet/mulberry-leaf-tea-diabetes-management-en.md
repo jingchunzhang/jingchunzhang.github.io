@@ -123,3 +123,9 @@ Have you tried Mulberry Leaf tea? Did you notice a difference in your post-meal 
 1.  **Asai, A., et al.** (2011). "Effect of mulberry leaf extract rich in 1-deoxynojirimycin on postprandial hyperglycemia in mice." *Journal of Agricultural and Food Chemistry*. [NCBI Link](https://pubmed.ncbi.nlm.nih.gov/21434246/)
 2.  **Mudra, M., et al.** (2007). "Influence of mulberry leaf extract on the postprandial glycemic response of healthy volunteers." *Diabetes Care*. [NCBI Link](https://pubmed.ncbi.nlm.nih.gov/17536079/)
 3.  **Wang, R., et al.** (2017). "Mulberry leaf extract inhibits the activity of α-glucosidase and improves postprandial hyperglycemia." *Experimental and Therapeutic Medicine*. [NCBI Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5450657/)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

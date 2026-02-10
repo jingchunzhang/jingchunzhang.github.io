@@ -836,3 +836,9 @@ Diabetes prevention is not just "controlling diet," "increasing exercise," "ensu
 ---
 
 [Back to Emotion Management Section](../) | [Back to Prevention Home](../../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

@@ -59,3 +59,9 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 *   **[About Me](./aboutme)**
 *   **[Personal Health Log](./health-log/)**
 *   **[Technical Thoughts](./tech-thoughts/)**
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

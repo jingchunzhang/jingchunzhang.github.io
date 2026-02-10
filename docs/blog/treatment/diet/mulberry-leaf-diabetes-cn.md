@@ -135,3 +135,9 @@ translation_key: mulberry-leaf-diabetes
 ---
 
 > **再次提醒：** 本文内容仅供参考。桑叶作为膳食补充剂，其效果因人而异。如果您有任何健康疑问，请咨询专业医疗人员。
+
+---
+
+## 相关阅读
+
+{% include related-articles.html %}

@@ -22,3 +22,9 @@ Sleep affects insulin sensitivity, appetite regulation, and stress hormones. Get
 - [Emotion & Stress](./../emotion/)
 
 [Back to Treatment](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

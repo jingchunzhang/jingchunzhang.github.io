@@ -22,3 +22,9 @@ In recovery, exercise goals expand beyond glucose control to fitness, cardio cap
 - [Psychological Recovery](./../emotion/)
 
 [Back to Recovery](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

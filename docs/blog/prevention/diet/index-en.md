@@ -121,3 +121,9 @@ We hope that through the content of this section, you can establish your own sci
 - [Prevention: Exercise](./../exercise/)
 - [Prevention: Sleep](./../sleep/)
 - [Prevention: Emotion](./../emotion/)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

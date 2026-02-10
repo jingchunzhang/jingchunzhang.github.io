@@ -140,3 +140,9 @@ Long‑term success is small iterations, not one perfect plan.
 - [Recovery: Sleep](./../sleep/)
 - [Recovery: Psychological Recovery](./../emotion/)
 - [Treatment: Diet](./../../treatment/diet/)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

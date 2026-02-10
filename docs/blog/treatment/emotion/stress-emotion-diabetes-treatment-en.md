@@ -143,3 +143,9 @@ This reduces burnout.
 - [Treatment: Diet](./../diet/)
 - [Treatment: Exercise](./../exercise/)
 - [Treatment: Sleep](./../sleep/)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

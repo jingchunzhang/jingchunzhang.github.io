@@ -40,3 +40,9 @@ lang: zh
 **推荐阅读：**
 *   **[驾驭护理成本：2026年糖尿病费用管理实用建议](./managing_diabetes_costs)** - 经济压力也是家庭负担的一部分。
 *   **[关于糖尿病饮食规划的5个误区](./meal_planning_myths)** - 帮助你更好地理解饮食支持。
+
+---
+
+## 相关阅读
+
+{% include related-articles.html %}

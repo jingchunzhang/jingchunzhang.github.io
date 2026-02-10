@@ -16,3 +16,9 @@ An overview of common company types and representative products in the SEO ecosy
 - (Coming soon)
 
 [Back to SEO](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

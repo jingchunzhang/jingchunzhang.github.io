@@ -136,3 +136,9 @@ We hope the content of this section helps you establish scientific emotion manag
 **Remember: Mental health and metabolic health are inseparable. Managing emotions is an investment in future health.**
 
 [Back to Prevention Home](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

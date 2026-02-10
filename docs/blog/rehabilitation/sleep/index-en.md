@@ -22,3 +22,9 @@ Treat sleep as part of your recovery system: rhythm, depth, breathing screening,
 - [Psychological Recovery](./../emotion/)
 
 [Back to Recovery](./../)
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

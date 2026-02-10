@@ -40,3 +40,9 @@ lang: zh
 ---
 **推荐阅读：**
 *   **[沉默的伙伴：糖尿病亲友支持指南](./caregiver_support)** - 寻求家人的理解和支持，共同面对经济和心理压力。
+
+---
+
+## 相关阅读
+
+{% include related-articles.html %}

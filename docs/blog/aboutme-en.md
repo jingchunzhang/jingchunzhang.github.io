@@ -36,3 +36,9 @@ I firmly believe that information technology, especially artificial intelligence
 My goal is to apply my past experience in system engineering, big data, and AI engineering to this challenging and socially valuable field, using the power of technology to help people better manage their health and improve their quality of life.
 
 Welcome to exchange ideas with me through this blog and explore the infinite possibilities of technology together.
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}
