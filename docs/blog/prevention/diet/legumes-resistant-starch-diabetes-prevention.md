@@ -1,10 +1,12 @@
 ---
 layout: default
 title: 预防糖尿病：用豆类+抗性淀粉提升纤维，稳住血糖
+description: "如果你正在做糖尿病预防（或处于糖尿病前期），最值得投资的一类食物往往不是“神奇补剂”，而是：**豆类和绿色蔬菜**。"
+author: "张杨 (Dane Zhang)"
+author_title: "健康科技研究员"
 lang: zh
 translation_key: prevention-diet-legumes-resistant-starch
 ---
-
 # 预防糖尿病：用豆类+抗性淀粉提升纤维，稳住血糖
 
 如果你正在做糖尿病预防（或处于糖尿病前期），最值得投资的一类食物往往不是“神奇补剂”，而是：**豆类和绿色蔬菜**。

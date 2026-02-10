@@ -1,10 +1,12 @@
 ---
 layout: default
 title: "Sleep Repair in Recovery: Stabilize Rhythm and Deep Sleep to Support Glucose Control"
+description: "In the recovery phase, many people notice a frustrating pattern: **diet and exercise look good on paper, but a few bad nights can still derail glucose, appet..."
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: rehab-sleep-repair
 ---
-
 # Sleep Repair in Recovery: Stabilize Rhythm and Deep Sleep to Support Glucose Control
 
 > Disclaimer: This article is for general health education and is not medical advice. If you have loud snoring/possible sleep apnea, persistent insomnia, significant anxiety/depression, or you use insulin/secretagogues with suspected nighttime hypoglycemia, seek clinical guidance.

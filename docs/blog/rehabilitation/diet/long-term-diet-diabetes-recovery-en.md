@@ -1,10 +1,12 @@
 ---
 layout: default
 title: "Diet in Diabetes Recovery: From “Controlled” to “Sustainable”"
+description: "Many people manage to get glucose “under control” during treatment. The real challenge often starts afterward: **the long term**."
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: rehab-diet-longterm
 ---
-
 # Diet in Diabetes Recovery: From “Controlled” to “Sustainable”
 
 > Disclaimer: This is general education, not medical advice. If you have kidney disease, gout, dyslipidemia, GI conditions, or use insulin/secretagogues, confirm major diet changes with your clinician/dietitian.

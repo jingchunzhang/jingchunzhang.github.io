@@ -1,10 +1,12 @@
 ---
 layout: default
 title: "Sleep and Metabolism in Diabetes Treatment: The “Night Shift” That Stabilizes Glucose"
+description: "During the treatment phase, most attention goes to food and medication. But one variable often decides whether everything else works: **sleep**."
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: treatment-sleep-metabolism
 ---
-
 # Sleep and Metabolism in Diabetes Treatment: The “Night Shift” That Stabilizes Glucose
 
 > Disclaimer: This is general education, not medical advice. If you have severe snoring/apneas, persistent insomnia, significant anxiety/depression, or use sedative-hypnotics, discuss evaluation and treatment with a clinician.

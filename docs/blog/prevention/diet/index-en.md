@@ -1,10 +1,12 @@
 ---
 layout: default
 title: "Healthy Diet: Preventing Diabetes Through Balanced Nutrition"
+description: "Among the various diabetes prevention methods, **a reasonable diet structure** is undoubtedly the most fundamental and important one."
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: prevention/diet/index
 ---
-
 # Healthy Diet: Preventing Diabetes Through Balanced Nutrition
 
 Welcome to the Healthy Diet Section.

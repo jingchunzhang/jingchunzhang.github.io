@@ -1,10 +1,12 @@
 ---
 layout: default
 title: 睡眠与代谢：治疗期的恢复力基础
+description: "了解睡眠与代谢：治疗期的恢复力基础，以及其与糖尿病管理和预防的关系。"
+author: "张杨 (Dane Zhang)"
+author_title: "健康科技研究员"
 lang: zh
 translation_key: treatment-sleep-index
 ---
-
 # 睡眠与代谢：治疗期的恢复力基础
 
 睡眠影响胰岛素敏感性、食欲与压力激素。治疗期把睡眠做“够”，往往能让控制更稳、执行更轻松。

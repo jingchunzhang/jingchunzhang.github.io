@@ -1,11 +1,13 @@
 ---
 layout: default
 title: 沉默的伙伴：糖尿病亲友支持指南
+description: "糖尿病不仅影响患者个人，也影响着整个家庭。作为配偶、父母或朋友，你目睹着血糖的高低起伏（无论字面上还是象征意义上），往往感到无助。你想提供帮助，但又不想变得唠叨。"
+author: "张杨 (Dane Zhang)"
+author_title: "健康科技研究员"
 date: 2026-02-08
 tags: [看护者, 心理健康, 亲密关系, 支持]
 lang: zh
 ---
-
 # 沉默的伙伴：糖尿病亲友支持指南
 
 > **[English Version](./caregiver_support-en)** | **[英文版入口](./caregiver_support-en)**

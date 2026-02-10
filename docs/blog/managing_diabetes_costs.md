@@ -1,11 +1,13 @@
 ---
 layout: default
 title: 驾驭护理成本：2026年糖尿病费用管理实用建议
+description: "患有糖尿病是一份全职工作，不幸的是，它往往伴随着高昂的代价。在胰岛素、连续血糖监测仪 (CGM)、胰岛素泵耗材和看医生之间，经济负担可能令人难以承受。"
+author: "张杨 (Dane Zhang)"
+author_title: "健康科技研究员"
 date: 2026-02-08
 tags: [倡导, 医疗成本, 理财建议, 胰岛素]
 lang: zh
 ---
-
 # 驾驭护理成本：2026年糖尿病费用管理实用建议
 
 > **[English Version](./managing_diabetes_costs-en)** | **[英文版入口](./managing_diabetes_costs-en)**

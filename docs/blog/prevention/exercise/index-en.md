@@ -1,10 +1,16 @@
 ---
 layout: default
 title: "Exercise and Diabetes Prevention"
+description: "<ul>
+  {% for post in site.posts %}
+    {% if post.url contains '/prevention/exercise/' %}
+      <li>
+        <a href="{{ site.baseurl }}{{ post."
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: prevention/exercise/index
 ---
-
 ## Exercise and Diabetes Prevention
 
 <ul>

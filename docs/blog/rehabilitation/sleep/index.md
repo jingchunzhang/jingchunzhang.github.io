@@ -1,10 +1,12 @@
 ---
 layout: default
 title: 睡眠修复：康复期的“系统更新”
+description: "了解睡眠修复：康复期的“系统更新”，以及其与糖尿病管理和预防的关系。"
+author: "张杨 (Dane Zhang)"
+author_title: "健康科技研究员"
 lang: zh
 translation_key: rehab-sleep-index
 ---
-
 # 睡眠修复：康复期的“系统更新”
 
 把睡眠当作恢复系统的一部分：节律、睡眠深度、呼吸障碍筛查与晚间习惯，决定第二天的代谢状态与执行力。

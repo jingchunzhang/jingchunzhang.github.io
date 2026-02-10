@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Diabetes Recovery
+description: "This section is organized into four dimensions for long-term, sustainable recovery management:"
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: rehabilitation-index
 ---
-
 # Diabetes Recovery
 
 Welcome to the diabetes recovery section.

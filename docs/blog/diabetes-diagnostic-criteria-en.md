@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Global Major Diabetes Diagnostic Criteria Reference
+description: "**Important Notice:** The content on this page is compiled from publicly available authoritative sources and is for learning and reference purposes only."
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: diabetes-diagnostic-criteria
 ---
-
 # Global Major Diabetes Diagnostic Criteria Reference
 
 **Important Notice:** The content on this page is compiled from publicly available authoritative sources and is for learning and reference purposes only. **It cannot replace professional medical advice**. If you suspect you have diabetes risk, please consult a doctor and seek diagnosis through regular medical institutions.

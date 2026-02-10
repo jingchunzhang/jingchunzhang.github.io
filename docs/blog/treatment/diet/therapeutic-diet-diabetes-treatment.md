@@ -1,6 +1,9 @@
 ---
 layout: default
 title: 治疗期饮食管理：把“控糖”落到每一餐
+description: "建立一套能长期坚持的血糖友好型饮食系统，让血糖更稳、体重与代谢逐步改善，并与药物/胰岛素方案协同，减少低血糖风险。"
+author: "张杨 (Dane Zhang)"
+author_title: "健康科技研究员"
 lang: zh
 translation_key: treatment-diet-therapeutic
 ---

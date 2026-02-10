@@ -1,10 +1,12 @@
 ---
 layout: default
 title: 运动处方：治疗期安全有效的运动方案
+description: "治疗期运动需要同时考虑 **降糖效果** 与 **低血糖风险、并发症与足部安全**，强调“可执行、可监测、可调整”。"
+author: "张杨 (Dane Zhang)"
+author_title: "健康科技研究员"
 lang: zh
 translation_key: treatment-exercise-index
 ---
-
 # 运动处方：治疗期安全有效的运动方案
 
 治疗期运动需要同时考虑 **降糖效果** 与 **低血糖风险、并发症与足部安全**，强调“可执行、可监测、可调整”。

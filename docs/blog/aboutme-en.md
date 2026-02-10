@@ -1,10 +1,12 @@
 ---
 layout: default
 title: About Me
+description: "I am a senior technology leader (CTO/CIO) with over 25 years of experience, maintaining a pure passion for technology throughout my career."
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: aboutme
 ---
-
 # About Me
 
 Hello, I am Zhang Jingchun.

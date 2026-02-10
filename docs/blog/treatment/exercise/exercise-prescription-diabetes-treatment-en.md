@@ -1,10 +1,12 @@
 ---
 layout: default
 title: "Exercise During Diabetes Treatment: A Safe, Effective Prescription You Can Sustain"
+description: "The goal of exercise during treatment isn’t “go hard."
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: treatment-exercise-prescription
 ---
-
 # Exercise During Diabetes Treatment: A Safe, Effective Prescription You Can Sustain
 
 > Disclaimer: This is general education, not medical advice. If you use insulin/secretagogues, or have retinopathy, neuropathy/foot ulcers, or significant cardiovascular disease, confirm your plan with a clinician before starting or progressing.

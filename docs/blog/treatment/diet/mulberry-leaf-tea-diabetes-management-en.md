@@ -1,6 +1,9 @@
 ---
 layout: default
 title: "Love Carbs but Hate the Spike? Meet the 'Ancient Sugar Blocker' Tea"
+description: "Mulberry leaf tea contains DNJ that blocks sugar absorption and reduces post-meal glucose spikes. Learn the science, benefits, and safe usage of this natural carb blocker."
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: mulberry-leaf-diabetes
 ---

@@ -1,11 +1,13 @@
 ---
 layout: default
 title: 关于糖尿病饮食规划的5个误区，你该停止相信了
+description: "收到糖尿病诊断书时，通常会伴随着大量的建议——有些很有帮助，但很多已经过时甚至完全错误。过去的“糖尿病饮食”往往是死板且乏味的。今天，像美国糖尿病协会 (ADA) 这样的组织强调的是**个性化**营养。"
+author: "张杨 (Dane Zhang)"
+author_title: "健康科技研究员"
 date: 2026-02-08
 tags: [营养, 饮食规划, 辟谣, 健康生活]
 lang: zh
 ---
-
 # 关于糖尿病饮食规划的5个误区，你该停止相信了
 
 > **[English Version](./meal_planning_myths-en)** | **[英文版入口](./meal_planning_myths-en)**

@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Diabetes Treatment
+description: "This section is organized into four dimensions for consistent navigation and internal linking:"
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: treatment-index
 ---
-
 # Diabetes Treatment
 
 Welcome to the diabetes treatment section.

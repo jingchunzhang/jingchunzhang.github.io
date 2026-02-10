@@ -1,10 +1,12 @@
 ---
 layout: default
 title: "Recovery: A 6-Step Goal System to Make Habits Stick"
+description: "In recovery, the biggest enemy is often not “lack of knowledge,” but “not being able to sustain it.”"
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: rehab-emotion-six-steps
 ---
-
 # Recovery: A 6-Step Goal System to Make Habits Stick
 
 In recovery, the biggest enemy is often not “lack of knowledge,” but “not being able to sustain it.”

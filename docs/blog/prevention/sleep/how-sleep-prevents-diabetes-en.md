@@ -1,12 +1,12 @@
 ---
 layout: default
 title: "Sleep as Medicine: How Adequate Quality Sleep Effectively Prevents Diabetes"
+description: "In this fast-paced era, sleep is often regarded as a "sacrificial luxury" that can be given up."
 author: "danezhang"
 date: "2026-01-14"
 lang: en
 translation_key: prevention/sleep/how-sleep-prevents-diabetes
 ---
-
 ## Preface: The Overlooked Cornerstone of Diabetes Prevention
 
 In this fast-paced era, sleep is often regarded as a "sacrificial luxury" that can be given up. Staying up late working, pulling all-nighters for projects, making up for sleep on weekends have become modern life norms. However, deepening scientific research is overturning our understanding of sleep - sleep is not just rest but a key defense line for maintaining metabolic health and preventing diabetes.

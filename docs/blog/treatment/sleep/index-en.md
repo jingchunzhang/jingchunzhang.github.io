@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Sleep and Metabolism in Treatment
+description: "Sleep affects insulin sensitivity, appetite regulation, and stress hormones. Getting it right makes treatment easier and more stable."
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: treatment-sleep-index
 ---
-
 # Sleep and Metabolism in Treatment
 
 Sleep affects insulin sensitivity, appetite regulation, and stress hormones. Getting it right makes treatment easier and more stable.

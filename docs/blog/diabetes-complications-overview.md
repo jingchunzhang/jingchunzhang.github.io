@@ -1,12 +1,13 @@
 ---
 layout: default
 title: 警惕“甜蜜的杀手”：糖尿病并发症全景概述
+author: "张杨 (Dane Zhang)"
+author_title: "健康科技研究员"
 description: "全面解析糖尿病的急性和慢性并发症，包括心血管疾病、视网膜病变、肾病及神经病变，帮助糖友建立预防意识。"
 keywords: "糖尿病并发症, 糖尿病心血管疾病, 糖尿病视网膜病变, 糖尿病足, 酮症酸中毒"
 lang: zh
 translation_key: diabetes-complications-overview
 ---
-
 # 警惕“甜蜜的杀手”：糖尿病并发症全景概述
 
 > **[English Version](./diabetes-complications-overview-en)** | **[英文版入口](./diabetes-complications-overview-en)**

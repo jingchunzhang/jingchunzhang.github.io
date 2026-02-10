@@ -1,10 +1,12 @@
 ---
 layout: default
 title: "Adequate Sleep: Preventing Diabetes Through Quality Sleep"
+description: "Among the four pillars of diabetes prevention, sleep is often overlooked."
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: prevention/sleep/index
 ---
-
 # Adequate Sleep: Preventing Diabetes Through Quality Sleep
 
 Welcome to the Adequate Sleep Section.

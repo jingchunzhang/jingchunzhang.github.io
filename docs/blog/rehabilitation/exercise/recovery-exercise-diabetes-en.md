@@ -1,10 +1,12 @@
 ---
 layout: default
 title: "Exercise in Diabetes Recovery: From “Glucose Control” to “Fitness Restoration”"
+description: "In recovery, exercise goals expand. In treatment you ask: “Does it lower glucose?"
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: rehab-exercise-recovery
 ---
-
 # Exercise in Diabetes Recovery: From “Glucose Control” to “Fitness Restoration”
 
 > Disclaimer: This is general education, not medical advice. If you have active foot ulcers/severe neuropathy, significant retinopathy, unstable cardiovascular disease, or exercise‑related hypoglycemia, confirm your plan with a clinician.

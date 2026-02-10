@@ -1,8 +1,14 @@
 ---
 layout: default
 title: "运动与糖尿病预防"
+description: "<ul>
+  {% for post in site.posts %}
+    {% if post.url contains '/prevention/exercise/' %}
+      <li>
+        <a href="{{ site.baseurl }}{{ post."
+author: "张杨 (Dane Zhang)"
+author_title: "健康科技研究员"
 ---
-
 ## 运动与糖尿病预防
 
 <ul>

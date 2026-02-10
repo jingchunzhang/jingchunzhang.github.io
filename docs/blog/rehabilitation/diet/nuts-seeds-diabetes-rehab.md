@@ -1,10 +1,12 @@
 ---
 layout: default
 title: 康复期怎么吃坚果和种子：脂肪“质量”比“多少”更重要
+description: "2) 坚果/种子摄入的部分能量并不一定被完全吸收（与其结构和消化有关），这也是它们更适合替代“甜点/零食/油炸”的原因之一。"
+author: "张杨 (Dane Zhang)"
+author_title: "健康科技研究员"
 lang: zh
 translation_key: rehab-diet-nuts-seeds
 ---
-
 # 康复期怎么吃坚果和种子：脂肪“质量”比“多少”更重要
 
 进入康复期后，控糖的难点往往从“把血糖压下去”变成“长期把风险压下去”。

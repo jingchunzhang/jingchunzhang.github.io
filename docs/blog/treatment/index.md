@@ -1,10 +1,17 @@
 ---
 layout: default
 title: 糖尿病治疗：治疗方法与技术进展
+description: "1. 饮食管理
+   - 治疗期饮食底层逻辑：营养密度（ANDI）与“为生而食”
+   - 治疗期控糖的关键能力：掌控饥饿（毒性饥饿 vs 真实饥饿）
+2. 运动处方
+3. 睡眠与代谢
+4. 情绪与压力管理"
+author: "张杨 (Dane Zhang)"
+author_title: "健康科技研究员"
 lang: zh
 translation_key: treatment-index-en
 ---
-
 # 糖尿病治疗：治疗方法与技术进展
 
 欢迎来到糖尿病治疗专区。

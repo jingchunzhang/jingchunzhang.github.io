@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Inflammation-Free, Sugar-Stable: How Anti-Inflammatory Diet Scientifically Prevents Diabetes"
-author: "danezhang"
+description: "Deep dive into the relationship between chronic low-grade inflammation and Type 2 diabetes, explaining anti-inflammatory diet principles, food choices, and practical daily implementation."
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 date: "2026-01-15"
 lang: en
 translation_key: prevention/diet/anti-inflammatory-diet-diabetes-prevention

@@ -1,10 +1,12 @@
 ---
 layout: default
 title: 掌控清晨血糖 | 记录饮食与运动的力量
+description: "对于糖友来说，最令人沮丧的时刻往往发生在清晨：明明昨晚没吃宵夜，为什么空腹血糖（FBG）还是居高不下？"
+author: "张杨 (Dane Zhang)"
+author_title: "健康科技研究员"
 lang: zh
 translation_key: fasting_blood_sugar_tracking
 ---
-
 [中文 (Chinese)](./fasting_blood_sugar_tracking.html) | [English](./fasting_blood_sugar_tracking-en.html)
 
 # 掌控清晨血糖：记录饮食与运动的力量

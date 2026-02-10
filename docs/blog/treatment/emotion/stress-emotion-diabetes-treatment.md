@@ -1,10 +1,12 @@
 ---
 layout: default
 title: 治疗期情绪与压力管理：让控糖不再靠硬扛
+description: "原因并不玄学：压力和负面情绪会通过皮质醇、肾上腺素等通路让血糖更容易升高，同时也会影响睡眠、饮食选择与运动意愿。"
+author: "张杨 (Dane Zhang)"
+author_title: "健康科技研究员"
 lang: zh
 translation_key: treatment-emotion-stress
 ---
-
 # 治疗期情绪与压力管理：让控糖不再靠硬扛
 
 > 免责声明：本文为健康科普信息，不构成医疗建议。若你出现持续的严重焦虑、抑郁、自伤想法，或睡眠/食欲明显受影响，请及时寻求专业心理/精神科帮助。

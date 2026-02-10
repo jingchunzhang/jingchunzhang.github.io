@@ -1,10 +1,12 @@
 ---
 layout: default
 title: 欢迎来到糖友空间博客
+description: "您好, 欢迎访问 **糖友空间博客**。本站是 **糖友空间** 的官方内容中心, 致力于成为您在糖尿病管理路上的可靠伙伴。"
+author: "张杨 (Dane Zhang)"
+author_title: "健康科技研究员"
 lang: zh
 translation_key: blog
 ---
-
 # 欢迎来到糖友空间博客
 
 > **[English Version](./index-en)** | **[英文版入口](./index-en)**

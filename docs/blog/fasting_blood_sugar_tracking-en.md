@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Mastering Your Morning Numbers | Tracking Food, Activity, and Fasting Blood Sugar
+description: "Waking up to a fasting blood sugar (FBG) number that doesn't make sense is a frustration every person with diabetes knows well."
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: fasting_blood_sugar_tracking
 ---
-
 [中文 (Chinese)](./fasting_blood_sugar_tracking.html) | [English](./fasting_blood_sugar_tracking-en.html)
 
 # Mastering Your Morning Numbers: The Power of Tracking Food, Activity, and Fasting Blood Sugar

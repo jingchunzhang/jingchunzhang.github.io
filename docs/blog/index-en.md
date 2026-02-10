@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Welcome to Tangyou Space Blog
+description: "Hello, welcome to **Tangyou Space Blog**. This site is the official content hub of **Tangyou Space**."
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: blog
 ---
-
 # Welcome to Tangyou Space Blog
 
 > **[中文版](./)** | **[Chinese Version](./)**

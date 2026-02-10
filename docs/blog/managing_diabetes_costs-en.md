@@ -1,11 +1,13 @@
 ---
 layout: default
 title: Navigating the Cost of Care: Practical Tips for Managing Diabetes Expenses in 2026
+description: "Living with diabetes is a full-time job, and unfortunately, it often comes with a steep price tag."
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 date: 2026-02-08
 tags: [Advocacy, Healthcare Costs, Financial Tips, Insulin]
 lang: en
 ---
-
 # Navigating the Cost of Care: Practical Tips for Managing Diabetes Expenses in 2026
 
 > **[中文版](./managing_diabetes_costs)** | **[Chinese Version](./managing_diabetes_costs)**

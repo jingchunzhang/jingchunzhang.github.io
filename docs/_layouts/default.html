@@ -19,6 +19,52 @@
 <meta property="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | default: site.github.repository_name | escape }}{% endif %}" />
 <!-- End Jekyll SEO tag -->
 
+    <!-- Schema.org Structured Data for Medical Content -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalWebPage",
+      "name": "{{ page.title | default: site.title }}",
+      "description": "{{ page.description | default: page.excerpt | default: site.description | escape }}",
+      "url": "{{ page.url | absolute_url }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ page.author | default: '张杨 (Dane Zhang)' }}",
+        "jobTitle": "{% if page.lang == 'en' %}Health Tech Researcher{% else %}健康科技研究员{% endif %}",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "广州一诺张杨人工智能科技有限责任公司",
+          "alternateName": "Tangyou Space"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "糖友空间 Tangyou Space",
+        "url": "https://www.tangyou.space",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.tangyou.space/assets/images/logo.png"
+        }
+      },
+      "datePublished": "{% if page.date %}{{ page.date | date_to_xmlschema }}{% else %}{{ site.time | date_to_xmlschema }}{% endif %}",
+      "dateModified": "{% if page.last_modified %}{{ page.last_modified | date_to_xmlschema }}{% elsif page.date %}{{ page.date | date_to_xmlschema }}{% else %}{{ site.time | date_to_xmlschema }}{% endif %}",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "{% if page.lang == 'en' %}Patient{% else %}患者{% endif %}"
+      },
+      "about": {
+        "@type": "MedicalCondition",
+        "name": "{% if page.lang == 'en' %}Diabetes Mellitus{% else %}糖尿病{% endif %}"
+      },
+      "inLanguage": "{% if page.lang == 'en' %}en-US{% else %}zh-CN{% endif %}",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "糖友空间 Tangyou Space",
+        "url": "https://www.tangyou.space"
+      }
+    }
+    </script>
+
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">

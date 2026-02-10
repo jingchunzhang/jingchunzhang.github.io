@@ -1,10 +1,13 @@
 ---
 layout: default
 title: 治疗期控糖的关键能力：掌控饥饿（毒性饥饿 vs 真实饥饿）
+description: "- 过量摄入热量，经常不是因为身体真的需要，而是被“饥饿感/不适感”驱动；
+- 有一类饥饿感可能更像“戒断不适”，而不是真正的能量缺口。"
+author: "张杨 (Dane Zhang)"
+author_title: "健康科技研究员"
 lang: zh
 translation_key: treatment-diet-hunger-control
 ---
-
 # 治疗期控糖的关键能力：掌控饥饿（毒性饥饿 vs 真实饥饿）
 
 治疗期很多人的困难不是“不知道怎么吃”，而是：

@@ -1,10 +1,12 @@
 ---
 layout: default
 title: "A Core Treatment Skill: Hunger Control (Toxic Hunger vs True Hunger)"
+description: "Many people struggle in treatment not because they “don’t know what to eat,” but because hunger and discomfort keep pushing them off plan."
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: treatment-diet-hunger-control
 ---
-
 # A Core Treatment Skill: Hunger Control (Toxic Hunger vs True Hunger)
 
 Many people struggle in treatment not because they “don’t know what to eat,” but because hunger and discomfort keep pushing them off plan.

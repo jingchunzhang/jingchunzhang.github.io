@@ -1,10 +1,12 @@
 ---
 layout: default
 title: "Emotion and Stress During Diabetes Treatment: Stop White‑Knuckling Glucose Control"
+description: "In the treatment phase, what exhausts people isn’t carb math—it’s the loop:"
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: treatment-emotion-stress
 ---
-
 # Emotion and Stress During Diabetes Treatment: Stop White‑Knuckling Glucose Control
 
 > Disclaimer: This is general education, not medical advice. If you have persistent severe anxiety/depression, self‑harm thoughts, or major functional impairment, seek professional mental health care.

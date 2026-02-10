@@ -1,10 +1,12 @@
 ---
 layout: default
 title: "Psychological Recovery in Diabetes: Make Healthy Choices Feel Easier"
+description: "In the recovery phase, many people hit a “this shouldn’t be hard—but it is” problem:"
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: rehab-emotion-psych
 ---
-
 # Psychological Recovery in Diabetes: Make Healthy Choices Feel Easier
 
 > Disclaimer: This article is for general health education and is not medical advice. If you have significant anxiety/depression lasting 2+ weeks, severe sleep disruption, frequent loss-of-control eating, or any self-harm thoughts, seek professional help promptly.

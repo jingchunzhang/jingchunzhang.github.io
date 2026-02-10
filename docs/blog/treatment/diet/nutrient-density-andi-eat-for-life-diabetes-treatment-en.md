@@ -1,10 +1,12 @@
 ---
 layout: default
 title: "Treatment Diet Fundamentals: Nutrient Density (ANDI) and Eating for Life"
+description: "In the treatment phase, two common mistakes show up again and again:"
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: treatment-diet-andi
 ---
-
 # Treatment Diet Fundamentals: Nutrient Density (ANDI) and Eating for Life
 
 In the treatment phase, two common mistakes show up again and again:

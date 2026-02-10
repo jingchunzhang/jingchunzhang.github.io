@@ -1,10 +1,12 @@
 ---
 layout: default
 title: "Prevent Diabetes: Understand GI/GL and Manage Glucose Spikes"
+description: "Many people think diabetes prevention means “eat less sugar."
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: prevention-diet-gi-gl
 ---
-
 # Prevent Diabetes: Understand GI/GL and Manage Glucose Spikes
 
 Many people think diabetes prevention means “eat less sugar.” In real life, the bigger problem is often **refined staples, sweet drinks, and processed snacks** that repeatedly push glucose up fast—over time, that pattern increases the risk of insulin resistance.

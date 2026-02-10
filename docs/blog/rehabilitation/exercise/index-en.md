@@ -1,10 +1,12 @@
 ---
 layout: default
 title: "Exercise in Recovery: From Control to Performance"
+description: "In recovery, exercise goals expand beyond glucose control to fitness, cardio capacity, strength, mobility, and injury prevention."
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
 translation_key: rehab-exercise-index
 ---
-
 # Exercise in Recovery: From Control to Performance
 
 In recovery, exercise goals expand beyond glucose control to fitness, cardio capacity, strength, mobility, and injury prevention.
