@@ -14,4 +14,12 @@ translation_key: prevention-exercise-index
     <a href="./how-daily-exercise-prevents-diabetes.md">运动是良医：如何通过科学锻炼有效预防糖尿病</a>
     <span> - 2026-01-10</span>
   </li>
+  <li>
+    <a href="./post-meal-walk-glucose-control.md">饭后走一走：最省力的“稳糖”运动（怎么走更有效）</a>
+    <span> - 2026-03-02</span>
+  </li>
+  <li>
+    <a href="./strength-training-insulin-sensitivity.md">力量训练不是健身房专属：肌肉 = 更稳的代谢底盘</a>
+    <span> - 2026-03-02</span>
+  </li>
 </ul>

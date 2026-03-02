@@ -78,3 +78,39 @@ Continue if you have next steps, or stop and ask for clarification if you are un
 
 ### Next step
 继续做内容体系补齐：优先检查各栏目 index(-en).md 是否漏链/占位，并在每次修改后同步追加本日志。
+
+---
+
+## 2026-03-02 12:35 (Asia/Shanghai)
+
+### User
+What did we do so far?
+
+Continue if you have next steps, or stop and ask for clarification if you are unsure how to proceed.
+
+### Assistant
+- 复核 `docs/_ai/req.md` 约束与站点机制（面包屑映射在 `docs/_includes/breadcrumb.html`；推荐逻辑在 `docs/_includes/related-articles.html` 依赖 `translation_key` 与 `lang`）。
+- 在正确的站点仓库路径下新增 10 组中英双语文章（20 个 md 文件），覆盖四个主题：
+  - diet（4 组）：
+    - `docs/blog/prevention/diet/breakfast-structure-diabetes-prevention.md` + `...-en.md`
+    - `docs/blog/prevention/diet/protein-strategy-glucose-stability.md` + `...-en.md`
+    - `docs/blog/prevention/diet/hydration-glucose-stability.md` + `...-en.md`
+    - `docs/blog/prevention/diet/intermittent-fasting-diabetes-prevention.md` + `...-en.md`
+  - exercise（2 组）：
+    - `docs/blog/prevention/exercise/post-meal-walk-glucose-control.md` + `...-en.md`
+    - `docs/blog/prevention/exercise/strength-training-insulin-sensitivity.md` + `...-en.md`
+  - sleep（2 组）：
+    - `docs/blog/prevention/sleep/sleep-regularity-social-jetlag.md` + `...-en.md`
+    - `docs/blog/prevention/sleep/caffeine-sleep-glucose.md` + `...-en.md`
+  - emotion（2 组）：
+    - `docs/blog/prevention/emotion/stress-eating-cravings-glucose.md` + `...-en.md`
+    - `docs/blog/prevention/emotion/five-minute-calm-toolbox.md` + `...-en.md`
+- 每篇文章包含：`lang` + `translation_key`、双语互链、至少一张 Wikimedia 图片与来源、内外链、以及文末 `{% include related-articles.html %}`。
+- 更新四个分类索引页（中英各一）把新增文章挂出并可点击进入：
+  - `docs/blog/prevention/diet/index.md` / `index-en.md`
+  - `docs/blog/prevention/exercise/index.md` / `index-en.md`
+  - `docs/blog/prevention/sleep/index.md` / `index-en.md`
+  - `docs/blog/prevention/emotion/index.md` / `index-en.md`
+
+### Next step
+对全站做本地校验：grep 禁用词、核对 translation_key 成对、检查索引/互链是否漏 `.md` 或路径错误；发现问题即修复，并继续追加本日志。

@@ -19,9 +19,19 @@ This section will help you understand how emotions affect blood sugar metabolism
 
 ## Core Article
 
-### [Emotional Code: How Scientific Emotion Management Effectively Prevents Diabetes](./emotion-management-diabetes-prevention-en)
+### [Emotional Code: How Scientific Emotion Management Effectively Prevents Diabetes](./emotion-management-diabetes-prevention-en.md)
 
 An in-depth article systematically explaining how emotion management affects diabetes risk from five dimensions: problem presentation, physiological principles, key elements, practical guidelines, and population suggestions. Contains 8 practical tables, 6 charts/illustrations, and detailed suggestions for different populations.
+
+### New posts (Mar 2026)
+
+#### [When Stress Makes You Snack: Emotional Eating, Cravings, and Glucose Swings](./stress-eating-cravings-glucose-en.md)
+
+Breaks emotional eating into identifiable steps and adds low‑cost buffers to reduce impulsive comfort‑food loops.
+
+#### [A 5‑Minute Calm Toolbox: Move Stress Away From the “Glucose Button”](./five-minute-calm-toolbox-en.md)
+
+Breathing, body scan, short movement, and quick journaling—small tools to create a gap between urge and action.
 
 **Main Content**:
 - Connection between global mental health crisis and diabetes epidemic
@@ -127,7 +137,7 @@ Improving emotion management can bring measurable metabolic improvements within 
 - [Healthy Diet Section](./../diet/): Balanced nutrition and emotional health influence each other
 - [Regular Exercise Section](./../exercise/): Exercise is the best "natural antidepressant"
 - [Adequate Sleep Section](./../sleep/): Sleep and emotions influence each other, forming a vicious cycle
-- [Diabetes Diagnostic Criteria](./../diabetes-diagnostic-criteria-en): Understand diagnostic indicators for diabetes
+- [Diabetes Diagnostic Criteria](./../../diabetes-diagnostic-criteria-en.md): Understand diagnostic indicators for diabetes
 
 ---
 

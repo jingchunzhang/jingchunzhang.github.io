@@ -14,6 +14,14 @@ translation_key: prevention-exercise-index
     <a href="./how-daily-exercise-prevents-diabetes-en.md">Exercise as Medicine: How Scientific Training Effectively Prevents Diabetes</a>
     <span> - 2026-01-10</span>
   </li>
+  <li>
+    <a href="./post-meal-walk-glucose-control-en.md">After‑Meal Walks: The Lowest‑Friction Exercise for Steadier Glucose</a>
+    <span> - 2026-03-02</span>
+  </li>
+  <li>
+    <a href="./strength-training-insulin-sensitivity-en.md">Strength Training Isn’t Just for Gyms: Muscle Is a Metabolic Foundation</a>
+    <span> - 2026-03-02</span>
+  </li>
 </ul>
 
 [Back to Prevention Home](../)

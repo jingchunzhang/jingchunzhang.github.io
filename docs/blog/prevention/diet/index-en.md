@@ -17,7 +17,7 @@ Among the various diabetes prevention methods, **a reasonable diet structure** i
 
 ## Core Articles
 
-### [Nutritional Wisdom: Scientific Diabetes Prevention Through Balanced Diet](./balanced-diet-diabetes-prevention-en)
+### [Nutritional Wisdom: Scientific Diabetes Prevention Through Balanced Diet](./balanced-diet-diabetes-prevention-en.md)
 
 An in-depth article systematically explaining how to prevent diabetes through balanced diet from three dimensions: problem presentation, physiological principles, and dietary choices. Includes practical daily meal examples, shopping suggestions, solutions to common challenges, and personalized advice for special populations.
 
@@ -30,7 +30,7 @@ An in-depth article systematically explaining how to prevent diabetes through ba
 - Monitoring indicators and adjustment strategies
 - Personalized advice for special populations (family history, prediabetes, overweight)
 
-### [Inflammation-Free, Sugar-Stable: How Anti-Inflammatory Diet Scientifically Prevents Diabetes](./anti-inflammatory-diet-diabetes-prevention-en)
+### [Inflammation-Free, Sugar-Stable: How Anti-Inflammatory Diet Scientifically Prevents Diabetes](./anti-inflammatory-diet-diabetes-prevention-en.md)
 
 An in-depth scientific article exploring the role of anti-inflammatory diet in diabetes prevention, comprehensively analyzing the scientific basis and application methods of anti-inflammatory diet from the molecular mechanisms of chronic inflammation and insulin resistance to specific dietary practices.
 
@@ -43,17 +43,35 @@ An in-depth scientific article exploring the role of anti-inflammatory diet in d
 - Inflammatory marker monitoring and personalized adjustment plans
 - Synergistic effects of anti-inflammatory diet with exercise, sleep, and stress management
 
-### [Glycemic Index (GI) & Glycemic Load (GL): Practical Tools for Diabetes Prevention](./glycemic-index-load-diabetes-prevention-en)
+### [Glycemic Index (GI) & Glycemic Load (GL): Practical Tools for Diabetes Prevention](./glycemic-index-load-diabetes-prevention-en.md)
 
 A practical guide to GI and GL: how to interpret them, common pitfalls, and how to build meals that reduce glucose spikes without extreme restriction.
 
-### [Legumes & Resistant Starch: A “Slow-Carb” Strategy for Diabetes Prevention](./legumes-resistant-starch-diabetes-prevention-en)
+### [Legumes & Resistant Starch: A “Slow-Carb” Strategy for Diabetes Prevention](./legumes-resistant-starch-diabetes-prevention-en.md)
 
 How beans, lentils, and resistant starch support steadier post-meal glucose, better satiety, and gut health—plus simple ways to add them into daily meals.
 
-### [Ultra‑Processed Foods (UPFs) and Type 2 Diabetes Risk: Read Labels, Make Steadier Choices](./ultra-processed-foods-diabetes-prevention-en)
+### [Ultra‑Processed Foods (UPFs) and Type 2 Diabetes Risk: Read Labels, Make Steadier Choices](./ultra-processed-foods-diabetes-prevention-en.md)
 
 A practical guide to UPFs: what they typically look like, why they can make glucose stability harder, and a simple ingredient‑list + swap checklist.
+
+### New posts (Mar 2026)
+
+#### [A Steadier Breakfast: A Copy‑Paste Template (Protein + Fiber + Carbs)](./breakfast-structure-diabetes-prevention-en.md)
+
+A sustainable breakfast structure with practical examples to reduce “spiky” mornings and snack cravings.
+
+#### [Protein as a Leverage Point: Steadier Glucose & Fewer Cravings (Practical Strategy)](./protein-strategy-glucose-stability-en.md)
+
+A low‑friction rule (“pick your protein first”) and plate frameworks that support satiety and insulin sensitivity.
+
+#### [Hydration Matters: Thirst, Sugary Drinks, and Glucose Swings](./hydration-glucose-stability-en.md)
+
+Actionable hydration strategies: swap sugary drinks first, then build trigger‑based water habits.
+
+#### [Intermittent Fasting: Who It Fits, Who It Doesn’t, and How to Do It Safely](./intermittent-fasting-diabetes-prevention-en.md)
+
+Safety‑first guidance: who should avoid IF, how to start gently, and the most common failure loops.
 
 ---
 
@@ -65,7 +83,7 @@ Not "eliminating" carbohydrates, but "choosing" carbohydrates. Whole grains, leg
 
 ### 2. **Key Role of Protein**
 
-Protein not only provides satiety, reducing total energy intake, but also slows carbohydrate absorption,平滑 blood sugar rise. Adequate protein intake helps maintain muscle mass, which is the main consumer of blood sugar.
+Protein not only provides satiety, reducing total energy intake, but also slows carbohydrate absorption and smooths blood sugar rise. Adequate protein intake helps maintain muscle mass, which is a major glucose‑using tissue.
 
 ### 3. **Quality First for Fats**
 

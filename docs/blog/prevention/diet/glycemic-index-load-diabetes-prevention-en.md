@@ -79,7 +79,7 @@ You can use simple feedback signals:
 
 For diagnostic thresholds, see:
 
-- [Diabetes diagnostic criteria](/diabetes-diagnostic-criteria-en)
+- [Diabetes diagnostic criteria](/diabetes-diagnostic-criteria-en.html)
 
 ---
 

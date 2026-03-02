@@ -5,6 +5,8 @@ description: "深入解析慢性低度炎症与2型糖尿病的关系，阐述�
 author: "张杨 (Dane Zhang)"
 author_title: "健康科技研究员"
 date: "2026-01-15"
+lang: zh
+translation_key: prevention/diet/anti-inflammatory-diet-diabetes-prevention
 ---
 
 > 面包屑：[返回预防首页](../../) > [健康饮食](../) > 本文

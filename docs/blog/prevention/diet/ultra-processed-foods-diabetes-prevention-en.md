@@ -12,7 +12,7 @@ tags: [Diet, Prevention, Type 2 Diabetes]
 
 # Ultra‑Processed Foods (UPFs) and Type 2 Diabetes Risk: Read Labels, Make Steadier Choices
 
-> **[中文版](./ultra-processed-foods-diabetes-prevention)**
+> **[中文版](./ultra-processed-foods-diabetes-prevention.md)**
 
 “Processed food” isn’t a useful enemy. **Ultra‑processed foods (UPFs)** are the real pattern worth noticing—because when they dominate your diet, staying full, eating slowly, and keeping glucose steady often becomes harder.
 

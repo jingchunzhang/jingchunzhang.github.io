@@ -12,7 +12,7 @@ tags: [饮食, 预防, 2型糖尿病]
 
 # 超加工食品（UPF）与2型糖尿病风险：看懂标签，做出更稳的选择
 
-> **[English Version](./ultra-processed-foods-diabetes-prevention-en)**
+> **[English Version](./ultra-processed-foods-diabetes-prevention-en.md)**
 
 很多人听到“加工食品”就下意识把它和“不健康”画上等号。但现实更复杂：**“加工”不是问题，问题是“超加工”（Ultra-Processed Foods, UPF）在饮食里占比越来越高**。
 
