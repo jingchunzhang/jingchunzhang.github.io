@@ -1,8 +1,9 @@
 ---
 layout: default
 title: "Sleep as Medicine: How Adequate Quality Sleep Effectively Prevents Diabetes"
-description: "In this fast-paced era, sleep is often regarded as a "sacrificial luxury" that can be given up."
-author: "danezhang"
+description: 'In this fast-paced era, sleep is often regarded as a “sacrificial luxury” that can be given up.'
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 date: "2026-01-14"
 lang: en
 translation_key: prevention/sleep/how-sleep-prevents-diabetes

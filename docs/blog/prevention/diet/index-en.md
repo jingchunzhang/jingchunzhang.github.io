@@ -51,6 +51,10 @@ A practical guide to GI and GL: how to interpret them, common pitfalls, and how 
 
 How beans, lentils, and resistant starch support steadier post-meal glucose, better satiety, and gut health—plus simple ways to add them into daily meals.
 
+### [Ultra‑Processed Foods (UPFs) and Type 2 Diabetes Risk: Read Labels, Make Steadier Choices](./ultra-processed-foods-diabetes-prevention-en)
+
+A practical guide to UPFs: what they typically look like, why they can make glucose stability harder, and a simple ingredient‑list + swap checklist.
+
 ---
 
 ## Four Pillars of Dietary Prevention

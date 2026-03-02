@@ -56,3 +56,25 @@
 
 ### Next step
 如需把这些新栏目入口加到首页/导航（或完善英文语言切换逻辑），继续下发具体需求即可。
+
+---
+
+## 2026-03-02 11:55 (Asia/Shanghai)
+
+### User
+What did we do so far?
+
+Continue if you have next steps, or stop and ask for clarification if you are unsure how to proceed.
+
+### Assistant
+- 先复核 `docs/_ai/req.md` 与 `docs/_ai/interaction-log.md` 的约束：维护文件不发布、交互日志持续追加；不运行 bundle；只写 md。
+- 修复康复-运动索引的占位：
+  - `docs/blog/rehabilitation/exercise/index.md`：把“（待添加）”替换为实际文章链接，并补上 `相关阅读` + `{% include related-articles.html %}`。
+  - `docs/blog/rehabilitation/exercise/index-en.md`：把 “(Coming soon)” 替换为实际文章链接。
+- 更新预防-饮食索引：
+  - `docs/blog/prevention/diet/index.md`：新增 UPF 文章链接与一句话简介。
+  - `docs/blog/prevention/diet/index-en.md`：新增 UPF 文章链接与一句话简介。
+  - `docs/blog/prevention/diet/index.md`：补上 `相关阅读` + `{% include related-articles.html %}`，并把两个“相关阅读”小节分别标注为“内链/站内推荐”。
+
+### Next step
+继续做内容体系补齐：优先检查各栏目 index(-en).md 是否漏链/占位，并在每次修改后同步追加本日志。

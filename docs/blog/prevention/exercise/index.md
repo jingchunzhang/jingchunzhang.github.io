@@ -1,27 +1,17 @@
 ---
 layout: default
 title: "运动与糖尿病预防"
-description: "<ul>
-  {% for post in site.posts %}
-    {% if post.url contains '/prevention/exercise/' %}
-      <li>
-        <a href="{{ site.baseurl }}{{ post."
+description: "预防糖尿病不仅靠饮食，也靠规律运动：有氧、抗阻、日常活动与久坐中断，帮助提高胰岛素敏感性并稳定体重。"
 author: "张杨 (Dane Zhang)"
 author_title: "健康科技研究员"
+lang: zh
+translation_key: prevention-exercise-index
 ---
 ## 运动与糖尿病预防
 
 <ul>
-  {% for post in site.posts %}
-    {% if post.url contains '/prevention/exercise/' %}
-      <li>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        <span> - {{ post.date | date: "%Y-%m-%d" }}</span>
-      </li>
-    {% endif %}
-  {% endfor %}
   <li>
-      <a href="{{ site.baseurl }}/prevention/exercise/how-daily-exercise-prevents-diabetes.md">运动是良医：如何通过科学锻炼有效预防糖尿病</a>
-      <span> - 2026-01-10</span>
+    <a href="./how-daily-exercise-prevents-diabetes.md">运动是良医：如何通过科学锻炼有效预防糖尿病</a>
+    <span> - 2026-01-10</span>
   </li>
 </ul>

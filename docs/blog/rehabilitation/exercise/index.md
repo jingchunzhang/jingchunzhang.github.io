@@ -13,7 +13,7 @@ translation_key: rehab-exercise-index
 
 ## 核心文章
 
-- （待添加）
+- [康复期锻炼：从“控糖达标”到“体能复苏”](./recovery-exercise-diabetes.md)
 
 ## 你可能也需要
 
@@ -22,3 +22,9 @@ translation_key: rehab-exercise-index
 - [康复期：心理康复](./../emotion/)
 
 [返回康复首页](./../)
+
+---
+
+## 相关阅读
+
+{% include related-articles.html %}

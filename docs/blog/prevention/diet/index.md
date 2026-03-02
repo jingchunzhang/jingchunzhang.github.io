@@ -41,6 +41,10 @@ author_title: "健康科技研究员"
 - 炎症标志物监测与个性化调整方案
 - 抗炎饮食与运动、睡眠、压力管理的协同效应
 
+### [超加工食品（UPF）与2型糖尿病风险：看懂标签，做出更稳的选择](./ultra-processed-foods-diabetes-prevention.md)
+
+解释 UPF（超加工食品）常见特征、它为什么会让“吃得稳”变难，并给出一套可执行的配料表阅读方法与替换清单。
+
 ---
 
 ## 饮食预防的四大基石
@@ -106,10 +110,16 @@ author_title: "健康科技研究员"
 
 ---
 
-## 相关阅读
+## 相关阅读（内链）
 
 - [如何用 GI/GL 让血糖更稳定（预防篇）](./glycemic-index-load-diabetes-prevention.md)
 - [豆类、纤维与抗性淀粉：预防胰岛素抵抗的“底盘”](./legumes-resistant-starch-diabetes-prevention.md)
 - [预防：规律运动](./../exercise/)
 - [预防：充足睡眠](./../sleep/)
 - [预防：情绪管理](./../emotion/)
+
+---
+
+## 相关阅读（站内推荐）
+
+{% include related-articles.html %}
