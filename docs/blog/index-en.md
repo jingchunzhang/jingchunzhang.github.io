@@ -24,6 +24,16 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 
 ## Living with Diabetes (Latest Updates)
 
+*   **[Diabetes A-to-Z Basics: A Practical Starting Point](./diabetes-a-to-z-basics-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[Prediabetes Early Warning Signs: What to Track This Month](./prediabetes-early-warning-signs-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[Diabetes Terms You Should Know (Without the Confusion)](./diabetes-terms-you-should-know-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[A Home Diabetes Management Framework You Can Actually Maintain](./home-diabetes-management-framework-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[Type 1 Diabetes: Turning Clinic Advice into a Daily Home Plan](./type1-diabetes-clinic-to-home-plan-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[Type 2 Diabetes Monitoring Protocols: A Practical Home Version](./type2-diabetes-monitoring-protocols-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[Endocrinology Tests for Diabetes Follow-Up: What Matters Most](./endocrinology-tests-for-diabetes-followup-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[Diabetes Common Questions Answered: A Practical FAQ](./diabetes-common-questions-answered-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[Diabetes Prevention and Treatment Roadmap: A Step-by-Step Path](./diabetes-prevention-treatment-roadmap-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[Low-Glycemic Cooking Practical Guide for Busy Families](./low-glycemic-cooking-practical-guide-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[The Silent Partners: A Guide for Supporting a Loved One with Diabetes](./caregiver_support-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[Navigating the Cost of Care: Practical Tips for Managing Diabetes Expenses in 2026](./managing_diabetes_costs-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[5 Myths About Diabetic Meal Planning You Need to Stop Believing](./meal_planning_myths-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
