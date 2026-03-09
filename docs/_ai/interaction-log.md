@@ -114,3 +114,45 @@ Continue if you have next steps, or stop and ask for clarification if you are un
 
 ### Next step
 对全站做本地校验：grep 禁用词、核对 translation_key 成对、检查索引/互链是否漏 `.md` 或路径错误；发现问题即修复，并继续追加本日志。
+
+---
+
+## 2026-03-08 21:21 (Asia/Shanghai)
+
+### User
+请仔细阅读_ai/ 目录下的文件， 我要借助自动化生成博客导流。 盈利模式：1, google 广告； 2, 独立站； 3, 广告联盟推荐链接。  请根据以上需求，生成skills， 后续做：1,处理电子书文件； 2, 根据电子书文件，生成导流博客； 3, 上传电子书到指定服务器，文件名不要有空格和原有文件名括号内的内容； 4, 在博客插入电子邮件订阅，用户订阅时，发送对应电子书下载链接；
+
+### Assistant
+已完整阅读 `docs/_ai/README.md`、`req.md`、`resource.md`、`ref.md`、`interaction-log.md` 及 SEO 相关维护文档，并基于其中的约束新增一套项目本地技能，位置在 `docs/.opencode/skills/`：
+
+- `ebook-asset-intake`：处理 `/media/danezhang/Elements/seo/blog/ebook` 中的 PDF/EPUB，生成清洗文件名与元数据 manifest。
+- `ebook-funnel-blog-writer`：根据电子书内容生成导流博客，并嵌入 Google 广告、独立站、联盟链接三类变现路径。
+- `ebook-server-publisher`：按 `scp` 规则上传到 `download.tangyou.space/yyyyMMdd/`，并确保文件名去空格、去括号内容、保留扩展名。
+- `ebook-email-delivery`：为静态博客设计邮件订阅与“按电子书精准发下载链接”的自动化流程，默认推荐 MailerLite。
+- `ebook-funnel-monetization`：为每篇导流文章定义广告、独立站与联盟分发策略及 KPI。
+- `ebook-funnel-pipeline`：把 intake -> monetization -> blog -> upload -> email 五步串成日常可复用流水线。
+
+以上技能均放在隐藏目录下，不影响 Jekyll 正常发布路径；后续可直接基于这些技能继续做电子书处理、博客生成、上传与订阅自动化。
+
+### Next step
+基于 `ebook-asset-intake` 先扫描一批电子书样本，产出 manifest，然后串联生成首篇导流博客与对应的上传/订阅流程。
+
+---
+
+## 2026-03-08 21:50 (Asia/Shanghai)
+
+### User
+请仔细阅读_ai/ref_sub.md， 这是gemini给的图书类博客SEO建议， 请根据他的建议， 把SEO写成skills
+
+### Assistant
+已按 `docs/_ai/ref_sub.md` 的核心方法（Schema-first + 逆向工程 + JSON-LD + 双验证）新增图书类 SEO skills，位置在 `docs/.opencode/skills/`：
+
+- `seo-book-schema-strategy`：先按 Google Rich Result 目标反推 required/recommended 字段，再用 Schema.org Book 语义增强。
+- `seo-book-jsonld-writer`：根据页面元数据生成可落地 JSON-LD，并输出字段来源映射与缺失项报告。
+- `seo-schema-validation-loop`：用 Rich Results Test + Schema Markup Validator 做发布前闭环验收。
+- `seo-book-rich-result-playbook`：把图书选题转成“可排名+可富结果+可转化”的执行 brief。
+
+上述 skills 与现有电子书导流技能可串联使用：先做选题/内容，再做结构化数据实现与验证，最后再进入订阅和变现流程。
+
+### Next step
+选 1-2 篇图书导流文章，先用 `seo-book-schema-strategy` 和 `seo-book-jsonld-writer` 生成 schema 草案，再用 `seo-schema-validation-loop` 产出首轮修复清单。

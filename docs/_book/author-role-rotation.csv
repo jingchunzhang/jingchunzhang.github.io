@@ -1,0 +1,8 @@
+day_index,author_id,author_email,author_role,reviewer_id,reviewer_email,reviewer_role,rule_note
+1,zzh,zzh@tangyou.space,糖尿病治疗期病人,yyh,yyh@tangyou.space,糖尿病治疗医生,patient-family author uses clinical reviewer
+2,kelvin,kelvin@tangyou.space,糖尿病研究人员,yyh,yyh@tangyou.space,糖尿病治疗医生,research author cross-reviewed by clinician
+3,yyh,yyh@tangyou.space,糖尿病治疗医生,kelvin,kelvin@tangyou.space,糖尿病研究人员,clinician author cross-reviewed by researcher
+4,gwx,gwx@tangyou.space,糖尿病康复期病人,kelvin,kelvin@tangyou.space,糖尿病研究人员,patient-family author uses expert reviewer
+5,zyn,zyn@tangyou.space,医学院学生,yyh,yyh@tangyou.space,糖尿病治疗医生,student author requires clinician reviewer
+6,zhl,zhl@tangyou.space,糖尿病病人家属,kelvin,kelvin@tangyou.space,糖尿病研究人员,family author uses expert reviewer
+7,wep,wep@tangyou.space,糖尿病病人家属,yyh,yyh@tangyou.space,糖尿病治疗医生,family author uses clinician reviewer
