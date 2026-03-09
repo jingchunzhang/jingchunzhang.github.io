@@ -13,7 +13,8 @@ translation_key: treatment-emotion-index
 
 ## 核心文章
 
-- [治疗期情绪与压力管理：让控糖不再靠硬扛](./stress-emotion-diabetes-treatment.md)
+- [治疗期情绪与压力管理：让控糖不再靠硬抗](./stress-emotion-diabetes-treatment.md)
+- [1型糖尿病：把门诊建议落成家庭日程](./type1-diabetes-clinic-to-home-plan.md)
 
 ## 你可能也需要
 

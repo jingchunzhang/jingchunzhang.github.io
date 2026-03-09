@@ -16,6 +16,7 @@ translation_key: rehab-emotion-index
 
 - [康复期心理修复：让控糖从“努力”变成“更顺手”](./psychological-recovery-diabetes.md)
 - [康复期的目标达成“6步法”：把计划变成可执行的行动](./six-steps-goals-diabetes-rehab.md)
+- [糖尿病关键术语速通：把看不懂变成看得懂](./diabetes-terms-you-should-know.md)
 
 ## 你可能也需要
 

@@ -64,6 +64,10 @@ translation_key: prevention/diet/index
 #### [轻断食/间歇性禁食：适合谁？怎么做才更安全、更可持续](./intermittent-fasting-diabetes-prevention.md)
 
 用“风险先行”的方式讲清：谁不适合、怎么从最温和版本开始，以及常见失败原因。
+#### [低GI烹饪实战：忙碌家庭也能坚持的控糖餐](./low-glycemic-cooking-practical-guide.md)
+
+掌握餐盘结构、食材替换与批量备餐策略，让控糖饮食简单、美味且可持续。附测试清单与电子书下载。
+
 
 ---
 

@@ -22,12 +22,30 @@ version: 1.2.0
 2. Build a dated manifest in `/media/danezhang/Elements/seo/blog/workdir`.
 3. Select the best ebooks for traffic and monetization potential.
 4. Select the daily persona using `docs/_book/author-role-rotation.csv`.
-5. Generate one or more funnel blog drafts from the selected ebooks.
+5. Classify each selected topic into `stage x dimension` taxonomy (`prevention|treatment|rehabilitation` x `exercise|diet|emotion|sleep`).
+6. Generate one or more funnel blog drafts from the selected ebooks.
+7. Enforce long-form length gate before publish:
+   - ZH target: 1500–2000 Chinese characters
+   - EN target: 1200–1800 words
+   - if below range, expand content before continuing
+8. Write files to canonical paths only:
+   - `docs/blog/{stage}/{dimension}/{slug}.md`
+   - `docs/blog/{stage}/{dimension}/{slug}-en.md`
+9. Sync entry links in root/stage/dimension index pages.
 6. Upload the final ebook assets to `https://download.tangyou.space/yyyyMMdd/filename`.
 7. Bind each blog CTA to the correct ebook identifier and download URL.
 8. Insert or update the email subscription entry point in the corresponding blog post.
 9. Trigger the correct automated delivery email.
 10. Record publish log: date, slug, author persona, reviewer persona, disclaimer key.
+
+## Mandatory taxonomy and indexing policy
+- Stage values: `prevention | treatment | rehabilitation`
+- Dimension values: `exercise | diet | emotion | sleep`
+- For each new bilingual pair, update all three index layers:
+  - `docs/blog/index*.md`
+  - `docs/blog/{stage}/index*.md`
+  - `docs/blog/{stage}/{dimension}/index*.md`
+- Remove obsolete top-level duplicates after migration.
 
 ## Required records per ebook
 - sanitized filename

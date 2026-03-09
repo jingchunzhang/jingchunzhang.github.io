@@ -73,6 +73,10 @@ Actionable hydration strategies: swap sugary drinks first, then build trigger‑
 
 Safety‑first guidance: who should avoid IF, how to start gently, and the most common failure loops.
 
+#### [Low-Glycemic Cooking Practical Guide for Busy Families](./low-glycemic-cooking-practical-guide-en.md)
+
+Plate structure, ingredient swaps, and batch-cooking tactics to make blood sugar-friendly eating simple, delicious, and sustainable. Includes a kitchen essentials checklist and ebook download.
+
 ---
 
 ## Four Pillars of Dietary Prevention

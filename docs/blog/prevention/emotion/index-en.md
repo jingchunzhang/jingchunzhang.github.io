@@ -33,6 +33,9 @@ Breaks emotional eating into identifiable steps and adds low‑cost buffers to r
 
 Breathing, body scan, short movement, and quick journaling—small tools to create a gap between urge and action.
 
+#### [Diabetes FAQs Answered: A Knowledge Guide to Relieve Anxiety](./diabetes-common-questions-answered-en.md)
+
+Collects the most common questions about diabetes from patients and families, covering emotional regulation, dietary misconceptions, and daily monitoring, with a management checklist and ebook download.
 **Main Content**:
 - Connection between global mental health crisis and diabetes epidemic
 - Scientific principles of hypothalamic-pituitary-adrenal (HPA) axis and cortisol secretion

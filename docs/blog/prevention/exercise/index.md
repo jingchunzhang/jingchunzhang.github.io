@@ -22,4 +22,8 @@ translation_key: prevention-exercise-index
     <a href="./strength-training-insulin-sensitivity.md">力量训练不是健身房专属：肌肉 = 更稳的代谢底盘</a>
     <span> - 2026-03-02</span>
   </li>
+  <li>
+    <a href="./prediabetes-early-warning-signs.md">糖尿病前期预警信号：这个月先盯住哪些指标</a>
+    <span> - 2026-03-09</span>
+  </li>
 </ul>

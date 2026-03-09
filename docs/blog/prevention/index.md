@@ -26,6 +26,7 @@ translation_key: prevention/index
 - **[食疗知慧：通过均衡饮食科学预防糖尿病](./diet/balanced-diet-diabetes-prevention.md)**
 - **[如何用 GI/GL 让血糖更稳定（预防篇）](./diet/glycemic-index-load-diabetes-prevention.md)**
 - **[豆类、纤维与抗性淀粉：预防胰岛素抵抗的“底盘”](./diet/legumes-resistant-starch-diabetes-prevention.md)**
+- **[低GI烹饪实践指南：让每餐都成为控糖利器](./diet/low-glycemic-cooking-practical-guide.md)**
 - **均衡营养**: 如何搭配主食、蛋白质、脂肪和蔬菜。
 - **血糖生成指数(GI)**: 选择低GI食物, 避免血糖剧烈波动。
 - **健康烹饪**: 采用蒸、煮、快炒等方式, 减少油盐糖的摄入。
@@ -39,6 +40,7 @@ translation_key: prevention/index
 - **抗阻训练**: 如举重、弹力带训练, 增加肌肉量, 提高基础代谢。
 - **运动频率与时长**: 根据国际指南, 建议每周至少150分钟的中等强度运动。
 - **久坐的危害**: 如何在日常工作和生活中见缝插针地活动身体。
+- **[糖尿病前期早期预警信号：运动干预的黄金窗口](./exercise/prediabetes-early-warning-signs.md)**
 
 ### 3. [充足睡眠 (Sleep)](./sleep/)
 
@@ -49,6 +51,7 @@ translation_key: prevention/index
 - **优化睡眠环境**: 打造一个有利于深度睡眠的卧室环境。
 - **睡眠呼吸暂停**: 识别这种与2型糖尿病密切相关的睡眠障碍。
 - **妊娠期睡眠管理**: 孕妇特有的睡眠挑战与安全改善策略。
+- **[糖尿病A到Z基础知识：睡眠与血糖关系全解析](./sleep/diabetes-a-to-z-basics.md)**
 
 ### 4. [情绪管理 (Emotional Health)](./emotion/)
 
@@ -58,6 +61,7 @@ translation_key: prevention/index
 - **正念与冥想**: 学习通过冥想等方式来减轻压力。
 - **识别情绪性进食**: 如何区分生理饥饿和心理饥饿。
 - **寻求支持**: 建立社会支持网络, 积极应对生活挑战。
+- **[糖尿病高频问题实用解答：缓解焦虑的知识指南](./emotion/diabetes-common-questions-answered.md)**
 
 ---
 

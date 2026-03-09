@@ -26,6 +26,7 @@ Diet is the foundation of diabetes prevention. A reasonable diet structure helps
 - **[Nutritional Wisdom: Scientific Diabetes Prevention Through Balanced Diet](./diet/balanced-diet-diabetes-prevention-en.md)**
 - **[Glycemic Index (GI) & Glycemic Load (GL): Practical Tools for Diabetes Prevention](./diet/glycemic-index-load-diabetes-prevention-en.md)**
 - **[Legumes & Resistant Starch: A “Slow-Carb” Strategy for Diabetes Prevention](./diet/legumes-resistant-starch-diabetes-prevention-en.md)**
+- **[Low-GI Cooking Practical Guide: Make Every Meal a Blood Sugar Control Tool](./diet/low-glycemic-cooking-practical-guide-en.md)**
 - **Balanced Nutrition**: How to pair staples, proteins, fats, and vegetables.
 - **Glycemic Index (GI)**: Choose low-GI foods to avoid drastic blood sugar fluctuations.
 - **Healthy Cooking**: Use methods like steaming, boiling, and quick stir-frying to reduce oil, salt, and sugar intake.
@@ -39,6 +40,7 @@ Exercise is one of the most effective ways to improve insulin sensitivity and co
 - **Resistance Training**: Like weight training, elastic band training, to increase muscle mass and improve basal metabolism.
 - **Exercise Frequency and Duration**: According to international guidelines, at least 150 minutes of moderate-intensity exercise per week is recommended.
 - **Dangers of Sedentary Lifestyle**: How to find opportunities to move your body in daily work and life.
+- **[Prediabetes Early Warning Signs: The Golden Window for Exercise Intervention](./exercise/prediabetes-early-warning-signs-en.md)**
 
 ### 3. [Adequate Sleep](./sleep/)
 
@@ -49,6 +51,7 @@ Sleep quality is closely related to endocrine health. Long-term sleep deprivatio
 - **Optimizing Sleep Environment**: Create a bedroom environment conducive to deep sleep.
 - **Sleep Apnea**: Recognizing this sleep disorder closely related to Type 2 diabetes.
 - **Sleep Management During Pregnancy**: Unique sleep challenges and safe improvement strategies for pregnant women.
+- **[Diabetes A to Z Basics: A Complete Analysis of Sleep and Blood Sugar Relationships](./sleep/diabetes-a-to-z-basics-en.md)**
 
 ### 4. [Emotion Management](./emotion/)
 
@@ -58,6 +61,7 @@ Long-term stress and negative emotions can lead to elevated stress hormones, the
 - **Mindfulness and Meditation**: Learn to reduce stress through meditation and other methods.
 - **Identifying Emotional Eating**: How to distinguish physiological hunger from psychological hunger.
 - **Seeking Support**: Build a social support network to actively cope with life challenges.
+- **[Diabetes FAQs Answered: A Knowledge Guide to Relieve Anxiety](./emotion/diabetes-common-questions-answered-en.md)**
 
 ---
 

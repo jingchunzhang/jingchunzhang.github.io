@@ -22,6 +22,10 @@ translation_key: prevention-exercise-index
     <a href="./strength-training-insulin-sensitivity-en.md">Strength Training Isn’t Just for Gyms: Muscle Is a Metabolic Foundation</a>
     <span> - 2026-03-02</span>
   </li>
+  <li>
+    <a href="./prediabetes-early-warning-signs-en.md">Prediabetes Early Warning Signs: What to Track This Month</a>
+    <span> - 2026-03-09</span>
+  </li>
 </ul>
 
 [Back to Prevention Home](../)

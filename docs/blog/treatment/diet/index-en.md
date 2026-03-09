@@ -17,8 +17,9 @@ During treatment, diet is about **stable glucose, sustainable weight/metabolic i
 
 ## More articles
 
-- [Nutrient Density (ANDI) & “Eat to Live”: An Upgrade Path for Treatment Diet](./nutrient-density-andi-eat-for-life-diabetes-treatment-en.md)
-- [Hunger Control & “Toxic Hunger”: Reduce Cravings to Stabilize Blood Sugar](./hunger-control-toxic-hunger-diabetes-treatment-en.md)
+- [Nutrient Density (ANDI) & "Eat to Live": An Upgrade Path for Treatment Diet](./nutrient-density-andi-eat-for-life-diabetes-treatment-en.md)
+- [Hunger Control & "Toxic Hunger": Reduce Cravings to Stabilize Blood Sugar](./hunger-control-toxic-hunger-diabetes-treatment-en.md)
+- [A Home Diabetes Management Framework You Can Actually Maintain](./home-diabetes-management-framework-en.md)
 - [Natural Carb Blocker: Mulberry Leaf Tea for Diabetes Management](./mulberry-leaf-tea-diabetes-management-en.md)
 
 ## Related

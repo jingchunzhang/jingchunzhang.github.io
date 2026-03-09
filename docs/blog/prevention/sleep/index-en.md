@@ -33,6 +33,10 @@ Why timing consistency (not only hours) can shape appetite, fatigue, and habits 
 
 A simple caffeine timing strategy so energy support doesn’t come at the cost of sleep.
 
+#### [Diabetes A-to-Z Basics: A Practical Starting Point](./diabetes-a-to-z-basics-en.md)
+
+A structured A-to-Z knowledge framework for the newly diagnosed and family supporters: sleep, diet, exercise, and daily management, with a 7-day action checklist and ebook download.
+
 **Main Content**:
 - Connection between global sleep crisis and diabetes epidemic
 - Scientific principles of blood sugar 24-hour rhythm and cortisol secretion

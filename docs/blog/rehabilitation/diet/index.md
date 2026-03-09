@@ -16,6 +16,7 @@ translation_key: rehab-diet-index
 
 - [康复期长期饮食策略：从“控得住”到“吃得久”](./long-term-diet-diabetes-recovery.md)
 - [康复期坚果与种子怎么吃：脂肪质量、份量与心血管风险](./nuts-seeds-diabetes-rehab.md)
+- [糖尿病预防与治疗路线图：一步一步做对](./diabetes-prevention-treatment-roadmap.md)
 
 ## 你可能也需要
 

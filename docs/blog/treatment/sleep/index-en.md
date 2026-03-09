@@ -13,7 +13,8 @@ Sleep affects insulin sensitivity, appetite regulation, and stress hormones. Get
 
 ## Featured
 
-- [Sleep and Metabolism in Diabetes Treatment: The “Night Shift” That Stabilizes Glucose](./sleep-metabolism-diabetes-treatment-en.md)
+- [Sleep and Metabolism in Diabetes Treatment: The "Night Shift" That Stabilizes Glucose](./sleep-metabolism-diabetes-treatment-en.md)
+- [Endocrinology Tests for Diabetes Follow-Up: What Matters Most](./endocrinology-tests-for-diabetes-followup-en.md)
 
 ## Related
 

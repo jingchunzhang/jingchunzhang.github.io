@@ -14,6 +14,7 @@ Exercise during treatment should balance **glucose-lowering benefits** with **hy
 ## Featured
 
 - [Exercise During Diabetes Treatment: A Safe, Effective Prescription You Can Sustain](./exercise-prescription-diabetes-treatment-en.md)
+- [Type 2 Diabetes Monitoring Protocols: A Practical Home Version](./type2-diabetes-monitoring-protocols-en.md)
 
 ## Related
 

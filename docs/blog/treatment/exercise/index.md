@@ -14,6 +14,7 @@ translation_key: treatment-exercise-index
 ## 核心文章
 
 - [治疗期运动处方：安全、有效、可坚持的控糖训练](./exercise-prescription-diabetes-treatment.md)
+- [2型糖尿病监测协议：家庭可执行版本](./type2-diabetes-monitoring-protocols.md)
 
 ## 你可能也需要
 

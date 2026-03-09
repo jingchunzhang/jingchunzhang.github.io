@@ -50,6 +50,25 @@ Use these role identities for bylines and narrative perspective:
 - Add affiliate recommendations only when contextually relevant.
 - Add an independent-site CTA for the deeper solution, toolkit, or paid offer.
 
+## Mandatory classification taxonomy (for diabetes funnel posts)
+- Every new post MUST be classified into a 2-level path:
+  1) Stage: `prevention | treatment | rehabilitation`
+  2) Dimension: `exercise | diet | emotion | sleep`
+- Final path format MUST be:
+  - `docs/blog/{stage}/{dimension}/{slug}.md` (ZH)
+  - `docs/blog/{stage}/{dimension}/{slug}-en.md` (EN)
+- Do not keep duplicate top-level copies under `docs/blog/{slug}.md` once migrated.
+- Index sync is mandatory for each published pair:
+  - `docs/blog/index.md` and `docs/blog/index-en.md`
+  - `docs/blog/{stage}/index.md` and `docs/blog/{stage}/index-en.md`
+  - `docs/blog/{stage}/{dimension}/index.md` and `docs/blog/{stage}/{dimension}/index-en.md`
+
+## Mandatory content length range
+- Chinese (ZH) long-form target: **1500–2000 Chinese characters** per post.
+- English (EN) long-form target: **1200–1800 words** per post.
+- If the first draft is below target, expand with practical sections (framework, checklist, FAQ, scenarios, cautions) before marking complete.
+- Keep medical tone conservative: no cure claims, no absolute guarantees.
+
 ## Required front matter fields for persona publishing
 - `author_id`: one of `zzh|kelvin|yyh|gwx|zyn|zhl|wep`
 - `author_name`: display name (can be `zzh`, `kelvin`, etc.)
