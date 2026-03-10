@@ -35,8 +35,6 @@ translation_key: blog
 *   **[治疗期家庭晚餐轮换：用舒适食物模板减少全家执行阻力](./treatment/diet/comfort-food-family-dinner-rotation-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[治疗期外食替换清单：舒适餐馆也能做出控糖友好选择](./treatment/diet/comfort-food-eating-out-swap-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[治疗期夜间饥饿应对：舒适感与血糖安全的双平衡](./treatment/diet/comfort-food-late-night-hunger-plan-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
-*   **[治疗期周末舒适餐修复日：一周波动后的温和重置](./treatment/diet/comfort-food-weekend-recovery-routine-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
-*   **[治疗期舒适食物采购清单：一次采购，减少一周临时失控](./treatment/diet/comfort-food-grocery-list-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[糖尿病前期预警信号：这个月先盯住哪些指标](./prevention/exercise/prediabetes-early-warning-signs)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[糖尿病关键术语速通：把看不懂变成看得懂](./rehabilitation/emotion/diabetes-terms-you-should-know)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[家庭糖尿病管理框架：能长期坚持的实用版本](./treatment/diet/home-diabetes-management-framework)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>

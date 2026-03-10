@@ -30,8 +30,6 @@ translation_key: treatment-index-en
    - [治疗期家庭晚餐轮换：用舒适食物模板减少全家执行阻力](./diet/comfort-food-family-dinner-rotation-diabetes-treatment.md)
    - [治疗期外食替换清单：舒适餐馆也能做出控糖友好选择](./diet/comfort-food-eating-out-swap-diabetes-treatment.md)
    - [治疗期夜间饥饿应对：舒适感与血糖安全的双平衡](./diet/comfort-food-late-night-hunger-plan-diabetes-treatment.md)
-   - [治疗期周末舒适餐修复日：一周波动后的温和重置](./diet/comfort-food-weekend-recovery-routine-diabetes-treatment.md)
-   - [治疗期舒适食物采购清单：一次采购，减少一周临时失控](./diet/comfort-food-grocery-list-diabetes-treatment.md)
 2. [运动处方](./exercise/)
    - [治疗期运动处方：安全、有效、可坚持的控糖训练](./exercise/exercise-prescription-diabetes-treatment.md)
    - [2型糖尿病监测协议：家庭可执行版本](./exercise/type2-diabetes-monitoring-protocols.md)

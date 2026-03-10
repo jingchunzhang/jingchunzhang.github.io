@@ -222,3 +222,59 @@ Continue if you have next steps, or stop and ask for clarification if you are un
 
 ### Next step
 后续每日按 10 组双语配额执行；若需切换到其它 stage/dimension（如 prevention/sleep 或 rehabilitation/emotion），在当日 manifest 中分配主题池并同步三层索引。
+
+---
+
+## 2026-03-10 12:18 (Asia/Shanghai)
+
+### User
+有两点需要注意，1, 博客字数在1500-2000字； 2, 尽可能图文并茂， 图片你自己找； 请更新今天的blog， 并写到skills中去。
+
+### Assistant
+- 已把新质量约束写入 skills：
+  - `docs/.opencode/skills/ebook-funnel-pipeline/SKILL.md`
+  - `docs/.opencode/skills/ebook-funnel-blog-writer/SKILL.md`
+- 新增硬规则：
+  1) 中文单篇目标 **1500–2000 中文字**；
+  2) 同日文章不能保留为短草稿；
+  3) 尽可能图文并茂，优先每篇加入 **2 张以上相关图片**；
+  4) 图片应服务理解，不做纯装饰填充。
+- 已回头修正今天的 10 篇中文 comfort-food 治疗期文章：全部扩写到 1500+ 中文字，并为每篇加入 2 张图片。
+- 今日中文 10 篇最终统计（均在 `docs/blog/treatment/diet/`）：
+  - `comfort-food-diabetes-treatment.md` → 1725 字 / 2 图
+  - `comfort-food-breakfast-template-diabetes-treatment.md` → 1787 字 / 2 图
+  - `comfort-food-soup-noodle-rebuild-diabetes-treatment.md` → 1638 字 / 2 图
+  - `comfort-food-casserole-rice-balance-diabetes-treatment.md` → 1638 字 / 2 图
+  - `comfort-food-dessert-portion-strategy-diabetes-treatment.md` → 1503 字 / 2 图
+  - `comfort-food-snack-craving-control-diabetes-treatment.md` → 1534 字 / 2 图
+  - `comfort-food-meal-prep-batch-cooking-diabetes-treatment.md` → 1512 字 / 2 图
+  - `comfort-food-family-dinner-rotation-diabetes-treatment.md` → 1522 字 / 2 图
+  - `comfort-food-eating-out-swap-diabetes-treatment.md` → 1531 字 / 2 图
+  - `comfort-food-late-night-hunger-plan-diabetes-treatment.md` → 1502 字 / 2 图
+- 同时把昨天超额生成的 2 组文章移除，恢复为你要求的“今日正好 10 组双语配额”。
+
+### Next step
+继续按同样标准补齐今天对应的英文长文版本，并在后续每日生成时从第一稿就直接满足字数与图片要求。
+
+---
+
+## 2026-03-10 12:36 (Asia/Shanghai)
+
+### User
+请继续处理英文博客， 扩充字数+图文并茂
+
+### Assistant
+- 已继续处理今天的 10 篇英文 comfort-food 治疗期文章（路径均在 `docs/blog/treatment/diet/`）。
+- 当前已完成的改动：
+  1) 10 篇英文页全部从短稿扩成有正文结构的文章；
+  2) 10 篇英文页全部补上 **2 张图片**；
+  3) 已重点重写主文、早餐、汤面、焗饭、甜食、加餐、外食、家庭晚餐、夜间饥饿、批量备餐等主题。
+- 当前英文词数复核（节选）：
+  - `comfort-food-diabetes-treatment-en.md` → 1097 words / 2 images
+  - `comfort-food-breakfast-template-diabetes-treatment-en.md` → 772 words / 2 images
+  - `comfort-food-soup-noodle-rebuild-diabetes-treatment-en.md` → 738 words / 2 images
+  - 其余 7 篇约 243–469 words / 2 images
+- 结论：英文页面的“图文并茂”已补齐，但长文长度还需继续扩写，尚未全部达到既定英文长文目标。
+
+### Next step
+继续把最短的英文页（外食、家庭晚餐、夜间、备餐、加餐、甜食、焗饭）扩到更完整的长文标准，再回头补早餐/汤面等中等长度页。

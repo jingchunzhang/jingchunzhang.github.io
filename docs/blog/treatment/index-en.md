@@ -37,8 +37,6 @@ This section is organized into four dimensions for consistent navigation and int
   - [Family Dinner Rotation for Diabetes Treatment Comfort Meals](./diet/comfort-food-family-dinner-rotation-diabetes-treatment-en.md)
   - [Eating-Out Swap Guide for Comfort Food in Diabetes Treatment](./diet/comfort-food-eating-out-swap-diabetes-treatment-en.md)
   - [Late-Night Hunger Plan for Comfort Food in Diabetes Treatment](./diet/comfort-food-late-night-hunger-plan-diabetes-treatment-en.md)
-  - [Weekend Recovery Routine with Comfort Food in Diabetes Treatment](./diet/comfort-food-weekend-recovery-routine-diabetes-treatment-en.md)
-  - [Comfort-Food Grocery List for Diabetes Treatment](./diet/comfort-food-grocery-list-diabetes-treatment-en.md)
 - Exercise
   - [Exercise During Diabetes Treatment: A Safe, Effective Prescription You Can Sustain](./exercise/exercise-prescription-diabetes-treatment-en.md)
   - [Type 2 Diabetes Monitoring Protocols: A Practical Home Version](./exercise/type2-diabetes-monitoring-protocols-en.md)
