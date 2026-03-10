@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beyond Weight Loss: Understanding the Biological Link Between Obesity and Type 2 Diabetes
+title: "Beyond Weight Loss: Understanding the Biological Link Between Obesity and Type 2 Diabetes"
 description: "Reveals how obesity is not just a risk factor but a complex chronic disease that actively drives insulin resistance through chronic inflammation and hormonal disruption."
 author: "Dane Zhang (张杨)"
 author_title: "Health Tech Researcher"

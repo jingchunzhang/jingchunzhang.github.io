@@ -25,6 +25,7 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 ## Living with Diabetes (Latest Updates)
 
 *   **[Diabetes A-to-Z Basics: A Practical Starting Point](./prevention/sleep/diabetes-a-to-z-basics-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[Comfort Food During Diabetes Treatment: Keep the Satisfaction Without Losing Glucose Stability](./treatment/diet/comfort-food-diabetes-treatment-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[Prediabetes Early Warning Signs: What to Track This Month](./prevention/exercise/prediabetes-early-warning-signs-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[Diabetes Terms You Should Know (Without the Confusion)](./rehabilitation/emotion/diabetes-terms-you-should-know-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[A Home Diabetes Management Framework You Can Actually Maintain](./treatment/diet/home-diabetes-management-framework-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>

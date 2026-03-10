@@ -10,6 +10,12 @@ version: 1.2.0
 - You want to run the entire daily ebook funnel from intake to delivery.
 - You need one repeatable checklist that coordinates all downstream skills.
 
+## Hard execution constraints (project policy)
+- Markdown-only output for blog generation tasks (`*.md` files only).
+- Do NOT run `bundle` commands (`bundle exec jekyll build|serve` etc.) during blog-generation execution.
+- Do NOT run git commit/push/amend/rebase as part of blog-generation execution.
+- If verification is needed, use content-level checks (front matter completeness, path/index sync, URL checks), not site builds.
+
 ## Pipeline order
 1. `ebook-asset-intake`
 2. `ebook-funnel-monetization`

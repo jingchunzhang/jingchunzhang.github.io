@@ -25,6 +25,7 @@ translation_key: blog
 ## 生活与管理 (最新更新)
 
 *   **[糖尿病A到Z基础入门：一份实用起步指南](./prevention/sleep/diabetes-a-to-z-basics)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[糖尿病治疗期的舒适食物改造法：吃得满足，也把血糖守住](./treatment/diet/comfort-food-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[糖尿病前期预警信号：这个月先盯住哪些指标](./prevention/exercise/prediabetes-early-warning-signs)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[糖尿病关键术语速通：把看不懂变成看得懂](./rehabilitation/emotion/diabetes-terms-you-should-know)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[家庭糖尿病管理框架：能长期坚持的实用版本](./treatment/diet/home-diabetes-management-framework)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>

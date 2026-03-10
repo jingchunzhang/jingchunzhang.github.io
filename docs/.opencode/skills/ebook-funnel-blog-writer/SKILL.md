@@ -11,6 +11,12 @@ version: 1.2.0
 - You want to publish a blog post that brings search traffic and converts readers into subscribers or buyers.
 - You need a post that supports three monetization paths: Google ads, independent site, and affiliate links.
 
+## Hard execution constraints (project policy)
+- Output scope is Markdown content only (`*.md` blog and index updates).
+- Do NOT run `bundle` or any Jekyll build/serve command while executing this skill.
+- Do NOT run git commit/push/amend/rebase while executing this skill.
+- Completion is defined by md file generation/update quality and index synchronization, not by build execution.
+
 ## Primary goal
 Turn one ebook into one high-intent funnel article that:
 - ranks for a specific long-tail search intent

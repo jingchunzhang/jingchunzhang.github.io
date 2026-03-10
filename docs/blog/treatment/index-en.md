@@ -27,6 +27,7 @@ This section is organized into four dimensions for consistent navigation and int
   - [Nutrient Density (ANDI) & "Eat to Live": An Upgrade Path for Treatment Diet](./diet/nutrient-density-andi-eat-for-life-diabetes-treatment-en.md)
   - [Hunger Control & "Toxic Hunger": Reduce Cravings to Stabilize Blood Sugar](./diet/hunger-control-toxic-hunger-diabetes-treatment-en.md)
   - [A Home Diabetes Management Framework You Can Actually Maintain](./diet/home-diabetes-management-framework-en.md)
+  - [Comfort Food During Diabetes Treatment: Keep the Satisfaction Without Losing Glucose Stability](./diet/comfort-food-diabetes-treatment-en.md)
 - Exercise
   - [Exercise During Diabetes Treatment: A Safe, Effective Prescription You Can Sustain](./exercise/exercise-prescription-diabetes-treatment-en.md)
   - [Type 2 Diabetes Monitoring Protocols: A Practical Home Version](./exercise/type2-diabetes-monitoring-protocols-en.md)

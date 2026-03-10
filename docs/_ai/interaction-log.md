@@ -156,3 +156,46 @@ Continue if you have next steps, or stop and ask for clarification if you are un
 
 ### Next step
 选 1-2 篇图书导流文章，先用 `seo-book-schema-strategy` 和 `seo-book-jsonld-writer` 生成 schema 草案，再用 `seo-schema-validation-loop` 产出首轮修复清单。
+
+---
+
+## 2026-03-10 10:55 (Asia/Shanghai)
+
+### User
+请完成今日博客生成任务.
+
+### Assistant
+- 检查了 `docs/_book/manifests/20260309-ebook-funnel-manifest.csv`、`docs/_book/author-role-rotation.csv`、`docs/_book/templates/jekyll-front-matter-persona.md` 以及 `docs/blog/` 下现有双语文章和三层索引，确认 20260309 清单里的 10 个导流主题都已生成，不能重复发。
+- 继续扫描 `/media/danezhang/Elements/seo/blog/ebook`，发现 2026-03-10 新增饮食类素材 `The Diabetes Comfort Food Diet Cookbook ... .epub`，并按周二轮换表使用 `kelvin`（研究人员）为作者、`yyh` 为审阅者。
+- 将电子书上传到下载服务器：`https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub`，远端文件存在且公网 `HTTP 200`。
+- 新增今日 manifest：`docs/_book/manifests/20260310-ebook-funnel-manifest.csv`。
+- 新增中英双语治疗期饮食文章：
+  - `docs/blog/treatment/diet/comfort-food-diabetes-treatment.md`
+  - `docs/blog/treatment/diet/comfort-food-diabetes-treatment-en.md`
+- 同步更新三层索引入口：
+  - `docs/blog/index.md` / `docs/blog/index-en.md`
+  - `docs/blog/treatment/index.md` / `docs/blog/treatment/index-en.md`
+  - `docs/blog/treatment/diet/index.md` / `docs/blog/treatment/diet/index-en.md`
+
+### Next step
+运行 LSP + Jekyll build 进行最终校验；如通过，后续可继续补邮件订阅表单接入和 schema/JSON-LD。
+
+---
+
+## 2026-03-10 11:08 (Asia/Shanghai)
+
+### User
+不用跑构建，不用执行bundle命令， 不用git提交。  按需求生成md博客文章即可， 请把这些记录到skills。
+
+### Assistant
+- 已将该约束固化到以下 skills，作为执行硬规则：
+  - `docs/.opencode/skills/ebook-funnel-pipeline/SKILL.md`
+  - `docs/.opencode/skills/ebook-funnel-blog-writer/SKILL.md`
+- 新增的规则包含：
+  1) 博客任务只输出/更新 `*.md`；
+  2) 禁止运行 `bundle`/Jekyll build/serve；
+  3) 禁止执行 git commit/push/amend/rebase；
+  4) 以 md 质量与索引同步作为完成标准。
+
+### Next step
+后续所有“今日博客生成”任务按 md-only 模式执行，不再触发 bundle 构建与 git 提交流程。
