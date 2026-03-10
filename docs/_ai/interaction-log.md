@@ -199,3 +199,26 @@ Continue if you have next steps, or stop and ask for clarification if you are un
 
 ### Next step
 后续所有“今日博客生成”任务按 md-only 模式执行，不再触发 bundle 构建与 git 提交流程。
+
+---
+
+## 2026-03-10 11:22 (Asia/Shanghai)
+
+### User
+每天要生成10篇中文以及对应的10篇英文博客， 不是1篇， 请补充到skills，并请完成今天剩余的博客生成任务
+
+### Assistant
+- 已将“每日 10 篇中文 + 对应 10 篇英文（10 组双语）”写入 skills：
+  - `docs/.opencode/skills/ebook-funnel-pipeline/SKILL.md`
+  - `docs/.opencode/skills/ebook-funnel-blog-writer/SKILL.md`
+- 在 `md-only` 约束下补齐今日剩余内容（新增 9 组双语，连同已完成 1 组，共 10 组双语）：
+  - 已新增 18 个文件（9 个中文 + 9 个英文）到 `docs/blog/treatment/diet/`
+  - 主题均围绕 comfort-food 治疗期执行（早餐、汤面、焗饭、甜食、加餐、备餐、家庭晚餐、外食、夜间、周末修复、采购）
+- 已同步更新：
+  - `docs/_book/manifests/20260310-ebook-funnel-manifest.csv`（补齐 10 条 slug 记录）
+  - `docs/blog/index.md` / `docs/blog/index-en.md`
+  - `docs/blog/treatment/index.md` / `docs/blog/treatment/index-en.md`
+  - `docs/blog/treatment/diet/index.md` / `docs/blog/treatment/diet/index-en.md`
+
+### Next step
+后续每日按 10 组双语配额执行；若需切换到其它 stage/dimension（如 prevention/sleep 或 rehabilitation/emotion），在当日 manifest 中分配主题池并同步三层索引。

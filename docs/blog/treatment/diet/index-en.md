@@ -21,6 +21,17 @@ During treatment, diet is about **stable glucose, sustainable weight/metabolic i
 - [Hunger Control & "Toxic Hunger": Reduce Cravings to Stabilize Blood Sugar](./hunger-control-toxic-hunger-diabetes-treatment-en.md)
 - [A Home Diabetes Management Framework You Can Actually Maintain](./home-diabetes-management-framework-en.md)
 - [Comfort Food During Diabetes Treatment: Keep the Satisfaction Without Losing Glucose Stability](./comfort-food-diabetes-treatment-en.md)
+- [Comfort-Food Breakfast Template for Diabetes Treatment: Start Stable, Stay Stable](./comfort-food-breakfast-template-diabetes-treatment-en.md)
+- [Rebuilding Comfort Soup Noodles During Diabetes Treatment](./comfort-food-soup-noodle-rebuild-diabetes-treatment-en.md)
+- [Balancing Casseroles and Rice Bakes in Diabetes Treatment](./comfort-food-casserole-rice-balance-diabetes-treatment-en.md)
+- [Dessert Portion Strategy for Diabetes Treatment](./comfort-food-dessert-portion-strategy-diabetes-treatment-en.md)
+- [Snack and Craving Control in Diabetes Treatment](./comfort-food-snack-craving-control-diabetes-treatment-en.md)
+- [Batch Cooking Comfort Food for Diabetes Treatment](./comfort-food-meal-prep-batch-cooking-diabetes-treatment-en.md)
+- [Family Dinner Rotation for Diabetes Treatment Comfort Meals](./comfort-food-family-dinner-rotation-diabetes-treatment-en.md)
+- [Eating-Out Swap Guide for Comfort Food in Diabetes Treatment](./comfort-food-eating-out-swap-diabetes-treatment-en.md)
+- [Late-Night Hunger Plan for Comfort Food in Diabetes Treatment](./comfort-food-late-night-hunger-plan-diabetes-treatment-en.md)
+- [Weekend Recovery Routine with Comfort Food in Diabetes Treatment](./comfort-food-weekend-recovery-routine-diabetes-treatment-en.md)
+- [Comfort-Food Grocery List for Diabetes Treatment](./comfort-food-grocery-list-diabetes-treatment-en.md)
 - [Natural Carb Blocker: Mulberry Leaf Tea for Diabetes Management](./mulberry-leaf-tea-diabetes-management-en.md)
 
 ## Related

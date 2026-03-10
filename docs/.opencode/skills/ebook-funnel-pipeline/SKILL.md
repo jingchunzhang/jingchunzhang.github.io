@@ -16,6 +16,11 @@ version: 1.2.0
 - Do NOT run git commit/push/amend/rebase as part of blog-generation execution.
 - If verification is needed, use content-level checks (front matter completeness, path/index sync, URL checks), not site builds.
 
+## Daily output quota (mandatory)
+- Generate **10 Chinese posts + 10 corresponding English posts** every publishing day.
+- "Corresponding" means each ZH post has a paired EN post with the same `translation_key` and matched slug family (`slug` / `slug-en`).
+- If one bilingual pair is already produced, continue generating the remaining pairs in the same day until the daily total reaches 10 pairs.
+
 ## Pipeline order
 1. `ebook-asset-intake`
 2. `ebook-funnel-monetization`

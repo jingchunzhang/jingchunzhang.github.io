@@ -26,6 +26,17 @@ translation_key: blog
 
 *   **[糖尿病A到Z基础入门：一份实用起步指南](./prevention/sleep/diabetes-a-to-z-basics)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[糖尿病治疗期的舒适食物改造法：吃得满足，也把血糖守住](./treatment/diet/comfort-food-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[治疗期舒适早餐模板：早上吃得稳，全天更好控糖](./treatment/diet/comfort-food-breakfast-template-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[治疗期汤面重建：保留热汤满足感，降低餐后冲高](./treatment/diet/comfort-food-soup-noodle-rebuild-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[焗饭与炖饭的治疗期平衡法：少一点精制主食，多一点稳定](./treatment/diet/comfort-food-casserole-rice-balance-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[治疗期甜食份量策略：不是绝对禁止，而是有边界地吃](./treatment/diet/comfort-food-dessert-portion-strategy-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[治疗期加餐与馋意控制：把冲动进食变成可管理流程](./treatment/diet/comfort-food-snack-craving-control-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[治疗期舒适食物批量备餐：忙碌日也能守住饮食结构](./treatment/diet/comfort-food-meal-prep-batch-cooking-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[治疗期家庭晚餐轮换：用舒适食物模板减少全家执行阻力](./treatment/diet/comfort-food-family-dinner-rotation-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[治疗期外食替换清单：舒适餐馆也能做出控糖友好选择](./treatment/diet/comfort-food-eating-out-swap-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[治疗期夜间饥饿应对：舒适感与血糖安全的双平衡](./treatment/diet/comfort-food-late-night-hunger-plan-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[治疗期周末舒适餐修复日：一周波动后的温和重置](./treatment/diet/comfort-food-weekend-recovery-routine-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[治疗期舒适食物采购清单：一次采购，减少一周临时失控](./treatment/diet/comfort-food-grocery-list-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[糖尿病前期预警信号：这个月先盯住哪些指标](./prevention/exercise/prediabetes-early-warning-signs)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[糖尿病关键术语速通：把看不懂变成看得懂](./rehabilitation/emotion/diabetes-terms-you-should-know)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[家庭糖尿病管理框架：能长期坚持的实用版本](./treatment/diet/home-diabetes-management-framework)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>

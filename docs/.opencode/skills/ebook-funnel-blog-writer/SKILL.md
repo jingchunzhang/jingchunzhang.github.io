@@ -17,6 +17,11 @@ version: 1.2.0
 - Do NOT run git commit/push/amend/rebase while executing this skill.
 - Completion is defined by md file generation/update quality and index synchronization, not by build execution.
 
+## Daily production quota (mandatory)
+- Daily target is **10 ZH posts + 10 EN posts** (10 bilingual pairs).
+- Each pair must share one `translation_key`, with ZH/EN slugs aligned by suffix (`-en` for English).
+- If today's run starts after partial completion, generate remaining pairs until reaching 10 bilingual pairs for the day.
+
 ## Primary goal
 Turn one ebook into one high-intent funnel article that:
 - ranks for a specific long-tail search intent

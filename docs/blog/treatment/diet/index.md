@@ -18,6 +18,17 @@ translation_key: treatment-diet-index
 - [治疗期控糖的关键能力：掌控饥饿（毒性饥饿 vs 真实饥饿）](./hunger-control-toxic-hunger-diabetes-treatment.md)
 - [家庭糖尿病管理框架：能长期坚持的实用版本](./home-diabetes-management-framework.md)
 - [糖尿病治疗期的舒适食物改造法：吃得满足，也把血糖守住](./comfort-food-diabetes-treatment.md)
+- [治疗期舒适早餐模板：早上吃得稳，全天更好控糖](./comfort-food-breakfast-template-diabetes-treatment.md)
+- [治疗期汤面重建：保留热汤满足感，降低餐后冲高](./comfort-food-soup-noodle-rebuild-diabetes-treatment.md)
+- [焗饭与炖饭的治疗期平衡法：少一点精制主食，多一点稳定](./comfort-food-casserole-rice-balance-diabetes-treatment.md)
+- [治疗期甜食份量策略：不是绝对禁止，而是有边界地吃](./comfort-food-dessert-portion-strategy-diabetes-treatment.md)
+- [治疗期加餐与馋意控制：把冲动进食变成可管理流程](./comfort-food-snack-craving-control-diabetes-treatment.md)
+- [治疗期舒适食物批量备餐：忙碌日也能守住饮食结构](./comfort-food-meal-prep-batch-cooking-diabetes-treatment.md)
+- [治疗期家庭晚餐轮换：用舒适食物模板减少全家执行阻力](./comfort-food-family-dinner-rotation-diabetes-treatment.md)
+- [治疗期外食替换清单：舒适餐馆也能做出控糖友好选择](./comfort-food-eating-out-swap-diabetes-treatment.md)
+- [治疗期夜间饥饿应对：舒适感与血糖安全的双平衡](./comfort-food-late-night-hunger-plan-diabetes-treatment.md)
+- [治疗期周末舒适餐修复日：一周波动后的温和重置](./comfort-food-weekend-recovery-routine-diabetes-treatment.md)
+- [治疗期舒适食物采购清单：一次采购，减少一周临时失控](./comfort-food-grocery-list-diabetes-treatment.md)
 - [天然碳水阻断剂：桑叶与糖尿病管理](./mulberry-leaf-diabetes-cn.md)
 
 ## 你可能也需要
