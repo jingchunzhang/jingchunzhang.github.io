@@ -77,6 +77,46 @@ Safety‑first guidance: who should avoid IF, how to start gently, and the most 
 
 Plate structure, ingredient swaps, and batch-cooking tactics to make blood sugar-friendly eating simple, delicious, and sustainable. Includes a kitchen essentials checklist and ebook download.
 
+#### [Diabetes Meal Prep for Beginners: Start with Structure Before Recipes](./meal-prep-diabetes-beginners-prevention-en.md)
+
+A starter guide that turns meal prep into a repeatable prevention system built around plate structure, 3.5-day prep cycles, and low-friction weekday meals.
+
+#### [A 30-Day Diabetes-Friendly Meal Plan for Prevention](./30-day-diabetes-meal-plan-prevention-en.md)
+
+A four-week framework that helps readers observe patterns, stabilize breakfast and snacks, strengthen dinners, and review what actually works.
+
+#### [Breakfast Meal Prep for Diabetes Prevention: Build Steadier Mornings](./breakfast-meal-prep-diabetes-prevention-en.md)
+
+Three breakfast templates—warm, refrigerated, and portable—to reduce morning instability and afternoon cravings.
+
+#### [Lunch Box Formula for Diabetes Prevention](./lunch-box-diabetes-prevention-en.md)
+
+A practical packed-lunch structure with clear protein, vegetable, starch, and sauce boundaries for steadier workdays.
+
+#### [Protein Batch Cooking for Diabetes Prevention](./protein-batch-cooking-diabetes-prevention-en.md)
+
+How to prep eggs, tofu, chicken, fish, yogurt, and beans so ordinary meals feel fuller and more stable.
+
+#### [Vegetable Prep Shortcuts for Diabetes Prevention](./vegetable-prep-shortcuts-diabetes-prevention-en.md)
+
+Simple prep methods that make half-plate vegetables realistic instead of aspirational.
+
+#### [Freezer-Friendly Diabetes Dinners for Prevention](./freezer-friendly-diabetes-dinners-prevention-en.md)
+
+Freezer-ready dinner ideas that protect the evening meal when energy and decision quality are lowest.
+
+#### [Grocery List for Diabetes Meal Prep Prevention](./grocery-list-diabetes-meal-prep-prevention-en.md)
+
+A grocery-list system organized by meal modules rather than random “healthy” items, reducing waste and weekday drift.
+
+#### [Snack Box and Craving Control for Diabetes Prevention](./snack-box-craving-control-diabetes-prevention-en.md)
+
+How to build planned, portioned snacks that reduce impulsive sweet-drink and snack patterns.
+
+#### [Dessert Portion Planning for Diabetes Prevention](./dessert-portion-meal-prep-diabetes-prevention-en.md)
+
+A practical framework for keeping dessert inside boundaries instead of letting it become an unplanned compensation loop.
+
 ---
 
 ## Four Pillars of Dietary Prevention

@@ -68,6 +68,46 @@ translation_key: prevention/diet/index
 
 掌握餐盘结构、食材替换与批量备餐策略，让控糖饮食简单、美味且可持续。附测试清单与电子书下载。
 
+#### [给新手的糖尿病预防备餐入门：先搭框架，再谈食谱](./meal-prep-diabetes-beginners-prevention.md)
+
+适合刚开始做 meal prep 的读者，从餐盘结构、三天半启动法到冰箱基础件，一步步把备餐变成可持续习惯。
+
+#### [30天控糖友好餐计划：把预防做成能执行的日程](./30-day-diabetes-meal-plan-prevention.md)
+
+把 30 天分成四周任务：先观察、再固定早餐和加餐、再稳定晚餐，最后复盘，让预防从口号变成节奏。
+
+#### [早餐备餐模板：早上不乱吃，全天更稳](./breakfast-meal-prep-diabetes-prevention.md)
+
+给出热早餐、冷藏早餐和可带走早餐三类模板，帮助减少上午饥饿与下午甜食冲动。
+
+#### [预防糖尿病的午餐盒公式：外带也能吃得稳](./lunch-box-diabetes-prevention.md)
+
+介绍适合工作日的 lunch box 结构、蛋白与蔬菜比例、酱料边界以及最适合复制的三类便当模板。
+
+#### [蛋白质批量备餐：把饱腹和稳糖提前准备好](./protein-batch-cooking-diabetes-prevention.md)
+
+用鸡蛋、豆腐、鱼、鸡肉和酸奶等基础件，建立更稳的正餐和加餐底盘。
+
+#### [蔬菜预处理捷径：让一半餐盘真正落地](./vegetable-prep-shortcuts-diabetes-prevention.md)
+
+从洗切分装到冷冻蔬菜应用，减少蔬菜进入每餐的阻力，让“半盘蔬菜”真正变成现实。
+
+#### [冷冻友好型晚餐：忙碌日也不把预防计划吃乱](./freezer-friendly-diabetes-dinners-prevention.md)
+
+适合工作日晚间的冷冻晚餐模块，帮助你在最累的时候也能快速拼出完整餐盘。
+
+#### [采购清单怎么写：一周备餐不再靠临场发挥](./grocery-list-diabetes-meal-prep-prevention.md)
+
+从蛋白、蔬菜、主食、加餐与调味五个模块写采购清单，减少浪费和工作日失控。
+
+#### [零食盒与馋意控制：把加餐变成计划内选择](./snack-box-craving-control-diabetes-prevention.md)
+
+把加餐从随机冲动改造成小份、可控、有结构的 snack box，降低下午和夜间吃乱的风险。
+
+#### [甜点份量预案：不是彻底不吃，而是提前定边界](./dessert-portion-meal-prep-diabetes-prevention.md)
+
+用 meal prep 思路预设甜点时机和份量，让甜点从临时放纵变成有边界的计划。
+
 
 ---
 

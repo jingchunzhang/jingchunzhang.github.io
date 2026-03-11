@@ -24,6 +24,16 @@ translation_key: blog
 
 ## 生活与管理 (最新更新)
 
+*   **[给新手的糖尿病预防备餐入门：先搭框架，再谈食谱](./prevention/diet/meal-prep-diabetes-beginners-prevention)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[30天控糖友好餐计划：把预防做成能执行的日程](./prevention/diet/30-day-diabetes-meal-plan-prevention)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[早餐备餐模板：早上不乱吃，全天更稳](./prevention/diet/breakfast-meal-prep-diabetes-prevention)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[预防糖尿病的午餐盒公式：外带也能吃得稳](./prevention/diet/lunch-box-diabetes-prevention)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[蛋白质批量备餐：把饱腹和稳糖提前准备好](./prevention/diet/protein-batch-cooking-diabetes-prevention)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[蔬菜预处理捷径：让一半餐盘真正落地](./prevention/diet/vegetable-prep-shortcuts-diabetes-prevention)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[冷冻友好型晚餐：忙碌日也不把预防计划吃乱](./prevention/diet/freezer-friendly-diabetes-dinners-prevention)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[采购清单怎么写：一周备餐不再靠临场发挥](./prevention/diet/grocery-list-diabetes-meal-prep-prevention)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[零食盒与馋意控制：把加餐变成计划内选择](./prevention/diet/snack-box-craving-control-diabetes-prevention)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[甜点份量预案：不是彻底不吃，而是提前定边界](./prevention/diet/dessert-portion-meal-prep-diabetes-prevention)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[糖尿病A到Z基础入门：一份实用起步指南](./prevention/sleep/diabetes-a-to-z-basics)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[糖尿病治疗期的舒适食物改造法：吃得满足，也把血糖守住](./treatment/diet/comfort-food-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[治疗期舒适早餐模板：早上吃得稳，全天更好控糖](./treatment/diet/comfort-food-breakfast-template-diabetes-treatment)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>

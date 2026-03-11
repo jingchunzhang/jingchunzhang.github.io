@@ -27,6 +27,16 @@ Diet is the foundation of diabetes prevention. A reasonable diet structure helps
 - **[Glycemic Index (GI) & Glycemic Load (GL): Practical Tools for Diabetes Prevention](./diet/glycemic-index-load-diabetes-prevention-en.md)**
 - **[Legumes & Resistant Starch: A “Slow-Carb” Strategy for Diabetes Prevention](./diet/legumes-resistant-starch-diabetes-prevention-en.md)**
 - **[Low-GI Cooking Practical Guide: Make Every Meal a Blood Sugar Control Tool](./diet/low-glycemic-cooking-practical-guide-en.md)**
+- **[Diabetes Meal Prep for Beginners: Start with Structure Before Recipes](./diet/meal-prep-diabetes-beginners-prevention-en.md)**
+- **[A 30-Day Diabetes-Friendly Meal Plan for Prevention](./diet/30-day-diabetes-meal-plan-prevention-en.md)**
+- **[Breakfast Meal Prep for Diabetes Prevention: Build Steadier Mornings](./diet/breakfast-meal-prep-diabetes-prevention-en.md)**
+- **[Lunch Box Formula for Diabetes Prevention](./diet/lunch-box-diabetes-prevention-en.md)**
+- **[Protein Batch Cooking for Diabetes Prevention](./diet/protein-batch-cooking-diabetes-prevention-en.md)**
+- **[Vegetable Prep Shortcuts for Diabetes Prevention](./diet/vegetable-prep-shortcuts-diabetes-prevention-en.md)**
+- **[Freezer-Friendly Diabetes Dinners for Prevention](./diet/freezer-friendly-diabetes-dinners-prevention-en.md)**
+- **[Grocery List for Diabetes Meal Prep Prevention](./diet/grocery-list-diabetes-meal-prep-prevention-en.md)**
+- **[Snack Box and Craving Control for Diabetes Prevention](./diet/snack-box-craving-control-diabetes-prevention-en.md)**
+- **[Dessert Portion Planning for Diabetes Prevention](./diet/dessert-portion-meal-prep-diabetes-prevention-en.md)**
 - **Balanced Nutrition**: How to pair staples, proteins, fats, and vegetables.
 - **Glycemic Index (GI)**: Choose low-GI foods to avoid drastic blood sugar fluctuations.
 - **Healthy Cooking**: Use methods like steaming, boiling, and quick stir-frying to reduce oil, salt, and sugar intake.

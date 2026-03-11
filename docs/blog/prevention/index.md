@@ -27,6 +27,16 @@ translation_key: prevention/index
 - **[如何用 GI/GL 让血糖更稳定（预防篇）](./diet/glycemic-index-load-diabetes-prevention.md)**
 - **[豆类、纤维与抗性淀粉：预防胰岛素抵抗的“底盘”](./diet/legumes-resistant-starch-diabetes-prevention.md)**
 - **[低GI烹饪实践指南：让每餐都成为控糖利器](./diet/low-glycemic-cooking-practical-guide.md)**
+- **[给新手的糖尿病预防备餐入门：先搭框架，再谈食谱](./diet/meal-prep-diabetes-beginners-prevention.md)**
+- **[30天控糖友好餐计划：把预防做成能执行的日程](./diet/30-day-diabetes-meal-plan-prevention.md)**
+- **[早餐备餐模板：早上不乱吃，全天更稳](./diet/breakfast-meal-prep-diabetes-prevention.md)**
+- **[预防糖尿病的午餐盒公式：外带也能吃得稳](./diet/lunch-box-diabetes-prevention.md)**
+- **[蛋白质批量备餐：把饱腹和稳糖提前准备好](./diet/protein-batch-cooking-diabetes-prevention.md)**
+- **[蔬菜预处理捷径：让一半餐盘真正落地](./diet/vegetable-prep-shortcuts-diabetes-prevention.md)**
+- **[冷冻友好型晚餐：忙碌日也不把预防计划吃乱](./diet/freezer-friendly-diabetes-dinners-prevention.md)**
+- **[采购清单怎么写：一周备餐不再靠临场发挥](./diet/grocery-list-diabetes-meal-prep-prevention.md)**
+- **[零食盒与馋意控制：把加餐变成计划内选择](./diet/snack-box-craving-control-diabetes-prevention.md)**
+- **[甜点份量预案：不是彻底不吃，而是提前定边界](./diet/dessert-portion-meal-prep-diabetes-prevention.md)**
 - **均衡营养**: 如何搭配主食、蛋白质、脂肪和蔬菜。
 - **血糖生成指数(GI)**: 选择低GI食物, 避免血糖剧烈波动。
 - **健康烹饪**: 采用蒸、煮、快炒等方式, 减少油盐糖的摄入。

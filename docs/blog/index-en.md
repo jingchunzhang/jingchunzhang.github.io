@@ -24,6 +24,16 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 
 ## Living with Diabetes (Latest Updates)
 
+*   **[Diabetes Meal Prep for Beginners: Start with Structure Before Recipes](./prevention/diet/meal-prep-diabetes-beginners-prevention-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[A 30-Day Diabetes-Friendly Meal Plan for Prevention](./prevention/diet/30-day-diabetes-meal-plan-prevention-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[Breakfast Meal Prep for Diabetes Prevention: Build Steadier Mornings](./prevention/diet/breakfast-meal-prep-diabetes-prevention-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[Lunch Box Formula for Diabetes Prevention](./prevention/diet/lunch-box-diabetes-prevention-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[Protein Batch Cooking for Diabetes Prevention](./prevention/diet/protein-batch-cooking-diabetes-prevention-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[Vegetable Prep Shortcuts for Diabetes Prevention](./prevention/diet/vegetable-prep-shortcuts-diabetes-prevention-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[Freezer-Friendly Diabetes Dinners for Prevention](./prevention/diet/freezer-friendly-diabetes-dinners-prevention-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[Grocery List for Diabetes Meal Prep Prevention](./prevention/diet/grocery-list-diabetes-meal-prep-prevention-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[Snack Box and Craving Control for Diabetes Prevention](./prevention/diet/snack-box-craving-control-diabetes-prevention-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[Dessert Portion Planning for Diabetes Prevention](./prevention/diet/dessert-portion-meal-prep-diabetes-prevention-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[Diabetes A-to-Z Basics: A Practical Starting Point](./prevention/sleep/diabetes-a-to-z-basics-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[Comfort Food During Diabetes Treatment: Keep the Satisfaction Without Losing Glucose Stability](./treatment/diet/comfort-food-diabetes-treatment-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[Comfort-Food Breakfast Template for Diabetes Treatment: Start Stable, Stay Stable](./treatment/diet/comfort-food-breakfast-template-diabetes-treatment-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>

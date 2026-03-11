@@ -278,3 +278,23 @@ Continue if you have next steps, or stop and ask for clarification if you are un
 
 ### Next step
 继续把最短的英文页（外食、家庭晚餐、夜间、备餐、加餐、甜食、焗饭）扩到更完整的长文标准，再回头补早餐/汤面等中等长度页。
+
+---
+
+## 2026-03-11 09:55 (Asia/Shanghai)
+
+### User
+请完成今日博客生成工作
+
+### Assistant
+- 复核了 `docs/.opencode/skills/ebook-funnel-pipeline/SKILL.md`、`ebook-funnel-blog-writer/SKILL.md`、`docs/_book/author-role-rotation.csv`、`docs/_book/templates/jekyll-front-matter-persona.md` 与 `docs/_book/manifests/20260310-ebook-funnel-manifest.csv`，确认今日应继续按 md-only 模式产出 10 组双语，而不是重复昨天的 treatment/diet comfort-food 集群。
+- 选定今日素材：`/media/danezhang/Elements/seo/blog/ebook/Diabetic Meal Prep for Beginners Cookbook with 30-Day Meal Plan to Prevent and Reverse Diabetes Simple and Healthy Recipes… .epub`，并按周三轮换使用 `yyh` 为作者、`kelvin` 为审阅者。
+- 新增今日 manifest：`docs/_book/manifests/20260311-ebook-funnel-manifest.csv`。
+- 在 `docs/blog/prevention/diet/` 新增 10 组中英双语文章（20 个 md 文件），主题围绕 meal prep / 30-day plan / breakfast / lunch box / protein / vegetable prep / freezer dinners / grocery list / snack box / dessert portion。
+- 已同步更新三层索引入口：
+  - `docs/blog/index.md` / `docs/blog/index-en.md`
+  - `docs/blog/prevention/index.md` / `docs/blog/prevention/index-en.md`
+  - `docs/blog/prevention/diet/index.md` / `docs/blog/prevention/diet/index-en.md`
+
+### Next step
+继续做本地内容级校验：核对 10 组 translation_key 成对、图片与 CTA 是否齐全，并补长任何低于目标长度的英文文章。
