@@ -11,6 +11,9 @@ translation_key: prevention/index
 
 欢迎来到糖尿病预防专区。
 
+**专题入口**：
+*   **[孕期与哺乳期糖尿病管理专题（总入口）](./../topic-cluster-pregnancy-lactation.md)**
+
 糖尿病, 尤其是2型糖尿病, 在很大程度上是可以通过积极的生活方式干预来预防或延缓的。预防不仅是避免一种疾病, 更是投资于长期的健康与生活质量。本专区将从**饮食、运动、睡眠、情绪**四个核心维度, 为您提供科学、实用的预防策略。
 
 在开始之前, 了解糖尿病的诊断标准是很有帮助的。您可以参考我们为您整理的权威资料:
@@ -27,6 +30,7 @@ translation_key: prevention/index
 - **[如何用 GI/GL 让血糖更稳定（预防篇）](./diet/glycemic-index-load-diabetes-prevention.md)**
 - **[豆类、纤维与抗性淀粉：预防胰岛素抵抗的“底盘”](./diet/legumes-resistant-starch-diabetes-prevention.md)**
 - **[低GI烹饪实践指南：让每餐都成为控糖利器](./diet/low-glycemic-cooking-practical-guide.md)**
+- **[孕期如何预防妊娠糖尿病：从三餐、体重增长到日常活动的实用框架](./diet/gestational-diabetes-prevention-pregnancy.md)**
 - **[给新手的糖尿病预防备餐入门：先搭框架，再谈食谱](./diet/meal-prep-diabetes-beginners-prevention.md)**
 - **[30天控糖友好餐计划：把预防做成能执行的日程](./diet/30-day-diabetes-meal-plan-prevention.md)**
 - **[早餐备餐模板：早上不乱吃，全天更稳](./diet/breakfast-meal-prep-diabetes-prevention.md)**
@@ -46,6 +50,7 @@ translation_key: prevention/index
 
 运动是提高胰岛素敏感性、控制体重最有效的方式之一。规律的身体活动能直接帮助身体消耗多余的糖分。我们将分享:
 - **[运动是良医：如何通过科学锻炼有效预防糖尿病](./exercise/how-daily-exercise-prevents-diabetes.md)**
+- **[孕期安全运动与妊娠糖尿病预防：把餐后活动变成每日稳定器](./exercise/pregnancy-safe-exercise-gestational-diabetes-prevention.md)**
 - **有氧运动**: 如快走、慢跑、游泳, 提升心肺功能。
 - **抗阻训练**: 如举重、弹力带训练, 增加肌肉量, 提高基础代谢。
 - **运动频率与时长**: 根据国际指南, 建议每周至少150分钟的中等强度运动。
@@ -56,6 +61,7 @@ translation_key: prevention/index
 
 睡眠质量与内分泌健康息息相关。长期睡眠不足或睡眠质量差会干扰激素分泌，增加胰岛素抵抗的风险。我们将关注：
 - **[睡眠是良医：充足优质睡眠如何有效预防糖尿病](./sleep/how-sleep-prevents-diabetes.md)**
+- **[孕期睡眠规律与妊娠糖尿病预防：先把夜晚稳定下来](./sleep/pregnancy-sleep-routine-gestational-diabetes-prevention.md)**
 - **睡眠与激素**: 睡眠如何影响皮质醇、瘦素等关键激素。
 - **建立睡眠节律**: 如何培养规律的作息时间。
 - **优化睡眠环境**: 打造一个有利于深度睡眠的卧室环境。

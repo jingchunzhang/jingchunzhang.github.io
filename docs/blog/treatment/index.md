@@ -11,6 +11,9 @@ translation_key: treatment-index-en
 
 欢迎来到糖尿病治疗专区。
 
+**专题入口**：
+*   **[孕期与哺乳期糖尿病管理专题（总入口）](./../topic-cluster-pregnancy-lactation.md)**
+
 本专区按四个核心维度组织内容，便于系统学习与内链导航：
 
 ## 四个维度
@@ -20,6 +23,7 @@ translation_key: treatment-index-en
    - [治疗期饮食底层逻辑：营养密度（ANDI）与"为生而食"](./diet/nutrient-density-andi-eat-for-life-diabetes-treatment.md)
    - [治疗期控糖的关键能力：掌控饥饿（毒性饥饿 vs 真实饥饿）](./diet/hunger-control-toxic-hunger-diabetes-treatment.md)
    - [家庭糖尿病管理框架：能长期坚持的实用版本](./diet/home-diabetes-management-framework.md)
+   - [妊娠糖尿病家庭护理：血糖监测、加餐安排与产检协同怎么做](./diet/gestational-diabetes-home-care-pregnancy.md)
    - [糖尿病治疗期的舒适食物改造法：吃得满足，也把血糖守住](./diet/comfort-food-diabetes-treatment.md)
    - [治疗期舒适早餐模板：早上吃得稳，全天更好控糖](./diet/comfort-food-breakfast-template-diabetes-treatment.md)
    - [治疗期汤面重建：保留热汤满足感，降低餐后冲高](./diet/comfort-food-soup-noodle-rebuild-diabetes-treatment.md)
@@ -36,6 +40,7 @@ translation_key: treatment-index-en
 3. [睡眠与代谢](./sleep/)
    - [治疗期睡眠与代谢：把血糖变稳的"夜间工程"](./sleep/sleep-metabolism-diabetes-treatment.md)
    - [糖尿病随访中的内分泌检查：重点看什么](./sleep/endocrinology-tests-for-diabetes-followup.md)
+   - [妊娠糖尿病夜间血糖稳定策略：晚餐、夜醒与次日空腹的衔接](./sleep/gestational-diabetes-night-glucose-routine.md)
 4. [情绪与压力管理](./emotion/)
    - [治疗期情绪与压力管理：让控糖不再靠硬扛](./emotion/stress-emotion-diabetes-treatment.md)
    - [1型糖尿病：把门诊建议落成家庭日程](./emotion/type1-diabetes-clinic-to-home-plan.md)

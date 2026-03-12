@@ -37,6 +37,10 @@ translation_key: prevention/sleep/index
 
 面向新确诊与家庭支持者的A到Z知识框架：睡眠、饮食、运动与自我管理，附7天实操清单与电子书下载。
 
+#### [孕期睡眠规律与妊娠糖尿病预防：先把夜晚稳定下来](./pregnancy-sleep-routine-gestational-diabetes-prevention.md)
+
+聚焦孕期夜醒、作息波动与晚间进食边界，提供可执行的睡眠流程，帮助降低代谢压力并支持妊娠糖尿病预防。
+
 **主要内容**：
 - 全球睡眠危机现状与糖尿病流行的关联
 - 血糖24小时节律与皮质醇分泌的科学原理

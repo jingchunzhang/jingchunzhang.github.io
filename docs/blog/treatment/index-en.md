@@ -11,6 +11,9 @@ translation_key: treatment-index
 
 Welcome to the diabetes treatment section.
 
+**Topic Hub**:
+*   **[Pregnancy & Lactation Diabetes Cluster (Central Hub)](./../topic-cluster-pregnancy-lactation-en.md)**
+
 This section is organized into four dimensions for consistent navigation and internal linking:
 
 ## Four Dimensions
@@ -27,6 +30,7 @@ This section is organized into four dimensions for consistent navigation and int
   - [Nutrient Density (ANDI) & "Eat to Live": An Upgrade Path for Treatment Diet](./diet/nutrient-density-andi-eat-for-life-diabetes-treatment-en.md)
   - [Hunger Control & "Toxic Hunger": Reduce Cravings to Stabilize Blood Sugar](./diet/hunger-control-toxic-hunger-diabetes-treatment-en.md)
   - [A Home Diabetes Management Framework You Can Actually Maintain](./diet/home-diabetes-management-framework-en.md)
+  - [Gestational Diabetes Home Care: How to Coordinate Glucose Checks, Snacks, and Prenatal Follow-Up](./diet/gestational-diabetes-home-care-pregnancy-en.md)
   - [Comfort Food During Diabetes Treatment: Keep the Satisfaction Without Losing Glucose Stability](./diet/comfort-food-diabetes-treatment-en.md)
   - [Comfort-Food Breakfast Template for Diabetes Treatment: Start Stable, Stay Stable](./diet/comfort-food-breakfast-template-diabetes-treatment-en.md)
   - [Rebuilding Comfort Soup Noodles During Diabetes Treatment](./diet/comfort-food-soup-noodle-rebuild-diabetes-treatment-en.md)
@@ -43,6 +47,7 @@ This section is organized into four dimensions for consistent navigation and int
 - Sleep
   - [Sleep and Metabolism in Diabetes Treatment: The "Night Shift" That Stabilizes Glucose](./sleep/sleep-metabolism-diabetes-treatment-en.md)
   - [Endocrinology Tests for Diabetes Follow-Up: What Matters Most](./sleep/endocrinology-tests-for-diabetes-followup-en.md)
+  - [Gestational Diabetes Night Glucose Routine: Align Dinner, Night Wakings, and Next-Morning Fasting](./sleep/gestational-diabetes-night-glucose-routine-en.md)
 - Emotion & Stress
   - [Emotion and Stress During Diabetes Treatment: Stop White-Knuckling Glucose Control](./emotion/stress-emotion-diabetes-treatment-en.md)
   - [Type 1 Diabetes: Turning Clinic Advice into a Daily Home Plan](./emotion/type1-diabetes-clinic-to-home-plan-en.md)

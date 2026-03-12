@@ -26,4 +26,8 @@ translation_key: prevention-exercise-index
     <a href="./prediabetes-early-warning-signs.md">糖尿病前期预警信号：这个月先盯住哪些指标</a>
     <span> - 2026-03-09</span>
   </li>
+  <li>
+    <a href="./pregnancy-safe-exercise-gestational-diabetes-prevention.md">孕期安全运动与妊娠糖尿病预防：把餐后活动变成每日稳定器</a>
+    <span> - 2026-03-12</span>
+  </li>
 </ul>

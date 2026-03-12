@@ -17,6 +17,7 @@ translation_key: treatment-diet-index
 - [治疗期饮食底层逻辑：营养密度（ANDI）与“为生而食”](./nutrient-density-andi-eat-for-life-diabetes-treatment.md)
 - [治疗期控糖的关键能力：掌控饥饿（毒性饥饿 vs 真实饥饿）](./hunger-control-toxic-hunger-diabetes-treatment.md)
 - [家庭糖尿病管理框架：能长期坚持的实用版本](./home-diabetes-management-framework.md)
+- [妊娠糖尿病家庭护理：血糖监测、加餐安排与产检协同怎么做](./gestational-diabetes-home-care-pregnancy.md)
 - [糖尿病治疗期的舒适食物改造法：吃得满足，也把血糖守住](./comfort-food-diabetes-treatment.md)
 - [治疗期舒适早餐模板：早上吃得稳，全天更好控糖](./comfort-food-breakfast-template-diabetes-treatment.md)
 - [治疗期汤面重建：保留热汤满足感，降低餐后冲高](./comfort-food-soup-noodle-rebuild-diabetes-treatment.md)

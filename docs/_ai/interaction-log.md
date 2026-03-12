@@ -298,3 +298,22 @@ Continue if you have next steps, or stop and ask for clarification if you are un
 
 ### Next step
 继续做本地内容级校验：核对 10 组 translation_key 成对、图片与 CTA 是否齐全，并补长任何低于目标长度的英文文章。
+
+---
+
+## 2026-03-11 10:15 (Asia/Shanghai)
+
+### User
+1. TASK: Create today's full blog batch for 2026-03-11 in this repo: 10 Chinese posts + 10 corresponding English posts (10 bilingual pairs) under `docs/blog/prevention/diet/`, plus today's manifest and all required index updates.
+2. EXPECTED OUTCOME: Produce production-ready Markdown files only. Success criteria: exactly 10 new ZH files and 10 new EN files for 2026-03-11, one new manifest `docs/_book/manifests/20260311-ebook-funnel-manifest.csv`, and synchronized updates to `docs/blog/index.md`, `docs/blog/index-en.md`, `docs/blog/prevention/index.md`, `docs/blog/prevention/index-en.md`, `docs/blog/prevention/diet/index.md`, `docs/blog/prevention/diet/index-en.md`.
+... (rest of the prompt)
+
+### Assistant
+- Created today's manifest: `docs/_book/manifests/20260311-ebook-funnel-manifest.csv`.
+- Verified and updated 10 bilingual blog pairs (20 files) in `docs/blog/prevention/diet/` for 2026-03-11.
+- Articles follow persona rotation (yyh/kelvin), include bilingual cross-links, ebook CTAs, medical disclaimers, and 2+ images each.
+- Synchronized updates to index files at three layers: root, stage (prevention), and dimension (diet) for both ZH and EN.
+- Verified `translation_key` consistency and file naming conventions.
+
+### Next step
+Perform a final content quality check on the generated English long-form articles to ensure they meet the 1200+ words target where feasible.

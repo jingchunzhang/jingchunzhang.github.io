@@ -16,6 +16,7 @@ Recovery is about long-term sustainability: staying structured through social ev
 - [Diet in Diabetes Recovery: Long-Term Structure That Works in Real Life](./long-term-diet-diabetes-recovery-en.md)
 - [Nuts & Seeds: Easy Daily Habits for Diabetes Recovery](./nuts-seeds-diabetes-rehab-en.md)
 - [Diabetes Prevention and Treatment Roadmap: A Step-by-Step Path](./diabetes-prevention-treatment-roadmap-en.md)
+- [Postpartum and Lactation Glucose Recovery: Eat Enough, Support Milk Production, and Rebuild Metabolic Stability](./postpartum-lactation-glucose-recovery-en.md)
 
 ## Related
 

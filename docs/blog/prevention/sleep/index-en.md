@@ -37,6 +37,10 @@ A simple caffeine timing strategy so energy support doesn’t come at the cost o
 
 A structured A-to-Z knowledge framework for the newly diagnosed and family supporters: sleep, diet, exercise, and daily management, with a 7-day action checklist and ebook download.
 
+#### [Pregnancy Sleep Routine for Gestational Diabetes Prevention: Stabilize the Night First](./pregnancy-sleep-routine-gestational-diabetes-prevention-en.md)
+
+A practical night-routine guide for pregnancy, covering sleep timing consistency, night-waking decisions, and structured evening snack boundaries.
+
 **Main Content**:
 - Connection between global sleep crisis and diabetes epidemic
 - Scientific principles of blood sugar 24-hour rhythm and cortisol secretion

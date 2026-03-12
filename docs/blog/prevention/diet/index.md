@@ -68,6 +68,10 @@ translation_key: prevention/diet/index
 
 掌握餐盘结构、食材替换与批量备餐策略，让控糖饮食简单、美味且可持续。附测试清单与电子书下载。
 
+#### [孕期如何预防妊娠糖尿病：从三餐、体重增长到日常活动的实用框架](./gestational-diabetes-prevention-pregnancy.md)
+
+面向孕期女性的实用预防文章，聚焦餐盘结构、体重增长节奏、餐后步行和风险前移识别，帮助在筛查前就建立更稳的代谢日常。
+
 #### [给新手的糖尿病预防备餐入门：先搭框架，再谈食谱](./meal-prep-diabetes-beginners-prevention.md)
 
 适合刚开始做 meal prep 的读者，从餐盘结构、三天半启动法到冰箱基础件，一步步把备餐变成可持续习惯。

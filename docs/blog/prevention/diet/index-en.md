@@ -77,6 +77,10 @@ Safety‑first guidance: who should avoid IF, how to start gently, and the most 
 
 Plate structure, ingredient swaps, and batch-cooking tactics to make blood sugar-friendly eating simple, delicious, and sustainable. Includes a kitchen essentials checklist and ebook download.
 
+#### [How to Prevent Gestational Diabetes During Pregnancy: A Practical Framework for Meals, Weight Gain, and Daily Activity](./gestational-diabetes-prevention-pregnancy-en.md)
+
+A pregnancy-focused prevention guide that turns glucose-friendly eating, weight-gain rhythm, light movement, and screening awareness into a repeatable everyday system.
+
 #### [Diabetes Meal Prep for Beginners: Start with Structure Before Recipes](./meal-prep-diabetes-beginners-prevention-en.md)
 
 A starter guide that turns meal prep into a repeatable prevention system built around plate structure, 3.5-day prep cycles, and low-friction weekday meals.

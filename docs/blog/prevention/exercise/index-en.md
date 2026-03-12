@@ -26,6 +26,10 @@ translation_key: prevention-exercise-index
     <a href="./prediabetes-early-warning-signs-en.md">Prediabetes Early Warning Signs: What to Track This Month</a>
     <span> - 2026-03-09</span>
   </li>
+  <li>
+    <a href="./pregnancy-safe-exercise-gestational-diabetes-prevention-en.md">Pregnancy-Safe Exercise for Gestational Diabetes Prevention: Turn After-Meal Movement into a Daily Stabilizer</a>
+    <span> - 2026-03-12</span>
+  </li>
 </ul>
 
 [Back to Prevention Home](../)

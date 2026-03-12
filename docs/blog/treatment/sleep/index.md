@@ -15,6 +15,7 @@ translation_key: treatment-sleep-index
 
 - [治疗期睡眠与代谢：把血糖变稳的“夜间工程”](./sleep-metabolism-diabetes-treatment.md)
 - [糖尿病随访中的内分泌检查：重点看什么](./endocrinology-tests-for-diabetes-followup.md)
+- [妊娠糖尿病夜间血糖稳定策略：晚餐、夜醒与次日空腹的衔接](./gestational-diabetes-night-glucose-routine.md)
 
 ## 你可能也需要
 
