@@ -35,6 +35,8 @@ This section is organized into four dimensions for long-term, sustainable recove
   - [Six Steps to Sustainable Goals: A Practical Method for Long-Term Diabetes Recovery](./emotion/six-steps-goals-diabetes-rehab-en.md)
   - [Diabetes Terms You Should Know (Without the Confusion)](./emotion/diabetes-terms-you-should-know-en.md)
   - [Postpartum and Lactation Stress Management: Break the Stress-Eating-Glucose Loop](./emotion/postpartum-lactation-stress-glucose-recovery-en.md)
+- Exercise
+  - [Rehabilitation Exercise After Diabetes-Related Complications: From Safety Assessment to Functional Recovery](./exercise/physical-medicine-rehabilitation-diabetic-en.md)
 
 [Back to Blog](./../)
 

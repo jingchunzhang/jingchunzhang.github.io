@@ -15,6 +15,8 @@ translation_key: treatment-emotion-index
 
 - [治疗期情绪与压力管理：让控糖不再靠硬抗](./stress-emotion-diabetes-treatment.md)
 - [1型糖尿病：把门诊建议落成家庭日程](./type1-diabetes-clinic-to-home-plan.md)
+- [治疗期情绪管理：把《Psychology in Diabetes Care》变成日常可执行工具](./psychology-in-diabetes-care.md)
+- [负面情绪如何拖累控糖：从《Psyching Out Diabetes》到可执行应对方案](./psyching-out-diabetes.md)
 
 ## 你可能也需要
 

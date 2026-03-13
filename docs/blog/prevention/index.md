@@ -41,6 +41,9 @@ translation_key: prevention/index
 - **[采购清单怎么写：一周备餐不再靠临场发挥](./diet/grocery-list-diabetes-meal-prep-prevention.md)**
 - **[零食盒与馋意控制：把加餐变成计划内选择](./diet/snack-box-craving-control-diabetes-prevention.md)**
 - **[甜点份量预案：不是彻底不吃，而是提前定边界](./diet/dessert-portion-meal-prep-diabetes-prevention.md)**
+- **[糖尿病新手入门：从第一周开始建立稳血糖饮食框架](./diet/a-primer-for-diabetic-patients.md)**
+- **[碳水计数怎么做才不崩溃：给糖尿病预防期的实操指南](./diet/practical-carbohydrate-counting.md)**
+- **[‘酸碱饮食’与糖尿病预防：如何科学吸收《The pH miracle for diabetes》](./diet/ph-miracle-diabetes.md)**
 - **均衡营养**: 如何搭配主食、蛋白质、脂肪和蔬菜。
 - **血糖生成指数(GI)**: 选择低GI食物, 避免血糖剧烈波动。
 - **健康烹饪**: 采用蒸、煮、快炒等方式, 减少油盐糖的摄入。

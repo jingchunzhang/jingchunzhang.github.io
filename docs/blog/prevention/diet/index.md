@@ -112,6 +112,18 @@ translation_key: prevention/diet/index
 
 用 meal prep 思路预设甜点时机和份量，让甜点从临时放纵变成有边界的计划。
 
+#### [糖尿病新手入门：从第一周开始建立稳血糖饮食框架](./a-primer-for-diabetic-patients.md)
+
+基于患者教育思路，给出预防期前4周可执行的饮食与行为起步方案。
+
+#### [碳水计数怎么做才不崩溃：给糖尿病预防期的实操指南](./practical-carbohydrate-counting.md)
+
+把碳水计数从“复杂计算”变成“可持续决策”，聚焦日常高频场景。
+
+#### [‘酸碱饮食’与糖尿病预防：如何科学吸收《The pH miracle for diabetes》](./ph-miracle-diabetes.md)
+
+从证据导向视角解读争议饮食法，保留高价值动作，避免极端化执行。
+
 
 ---
 

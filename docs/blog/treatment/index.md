@@ -34,6 +34,10 @@ translation_key: treatment-index-en
    - [治疗期家庭晚餐轮换：用舒适食物模板减少全家执行阻力](./diet/comfort-food-family-dinner-rotation-diabetes-treatment.md)
    - [治疗期外食替换清单：舒适餐馆也能做出控糖友好选择](./diet/comfort-food-eating-out-swap-diabetes-treatment.md)
    - [治疗期夜间饥饿应对：舒适感与血糖安全的双平衡](./diet/comfort-food-late-night-hunger-plan-diabetes-treatment.md)
+   - [《The Diabetes Code》怎么读：治疗期饮食与胰岛素阻抗管理框架](./diet/the-diabetes-code.md)
+   - [治疗期怎么把护理做扎实：从《Practical Diabetes Care》到家庭执行](./diet/practical-diabetes-care.md)
+   - [加拿大临床语境下的治疗期控糖：家庭可执行的护理框架](./diet/practical-diabetes-care-canada.md)
+   - [妊娠期糖尿病管理全流程：从孕期到分娩前的饮食与监测](./diet/pregnancy-diabetes-birth.md)
 2. [运动处方](./exercise/)
    - [治疗期运动处方：安全、有效、可坚持的控糖训练](./exercise/exercise-prescription-diabetes-treatment.md)
    - [2型糖尿病监测协议：家庭可执行版本](./exercise/type2-diabetes-monitoring-protocols.md)
@@ -44,5 +48,7 @@ translation_key: treatment-index-en
 4. [情绪与压力管理](./emotion/)
    - [治疗期情绪与压力管理：让控糖不再靠硬扛](./emotion/stress-emotion-diabetes-treatment.md)
    - [1型糖尿病：把门诊建议落成家庭日程](./emotion/type1-diabetes-clinic-to-home-plan.md)
+   - [治疗期情绪管理：把《Psychology in Diabetes Care》变成日常可执行工具](./emotion/psychology-in-diabetes-care.md)
+   - [负面情绪如何拖累控糖：从《Psyching Out Diabetes》到可执行应对方案](./emotion/psyching-out-diabetes.md)
 
 [返回博客首页](./../)

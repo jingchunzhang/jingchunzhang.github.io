@@ -23,6 +23,7 @@ translation_key: rehabilitation-index-en
    - [糖尿病预防与治疗路线图：一步一步做对](./diet/diabetes-prevention-treatment-roadmap.md)
    - [哺乳期与产后血糖恢复：吃得够、奶量稳，也把代谢慢慢带回正轨](./diet/postpartum-lactation-glucose-recovery.md)
 2. [恢复期锻炼](./exercise/)
+   - [糖尿病并发症后的康复锻炼：从安全评估到功能恢复](./exercise/physical-medicine-rehabilitation-diabetic.md)
 3. [睡眠修复](./sleep/)
 4. [心理康复](./emotion/)
    - [康复期的目标达成"6步法"：把计划变成可执行的行动](./emotion/six-steps-goals-diabetes-rehab.md)

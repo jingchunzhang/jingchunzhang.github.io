@@ -31,6 +31,10 @@ During treatment, diet is about **stable glucose, sustainable weight/metabolic i
 - [Family Dinner Rotation for Diabetes Treatment Comfort Meals](./comfort-food-family-dinner-rotation-diabetes-treatment-en.md)
 - [Eating-Out Swap Guide for Comfort Food in Diabetes Treatment](./comfort-food-eating-out-swap-diabetes-treatment-en.md)
 - [Late-Night Hunger Plan for Comfort Food in Diabetes Treatment](./comfort-food-late-night-hunger-plan-diabetes-treatment-en.md)
+- [How to Apply The Diabetes Code in Treatment: A Safety-First Framework](./the-diabetes-code-en.md)
+- [Gestational Diabetes Management from Pregnancy to Birth: A Practical Diet, Monitoring, and Coordination Plan](./pregnancy-diabetes-birth-en.md)
+- [How to Make Diabetes Treatment Care Stick: Turning Practical Diabetes Care into a Home Execution System](./practical-diabetes-care-en.md)
+- [Diabetes Treatment in a Canadian Clinical Context: A Home-Executable Care Framework](./practical-diabetes-care-canada-en.md)
 - [Natural Carb Blocker: Mulberry Leaf Tea for Diabetes Management](./mulberry-leaf-tea-diabetes-management-en.md)
 
 ## Related

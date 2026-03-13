@@ -14,6 +14,7 @@ translation_key: rehab-exercise-index
 ## 核心文章
 
 - [康复期锻炼：从“控糖达标”到“体能复苏”](./recovery-exercise-diabetes.md)
+- [糖尿病并发症后的康复锻炼：从安全评估到功能恢复](./physical-medicine-rehabilitation-diabetic.md)
 
 ## 你可能也需要
 

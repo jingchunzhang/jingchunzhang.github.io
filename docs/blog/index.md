@@ -66,6 +66,16 @@ translation_key: blog
 *   **[驾驭护理成本：2026年糖尿病费用管理实用建议](./managing_diabetes_costs)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[关于糖尿病饮食规划的5个误区，你该停止相信了](./meal_planning_myths)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 *   **[超越减肥：理解肥胖与2型糖尿病之间的生物学联系](./obesity_diabetes_link)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[糖尿病新手入门：从第一周开始建立稳血糖饮食框架](./prevention/diet/a-primer-for-diabetic-patients)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[碳水计数怎么做才不崩溃：给糖尿病预防期的实操指南](./prevention/diet/practical-carbohydrate-counting)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[‘酸碱饮食’与糖尿病预防：如何科学吸收《The pH miracle for diabetes》](./prevention/diet/ph-miracle-diabetes)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[《The Diabetes Code》怎么读：治疗期饮食与胰岛素阻抗管理框架](./treatment/diet/the-diabetes-code)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[治疗期怎么把护理做扎实：从《Practical Diabetes Care》到家庭执行](./treatment/diet/practical-diabetes-care)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[加拿大临床语境下的治疗期控糖：家庭可执行的护理框架](./treatment/diet/practical-diabetes-care-canada)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[妊娠期糖尿病管理全流程：从孕期到分娩前的饮食与监测](./treatment/diet/pregnancy-diabetes-birth)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[治疗期情绪管理：把《Psychology in Diabetes Care》变成日常可执行工具](./treatment/emotion/psychology-in-diabetes-care)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[负面情绪如何拖累控糖：从《Psyching Out Diabetes》到可执行应对方案](./treatment/emotion/psyching-out-diabetes)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[糖尿病并发症后的康复锻炼：从安全评估到功能恢复](./rehabilitation/exercise/physical-medicine-rehabilitation-diabetic)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
 
 ---
 

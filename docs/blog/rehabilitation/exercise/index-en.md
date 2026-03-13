@@ -14,6 +14,7 @@ In recovery, exercise goals expand beyond glucose control to fitness, cardio cap
 ## Featured
 
 - [Exercise in Diabetes Recovery: From “Glucose Control” to “Fitness Restoration”](./recovery-exercise-diabetes-en.md)
+- [Rehabilitation Exercise After Diabetes-Related Complications: From Safety Assessment to Functional Recovery](./physical-medicine-rehabilitation-diabetic-en.md)
 
 ## Related
 

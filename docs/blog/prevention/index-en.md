@@ -41,6 +41,9 @@ Diet is the foundation of diabetes prevention. A reasonable diet structure helps
 - **[Grocery List for Diabetes Meal Prep Prevention](./diet/grocery-list-diabetes-meal-prep-prevention-en.md)**
 - **[Snack Box and Craving Control for Diabetes Prevention](./diet/snack-box-craving-control-diabetes-prevention-en.md)**
 - **[Dessert Portion Planning for Diabetes Prevention](./diet/dessert-portion-meal-prep-diabetes-prevention-en.md)**
+- **[Diabetes Beginner Nutrition Plan: A Practical First-4-Week Framework](./diet/a-primer-for-diabetic-patients-en.md)**
+- **[Practical Carbohydrate Counting for Prevention: Keep It Simple and Sustainable](./diet/practical-carbohydrate-counting-en.md)**
+- **[The ‘pH Diet’ and Diabetes Prevention: How to Read The pH Miracle for Diabetes with Evidence-Based Judgment](./diet/ph-miracle-diabetes-en.md)**
 - **Balanced Nutrition**: How to pair staples, proteins, fats, and vegetables.
 - **Glycemic Index (GI)**: Choose low-GI foods to avoid drastic blood sugar fluctuations.
 - **Healthy Cooking**: Use methods like steaming, boiling, and quick stir-frying to reduce oil, salt, and sugar intake.

@@ -121,6 +121,18 @@ How to build planned, portioned snacks that reduce impulsive sweet-drink and sna
 
 A practical framework for keeping dessert inside boundaries instead of letting it become an unplanned compensation loop.
 
+#### [Diabetes Beginner Nutrition Plan: A Practical First-4-Week Framework](./a-primer-for-diabetic-patients-en.md)
+
+A prevention-stage starter system that turns broad advice into repeatable daily routines.
+
+#### [Practical Carbohydrate Counting for Prevention: Keep It Simple and Sustainable](./practical-carbohydrate-counting-en.md)
+
+Low-burden carb-counting guidance focused on repeat meals, scenario handling, and long-term adherence.
+
+#### [The ‘pH Diet’ and Diabetes Prevention: How to Read The pH Miracle for Diabetes with Evidence-Based Judgment](./ph-miracle-diabetes-en.md)
+
+A prevention-focused interpretation that keeps useful behaviors (more vegetables, fewer sugary drinks, less ultra-processed intake) while avoiding cure narratives and extreme dietary claims.
+
 ---
 
 ## Four Pillars of Dietary Prevention

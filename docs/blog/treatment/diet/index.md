@@ -28,6 +28,10 @@ translation_key: treatment-diet-index
 - [治疗期家庭晚餐轮换：用舒适食物模板减少全家执行阻力](./comfort-food-family-dinner-rotation-diabetes-treatment.md)
 - [治疗期外食替换清单：舒适餐馆也能做出控糖友好选择](./comfort-food-eating-out-swap-diabetes-treatment.md)
 - [治疗期夜间饥饿应对：舒适感与血糖安全的双平衡](./comfort-food-late-night-hunger-plan-diabetes-treatment.md)
+- [《The Diabetes Code》怎么读：治疗期饮食与胰岛素阻抗管理框架](./the-diabetes-code.md)
+- [治疗期怎么把护理做扎实：从《Practical Diabetes Care》到家庭执行](./practical-diabetes-care.md)
+- [加拿大临床语境下的治疗期控糖：家庭可执行的护理框架](./practical-diabetes-care-canada.md)
+- [妊娠期糖尿病管理全流程：从孕期到分娩前的饮食与监测](./pregnancy-diabetes-birth.md)
 - [天然碳水阻断剂：桑叶与糖尿病管理](./mulberry-leaf-diabetes-cn.md)
 
 ## 你可能也需要

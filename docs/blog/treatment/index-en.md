@@ -41,6 +41,10 @@ This section is organized into four dimensions for consistent navigation and int
   - [Family Dinner Rotation for Diabetes Treatment Comfort Meals](./diet/comfort-food-family-dinner-rotation-diabetes-treatment-en.md)
   - [Eating-Out Swap Guide for Comfort Food in Diabetes Treatment](./diet/comfort-food-eating-out-swap-diabetes-treatment-en.md)
   - [Late-Night Hunger Plan for Comfort Food in Diabetes Treatment](./diet/comfort-food-late-night-hunger-plan-diabetes-treatment-en.md)
+  - [How to Apply The Diabetes Code in Treatment: A Safety-First Framework](./diet/the-diabetes-code-en.md)
+  - [How to Make Diabetes Treatment Care Stick: Turning Practical Diabetes Care into a Home Execution System](./diet/practical-diabetes-care-en.md)
+  - [Diabetes Treatment in a Canadian Clinical Context: A Home-Executable Care Framework](./diet/practical-diabetes-care-canada-en.md)
+  - [Pregnancy, Diabetes, and Birth: A Practical Treatment-Stage Care Path](./diet/pregnancy-diabetes-birth-en.md)
 - Exercise
   - [Exercise During Diabetes Treatment: A Safe, Effective Prescription You Can Sustain](./exercise/exercise-prescription-diabetes-treatment-en.md)
   - [Type 2 Diabetes Monitoring Protocols: A Practical Home Version](./exercise/type2-diabetes-monitoring-protocols-en.md)
@@ -51,6 +55,8 @@ This section is organized into four dimensions for consistent navigation and int
 - Emotion & Stress
   - [Emotion and Stress During Diabetes Treatment: Stop White-Knuckling Glucose Control](./emotion/stress-emotion-diabetes-treatment-en.md)
   - [Type 1 Diabetes: Turning Clinic Advice into a Daily Home Plan](./emotion/type1-diabetes-clinic-to-home-plan-en.md)
+  - [Emotional Management During Diabetes Treatment: Turning Psychology in Diabetes Care into Daily Action](./emotion/psychology-in-diabetes-care-en.md)
+  - [How Negative Emotions Undermine Glucose Control: Practical Responses from Psyching Out Diabetes](./emotion/psyching-out-diabetes-en.md)
 
 [Back to Blog](./../)
 
