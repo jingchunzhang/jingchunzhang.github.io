@@ -68,26 +68,38 @@ YMYL_SAFETY_PROMPT = """
 5. 聚焦于生活方式调整（饮食、运动、监测），而非医疗建议
 """.format(disclaimer=config.YMYL_DISCLAIMER)
 
-def build_prompt(keyword: str, genre: str = None, persona: str = None) -> str:
-    """构建完整的 Prompt"""
-    # 随机选择体裁和视角（如果不指定）
+# 双语支持 - 语言变体
+LANGUAGE_VARIANTS = {
+    "zh": """请用简体中文写作""",
+    "en": """Please write in English"""
+}
+
+# 图片生成提示词
+IMAGE_PROMPT_TEMPLATE = """为文章"{keyword}"生成一个描述性图片提示词，用于AI图片生成。
+要求：
+1. 描述一个与主题相关的医学/健康场景
+2. 包含具体的人物、环境、动作描述
+3. 使用英文描述
+4. 50-100个词
+5. 输出格式：只需输出图片提示词，不要其他内容"""
+
+def build_prompt(keyword: str, genre: str = None, persona: str = None, lang: str = "zh") -> str:
     if genre is None:
         genre = random.choice(list(GENRE_VARIANTS.keys()))
     if persona is None:
         persona = random.choice(list(PERSONA_VARIANTS.keys()))
     
-    # 获取体裁模板
-    genre_template = GENRE_VARIANTS.get(genre, GENRE_VARIANTS["对比清单"])
-    
-    # 获取视角指令
+    genre_template = GENRE_VARIANTS.get(genre, GENRE_VARIANTS["step_by_step"])
     persona_instructions = PERSONA_VARIANTS.get(persona, PERSONA_VARIANTS["senior_patient"])
+    lang_instruction = LANGUAGE_VARIANTS.get(lang, LANGUAGE_VARIANTS["zh"])
     
-    # 组装完整 Prompt
     prompt = f"""{persona_instructions}
+
+{lang_instruction}
 
 {genre_template}
 
-{YMYL_SAFETY_PROMPT}
+{config.YMYL_DISCLAIMER}
 
 请生成一篇高质量的文章，围绕关键词：{keyword}
 
@@ -95,12 +107,15 @@ def build_prompt(keyword: str, genre: str = None, persona: str = None) -> str:
 - 字数 800-1500 字
 - 结构清晰，有明确的小标题
 - 适合 SEO，包含关键词的自然分布
+- 在文章开头或适当位置添加1-2张相关图片（使用 Markdown 图片语法，描述性 alt 文本）
 - 结尾可以引导下载相关电子书
 """
     return prompt
 
+def build_image_prompt(keyword: str) -> str:
+    return IMAGE_PROMPT_TEMPLATE.format(keyword=keyword)
+
 def get_random_variant() -> tuple:
-    """获取随机变体组合"""
     genre = random.choice(list(GENRE_VARIANTS.keys()))
     persona = random.choice(list(PERSONA_VARIANTS.keys()))
     return genre, persona

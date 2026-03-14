@@ -18,6 +18,8 @@ translation_key: blog
 ---
 
 ## 糖尿病基础知识 (必读)
+*   **[How to Participate in Diabetes Research Panels and Studies (Paid and Unpaid)](./2026-03-14-how-to-participate-in-diabetes-research-)**
+*   **[The Best Gifts for People with Diabetes](./2026-03-14-the-best-gifts-for-people-with-diabetes)**
 
 *   **[警惕“甜蜜的杀手”：糖尿病并发症全景概述](./diabetes-complications-overview)**
 *   **[全球主流糖尿病诊断标准参考](./diabetes-diagnostic-criteria)**

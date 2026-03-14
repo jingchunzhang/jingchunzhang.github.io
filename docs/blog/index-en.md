@@ -18,6 +18,8 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 ---
 
 ## Diabetes Basics (Must Read)
+*   **[How to Participate in Diabetes Research Panels and Studies (Paid and Unpaid)](./2026-03-14-how-to-participate-in-diabetes-research--en)**
+*   **[The Best Gifts for People with Diabetes](./2026-03-14-the-best-gifts-for-people-with-diabetes-en)**
 
 *   **[Beware of the "Sweet Killer": A Panoramic Overview of Diabetes Complications](./diabetes-complications-overview-en)**
 *   **[Mainstream Global Diabetes Diagnostic Criteria Reference](./diabetes-diagnostic-criteria-en)**

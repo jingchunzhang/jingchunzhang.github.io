@@ -20,12 +20,11 @@ class ContentGenerator:
         else:
             self._api_available = True
     
-    def generate(self, keyword: str, genre: str = None, persona: str = None) -> str:
-        """生成文章内容"""
+    def generate(self, keyword: str, genre: str = None, persona: str = None, lang: str = "zh") -> str:
         if not self._api_available:
             raise Exception("未配置任何LLM API (GEMINI_API_KEY 或 VOLCENGINE_LLM_API_KEY)")
         
-        prompt = build_prompt(keyword, genre, persona)
+        prompt = build_prompt(keyword, genre, persona, lang)
         
         if self.use_volcengine and self.volcengine_api_key:
             return self._generate_volcengine(prompt)
@@ -62,12 +61,11 @@ class ContentGenerator:
         response = model.generate_content(prompt)
         return response.text
     
-    def generate_with_retry(self, keyword: str, max_retries: int = 3) -> str:
-        """带重试的内容生成"""
+    def generate_with_retry(self, keyword: str, max_retries: int = 3, lang: str = "zh") -> str:
         for attempt in range(max_retries):
             try:
                 genre, persona = get_random_variant()
-                content = self.generate(keyword, genre, persona)
+                content = self.generate(keyword, genre, persona, lang)
                 
                 if self._safe_check(content):
                     return content
