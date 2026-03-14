@@ -25,12 +25,16 @@ def parse_article(html: str, selectors: Dict) -> Dict:
     title = ""
     title_sel = selectors.get('title', 'h1')
     title_elem = article_elem.select_one(title_sel)
+    if not title_elem:
+        title_elem = soup.select_one(title_sel)
     if title_elem:
         title = title_elem.get_text(strip=True)
     
     content = ""
     content_sel = selectors.get('content', 'div')
     content_elem = article_elem.select_one(content_sel)
+    if not content_elem:
+        content_elem = soup.select_one(content_sel)
     if content_elem:
         content = content_elem.get_text(strip=True)[:2000]
     
@@ -60,9 +64,11 @@ def crawl_source(source: Dict) -> List[Dict]:
     
     soup = BeautifulSoup(html, 'html.parser')
     
-    article_links = soup.select('a[href*="article"], a[href*="/health/"], a[href*="/conditions/"]')
+    link_selector = selectors.get('link', 'a')
+    article_links = soup.select(link_selector)
     
-    for link in article_links[:10]:
+    matching_links = []
+    for link in article_links:
         href = link.get('href', '')
         if not href:
             continue
@@ -70,6 +76,9 @@ def crawl_source(source: Dict) -> List[Dict]:
         full_url = urljoin(base_url, href)
         
         if any(k.lower() in full_url.lower() for k in keywords):
+            matching_links.append(full_url)
+    
+    for full_url in matching_links[:10]:
             article_html = fetch_page(full_url)
             if article_html:
                 article_data = parse_article(article_html, selectors)

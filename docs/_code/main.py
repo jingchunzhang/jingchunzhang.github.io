@@ -40,8 +40,22 @@ def run_daily_task():
     pending_topics = []
     for topic in all_topics:
         slug = topic.get('slug', '')
-        if slug and slug not in existing_slugs:
-            pending_topics.append(topic)
+        source = topic.get('source', '')
+        
+        # 对于ebook，有预定slug
+        if source == 'ebook':
+            if slug and slug not in existing_slugs:
+                pending_topics.append(topic)
+        # 对于RSS和Spider，需要生成slug
+        elif source in ['rss', 'spider']:
+            keyword = topic.get('keyword', '')
+            if keyword:
+                # 生成slug
+                slug = keyword.lower().replace(' ', '-')[:50]
+                topic['slug'] = slug
+                if slug not in existing_slugs:
+                    pending_topics.append(topic)
+    
     print(f"  - 待生成 {len(pending_topics)} 篇")
     
     if not pending_topics:

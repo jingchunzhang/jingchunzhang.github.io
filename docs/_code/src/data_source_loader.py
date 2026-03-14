@@ -31,6 +31,14 @@ def load_all_sources() -> List[Dict]:
                 entry['keyword'] = entry.get('title', '')[:100]
             all_topics.extend(rss_entries)
             print(f"    - 获取 {len(rss_entries)} 条选题")
+            
+            from src.longtail_manager import extract_longtail_keywords
+            new_keywords = extract_longtail_keywords(rss_entries)
+            if new_keywords:
+                from src.longtail_manager import LongTailManager
+                ltm = LongTailManager()
+                ltm.add_pending(new_keywords)
+                print(f"    - 添加 {len(new_keywords)} 个长尾词到待处理")
         except Exception as e:
             print(f"    - RSS加载失败: {e}")
     
@@ -44,6 +52,14 @@ def load_all_sources() -> List[Dict]:
                 entry['keyword'] = entry.get('title', '')[:100]
             all_topics.extend(spider_entries)
             print(f"    - 获取 {len(spider_entries)} 条选题")
+            
+            from src.longtail_manager import extract_longtail_keywords
+            new_keywords = extract_longtail_keywords(spider_entries)
+            if new_keywords:
+                from src.longtail_manager import LongTailManager
+                ltm = LongTailManager()
+                ltm.add_pending(new_keywords)
+                print(f"    - 添加 {len(new_keywords)} 个长尾词到待处理")
         except Exception as e:
             print(f"    - 爬虫加载失败: {e}")
     

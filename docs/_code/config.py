@@ -76,7 +76,7 @@ SPIDER_SOURCES = [
         "url": "https://www.mayoclinic.org/diseases-conditions/diabetes",
         "keywords": ["diabetes", "blood sugar", "treatment"],
         "selectors": {
-            "article": "div.content-container article",
+            "article": "article",
             "title": "h1",
             "content": "div.content-body",
             "link": "a[href*='/diseases-conditions/']"
@@ -89,7 +89,7 @@ SPIDER_SOURCES = [
         "selectors": {
             "article": "article",
             "title": "h1",
-            "content": "div.article-body",
+            "content": ".article-body",
             "link": "a[href*='/health/']"
         }
     },
