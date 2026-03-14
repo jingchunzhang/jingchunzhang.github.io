@@ -12,6 +12,7 @@ translation_key: treatment-emotion-index
 压力与负面情绪会通过皮质醇等通路推高血糖，并影响依从性。治疗期需要一套可操作的情绪管理工具箱。
 
 ## 核心文章
+### [Inflammatory profile of diabetic ketoacidosis in children with type 1 diabetes](./2026-03-14-inflammatory-profile-of-diabetic-ketoaci.md)
 
 - [治疗期情绪与压力管理：让控糖不再靠硬抗](./stress-emotion-diabetes-treatment.md)
 - [1型糖尿病：把门诊建议落成家庭日程](./type1-diabetes-clinic-to-home-plan.md)

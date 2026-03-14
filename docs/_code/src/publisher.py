@@ -8,16 +8,16 @@ class Publisher:
     def __init__(self, repo_path: str = None):
         self.repo_path = Path(repo_path) if repo_path else config.PROJECT_ROOT
     
-    def create_blog_post(self, slug: str, content: str, front_matter: str) -> Path:
-        """创建博客文章文件"""
-        # 确定文件路径
-        # 简单处理：放到 blog 目录下
-        file_path = self.repo_path / "blog" / f"{slug}.md"
+    def create_blog_post(self, slug: str, content: str, front_matter: str, subdir: str = None) -> Path:
+        file_path = self.repo_path / "blog"
         
-        # 确保目录存在
+        if subdir:
+            file_path = file_path / subdir / f"{slug}.md"
+        else:
+            file_path = file_path / f"{slug}.md"
+        
         file_path.parent.mkdir(parents=True, exist_ok=True)
         
-        # 写入内容
         full_content = front_matter + content
         file_path.write_text(full_content, encoding='utf-8')
         

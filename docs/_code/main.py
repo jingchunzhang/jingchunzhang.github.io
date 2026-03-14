@@ -16,7 +16,8 @@ from src.data_source_loader import load_all_sources
 from src.vector_store import VectorStore
 from src.content_generator import ContentGenerator, generate_front_matter
 from src.publisher import Publisher
-from src.index_updater import add_links_batch
+from src.index_updater import add_new_post_links
+from src.content_classifier import classify_content, get_subdir
 
 
 def run_daily_task():
@@ -89,20 +90,25 @@ def run_daily_task():
             topic['title_zh'] = keyword
             topic['title_en'] = keyword
             
+            classification = classify_content(keyword, content_zh)
+            subdir = get_subdir(classification['stage'], classification['aspect'])
+            print(f"    - 分类: {classification['stage']}/{classification['aspect']}")
+            
             publish_date = datetime.now()
             
             front_matter_zh = generate_front_matter(topic, publish_date)
             front_matter_en = generate_front_matter(topic, publish_date)
             
-            publisher.create_blog_post(slug_zh, content_zh, front_matter_zh)
-            publisher.create_blog_post(slug_en, content_en, front_matter_en)
+            publisher.create_blog_post(slug_zh, content_zh, front_matter_zh, subdir=subdir)
+            publisher.create_blog_post(slug_en, content_en, front_matter_en, subdir=subdir)
             
             generated_count += 2
             
             generated_posts.append({
                 'slug': slug_zh,
                 'title_zh': keyword,
-                'title_en': keyword
+                'title_en': keyword,
+                'subdir': subdir
             })
             
             vector_store.add_documents(
@@ -121,7 +127,7 @@ def run_daily_task():
     
     print("\n[5.5/6] 更新索引...")
     if generated_posts:
-        add_links_batch(generated_posts)
+        add_new_post_links(generated_posts)
         print(f"  - 已更新 index.md 和 index-en.md")
     
     print("\n[6/6] Git提交推送...")
