@@ -115,14 +115,11 @@ def import_blogs():
     blog_files = get_all_blog_files(blog_dir)
     print(f"  - 找到 {len(blog_files)} 篇博客文章")
     
-    # 准备批量导入数据 (限制前20篇用于测试)
+    # 准备批量导入数据
     print("\n[3/4] 解析博客内容...")
     ids = []
     documents = []
     metadatas = []
-    
-    # 限制测试数量
-    max_test = 20
     
     for i, md_file in enumerate(blog_files):
         try:

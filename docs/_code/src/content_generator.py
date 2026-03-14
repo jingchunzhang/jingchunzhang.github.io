@@ -1,24 +1,65 @@
 import os
-import google.generativeai as genai
+import requests
 from typing import Dict, Optional
 import config
 from src.prompt_pool import build_prompt, get_random_variant
 
+
 class ContentGenerator:
     def __init__(self, api_key: str = None):
-        self.api_key = api_key or config.GEMINI_API_KEY
-        if self.api_key:
-            genai.configure(api_key=self.api_key)
-            self.model = genai.GenerativeModel(config.GEMINI_MODEL)
+        self.use_volcengine = config.USE_VOLCENGINE_LLM
+        self.volcengine_api_key = config.VOLCENGINE_LLM_API_KEY
+        self.volcengine_model = config.VOLCENGINE_LLM_MODEL
+        self.volcengine_api_base = config.VOLCENGINE_LLM_API_BASE
+        
+        self.gemini_api_key = api_key or config.GEMINI_API_KEY
+        self.gemini_model = config.GEMINI_MODEL
+        
+        if not self.use_volcengine and not self.gemini_api_key:
+            self._api_available = False
+        else:
+            self._api_available = True
     
     def generate(self, keyword: str, genre: str = None, persona: str = None) -> str:
         """生成文章内容"""
-        if not self.api_key:
-            raise Exception("未配置 GEMINI_API_KEY")
+        if not self._api_available:
+            raise Exception("未配置任何LLM API (GEMINI_API_KEY 或 VOLCENGINE_LLM_API_KEY)")
         
         prompt = build_prompt(keyword, genre, persona)
         
-        response = self.model.generate_content(prompt)
+        if self.use_volcengine and self.volcengine_api_key:
+            return self._generate_volcengine(prompt)
+        else:
+            return self._generate_gemini(prompt)
+    
+    def _generate_volcengine(self, prompt: str) -> str:
+        """使用火山引擎LLM生成内容"""
+        url = f"{self.volcengine_api_base}/chat/completions"
+        headers = {
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {self.volcengine_api_key}"
+        }
+        data = {
+            "model": self.volcengine_model,
+            "messages": [
+                {"role": "user", "content": prompt}
+            ],
+            "temperature": 0.7,
+            "max_tokens": 4000
+        }
+        
+        response = requests.post(url, headers=headers, json=data, timeout=120)
+        response.raise_for_status()
+        result = response.json()
+        
+        return result['choices'][0]['message']['content']
+    
+    def _generate_gemini(self, prompt: str) -> str:
+        """使用Gemini生成内容"""
+        import google.generativeai as genai
+        genai.configure(api_key=self.gemini_api_key)
+        model = genai.GenerativeModel(self.gemini_model)
+        response = model.generate_content(prompt)
         return response.text
     
     def generate_with_retry(self, keyword: str, max_retries: int = 3) -> str:
@@ -28,7 +69,6 @@ class ContentGenerator:
                 genre, persona = get_random_variant()
                 content = self.generate(keyword, genre, persona)
                 
-                # 安全检查
                 if self._safe_check(content):
                     return content
                 else:
@@ -46,6 +86,7 @@ class ContentGenerator:
                 print(f"警告: 内容包含敏感词: {blocked}")
                 return False
         return True
+
 
 def generate_front_matter(topic: Dict, publish_date) -> str:
     """生成 Jekyll Front Matter"""
@@ -76,15 +117,13 @@ download_url: "{topic.get('download_url', '')}"
 """
     return fm
 
+
 def parse_llm_output(raw_output: str) -> Dict[str, str]:
     """解析 LLM 输出，分离正文和 Front Matter"""
     lines = raw_output.split('\n')
     
-    # 简单处理：假设输出直接是正文
-    # 后续可以加入 markdown 解析
-    
     return {
         'content': raw_output,
-        'title': '',  # 可以用 LLM 生成标题，或从关键词提取
+        'title': '',
         'excerpt': raw_output[:200] + '...'
     }

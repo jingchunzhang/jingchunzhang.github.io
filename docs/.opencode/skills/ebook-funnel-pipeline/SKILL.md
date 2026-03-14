@@ -21,6 +21,12 @@ version: 1.2.0
 - "Corresponding" means each ZH post has a paired EN post with the same `translation_key` and matched slug family (`slug` / `slug-en`).
 - If one bilingual pair is already produced, continue generating the remaining pairs in the same day until the daily total reaches 10 pairs.
 
+## Article quality floor (mandatory)
+- Chinese article length target: **1500-2000 Chinese characters per post**.
+- English article length target remains long-form and must not be a stub or outline-only draft.
+- Prefer image-rich presentation: add **2 or more relevant images** when suitable, using stable external URLs with clear alt text.
+- Images should support comprehension (meal structure, monitoring tools, grocery planning, walking, kitchen workflow), not act as decorative filler.
+
 ## Pipeline order
 1. `ebook-asset-intake`
 2. `ebook-funnel-monetization`

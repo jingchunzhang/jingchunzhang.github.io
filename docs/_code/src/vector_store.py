@@ -2,9 +2,25 @@ from typing import List, Dict
 import chromadb
 from chromadb.config import Settings
 import config
-import numpy as np
-from sklearn.feature_extraction.text import TfidfVectorizer
-import jieba
+import requests
+
+
+def get_embedding(text: str) -> List[float]:
+    url = config.VOLCENGINE_EMBEDDING_ENDPOINT
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {config.VOLCENGINE_EMBEDDING_API_KEY}"
+    }
+    data = {
+        "model": config.VOLCENGINE_EMBEDDING_MODEL,
+        "input": [{"type": "text", "text": text}]
+    }
+    
+    response = requests.post(url, headers=headers, json=data, timeout=30)
+    response.raise_for_status()
+    result = response.json()
+    
+    return result['data']['embedding']
 
 
 class VectorStore:
@@ -19,39 +35,22 @@ class VectorStore:
             )
         )
         self.collection_name = config.CHROMA_COLLECTION
-        self._vectorizer = TfidfVectorizer(max_features=512)
-        self._doc_count = 0
         self._init_collection()
     
     def _init_collection(self):
         try:
-            self.client.delete_collection(name=self.collection_name)
+            self.collection = self.client.get_collection(name=self.collection_name)
         except:
-            pass
-        
-        self.collection = self.client.create_collection(
-            name=self.collection_name,
-            metadata={"description": "Blog content vectors for deduplication"}
-        )
+            self.collection = self.client.create_collection(
+                name=self.collection_name,
+                metadata={"description": "Blog content vectors for deduplication"}
+            )
     
-    def _tokenize(self, text: str) -> str:
-        words = jieba.cut(text)
-        return " ".join(words)
-    
-    def _embed_text(self, texts: List[str], fit: bool = False) -> List[List[float]]:
-        processed = [self._tokenize(t) for t in texts]
-        
-        if fit:
-            self._vectorizer.fit(processed)
-        
-        matrix = self._vectorizer.transform(processed)
-        vectors = matrix.toarray().tolist()
-        
-        self._doc_count += len(texts)
-        return vectors
+    def _embed_text(self, texts: List[str]) -> List[List[float]]:
+        return [get_embedding(text) for text in texts]
     
     def add_documents(self, ids: List[str], documents: List[str], metadatas: List[dict]):
-        embeddings = self._embed_text(documents, fit=(self._doc_count == 0))
+        embeddings = self._embed_text(documents)
         
         self.collection.add(
             ids=ids,
@@ -61,10 +60,10 @@ class VectorStore:
         )
     
     def search(self, query: str, n_results: int = 5):
-        query_embedding = self._embed_text([query])
+        query_embedding = get_embedding(query)
         
         results = self.collection.query(
-            query_embeddings=query_embedding,
+            query_embeddings=[query_embedding],
             n_results=n_results
         )
         return results

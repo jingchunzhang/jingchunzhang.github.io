@@ -11,7 +11,8 @@ import config
 # 添加项目路径
 sys.path.insert(0, str(Path(__file__).parent))
 
-from src.ebook_loader import load_manifest, get_pending_topics
+from src.ebook_loader import get_pending_topics
+from src.data_source_loader import load_all_sources
 from src.vector_store import VectorStore
 from src.content_generator import ContentGenerator, generate_front_matter
 from src.publisher import Publisher
@@ -23,10 +24,10 @@ def run_daily_task():
     print(f"开始每日任务: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 50)
     
-    # 1. 加载ebook manifest
-    print("\n[1/6] 加载ebook manifest...")
-    manifests = load_manifest()
-    print(f"  - 加载了 {len(manifests)} 条记录")
+    # 1. 加载所有数据源
+    print("\n[1/6] 加载数据源...")
+    all_topics = load_all_sources()
+    print(f"  - 加载了 {len(all_topics)} 条选题")
     
     # 2. 获取已存在的文章slug
     print("\n[2/6] 获取已存在文章...")
@@ -34,9 +35,13 @@ def run_daily_task():
     existing_slugs = publisher.get_existing_slugs()
     print(f"  - 已有 {len(existing_slugs)} 篇文章")
     
-    # 3. 获取待生成的选题
+    # 3. 过滤待生成的选题
     print("\n[3/6] 获取待生成选题...")
-    pending_topics = get_pending_topics(manifests, existing_slugs)
+    pending_topics = []
+    for topic in all_topics:
+        slug = topic.get('slug', '')
+        if slug and slug not in existing_slugs:
+            pending_topics.append(topic)
     print(f"  - 待生成 {len(pending_topics)} 篇")
     
     if not pending_topics:

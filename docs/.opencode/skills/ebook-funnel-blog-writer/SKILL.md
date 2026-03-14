@@ -79,6 +79,12 @@ Use these role identities for bylines and narrative perspective:
 - English (EN) long-form target: **1200–1800 words** per post.
 - If the first draft is below target, expand with practical sections (framework, checklist, FAQ, scenarios, cautions) before marking complete.
 - Keep medical tone conservative: no cure claims, no absolute guarantees.
+- Do not leave same-day quota posts as short drafts; expand them to target range before considering the day complete.
+
+## Media guidance
+- Prefer **2+ images per article** when relevant and available.
+- Use stable, reusable image sources and include meaningful alt text in both ZH and EN pages.
+- Image placement should help readers scan the article: usually one near the introduction and one in a practical framework/checklist section.
 
 ## Required front matter fields for persona publishing
 - `author_id`: one of `zzh|kelvin|yyh|gwx|zyn|zhl|wep`
