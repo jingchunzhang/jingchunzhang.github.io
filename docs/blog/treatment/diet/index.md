@@ -42,6 +42,9 @@ translation_key: treatment-diet-index
 - [加拿大临床语境下的治疗期控糖：家庭可执行的护理框架](./practical-diabetes-care-canada.md)
 - [妊娠期糖尿病管理全流程：从孕期到分娩前的饮食与监测](./pregnancy-diabetes-birth.md)
 - [天然碳水阻断剂：桑叶与糖尿病管理](./mulberry-leaf-diabetes-cn.md)
+- [LGBTQ群体糖尿病风险科普：数据揭示的真相与应对策略](./2026-03-15-lgbt-diabetes-risk.md)
+- [跨性别者与糖尿病：激素治疗、代谢风险与健康管理](./2026-03-15-transgender-diabetes-hormone-therapy.md)
+- [为LGBT+群体提供包容性糖尿病护理：挑战与机遇](./2026-03-15-lgbt-inclusive-diabetes-care.md)
 
 ## 你可能也需要
 

@@ -45,6 +45,9 @@ During treatment, diet is about **stable glucose, sustainable weight/metabolic i
 - [Gestational Diabetes Management from Pregnancy to Birth: A Practical Diet, Monitoring, and Coordination Plan](./pregnancy-diabetes-birth-en.md)
 - [Diabetes Treatment in a Canadian Clinical Context: A Home-Executable Care Framework](./practical-diabetes-care-canada-en.md)
 - [Natural Carb Blocker: Mulberry Leaf Tea for Diabetes Management](./mulberry-leaf-tea-diabetes-management-en.md)
+- [LGBTQ Diabetes Risk: The Truth Revealed by Data and Coping Strategies](./2026-03-15-lgbt-diabetes-risk-en.md)
+- [Transgender Individuals and Diabetes: Hormone Therapy and Metabolic Risks](./2026-03-15-transgender-diabetes-hormone-therapy-en.md)
+- [Inclusive Diabetes Care for LGBT+ Patients: Challenges and Opportunities](./2026-03-15-lgbt-inclusive-diabetes-care-en.md)
 
 ## Related
 
