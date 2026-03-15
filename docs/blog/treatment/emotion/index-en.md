@@ -17,6 +17,7 @@ Stress and negative emotions can raise glucose via cortisol-related pathways and
 - [Type 1 Diabetes: Turning Clinic Advice into a Daily Home Plan](./type1-diabetes-clinic-to-home-plan-en.md)
 - [Emotional Management During Diabetes Treatment: Turning Psychology in Diabetes Care into Daily Action](./psychology-in-diabetes-care-en.md)
 - [How Negative Emotions Undermine Glucose Control: Practical Responses from Psyching Out Diabetes](./psyching-out-diabetes-en.md)
+- [Diabetes Patient Rights Guide: Carrying Insulin and Glucose Meters into Public Venues](./2026-03-15-diabetes-supplies-rights-en.md)
 
 ## Related
 
