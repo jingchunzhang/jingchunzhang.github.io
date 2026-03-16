@@ -1,0 +1,175 @@
+{
+  "blogs": [
+    {
+      "keyword": "糖尿病预防 备餐新手 入门",
+      "slug": "meal-prep-diabetes-beginners-prevention",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": false,
+      "path": "/blog/prevention/diet/meal-prep-diabetes-beginners-prevention"
+    },
+    {
+      "keyword": "diabetes meal prep for beginners prevention",
+      "slug": "meal-prep-diabetes-beginners-prevention-en",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": true,
+      "path": "/blog/prevention/diet/meal-prep-diabetes-beginners-prevention-en"
+    },
+    {
+      "keyword": "30天 糖尿病预防 备餐计划",
+      "slug": "30-day-diabetes-meal-plan-prevention",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": false,
+      "path": "/blog/prevention/diet/30-day-diabetes-meal-plan-prevention"
+    },
+    {
+      "keyword": "30 day diabetes meal plan prevention",
+      "slug": "30-day-diabetes-meal-plan-prevention-en",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": true,
+      "path": "/blog/prevention/diet/30-day-diabetes-meal-plan-prevention-en"
+    },
+    {
+      "keyword": "早餐备餐 糖尿病预防",
+      "slug": "breakfast-meal-prep-diabetes-prevention",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": false,
+      "path": "/blog/prevention/diet/breakfast-meal-prep-diabetes-prevention"
+    },
+    {
+      "keyword": "diabetes prevention breakfast meal prep",
+      "slug": "breakfast-meal-prep-diabetes-prevention-en",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": true,
+      "path": "/blog/prevention/diet/breakfast-meal-prep-diabetes-prevention-en"
+    },
+    {
+      "keyword": "午餐盒 糖尿病预防 便当",
+      "slug": "lunch-box-diabetes-prevention",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": false,
+      "path": "/blog/prevention/diet/lunch-box-diabetes-prevention"
+    },
+    {
+      "keyword": "diabetes prevention lunch box ideas",
+      "slug": "lunch-box-diabetes-prevention-en",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": true,
+      "path": "/blog/prevention/diet/lunch-box-diabetes-prevention-en"
+    },
+    {
+      "keyword": "蛋白质 批量备餐 糖尿病预防",
+      "slug": "protein-batch-cooking-diabetes-prevention",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": false,
+      "path": "/blog/prevention/diet/protein-batch-cooking-diabetes-prevention"
+    },
+    {
+      "keyword": "protein batch cooking for diabetes prevention",
+      "slug": "protein-batch-cooking-diabetes-prevention-en",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": true,
+      "path": "/blog/prevention/diet/protein-batch-cooking-diabetes-prevention-en"
+    },
+    {
+      "keyword": "蔬菜预处理 捷径 糖尿病预防",
+      "slug": "vegetable-prep-shortcuts-diabetes-prevention",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": false,
+      "path": "/blog/prevention/diet/vegetable-prep-shortcuts-diabetes-prevention"
+    },
+    {
+      "keyword": "vegetable prep shortcuts for diabetes prevention",
+      "slug": "vegetable-prep-shortcuts-diabetes-prevention-en",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": true,
+      "path": "/blog/prevention/diet/vegetable-prep-shortcuts-diabetes-prevention-en"
+    },
+    {
+      "keyword": "冷冻晚餐 糖尿病预防 备餐",
+      "slug": "freezer-friendly-diabetes-dinners-prevention",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": false,
+      "path": "/blog/prevention/diet/freezer-friendly-diabetes-dinners-prevention"
+    },
+    {
+      "keyword": "freezer friendly diabetes prevention dinners",
+      "slug": "freezer-friendly-diabetes-dinners-prevention-en",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": true,
+      "path": "/blog/prevention/diet/freezer-friendly-diabetes-dinners-prevention-en"
+    },
+    {
+      "keyword": "糖尿病预防 备餐 采购清单",
+      "slug": "grocery-list-diabetes-meal-prep-prevention",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": false,
+      "path": "/blog/prevention/diet/grocery-list-diabetes-meal-prep-prevention"
+    },
+    {
+      "keyword": "grocery list for diabetes meal prep prevention",
+      "slug": "grocery-list-diabetes-meal-prep-prevention-en",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": true,
+      "path": "/blog/prevention/diet/grocery-list-diabetes-meal-prep-prevention-en"
+    },
+    {
+      "keyword": "零食盒 馋意控制 糖尿病预防",
+      "slug": "snack-box-craving-control-diabetes-prevention",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": false,
+      "path": "/blog/prevention/diet/snack-box-craving-control-diabetes-prevention"
+    },
+    {
+      "keyword": "snack box for diabetes craving control prevention",
+      "slug": "snack-box-craving-control-diabetes-prevention-en",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": true,
+      "path": "/blog/prevention/diet/snack-box-craving-control-diabetes-prevention-en"
+    },
+    {
+      "keyword": "甜点份量 预案 糖尿病预防",
+      "slug": "dessert-portion-meal-prep-diabetes-prevention",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": false,
+      "path": "/blog/prevention/diet/dessert-portion-meal-prep-diabetes-prevention"
+    },
+    {
+      "keyword": "dessert portion meal prep for diabetes prevention",
+      "slug": "dessert-portion-meal-prep-diabetes-prevention-en",
+      "stage": "prevention",
+      "dimension": "diet",
+      "is_english": true,
+      "path": "/blog/prevention/diet/dessert-portion-meal-prep-diabetes-prevention-en"
+    }
+  ],
+  "author_info": {
+    "author_id": "zzh",
+    "author_name": "zzh",
+    "author_email": "zzh@tangyou.space",
+    "author_role": "糖尿病治疗期病人",
+    "reviewer_id": "yyh",
+    "reviewer_name": "yyh",
+    "reviewer_email": "yyh@tangyou.space",
+    "reviewer_role": "糖尿病治疗医生"
+  },
+  "date": "2026-03-16"
+}
