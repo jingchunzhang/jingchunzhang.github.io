@@ -1,0 +1,72 @@
+[
+  {
+    "keyword": "什么是糖尿病前期？如何逆转？",
+    "is_english": false,
+    "slug": "prediabetes-reversal-guide",
+    "stage": "prevention",
+    "dimension": "diet"
+  },
+  {
+    "keyword": "糖尿病患者运动指南：如何安全有效",
+    "is_english": false,
+    "slug": "diabetes-exercise-safety-guide",
+    "stage": "prevention",
+    "dimension": "exercise"
+  },
+  {
+    "keyword": "糖尿病与心脏健康：不可忽视的风险",
+    "is_english": false,
+    "slug": "diabetes-heart-health-risk",
+    "stage": "prevention",
+    "dimension": "diet"
+  },
+  {
+    "keyword": "糖尿病心理健康：应对焦虑和抑郁",
+    "is_english": false,
+    "slug": "diabetes-mental-health-anxiety",
+    "stage": "treatment",
+    "dimension": "emotion"
+  },
+  {
+    "keyword": "糖尿病并发症预防：早期信号与筛查",
+    "is_english": false,
+    "slug": "diabetes-complications-prevention-screening",
+    "stage": "treatment",
+    "dimension": "diet"
+  },
+  {
+    "keyword": "prediabetes: what is it and how to reverse it",
+    "is_english": true,
+    "slug": "prediabetes-reversal-guide-en",
+    "stage": "prevention",
+    "dimension": "diet"
+  },
+  {
+    "keyword": "diabetes exercise guide: safe and effective workouts",
+    "is_english": true,
+    "slug": "diabetes-exercise-safety-guide-en",
+    "stage": "prevention",
+    "dimension": "exercise"
+  },
+  {
+    "keyword": "diabetes and heart health: understanding the risks",
+    "is_english": true,
+    "slug": "diabetes-heart-health-risk-en",
+    "stage": "prevention",
+    "dimension": "diet"
+  },
+  {
+    "keyword": "diabetes mental health: coping with anxiety and depression",
+    "is_english": true,
+    "slug": "diabetes-mental-health-anxiety-en",
+    "stage": "treatment",
+    "dimension": "emotion"
+  },
+  {
+    "keyword": "diabetes complications prevention: early signs and screening",
+    "is_english": true,
+    "slug": "diabetes-complications-prevention-screening-en",
+    "stage": "treatment",
+    "dimension": "diet"
+  }
+]
