@@ -36,7 +36,6 @@ During treatment, diet is about **stable glucose, sustainable weight/metabolic i
 - [Diabetes A to Z: From Basics to Practice in Treatment Stage](./2026-03-15-diabetes-a-to-z-en.md)
 - [DASH Diet and Diabetes: Dual Strategy for Blood Pressure and Glucose Control](./2026-03-15-dash-diet-diabetes-en.md)
 - [Diabetic Meal Prep for Beginners: A 30-Day Starter Plan](./2026-03-15-diabetic-meal-prep-beginners-en.md)
-- [Pregnancy Diabetes Full Management: From Pregnancy to Birth](./2026-03-15-pregnancy-diabetes-birth-guide-en.md)
 - [High-Fiber Diabetes Recipes: A One-Week Executable Blood Sugar Plate & Family Meal Prep Plan](./2026-03-15-high-fiber-diabetes-recipes-en.md)
 - [Diabetes Education for Patients: Essential Knowledge for Treatment Stage](./2026-03-15-diabetes-education-patients-en.md)
 - [Diabetic Cooking for Everyone: 355 Blood Sugar-Friendly Recipes](./2026-03-15-diabetic-cooking-everyone-en.md)

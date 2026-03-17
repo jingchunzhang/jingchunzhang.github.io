@@ -90,7 +90,6 @@ A starter guide that turns meal prep into a repeatable prevention system built a
 
 A four-week framework that helps readers observe patterns, stabilize breakfast and snacks, strengthen dinners, and review what actually works.
 
-#### [Breakfast Meal Prep for Diabetes Prevention: Build Steadier Mornings](./breakfast-meal-prep-diabetes-prevention-en.md)
 
 Three breakfast templates—warm, refrigerated, and portable—to reduce morning instability and afternoon cravings.
 
@@ -106,11 +105,9 @@ How to prep eggs, tofu, chicken, fish, yogurt, and beans so ordinary meals feel 
 
 Simple prep methods that make half-plate vegetables realistic instead of aspirational.
 
-#### [Freezer-Friendly Diabetes Dinners for Prevention](./freezer-friendly-diabetes-dinners-prevention-en.md)
 
 Freezer-ready dinner ideas that protect the evening meal when energy and decision quality are lowest.
 
-#### [Grocery List for Diabetes Meal Prep Prevention](./grocery-list-diabetes-meal-prep-prevention-en.md)
 
 A grocery-list system organized by meal modules rather than random “healthy” items, reducing waste and weekday drift.
 
@@ -118,7 +115,6 @@ A grocery-list system organized by meal modules rather than random “healthy”
 
 How to build planned, portioned snacks that reduce impulsive sweet-drink and snack patterns.
 
-#### [Dessert Portion Planning for Diabetes Prevention](./dessert-portion-meal-prep-diabetes-prevention-en.md)
 
 A practical framework for keeping dessert inside boundaries instead of letting it become an unplanned compensation loop.
 

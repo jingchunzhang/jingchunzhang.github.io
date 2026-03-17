@@ -21,7 +21,6 @@ translation_key: treatment-emotion-index
 - [1型糖尿病：把门诊建议落成家庭日程](./type1-diabetes-clinic-to-home-plan.md)
 - [治疗期情绪管理：把《Psychology in Diabetes Care》变成日常可执行工具](./psychology-in-diabetes-care.md)
 - [负面情绪如何拖累控糖：从《Psyching Out Diabetes》到可执行应对方案](./psyching-out-diabetes.md)
-- [糖尿病患者公共场所权利指南：携带胰岛素与血糖仪进入场馆的权益保障](./2026-03-15-diabetes-supplies-rights.md)
 
 ## 你可能也需要
 

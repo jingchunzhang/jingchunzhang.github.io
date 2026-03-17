@@ -33,7 +33,6 @@ translation_key: treatment-diet-index
 - [Diabetes A to Z：糖尿病治疗期从基础到实操](./2026-03-15-diabetes-a-to-z.md)
 - [得舒饮食(DASH)与糖尿病：治疗期降压降糖的双重策略](./2026-03-15-dash-diet-diabetes.md)
 - [糖尿病膳食准备入门：从零开始的30天备餐计划](./2026-03-15-diabetic-meal-prep-beginners.md)
-- [妊娠糖尿病全程管理：从孕期到分娩的饮食与监测](./2026-03-15-pregnancy-diabetes-birth-guide.md)
 - [高纤维糖尿病食谱：一周可执行的稳糖餐盘与家庭备餐方案](./2026-03-15-high-fiber-diabetes-recipes.md)
 - [糖尿病患者教育入门：治疗期必须掌握的基础知识](./2026-03-15-diabetes-education-patients.md)
 - [糖尿病烹饪大全：355道控糖美味食谱实操指南](./2026-03-15-diabetic-cooking-everyone.md)
