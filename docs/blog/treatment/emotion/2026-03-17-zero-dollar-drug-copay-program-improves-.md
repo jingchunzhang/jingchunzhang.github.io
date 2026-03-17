@@ -1,6 +1,8 @@
 ---
-title: "zero dollar drug copay program improves antidiabetic medication adherence and medication use pattern"
+
+title: "Zero Dollar Drug Copay Program: Step-by-Step Guide to Improving Diabetes Medication Adherence"
 date: 2026-03-17 08:50:28 +0800
+lang: zh
 description: "zero dollar drug copay program improves antidiabetic medication adherence and medication use pattern - 糖尿病知识全面解读"
 categories: ["糖尿病预防"]
 tags: ["糖尿病", "健康", "饮食"]
@@ -14,8 +16,8 @@ review_status: "draft"
 disclaimer_key: "medical-information-only"
 
 download_url: ""
----
 
+---
 # Zero Dollar Drug Copay Program: Step-by-Step Guide to Improving Diabetes Medication Adherence  
 
 

@@ -3,6 +3,7 @@ layout: post
 title: "糖尿病患者的居家烹饪指南：简单方法预防血糖波动"
 description: "学习如何选择食材、掌握烹饪技巧，让糖尿病患者在家也能吃出健康。包括实用检查清单和常见误区。"
 date: 2026-03-15
+lang: zh
 categories: blog treatment diet
 tags: 糖尿病 烹饪 饮食管理 血糖控制
 author_id: wep

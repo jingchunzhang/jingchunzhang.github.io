@@ -1,6 +1,7 @@
 ---
 title: "feasibility and cost-effectiveness of at-home self-sampling screening for type 2 diabetes: a pilot s"
 date: 2026-03-17 08:56:04 +0800
+lang: en
 description: "feasibility and cost-effectiveness of at-home self-sampling screening for type 2 diabetes: a pilot s - 糖尿病知识全面解读"
 categories: ["糖尿病预防"]
 tags: ["糖尿病", "健康", "饮食"]

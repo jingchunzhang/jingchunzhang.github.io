@@ -1,6 +1,8 @@
 ---
-title: "longitudinal changes in epigenetic age acceleration prior to type 1 diabetes onset in the diabetes a"
+
+title: "Longitudinal Changes in Epigenetic Age Acceleration Before Type 1 Diabetes Onset: A Comparative Guide"
 date: 2026-03-17 08:45:53 +0800
+lang: en
 description: "longitudinal changes in epigenetic age acceleration prior to type 1 diabetes onset in the diabetes a - 糖尿病知识全面解读"
 categories: ["糖尿病预防"]
 tags: ["糖尿病", "健康", "饮食"]
@@ -14,8 +16,8 @@ review_status: "draft"
 disclaimer_key: "medical-information-only"
 
 download_url: ""
----
 
+---
 # Longitudinal Changes in Epigenetic Age Acceleration Before Type 1 Diabetes Onset: A Comparative Guide  
 
 

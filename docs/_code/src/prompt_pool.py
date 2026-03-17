@@ -93,6 +93,9 @@ def build_prompt(keyword: str, genre: str = None, persona: str = None, lang: str
     persona_instructions = PERSONA_VARIANTS.get(persona, PERSONA_VARIANTS["senior_patient"])
     lang_instruction = LANGUAGE_VARIANTS.get(lang, LANGUAGE_VARIANTS["zh"])
     
+    if lang == "zh":
+        lang_instruction = """请用简体中文写作。如果关键词是英文，请先将其翻译为中文，并基于中文语境撰写文章。务必确保全文为中文。"""
+    
     prompt = f"""{persona_instructions}
 
 {lang_instruction}
@@ -104,11 +107,17 @@ def build_prompt(keyword: str, genre: str = None, persona: str = None, lang: str
 请生成一篇高质量的文章，围绕关键词：{keyword}
 
 文章要求：
-- 字数 800-1500 字
-- 结构清晰，有明确的小标题
-- 适合 SEO，包含关键词的自然分布
-- 在文章开头或适当位置添加1-2张相关图片（使用 Markdown 图片语法，描述性 alt 文本）
-- 结尾可以引导下载相关电子书
+1. **标题优化**：第一行必须是 H1 标题。标题要吸引人、口语化，**禁止**直接使用学术论文式的长关键词作为标题。例如，将 "Feasibility of X" 改为 "X 真的可行吗？详细分析"。
+2. **内容结构**：
+   - 字数 1500-2000 字
+   - 结构清晰，有明确的小标题 (H2, H3)
+   - 包含 "实操步骤" 或 "真实案例" 章节
+3. **SEO优化**：包含关键词的自然分布
+4. **图片配置**：在文章开头或适当位置添加 1-2 张相关图片。
+   - 使用 Markdown 图片语法：`![描述性Alt文本](https://source.unsplash.com/1600x900/?<英文关键词>)`
+   - 将 `<英文关键词>` 替换为与段落内容相关的英文单词（如 diabetes, food, exercise）
+5. **互动部分**：**必须**包含一个 "常见问题 (FAQ)" 章节，回答 3-5 个用户最关心的问题。
+6. **结尾致谢**：结尾可以引导下载相关电子书（如果有）。
 """
     return prompt
 

@@ -1,6 +1,7 @@
 ---
 title: "associations of body weight and covid-19 with autoimmunity in pediatric new-onset type 1 diabetes: r"
 date: 2026-03-17 08:52:10 +0800
+lang: en
 description: "associations of body weight and covid-19 with autoimmunity in pediatric new-onset type 1 diabetes: r - 糖尿病知识全面解读"
 categories: ["糖尿病预防"]
 tags: ["糖尿病", "健康", "饮食"]

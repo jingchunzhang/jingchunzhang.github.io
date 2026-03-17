@@ -1,6 +1,8 @@
 ---
-title: "your right to bring diabetes supplies into stadiums, concerts & other venues"
+
+title: "携带糖尿病用品进入体育场、音乐会及其他场馆的合法指南：从法律保障到实操步骤"
 date: 2026-03-17 08:39:19 +0800
+lang: zh
 description: "your right to bring diabetes supplies into stadiums, concerts & other venues - 糖尿病知识全面解读"
 categories: ["糖尿病预防"]
 tags: ["糖尿病", "健康", "饮食"]
@@ -14,8 +16,8 @@ review_status: "draft"
 disclaimer_key: "medical-information-only"
 
 download_url: ""
----
 
+---
 # 携带糖尿病用品进入体育场、音乐会及其他场馆的合法指南：从法律保障到实操步骤
 
 

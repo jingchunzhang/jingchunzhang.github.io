@@ -1,5 +1,6 @@
 ---
-title: "Diabetic Meal Prep for Beginners: A Practical Weekly System for Treatment-Phase Blood Sugar Stability"
+
+title: "Diabetic Meal Prep for Beginners: Build a Week Once, Reduce Daily Blood Sugar Chaos"
 date: 2026-03-15
 lang: en
 translation_key: diabetic-meal-prep-beginners
@@ -21,8 +22,8 @@ download_url: "https://download.tangyou.space/20260315/Diabetic-Meal-Prep.pdf"
 cta_form_id: "ebook-signup"
 automation_id: "ebook-delivery-20260315"
 slug: "diabetic-meal-prep-beginners"
----
 
+---
 # Diabetic Meal Prep for Beginners: Build a Week Once, Reduce Daily Blood Sugar Chaos
 
 If your household is in the diabetes treatment phase, you probably know this pattern: everyone agrees to “eat better,” but weekdays get busy, dinner decisions happen at 7:30 PM, and the final choice is often takeout, instant noodles, or random snacks. For blood sugar management, this is more than an inconvenience. **Decision fatigue creates glucose variability.**

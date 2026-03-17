@@ -1,6 +1,8 @@
 ---
-title: "association of genetic variation with age at diagnosis in type 1 diabetes"
+
+title: "1型糖尿病遗传变异与诊断年龄的关联：我的基因解码与控糖经验分享"
 date: 2026-03-17 08:47:53 +0800
+lang: zh
 description: "association of genetic variation with age at diagnosis in type 1 diabetes - 糖尿病知识全面解读"
 categories: ["糖尿病预防"]
 tags: ["糖尿病", "健康", "饮食"]
@@ -14,8 +16,8 @@ review_status: "draft"
 disclaimer_key: "medical-information-only"
 
 download_url: ""
----
 
+---
 # 1型糖尿病遗传变异与诊断年龄的关联：我的基因解码与控糖经验分享
 
 ![1型糖尿病遗传变异与诊断年龄关联示意图](https://images.unsplash.com/photo-1578303512062-311b18375605?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80)  

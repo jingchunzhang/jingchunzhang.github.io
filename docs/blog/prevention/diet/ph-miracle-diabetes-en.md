@@ -1,6 +1,7 @@
 ---
+
 layout: default
-title: "The ‘pH Diet’ and Diabetes Prevention: How to Read The pH Miracle for Diabetes with Evidence-Based Judgment"
+title: "The ‘pH Diet’ and Diabetes Prevention: How to Read *The pH Miracle for Diabetes* with Evidence-Based Judgment"
 description: "A prevention-focused, evidence-oriented interpretation of The pH miracle for diabetes: keep useful dietary behaviors, avoid cure claims, and build a sustainable risk-reduction routine."
 date: 2026-03-13
 lang: en
@@ -23,8 +24,8 @@ download_url: "https://download.tangyou.space/20260313/The-pH-miracle-for-diabet
 cta_form_id: "ebook-signup"
 automation_id: "ebook-delivery-20260313"
 slug: "ph-miracle-diabetes-en"
----
 
+---
 # The ‘pH Diet’ and Diabetes Prevention: How to Read *The pH Miracle for Diabetes* with Evidence-Based Judgment
 
 > **[中文版](./ph-miracle-diabetes)** | **[Chinese Version](./ph-miracle-diabetes)**

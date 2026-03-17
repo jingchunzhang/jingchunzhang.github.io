@@ -1,6 +1,8 @@
 ---
-title: "association of genetic variation with age at diagnosis in type 1 diabetes"
+
+title: "Avoiding Common Pitfalls in Studying the Association of Genetic Variation with Age at Diagnosis in Type 1 Diabetes"
 date: 2026-03-17 08:47:53 +0800
+lang: en
 description: "association of genetic variation with age at diagnosis in type 1 diabetes - 糖尿病知识全面解读"
 categories: ["糖尿病预防"]
 tags: ["糖尿病", "健康", "饮食"]
@@ -14,8 +16,8 @@ review_status: "draft"
 disclaimer_key: "medical-information-only"
 
 download_url: ""
----
 
+---
 # Avoiding Common Pitfalls in Studying the Association of Genetic Variation with Age at Diagnosis in Type 1 Diabetes  
 
 

@@ -1,6 +1,8 @@
 ---
-title: "how to eat carbs without causing a blood sugar spike"
+
+title: "如何吃碳水化合物而不引起血糖飙升：科学选购与搭配指南"
 date: 2026-03-17 08:40:48 +0800
+lang: zh
 description: "how to eat carbs without causing a blood sugar spike - 糖尿病知识全面解读"
 categories: ["糖尿病预防"]
 tags: ["糖尿病", "健康", "饮食"]
@@ -14,8 +16,8 @@ review_status: "draft"
 disclaimer_key: "medical-information-only"
 
 download_url: ""
----
 
+---
 # 如何吃碳水化合物而不引起血糖飙升：科学选购与搭配指南
 
 

@@ -1,6 +1,8 @@
 ---
-title: "how baths and showers affect blood sugar for people living with diabetes"
+
+title: "沐浴与洗澡如何影响糖尿病患者的血糖：科学指南与管理建议"
 date: 2026-03-17 08:37:21 +0800
+lang: zh
 description: "how baths and showers affect blood sugar for people living with diabetes - 糖尿病知识全面解读"
 categories: ["糖尿病预防"]
 tags: ["糖尿病", "健康", "饮食"]
@@ -14,8 +16,8 @@ review_status: "draft"
 disclaimer_key: "medical-information-only"
 
 download_url: ""
----
 
+---
 # 沐浴与洗澡如何影响糖尿病患者的血糖：科学指南与管理建议
 
 

@@ -86,18 +86,20 @@ class ContentGenerator:
         return True
 
 
-def generate_front_matter(topic: Dict, publish_date) -> str:
-    """生成 Jekyll Front Matter"""
-    from src.ebook_loader import get_author_for_date
-    
-    author_info = get_author_for_date(publish_date)
-    
-    date_str = publish_date.strftime("%Y-%m-%d %H:%M:%S +0800")
-    
-    fm = f"""---
-title: "{topic.get('keyword', '')}"
+def generate_front_matter(topic: Dict, publish_date, custom_title: Optional[str] = None) -> str:
+     """生成 Jekyll Front Matter"""
+     from src.ebook_loader import get_author_for_date
+     
+     author_info = get_author_for_date(publish_date)
+     
+     date_str = publish_date.strftime("%Y-%m-%d %H:%M:%S +0800")
+     
+     title = (custom_title or topic.get('keyword', '')).replace('"', '\\"')
+     
+     fm = f"""---
+title: "{title}"
 date: {date_str}
-description: "{topic.get('keyword', '')} - 糖尿病知识全面解读"
+description: "{title} - 糖尿病知识全面解读"
 categories: ["糖尿病预防"]
 tags: ["糖尿病", "健康", "饮食"]
 slug: {topic.get('slug', '')}
@@ -113,15 +115,22 @@ download_url: "{topic.get('download_url', '')}"
 ---
 
 """
-    return fm
+     return fm
 
 
 def parse_llm_output(raw_output: str) -> Dict[str, str]:
-    """解析 LLM 输出，分离正文和 Front Matter"""
-    lines = raw_output.split('\n')
-    
-    return {
-        'content': raw_output,
-        'title': '',
-        'excerpt': raw_output[:200] + '...'
-    }
+     """解析 LLM 输出，分离正文和 Front Matter"""
+     lines = raw_output.split('\n')
+     
+     title = ''
+     for line in lines:
+          stripped = line.strip()
+          if stripped.startswith('# '):
+               title = stripped[2:].strip()
+               break
+     
+     return {
+          'content': raw_output,
+          'title': title,
+          'excerpt': raw_output[:200] + '...'
+     }

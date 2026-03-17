@@ -14,7 +14,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from src.ebook_loader import get_pending_topics
 from src.data_source_loader import load_all_sources
 from src.vector_store import VectorStore
-from src.content_generator import ContentGenerator, generate_front_matter
+from src.content_generator import ContentGenerator, generate_front_matter, parse_llm_output
 from src.publisher import Publisher
 from src.index_updater import add_new_post_links
 from src.content_classifier import classify_content, get_subdir
@@ -81,14 +81,25 @@ def run_daily_task():
         try:
             date_str = datetime.now().strftime('%Y-%m-%d')
             
+            # Generate Chinese content and extract title
             content_zh = generator.generate_with_retry(keyword, lang="zh")
+            parsed_zh = parse_llm_output(content_zh)
+            title_zh = parsed_zh.get('title', '') or keyword
+            print(f"    - Using title (ZH): {title_zh}")
+            
             slug_zh = f"{date_str}-{keyword.lower().replace(' ', '-')[:40]}"
             
+            # Generate English content and extract title
             content_en = generator.generate_with_retry(keyword, lang="en")
+            parsed_en = parse_llm_output(content_en)
+            title_en = parsed_en.get('title', '') or keyword
+            print(f"    - Using title (EN): {title_en}")
+            
             slug_en = f"{slug_zh}-en"
             
-            topic['title_zh'] = keyword
-            topic['title_en'] = keyword
+            # Use extracted titles instead of keyword
+            topic['title_zh'] = title_zh
+            topic['title_en'] = title_en
             
             classification = classify_content(keyword, content_zh)
             subdir = get_subdir(classification['stage'], classification['aspect'])
@@ -96,8 +107,10 @@ def run_daily_task():
             
             publish_date = datetime.now()
             
-            front_matter_zh = generate_front_matter(topic, publish_date)
-            front_matter_en = generate_front_matter(topic, publish_date)
+            # Pass custom_title for Chinese content
+            front_matter_zh = generate_front_matter(topic, publish_date, custom_title=title_zh)
+            # Pass custom_title for English content
+            front_matter_en = generate_front_matter(topic, publish_date, custom_title=title_en)
             
             publisher.create_blog_post(slug_zh, content_zh, front_matter_zh, subdir=subdir)
             publisher.create_blog_post(slug_en, content_en, front_matter_en, subdir=subdir)
@@ -106,8 +119,8 @@ def run_daily_task():
             
             generated_posts.append({
                 'slug': slug_zh,
-                'title_zh': keyword,
-                'title_en': keyword,
+                'title_zh': title_zh,
+                'title_en': title_en,
                 'subdir': subdir
             })
             
