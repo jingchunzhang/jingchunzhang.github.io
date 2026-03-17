@@ -16,6 +16,7 @@ translation_key: prevention/diet/index
 ---
 
 ## 核心文章
+### [how to eat carbs without causing a blood sugar spike](./2026-03-17-how-to-eat-carbs-without-causing-a-blood.md)
 
 ### [食疗知慧：通过均衡饮食科学预防糖尿病](./balanced-diet-diabetes-prevention.md)
 

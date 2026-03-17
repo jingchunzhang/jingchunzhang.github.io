@@ -25,16 +25,16 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 *   **[Mainstream Global Diabetes Diagnostic Criteria Reference](./diabetes-diagnostic-criteria-en)**
 
 ## Living with Diabetes (Latest Updates)
-*   **[Inflammatory profile of diabetic ketoacidosis in children with type 1 diabetes](./treatment/emotion/2026-03-14-inflammatory-profile-of-diabetic-ketoaci-en)**
-*   **[Test Post EN](./treatment/diet/test-post-en)**
-*   **[Pregnancy and Lactation Diabetes Topic Cluster: Prevention, Care, and Postpartum Recovery](./topic-cluster-pregnancy-lactation-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">Hub</span>
-*   **[Pregnancy-Safe Exercise for Gestational Diabetes Prevention: Turn After-Meal Movement into a Daily Stabilizer](./prevention/exercise/pregnancy-safe-exercise-gestational-diabetes-prevention-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
-*   **[Pregnancy Sleep Routine for Gestational Diabetes Prevention: Stabilize the Night First](./prevention/sleep/pregnancy-sleep-routine-gestational-diabetes-prevention-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
-*   **[Gestational Diabetes Night Glucose Routine: Align Dinner, Night Wakings, and Next-Morning Fasting](./treatment/sleep/gestational-diabetes-night-glucose-routine-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
-*   **[Postpartum and Lactation Stress Management: Break the Stress-Eating-Glucose Loop](./rehabilitation/emotion/postpartum-lactation-stress-glucose-recovery-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
-*   **[How to Prevent Gestational Diabetes During Pregnancy: A Practical Framework for Meals, Weight Gain, and Daily Activity](./prevention/diet/gestational-diabetes-prevention-pregnancy-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
-*   **[Gestational Diabetes Home Care: How to Coordinate Glucose Checks, Snacks, and Prenatal Follow-Up](./treatment/diet/gestational-diabetes-home-care-pregnancy-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
-*   **[Postpartum and Lactation Glucose Recovery: Eat Enough, Support Milk Production, and Rebuild Metabolic Stability](./rehabilitation/diet/postpartum-lactation-glucose-recovery-en)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[feasibility and cost-effectiveness of at-home self-sampling screening for type 2 diabetes: a pilot s](./treatment/emotion/2026-03-17-feasibility-and-cost-effectiveness-of-at-en)**
+*   **[longitudinal changes in epigenetic age acceleration](./prevention/2026-03-17-longitudinal-changes-in-epigenetic-age-a-en)**
+*   **[associations of body weight and covid-19](./treatment/diet/2026-03-17-associations-of-body-weight-and-covid-19-en)**
+*   **[zero dollar drug copay program](./treatment/emotion/2026-03-17-zero-dollar-drug-copay-program-improves--en)**
+*   **[association of genetic variation](./treatment/exercise/2026-03-17-association-of-genetic-variation-with-ag-en)**
+*   **[inflammatory profile of diabetic ketoacidosis in children with type 1 diabetes](./treatment/emotion/2026-03-17-inflammatory-profile-of-diabetic-ketoaci-en)**
+*   **[how to eat carbs without causing a blood sugar spike](./prevention/diet/2026-03-17-how-to-eat-carbs-without-causing-a-blood-en)**
+*   **[your right to bring diabetes supplies into stadiums, concerts & other venues](./treatment/sleep/2026-03-17-your-right-to-bring-diabetes-supplies-in-en)**
+*   **[how baths and showers affect blood sugar for people living with diabetes](./treatment/exercise/2026-03-17-how-baths-and-showers-affect-blood-sugar-en)**
+*   **[how to participate in diabetes research panels and studies (paid and unpaid)](./treatment/exercise/2026-03-17-how-to-participate-in-diabetes-research--en)**
 ## Core Focus: Three Pillars of Diabetes Management
 
 ### 1. Prevention

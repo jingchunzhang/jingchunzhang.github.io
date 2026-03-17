@@ -12,6 +12,9 @@ translation_key: treatment-emotion-index
 压力与负面情绪会通过皮质醇等通路推高血糖，并影响依从性。治疗期需要一套可操作的情绪管理工具箱。
 
 ## 核心文章
+### [feasibility and cost-effectiveness of at-home self-sampling screening for type 2 diabetes: a pilot s](./2026-03-17-feasibility-and-cost-effectiveness-of-at.md)
+### [zero dollar drug copay program](./2026-03-17-zero-dollar-drug-copay-program-improves-.md)
+### [inflammatory profile of diabetic ketoacidosis in children with type 1 diabetes](./2026-03-17-inflammatory-profile-of-diabetic-ketoaci.md)
 ### [Inflammatory profile of diabetic ketoacidosis in children with type 1 diabetes](./2026-03-14-inflammatory-profile-of-diabetic-ketoaci.md)
 
 - [治疗期情绪与压力管理：让控糖不再靠硬抗](./stress-emotion-diabetes-treatment.md)

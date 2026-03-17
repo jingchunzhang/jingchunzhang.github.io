@@ -25,16 +25,16 @@ translation_key: blog
 *   **[全球主流糖尿病诊断标准参考](./diabetes-diagnostic-criteria)**
 
 ## 生活与管理 (最新更新)
-*   **[Inflammatory profile of diabetic ketoacidosis in children with type 1 diabetes](./treatment/emotion/2026-03-14-inflammatory-profile-of-diabetic-ketoaci)**
-*   **[孕期与哺乳期糖尿病管理专题：预防、护理与产后恢复全路径](./topic-cluster-pregnancy-lactation)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">Hub</span>
-*   **[孕期安全运动与妊娠糖尿病预防：把餐后活动变成每日稳定器](./prevention/exercise/pregnancy-safe-exercise-gestational-diabetes-prevention)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
-*   **[孕期睡眠规律与妊娠糖尿病预防：先把夜晚稳定下来](./prevention/sleep/pregnancy-sleep-routine-gestational-diabetes-prevention)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
-*   **[妊娠糖尿病夜间血糖稳定策略：晚餐、夜醒与次日空腹的衔接](./treatment/sleep/gestational-diabetes-night-glucose-routine)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
-*   **[产后与哺乳期压力管理：避免“压力-进食-血糖”循环](./rehabilitation/emotion/postpartum-lactation-stress-glucose-recovery)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
-*   **[孕期如何预防妊娠糖尿病：从三餐、体重增长到日常活动的实用框架](./prevention/diet/gestational-diabetes-prevention-pregnancy)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
-*   **[妊娠糖尿病家庭护理：血糖监测、加餐安排与产检协同怎么做](./treatment/diet/gestational-diabetes-home-care-pregnancy)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
-*   **[哺乳期与产后血糖恢复：吃得够、奶量稳，也把代谢慢慢带回正轨](./rehabilitation/diet/postpartum-lactation-glucose-recovery)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
-*   **[给新手的糖尿病预防备餐入门：先搭框架，再谈食谱](./prevention/diet/meal-prep-diabetes-beginners-prevention)** <span style="font-size: 0.8em; background-color: #ffcccc; padding: 2px 5px; border-radius: 3px;">New</span>
+*   **[feasibility and cost-effectiveness of at-home self-sampling screening for type 2 diabetes: a pilot s](./treatment/emotion/2026-03-17-feasibility-and-cost-effectiveness-of-at)**
+*   **[longitudinal changes in epigenetic age acceleration](./prevention/2026-03-17-longitudinal-changes-in-epigenetic-age-a)**
+*   **[associations of body weight and covid-19](./treatment/diet/2026-03-17-associations-of-body-weight-and-covid-19)**
+*   **[zero dollar drug copay program](./treatment/emotion/2026-03-17-zero-dollar-drug-copay-program-improves-)**
+*   **[association of genetic variation](./treatment/exercise/2026-03-17-association-of-genetic-variation-with-ag)**
+*   **[inflammatory profile of diabetic ketoacidosis in children with type 1 diabetes](./treatment/emotion/2026-03-17-inflammatory-profile-of-diabetic-ketoaci)**
+*   **[how to eat carbs without causing a blood sugar spike](./prevention/diet/2026-03-17-how-to-eat-carbs-without-causing-a-blood)**
+*   **[your right to bring diabetes supplies into stadiums, concerts & other venues](./treatment/sleep/2026-03-17-your-right-to-bring-diabetes-supplies-in)**
+*   **[how baths and showers affect blood sugar for people living with diabetes](./treatment/exercise/2026-03-17-how-baths-and-showers-affect-blood-sugar)**
+*   **[how to participate in diabetes research panels and studies (paid and unpaid)](./treatment/exercise/2026-03-17-how-to-participate-in-diabetes-research-)**
 ## 核心关注：糖尿病管理三部曲
 
 ### 1. 预防阶段

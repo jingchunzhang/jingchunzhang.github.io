@@ -12,6 +12,7 @@ translation_key: treatment-diet-index
 治疗期的饮食目标不再只是“少吃点”，而是围绕 **血糖稳定、体重与代谢改善、用药协同** 建立可持续的餐盘策略。
 
 ## 核心文章
+### [associations of body weight and covid-19](./2026-03-17-associations-of-body-weight-and-covid-19.md)
 
 - [治疗期饮食管理：把“控糖”落到每一餐](./therapeutic-diet-diabetes-treatment.md)
 - [治疗期饮食底层逻辑：营养密度（ANDI）与“为生而食”](./nutrient-density-andi-eat-for-life-diabetes-treatment.md)

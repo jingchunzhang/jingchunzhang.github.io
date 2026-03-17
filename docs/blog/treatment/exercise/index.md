@@ -12,6 +12,9 @@ translation_key: treatment-exercise-index
 治疗期运动需要同时考虑 **降糖效果** 与 **低血糖风险、并发症与足部安全**，强调“可执行、可监测、可调整”。
 
 ## 核心文章
+### [association of genetic variation](./2026-03-17-association-of-genetic-variation-with-ag.md)
+### [how to participate in diabetes research panels and studies (paid and unpaid)](./2026-03-17-how-to-participate-in-diabetes-research-.md)
+### [how baths and showers affect blood sugar for people living with diabetes](./2026-03-17-how-baths-and-showers-affect-blood-sugar.md)
 
 - [治疗期运动处方：安全、有效、可坚持的控糖训练](./exercise-prescription-diabetes-treatment.md)
 - [2型糖尿病监测协议：家庭可执行版本](./type2-diabetes-monitoring-protocols.md)

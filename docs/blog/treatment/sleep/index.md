@@ -12,6 +12,7 @@ translation_key: treatment-sleep-index
 睡眠影响胰岛素敏感性、食欲与压力激素。治疗期把睡眠做“够”，往往能让控制更稳、执行更轻松。
 
 ## 核心文章
+### [your right to bring diabetes supplies into stadiums, concerts & other venues](./2026-03-17-your-right-to-bring-diabetes-supplies-in.md)
 
 - [治疗期睡眠与代谢：把血糖变稳的“夜间工程”](./sleep-metabolism-diabetes-treatment.md)
 - [糖尿病随访中的内分泌检查：重点看什么](./endocrinology-tests-for-diabetes-followup.md)
