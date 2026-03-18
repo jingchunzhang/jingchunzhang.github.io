@@ -24,6 +24,8 @@ translation_key: blog
 *   **[全球主流糖尿病诊断标准参考](./diabetes-diagnostic-criteria)**
 
 ## 生活与管理 (最新更新)
+*   **[在家就能查血糖？2型糖尿病自我筛查的可行性+成本全对比](./treatment/exercise/2026-03-18-feasibility-and-cost-effectiveness-of-at)**
+*   **[磺脲类降糖药选哪种更安全？心血管和低血糖风险对比指南](./treatment/exercise/2026-03-18-comparative-safety-of-sulfonylurea-thera)**
 *   **[feasibility and cost-effectiveness of at-home self-sampling screening for type 2 diabetes: a pilot s](./treatment/emotion/2026-03-17-feasibility-and-cost-effectiveness-of-at)**
 *   **[longitudinal changes in epigenetic age acceleration](./prevention/2026-03-17-longitudinal-changes-in-epigenetic-age-a)**
 *   **[associations of body weight and covid-19](./treatment/diet/2026-03-17-associations-of-body-weight-and-covid-19)**
@@ -32,8 +34,6 @@ translation_key: blog
 *   **[inflammatory profile of diabetic ketoacidosis in children with type 1 diabetes](./treatment/emotion/2026-03-17-inflammatory-profile-of-diabetic-ketoaci)**
 *   **[how to eat carbs without causing a blood sugar spike](./prevention/diet/2026-03-17-how-to-eat-carbs-without-causing-a-blood)**
 *   **[your right to bring diabetes supplies into stadiums, concerts & other venues](./treatment/sleep/2026-03-17-your-right-to-bring-diabetes-supplies-in)**
-*   **[how baths and showers affect blood sugar for people living with diabetes](./treatment/exercise/2026-03-17-how-baths-and-showers-affect-blood-sugar)**
-*   **[how to participate in diabetes research panels and studies (paid and unpaid)](./treatment/exercise/2026-03-17-how-to-participate-in-diabetes-research-)**
 ## 核心关注：糖尿病管理三部曲
 
 ### 1. 预防阶段

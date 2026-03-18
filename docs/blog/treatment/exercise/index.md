@@ -12,6 +12,8 @@ translation_key: treatment-exercise-index
 治疗期运动需要同时考虑 **降糖效果** 与 **低血糖风险、并发症与足部安全**，强调“可执行、可监测、可调整”。
 
 ## 核心文章
+### [磺脲类降糖药选哪种更安全？心血管和低血糖风险对比指南](./2026-03-18-comparative-safety-of-sulfonylurea-thera.md)
+### [在家就能查血糖？2型糖尿病自我筛查的可行性+成本全对比](./2026-03-18-feasibility-and-cost-effectiveness-of-at.md)
 ### [association of genetic variation](./2026-03-17-association-of-genetic-variation-with-ag.md)
 ### [how to participate in diabetes research panels and studies (paid and unpaid)](./2026-03-17-how-to-participate-in-diabetes-research-.md)
 ### [how baths and showers affect blood sugar for people living with diabetes](./2026-03-17-how-baths-and-showers-affect-blood-sugar.md)

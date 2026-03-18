@@ -24,6 +24,8 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 *   **[Mainstream Global Diabetes Diagnostic Criteria Reference](./diabetes-diagnostic-criteria-en)**
 
 ## Living with Diabetes (Latest Updates)
+*   **[Is At-Home Type 2 Diabetes Screening Actually Feasible? Let’s Break Down the Costs and Myths](./treatment/exercise/2026-03-18-feasibility-and-cost-effectiveness-of-at-en)**
+*   **[Sulfonylurea Therapies: Which Is Safer for Your Heart and Severe Low Blood Sugar?](./treatment/exercise/2026-03-18-comparative-safety-of-sulfonylurea-thera-en)**
 *   **[feasibility and cost-effectiveness of at-home self-sampling screening for type 2 diabetes: a pilot s](./treatment/emotion/2026-03-17-feasibility-and-cost-effectiveness-of-at-en)**
 *   **[longitudinal changes in epigenetic age acceleration](./prevention/2026-03-17-longitudinal-changes-in-epigenetic-age-a-en)**
 *   **[associations of body weight and covid-19](./treatment/diet/2026-03-17-associations-of-body-weight-and-covid-19-en)**
@@ -32,8 +34,6 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 *   **[inflammatory profile of diabetic ketoacidosis in children with type 1 diabetes](./treatment/emotion/2026-03-17-inflammatory-profile-of-diabetic-ketoaci-en)**
 *   **[how to eat carbs without causing a blood sugar spike](./prevention/diet/2026-03-17-how-to-eat-carbs-without-causing-a-blood-en)**
 *   **[your right to bring diabetes supplies into stadiums, concerts & other venues](./treatment/sleep/2026-03-17-your-right-to-bring-diabetes-supplies-in-en)**
-*   **[how baths and showers affect blood sugar for people living with diabetes](./treatment/exercise/2026-03-17-how-baths-and-showers-affect-blood-sugar-en)**
-*   **[how to participate in diabetes research panels and studies (paid and unpaid)](./treatment/exercise/2026-03-17-how-to-participate-in-diabetes-research--en)**
 ## Core Focus: Three Pillars of Diabetes Management
 
 ### 1. Prevention

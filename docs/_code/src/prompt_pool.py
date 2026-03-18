@@ -71,7 +71,7 @@ YMYL_SAFETY_PROMPT = """
 # 双语支持 - 语言变体
 LANGUAGE_VARIANTS = {
     "zh": """请用简体中文写作""",
-    "en": """Please write in English"""
+    "en": """Please write the ENTIRE RESPONSE in English. Even though the prompt instructions above are in Chinese, your output MUST be in English. Translate all requirements to English context."""
 }
 
 # 图片生成提示词
