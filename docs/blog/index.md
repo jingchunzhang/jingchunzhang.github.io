@@ -27,7 +27,7 @@ translation_key: blog
 *   **[入秋后糖尿病总波动？10年老糖友亲测有效的稳糖Step教程](./treatment/diet/2026-03-19-糖尿病-during-autumn-a)**
 *   **[糖友秋季稳糖全指南：吃喝动护对比清单，少踩坑血糖稳到冬天](./treatment/diet/2026-03-19-糖尿病-during-autumn-b)**
 *   **[春节胡吃海喝还能稳血糖？我陪糖友老爸3年的实战经验全分享](./treatment/diet/2026-03-19-glucose-during-spring-a)**
-*   **[春节控糖总踩坑？4组对比清单帮糖友稳血糖不超标](./['prevention', 'treatment']/diet/2026-03-19-glucose-during-spring-b)**
+*   **[春节控糖总踩坑？4组对比清单帮糖友稳血糖不超标](./treatment/diet/2026-03-19-glucose-during-spring-b)**
 *   **[加拿大糖友避坑指南：这6个常见错误别再犯了！](./treatment/diet/2026-03-19-diabetic-in-canada-a)**
 *   **[在家就能查血糖？2型糖尿病自我筛查的可行性+成本全对比](./treatment/exercise/2026-03-18-feasibility-and-cost-effectiveness-of-at)**
 *   **[磺脲类降糖药选哪种更安全？心血管和低血糖风险对比指南](./treatment/exercise/2026-03-18-comparative-safety-of-sulfonylurea-thera)**
