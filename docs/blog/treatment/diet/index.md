@@ -12,6 +12,10 @@ translation_key: treatment-diet-index
 治疗期的饮食目标不再只是“少吃点”，而是围绕 **血糖稳定、体重与代谢改善、用药协同** 建立可持续的餐盘策略。
 
 ## 核心文章
+### [加拿大糖友避坑指南：这6个常见错误别再犯了！](./2026-03-19-diabetic-in-canada-a.md)
+### [春节胡吃海喝还能稳血糖？我陪糖友老爸3年的实战经验全分享](./2026-03-19-glucose-during-spring-a.md)
+### [糖友秋季稳糖全指南：吃喝动护对比清单，少踩坑血糖稳到冬天](./2026-03-19-糖尿病-during-autumn-b.md)
+### [入秋后糖尿病总波动？10年老糖友亲测有效的稳糖Step教程](./2026-03-19-糖尿病-during-autumn-a.md)
 ### [associations of body weight and covid-19](./2026-03-17-associations-of-body-weight-and-covid-19.md)
 
 - [治疗期饮食管理：把“控糖”落到每一餐](./therapeutic-diet-diabetes-treatment.md)

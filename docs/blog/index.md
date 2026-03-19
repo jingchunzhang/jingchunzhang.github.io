@@ -24,16 +24,16 @@ translation_key: blog
 *   **[全球主流糖尿病诊断标准参考](./diabetes-diagnostic-criteria)**
 
 ## 生活与管理 (最新更新)
+*   **[入秋后糖尿病总波动？10年老糖友亲测有效的稳糖Step教程](./treatment/diet/2026-03-19-糖尿病-during-autumn-a)**
+*   **[糖友秋季稳糖全指南：吃喝动护对比清单，少踩坑血糖稳到冬天](./treatment/diet/2026-03-19-糖尿病-during-autumn-b)**
+*   **[春节胡吃海喝还能稳血糖？我陪糖友老爸3年的实战经验全分享](./treatment/diet/2026-03-19-glucose-during-spring-a)**
+*   **[春节控糖总踩坑？4组对比清单帮糖友稳血糖不超标](./['prevention', 'treatment']/diet/2026-03-19-glucose-during-spring-b)**
+*   **[加拿大糖友避坑指南：这6个常见错误别再犯了！](./treatment/diet/2026-03-19-diabetic-in-canada-a)**
 *   **[在家就能查血糖？2型糖尿病自我筛查的可行性+成本全对比](./treatment/exercise/2026-03-18-feasibility-and-cost-effectiveness-of-at)**
 *   **[磺脲类降糖药选哪种更安全？心血管和低血糖风险对比指南](./treatment/exercise/2026-03-18-comparative-safety-of-sulfonylurea-thera)**
 *   **[feasibility and cost-effectiveness of at-home self-sampling screening for type 2 diabetes: a pilot s](./treatment/emotion/2026-03-17-feasibility-and-cost-effectiveness-of-at)**
 *   **[longitudinal changes in epigenetic age acceleration](./prevention/2026-03-17-longitudinal-changes-in-epigenetic-age-a)**
 *   **[associations of body weight and covid-19](./treatment/diet/2026-03-17-associations-of-body-weight-and-covid-19)**
-*   **[zero dollar drug copay program](./treatment/emotion/2026-03-17-zero-dollar-drug-copay-program-improves-)**
-*   **[association of genetic variation](./treatment/exercise/2026-03-17-association-of-genetic-variation-with-ag)**
-*   **[inflammatory profile of diabetic ketoacidosis in children with type 1 diabetes](./treatment/emotion/2026-03-17-inflammatory-profile-of-diabetic-ketoaci)**
-*   **[how to eat carbs without causing a blood sugar spike](./prevention/diet/2026-03-17-how-to-eat-carbs-without-causing-a-blood)**
-*   **[your right to bring diabetes supplies into stadiums, concerts & other venues](./treatment/sleep/2026-03-17-your-right-to-bring-diabetes-supplies-in)**
 ## 核心关注：糖尿病管理三部曲
 
 ### 1. 预防阶段

@@ -24,16 +24,16 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 *   **[Mainstream Global Diabetes Diagnostic Criteria Reference](./diabetes-diagnostic-criteria-en)**
 
 ## Living with Diabetes (Latest Updates)
+*   **[My 3 Years of Managing Diabetes During Autumn: What Actually Works (And What Messed Up My Blood Sugar Badly)](./treatment/diet/2026-03-19-糖尿病-during-autumn-a-en)**
+*   **[Managing Diabetes in Autumn: My 3 Years of Tried-and-True Hacks (No Fancy Gadgets Required!)](./treatment/diet/2026-03-19-糖尿病-during-autumn-b-en)**
+*   **[7 Spring Glucose Mistakes I Regretted Making (As a 10-Year Type 2 Diabetes Vet) – Stay Steady Through Picnics, Festivals, and Allergy Season!](./treatment/diet/2026-03-19-glucose-during-spring-a-en)**
+*   **[Managing Glucose During Spring: Your Complete Guide to Monitors, Diet Hacks, and Stress-Free Celebrations](./['prevention', 'treatment']/diet/2026-03-19-glucose-during-spring-b-en)**
+*   **[Managing Diabetes in Canada: A No-Fuss, Budget-Friendly Step-by-Step Guide for New Patients](./treatment/diet/2026-03-19-diabetic-in-canada-a-en)**
 *   **[Is At-Home Type 2 Diabetes Screening Actually Feasible? Let’s Break Down the Costs and Myths](./treatment/exercise/2026-03-18-feasibility-and-cost-effectiveness-of-at-en)**
 *   **[Sulfonylurea Therapies: Which Is Safer for Your Heart and Severe Low Blood Sugar?](./treatment/exercise/2026-03-18-comparative-safety-of-sulfonylurea-thera-en)**
 *   **[feasibility and cost-effectiveness of at-home self-sampling screening for type 2 diabetes: a pilot s](./treatment/emotion/2026-03-17-feasibility-and-cost-effectiveness-of-at-en)**
 *   **[longitudinal changes in epigenetic age acceleration](./prevention/2026-03-17-longitudinal-changes-in-epigenetic-age-a-en)**
 *   **[associations of body weight and covid-19](./treatment/diet/2026-03-17-associations-of-body-weight-and-covid-19-en)**
-*   **[zero dollar drug copay program](./treatment/emotion/2026-03-17-zero-dollar-drug-copay-program-improves--en)**
-*   **[association of genetic variation](./treatment/exercise/2026-03-17-association-of-genetic-variation-with-ag-en)**
-*   **[inflammatory profile of diabetic ketoacidosis in children with type 1 diabetes](./treatment/emotion/2026-03-17-inflammatory-profile-of-diabetic-ketoaci-en)**
-*   **[how to eat carbs without causing a blood sugar spike](./prevention/diet/2026-03-17-how-to-eat-carbs-without-causing-a-blood-en)**
-*   **[your right to bring diabetes supplies into stadiums, concerts & other venues](./treatment/sleep/2026-03-17-your-right-to-bring-diabetes-supplies-in-en)**
 ## Core Focus: Three Pillars of Diabetes Management
 
 ### 1. Prevention

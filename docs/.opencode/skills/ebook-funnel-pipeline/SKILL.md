@@ -29,10 +29,66 @@ version: 1.2.0
 
 ## Pipeline order
 1. `ebook-asset-intake`
-2. `ebook-funnel-monetization`
-3. `ebook-funnel-blog-writer`
-4. `ebook-server-publisher`
-5. `ebook-email-delivery`
+2. **RSS订阅运行** - 加载RSS订阅源，获取最新选题
+3. **爬虫运行** - 加载爬虫数据源，获取最新内容
+4. **长尾词管理** - 从RSS/爬虫数据中提取长尾关键词
+5. **向量库查重** - 检查新选题与已存在内容的相似度
+6. `ebook-funnel-monetization`
+7. `ebook-funnel-blog-writer`
+8. `ebook-server-publisher`
+9. `ebook-email-delivery`
+
+## 数据源获取流程（新增，必执行）
+
+### 第0步：数据源预加载（每次生成博客前必须执行）
+在生成任何博客之前，必须按以下顺序执行数据源加载：
+
+1. **RSS订阅运行**
+   - 运行 `src/rss_loader.py` 加载RSS订阅源
+   - 数据源配置：`config.RSS_SOURCES`
+   - 主要来源：Diabetes Strong, Diabetes Journals, BMJ Diabetes Research
+
+2. **爬虫运行**
+   - 运行 `src/spider_loader.py` 加载爬虫数据
+   - 数据源配置：`config.SPIDER_SOURCES`
+   - 主要来源：Mayo Clinic Diabetes, Healthline Diabetes
+
+3. **长尾词管理**
+   - 运行 `src/longtail_manager.py` 提取长尾关键词
+   - 从RSS/爬虫数据中自动识别高价值长尾搜索意图
+   - 将新关键词添加到待处理队列
+
+4. **向量库查重**
+   - 运行 `src/vector_store.py` 检查相似度
+   - 阈值：`config.SIMILARITY_THRESHOLD = 0.8`
+   - 超过阈值则跳过该选题
+
+### 数据源配置（config.py）
+```python
+# RSS 订阅配置
+RSS_SOURCES = [
+    {"name": "Diabetes Strong", "url": "...", "keywords": ["diabetes", "blood sugar", "diet"]},
+    {"name": "Diabetes Journals", "url": "...", "keywords": ["diabetes", "research"]},
+    {"name": "BMJ Diabetes Research", "url": "...", "keywords": ["diabetes", "research"]},
+]
+
+# 爬虫配置
+SPIDER_SOURCES = [
+    {"name": "Mayo Clinic Diabetes", "url": "https://www.mayoclinic.org/diseases-conditions/diabetes", ...},
+    {"name": "Healthline Diabetes", "url": "https://www.healthline.com/health/diabetes", ...},
+]
+```
+
+### 执行命令
+```bash
+cd /home/danezhang/dev/blog/jingchunzhang.github.io/docs/_code
+python main.py
+```
+
+### 选题优先级
+1. **长尾词（最高优先级）** - 来自RSS/爬虫的高价值长尾搜索意图
+2. **电子书（次优先级）** - 来自ebook目录的选题
+3. **已过滤内容** - 相似度超过阈值的内容会被自动跳过
 
 ## Daily operating procedure
 1. Scan `/media/danezhang/Elements/seo/blog/ebook` for the new batch.
