@@ -65,7 +65,6 @@ def generate_dimensional_keywords(base_keywords: List[str]) -> List[str]:
 
 
 def extract_longtail_keywords(sources: List[Dict]) -> List[str]:
-
     keywords = []
     for source in sources:
         if source.get('source_type') == 'rss':
@@ -76,4 +75,9 @@ def extract_longtail_keywords(sources: List[Dict]) -> List[str]:
             title = source.get('title', '')
             if title:
                 keywords.append(title[:100])
+    
+    if keywords:
+        dimensional_keywords = generate_dimensional_keywords(keywords)
+        keywords.extend(dimensional_keywords)
+        
     return keywords
