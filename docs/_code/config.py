@@ -41,7 +41,7 @@ GEMINI_MODEL = "gemini-2.0-flash"
 USE_VOLCENGINE_LLM = os.environ.get("USE_VOLCENGINE_LLM", "true").lower() == "true"
 VOLCENGINE_LLM_API_BASE = os.environ.get("VOLCENGINE_LLM_API_BASE", "https://ark.cn-beijing.volces.com/api/v3")
 VOLCENGINE_LLM_API_KEY = os.environ.get("VOLCENGINE_LLM_API_KEY", "54bf396f-61d1-4ef9-95d2-1da543cbd838")
-VOLCENGINE_LLM_MODEL = os.environ.get("VOLCENGINE_LLM_MODEL", "doubao-seed-1-6-flash-250828")
+VOLCENGINE_LLM_MODEL = os.environ.get("VOLCENGINE_LLM_MODEL", "doubao-seed-2-0-pro-260215")
 
 # 内容配置
 SIMILARITY_THRESHOLD = 0.8  # 相似度阈值，超过则拒绝

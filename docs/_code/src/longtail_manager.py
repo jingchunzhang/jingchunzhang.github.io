@@ -48,7 +48,24 @@ class LongTailManager:
         }
 
 
+
+def generate_dimensional_keywords(base_keywords: List[str]) -> List[str]:
+    locations = ["Europe", "USA", "Canada", "Australia", "UK", "China"]
+    seasons = ["Spring", "Summer", "Autumn", "Winter"]
+    
+    new_keywords = []
+    for kw in base_keywords:
+        for loc in locations:
+            new_keywords.append(f"{kw} in {loc}")
+        
+        for season in seasons:
+            new_keywords.append(f"{kw} during {season}")
+            
+    return new_keywords
+
+
 def extract_longtail_keywords(sources: List[Dict]) -> List[str]:
+
     keywords = []
     for source in sources:
         if source.get('source_type') == 'rss':

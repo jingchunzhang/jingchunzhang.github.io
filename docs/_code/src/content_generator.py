@@ -47,7 +47,7 @@ class ContentGenerator:
             "max_tokens": 4000
         }
         
-        response = requests.post(url, headers=headers, json=data, timeout=120)
+        response = requests.post(url, headers=headers, json=data, timeout=300)
         response.raise_for_status()
         result = response.json()
         
