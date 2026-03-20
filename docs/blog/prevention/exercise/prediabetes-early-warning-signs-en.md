@@ -1,28 +1,36 @@
 ---
-layout: default
-title: "Prediabetes Early Warning Signs: What to Track This Month"
-description: "A practical prediabetes warning guide: symptoms, lab thresholds, and a one-month action plan with ebook support. Learn how to identify and reverse prediabetes through exercise and diet."
+author: zzh
+author_email: zzh@tangyou.space
+author_id: zzh
+author_name: zzh
+author_role: 糖尿病治疗期病人
+author_title: 糖尿病治疗期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-09
+description: 'A practical prediabetes warning guide: symptoms, lab thresholds, and
+  a one-month action plan with ebook support. Learn how to identify and reverse prediabetes
+  through exercise and diet.'
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/Diabetes-a-to-Z.pdf
+ebook_id: 20260309-a-to-z
 lang: en
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: prediabetes-early-warning-signs-en
+tags:
+- Early Detection
+- Exercise
+- Exercise Intervention
+- Prediabetes
+- Prevention
+- Blood Sugar Tracking
+title: 'Prediabetes Early Warning Signs: What to Track This Month'
 translation_key: prediabetes-early-warning-signs
-tags: [Prediabetes, Early Detection, Blood Sugar Tracking, Exercise Intervention]
-author: "zzh"
-author_title: "糖尿病治疗期病人"
-author_id: "zzh"
-author_name: "zzh"
-author_email: "zzh@tangyou.space"
-author_role: "糖尿病治疗期病人"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-a-to-z"
-download_url: "https://download.tangyou.space/20260309/Diabetes-a-to-Z.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "prediabetes-early-warning-signs-en"
 ---
 
 # Prediabetes Early Warning Signs: What to Track This Month

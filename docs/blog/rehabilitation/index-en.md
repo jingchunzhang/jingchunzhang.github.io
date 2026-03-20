@@ -1,10 +1,13 @@
 ---
-layout: default
-title: Diabetes Recovery
-description: "This section is organized into four dimensions for long-term, sustainable recovery management:"
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: 'This section is organized into four dimensions for long-term, sustainable
+  recovery management:'
 lang: en
+layout: default
+tags:
+- Rehabilitation
+title: Diabetes Recovery
 translation_key: rehabilitation-index
 ---
 # Diabetes Recovery

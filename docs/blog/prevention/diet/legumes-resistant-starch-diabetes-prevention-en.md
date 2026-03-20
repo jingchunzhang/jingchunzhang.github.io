@@ -1,10 +1,15 @@
 ---
-layout: default
-title: "Prevent Diabetes: Legumes, Fiber, and Resistant Starch for Steadier Glucose"
-description: "If you’re working on diabetes prevention (or you’re in prediabetes), one of the best “high return” food families isn’t a supplement—it’s **legumes and vegeta..."
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: If you’re working on diabetes prevention (or you’re in prediabetes),
+  one of the best “high return” food families isn’t a supplement—it’s **legumes and
+  vegeta...
 lang: en
+layout: default
+tags:
+- Diet
+- Prevention
+title: 'Prevent Diabetes: Legumes, Fiber, and Resistant Starch for Steadier Glucose'
 translation_key: prevention-diet-legumes-resistant-starch
 ---
 # Prevent Diabetes: Legumes, Fiber, and Resistant Starch for Steadier Glucose

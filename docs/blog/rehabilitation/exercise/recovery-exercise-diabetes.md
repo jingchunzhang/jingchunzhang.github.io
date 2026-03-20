@@ -1,10 +1,13 @@
 ---
-layout: default
-title: 康复期锻炼：从“控糖达标”到“体能复苏”
-description: "治疗期你更关注“运动能不能降糖”；康复期你要把目标拉长：**让身体系统变强**——心肺、肌力、柔韧、平衡、睡眠质量、情绪韧性。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: 治疗期你更关注“运动能不能降糖”；康复期你要把目标拉长：**让身体系统变强**——心肺、肌力、柔韧、平衡、睡眠质量、情绪韧性。
 lang: zh
+layout: default
+tags:
+- Rehabilitation
+- Exercise
+title: 康复期锻炼：从“控糖达标”到“体能复苏”
 translation_key: rehab-exercise-recovery
 ---
 # 康复期锻炼：从“控糖达标”到“体能复苏”

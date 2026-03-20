@@ -1,24 +1,29 @@
 ---
-title: "美国糖尿病协会完整指南：治疗期饮食怎么吃，才能更稳地控住餐后血糖？"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
+automation_id: ebook-delivery-20260315
+cta_form_id: ebook-signup
 date: 2026-03-15
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260315/American-Diabetes-Association-Complete-Guide.pdf
+ebook_id: ada-complete-guide-20260315
 lang: zh
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: american-diabetes-association-complete-guide
+tags:
+- Treatment
+- 治疗期饮食
+- 糖尿病协会
+- Diet
+- 综合指南
+title: 美国糖尿病协会完整指南：治疗期饮食怎么吃，才能更稳地控住餐后血糖？
 translation_key: american-diabetes-association-complete-guide
-tags: [治疗期饮食, 糖尿病协会, 综合指南]
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "ada-complete-guide-20260315"
-download_url: "https://download.tangyou.space/20260315/American-Diabetes-Association-Complete-Guide.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260315"
-slug: "american-diabetes-association-complete-guide"
 ---
 
 # 美国糖尿病协会完整指南：治疗期饮食怎么吃，才能更稳地控住餐后血糖？

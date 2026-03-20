@@ -1,10 +1,13 @@
 ---
-layout: default
-title: 糖尿病康复：长期管理与并发症预防
-description: '1. 长期饮食策略 - 康复期饮食：坚果与种子，怎么吃更稳、更有利代谢；糖尿病预防与治疗路线图。2. 恢复期锻炼。3. 睡眠修复。4. 心理康复 - 康复期目标达成“6步法”；糖尿病关键术语速通。'
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: 1. 长期饮食策略 - 康复期饮食：坚果与种子，怎么吃更稳、更有利代谢；糖尿病预防与治疗路线图。2. 恢复期锻炼。3. 睡眠修复。4. 心理康复
+  - 康复期目标达成“6步法”；糖尿病关键术语速通。
 lang: zh
+layout: default
+tags:
+- Rehabilitation
+title: 糖尿病康复：长期管理与并发症预防
 translation_key: rehabilitation-index-en
 ---
 # 糖尿病康复：长期管理与并发症预防

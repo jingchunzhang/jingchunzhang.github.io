@@ -1,10 +1,14 @@
 ---
-layout: default
-title: Psychological Recovery
-description: "Recovery is less about knowing and more about sustaining. This section focuses on motivation, habits, setbacks, and support systems."
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: Recovery is less about knowing and more about sustaining. This section
+  focuses on motivation, habits, setbacks, and support systems.
 lang: en
+layout: default
+tags:
+- Emotion
+- Rehabilitation
+title: Psychological Recovery
 translation_key: rehab-emotion-index
 ---
 # Psychological Recovery

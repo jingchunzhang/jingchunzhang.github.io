@@ -1,10 +1,14 @@
 ---
-layout: default
-title: "Exercise in Treatment: Safe and Effective Prescription"
-description: "Exercise during treatment should balance **glucose-lowering benefits** with **hypoglycemia risk and complication safety**."
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: Exercise during treatment should balance **glucose-lowering benefits**
+  with **hypoglycemia risk and complication safety**.
 lang: en
+layout: default
+tags:
+- Treatment
+- Exercise
+title: 'Exercise in Treatment: Safe and Effective Prescription'
 translation_key: treatment-exercise-index
 ---
 # Exercise in Treatment: Safe and Effective Prescription

@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "‘酸碱饮食’与糖尿病预防：如何科学吸收《The pH miracle for diabetes》"
-description: "围绕《The pH miracle for diabetes》进行证据导向解读：保留有益饮食原则，避免过度承诺和极端化做法。"
+author: zyn
+author_email: zyn@tangyou.space
+author_id: zyn
+author_name: zyn
+author_role: 医学院学生
+author_title: 医学院学生
+automation_id: ebook-delivery-20260313
+cta_form_id: ebook-signup
 date: 2026-03-13
+description: 围绕《The pH miracle for diabetes》进行证据导向解读：保留有益饮食原则，避免过度承诺和极端化做法。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260313/The-pH-miracle-for-diabetes-the-revolutionary-diet-plan-for-Type-1-and-Type-2-diabetes.pdf
+ebook_id: ph-miracle-20260313
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: ph-miracle-diabetes
+tags:
+- 餐盘结构
+- Prevention
+- 饮食争议
+- Diet
+- 糖尿病预防
+- 证据导向
+title: ‘酸碱饮食’与糖尿病预防：如何科学吸收《The pH miracle for diabetes》
 translation_key: ph-miracle-diabetes
-tags: [糖尿病预防, 饮食争议, 证据导向, 餐盘结构]
-author: "zyn"
-author_title: "医学院学生"
-author_id: "zyn"
-author_name: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "ph-miracle-20260313"
-download_url: "https://download.tangyou.space/20260313/The-pH-miracle-for-diabetes-the-revolutionary-diet-plan-for-Type-1-and-Type-2-diabetes.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260313"
-slug: "ph-miracle-diabetes"
 ---
 
 # ‘酸碱饮食’与糖尿病预防：如何科学吸收《The pH miracle for diabetes》

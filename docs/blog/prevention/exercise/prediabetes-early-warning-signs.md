@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "糖尿病前期预警信号：这个月先盯住哪些指标"
-description: "糖尿病前期并不明显，但可以通过关键指标与行为记录提前识别并干预。本文详细介绍了预警信号、运动干预及30天行动计划。"
+author: zzh
+author_email: zzh@tangyou.space
+author_id: zzh
+author_name: zzh
+author_role: 糖尿病治疗期病人
+author_title: 糖尿病治疗期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-09
+description: 糖尿病前期并不明显，但可以通过关键指标与行为记录提前识别并干预。本文详细介绍了预警信号、运动干预及30天行动计划。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/Diabetes-a-to-Z.pdf
+ebook_id: 20260309-a-to-z
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: prediabetes-early-warning-signs
+tags:
+- Exercise
+- 运动干预
+- Prevention
+- 血糖监测
+- 糖尿病前期
+- 早筛
+title: 糖尿病前期预警信号：这个月先盯住哪些指标
 translation_key: prediabetes-early-warning-signs
-tags: [糖尿病前期, 早筛, 血糖监测, 运动干预]
-author: "zzh"
-author_title: "糖尿病治疗期病人"
-author_id: "zzh"
-author_name: "zzh"
-author_email: "zzh@tangyou.space"
-author_role: "糖尿病治疗期病人"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-a-to-z"
-download_url: "https://download.tangyou.space/20260309/Diabetes-a-to-Z.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "prediabetes-early-warning-signs"
 ---
 
 # 糖尿病前期预警信号：这个月先盯住哪些指标

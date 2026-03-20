@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "治疗期情绪管理：把《Psychology in Diabetes Care》变成日常可执行工具"
-description: "基于《Psychology in Diabetes Care》整理糖尿病治疗期的心理支持与行为干预框架，帮助降低焦虑、内疚与管理疲劳。"
+author: zyn
+author_email: zyn@tangyou.space
+author_id: zyn
+author_name: zyn
+author_role: 医学院学生
+author_title: 医学院学生
+automation_id: ebook-delivery-20260313
+cta_form_id: ebook-signup
 date: 2026-03-13
+description: 基于《Psychology in Diabetes Care》整理糖尿病治疗期的心理支持与行为干预框架，帮助降低焦虑、内疚与管理疲劳。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260313/Psychology-in-diabetes-care.pdf
+ebook_id: psychology-care-20260313
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: psychology-in-diabetes-care
+tags:
+- Emotion
+- Treatment
+- 治疗期情绪
+- 压力控制
+- 行为管理
+- 糖尿病心理
+title: 治疗期情绪管理：把《Psychology in Diabetes Care》变成日常可执行工具
 translation_key: psychology-in-diabetes-care
-tags: [糖尿病心理, 治疗期情绪, 行为管理, 压力控制]
-author: "zyn"
-author_title: "医学院学生"
-author_id: "zyn"
-author_name: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "psychology-care-20260313"
-download_url: "https://download.tangyou.space/20260313/Psychology-in-diabetes-care.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260313"
-slug: "psychology-in-diabetes-care"
 ---
 
 # 治疗期情绪管理：把《Psychology in Diabetes Care》变成日常可执行工具

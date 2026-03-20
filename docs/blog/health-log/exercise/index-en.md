@@ -1,10 +1,14 @@
 ---
-layout: default
-title: Personal Health Log
-description: "This section records my health-management practices and retrospectives (diet, exercise, sleep, weight, lab results, etc.)."
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: This section records my health-management practices and retrospectives
+  (diet, exercise, sleep, weight, lab results, etc.).
 lang: en
+layout: default
+tags:
+- Health Log
+- Exercise
+title: Personal Health Log
 translation_key: health-log-index
 ---
 # Personal Health Log

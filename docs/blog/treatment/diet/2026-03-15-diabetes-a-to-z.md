@@ -1,26 +1,32 @@
 ---
-title: "糖尿病A到Z：治疗期饮食关键概念全指南"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
+automation_id: ebook-delivery-20260315
+categories:
+- treatment
+cta_form_id: ebook-signup
 date: 2026-03-15
+description: 从A到Z系统梳理糖尿病治疗期饮食核心概念：血糖、碳水、药物配餐、监测、低血糖应对与家庭执行清单。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260315/Diabetes-A-to-Z.pdf
+ebook_id: diabetes-a-to-z-20260315
 lang: zh
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: diabetes-a-to-z
+tags:
+- Treatment
+- 糖尿病基础
+- 治疗期饮食
+- Diet
+- A到Z指南
+title: 糖尿病A到Z：治疗期饮食关键概念全指南
 translation_key: diabetes-a-to-z
-description: "从A到Z系统梳理糖尿病治疗期饮食核心概念：血糖、碳水、药物配餐、监测、低血糖应对与家庭执行清单。"
-categories: ["treatment"]
-tags: [治疗期饮食, 糖尿病基础, A到Z指南]
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "diabetes-a-to-z-20260315"
-download_url: "https://download.tangyou.space/20260315/Diabetes-A-to-Z.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260315"
-slug: "diabetes-a-to-z"
 ---
 
 # 糖尿病A到Z：治疗期患者和家属必须先搞懂的饮食地图

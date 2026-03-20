@@ -1,28 +1,33 @@
 ---
-layout: default
-title: "治疗期舒适早餐模板：早上吃得稳，全天更好控糖"
-description: "把粥、面包、奶类和鸡蛋做成可复制的治疗期早餐模板，减少上午血糖波动和加餐冲动。"
+author: kelvin
+author_email: kelvin@tangyou.space
+author_id: kelvin
+author_name: kelvin
+author_role: 糖尿病研究人员
+author_title: 糖尿病研究人员
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-10
+description: 把粥、面包、奶类和鸡蛋做成可复制的治疗期早餐模板，减少上午血糖波动和加餐冲动。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub
+ebook_id: 20260310-diabetes-comfort-food-cookbook
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: comfort-food-breakfast-template-diabetes-treatment
+tags:
+- Treatment
+- 糖尿病早餐
+- 治疗期饮食
+- Diet
+- 舒适食物
+title: 治疗期舒适早餐模板：早上吃得稳，全天更好控糖
 translation_key: comfort-food-breakfast-template-diabetes-treatment
-tags: [糖尿病早餐, 治疗期饮食, 舒适食物]
-author: "kelvin"
-author_title: "糖尿病研究人员"
-author_id: "kelvin"
-author_name: "kelvin"
-author_email: "kelvin@tangyou.space"
-author_role: "糖尿病研究人员"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260310-diabetes-comfort-food-cookbook"
-download_url: "https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "comfort-food-breakfast-template-diabetes-treatment"
 ---
 
 # 治疗期舒适早餐模板：早上吃得稳，全天更好控糖

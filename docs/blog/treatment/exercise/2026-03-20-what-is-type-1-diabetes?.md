@@ -1,23 +1,26 @@
 ---
-title: "1型糖尿病是什么？从发病常识到必备物资选购全指南"
+author_email: zhl@tangyou.space
+author_id: zhl
+author_role: 糖尿病病人家属
+categories:
+- 糖尿病预防
 date: 2026-03-20 09:40:46 +0800
-description: "1型糖尿病是什么？从发病常识到必备物资选购全指南 - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: 1型糖尿病是什么？从发病常识到必备物资选购全指南 - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: what-is-type-1-diabetes?
-
-author_id: "zhl"
-author_email: "zhl@tangyou.space"
-author_role: "糖尿病病人家属"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- Exercise
+- 糖尿病
+- 饮食
+title: 1型糖尿病是什么？从发病常识到必备物资选购全指南
 ---
 
 # 1型糖尿病是什么？从发病常识到必备物资选购全指南
-![1型糖尿病日常管理科普图](https://source.unsplash.com/1600x900/?diabetes)
+![1型糖尿病日常管理科普图](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 很多人听到糖尿病第一反应都是“中老年病”“吃太多糖吃出来的”，但有一类糖尿病专门盯上儿童青少年，和饮食没有直接关系，必须终身打胰岛素才能存活，这就是我们常说的1型糖尿病，也就是大家搜索的“What Is Type 1 Diabetes”对应的中文疾病名称。今天我们就结合最新的《中国1型糖尿病诊治指南（2021版）》，给大家讲清楚1型糖尿病到底是什么，以及1型糖友日常必备物资该怎么选。
 
@@ -42,7 +45,7 @@ download_url: ""
 今年年初我们收到读者刘女士的投稿，她13岁的儿子小宇刚上初一，平时喜欢打篮球，身体素质一直很好。2023年11月开始，小宇突然每天要带2L的大水杯去学校，放学回家还要喝1~2瓶冰水，饭量也比之前大了一倍，但是体重反而从92斤掉到了83斤。刘女士一开始以为是青春期长身体、运动量大消耗多，没当回事，直到12月的某天，小宇上体育课的时候突然晕倒，送医查指尖血糖已经到了28mmol/L，同时伴随酮症酸中毒，经过2天的抢救才脱离危险，最终通过胰岛自身抗体检测确诊为1型糖尿病。
 
 现在小宇已经学会了自己测血糖、打胰岛素，血糖控制在达标范围内，还能正常参加篮球兴趣班，生活基本没有受到太大影响。
-![儿童测血糖场景图](https://source.unsplash.com/1600x900/?blood,sugar,meter)
+![儿童测血糖场景图](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 ## 1型糖友必备物资选购指南
 对于1型糖友来说，日常控糖物资的选择直接影响血糖控制的效果和生活质量，我们整理了一份选购指南供大家参考：

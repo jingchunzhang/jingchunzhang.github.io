@@ -1,22 +1,23 @@
 ---
-
-title: "T1DM发病前表观遗传年龄加速的纵向变化对比指南"
+author_email: yyh@tangyou.space
+author_id: yyh
+author_role: 糖尿病治疗医生
+categories:
+- 糖尿病预防
 date: 2026-03-17 08:45:53 +0800
+description: longitudinal changes in epigenetic age acceleration prior to type 1 diabetes
+  onset in the diabetes a - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
 lang: zh
-description: "longitudinal changes in epigenetic age acceleration prior to type 1 diabetes onset in the diabetes a - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+review_status: draft
 slug: longitudinal-changes-in-epigenetic-age-acceleratio
-
-author_id: "yyh"
-author_email: "yyh@tangyou.space"
-author_role: "糖尿病治疗医生"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
-
+tags:
+- Prevention
+- 健康
+- 糖尿病
+- 饮食
+title: T1DM发病前表观遗传年龄加速的纵向变化对比指南
 ---
 # T1DM发病前表观遗传年龄加速的纵向变化对比指南
 

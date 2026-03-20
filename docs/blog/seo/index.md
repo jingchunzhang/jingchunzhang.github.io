@@ -1,10 +1,12 @@
 ---
-layout: default
-title: SEO：从入门到进阶与行业公司
-description: "了解SEO：从入门到进阶与行业公司，以及其与糖尿病管理和预防的关系。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: 了解SEO：从入门到进阶与行业公司，以及其与糖尿病管理和预防的关系。
 lang: zh
+layout: default
+tags:
+- SEO
+title: SEO：从入门到进阶与行业公司
 translation_key: seo-index
 ---
 # SEO：从入门到进阶与行业公司

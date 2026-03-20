@@ -1,22 +1,24 @@
 ---
-
-title: "居家自检 vs. 传统筛查：2型糖尿病筛查的可行性与成本效益对比分析"
+author_email: yyh@tangyou.space
+author_id: yyh
+author_role: 糖尿病治疗医生
+categories:
+- 糖尿病预防
 date: 2026-03-17 08:56:04 +0800
+description: 'feasibility and cost-effectiveness of at-home self-sampling screening
+  for type 2 diabetes: a pilot s - 糖尿病知识全面解读'
+disclaimer_key: medical-information-only
+download_url: ''
 lang: zh
-description: "feasibility and cost-effectiveness of at-home self-sampling screening for type 2 diabetes: a pilot s - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+review_status: draft
 slug: 2026-03-17-feasibility-and-cost-effectiveness-of-at
-
-author_id: "yyh"
-author_email: "yyh@tangyou.space"
-author_role: "糖尿病治疗医生"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
-
+tags:
+- Emotion
+- Treatment
+- 健康
+- 糖尿病
+- 饮食
+title: 居家自检 vs. 传统筛查：2型糖尿病筛查的可行性与成本效益对比分析
 ---
 # 居家自检 vs. 传统筛查：2型糖尿病筛查的可行性与成本效益对比分析
 

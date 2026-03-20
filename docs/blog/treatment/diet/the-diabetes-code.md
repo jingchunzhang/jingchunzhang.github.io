@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "《The Diabetes Code》怎么读：治疗期饮食与胰岛素阻抗管理框架"
-description: "从治疗期视角解读《The Diabetes Code》，重点讨论体重、进食节律与胰岛素阻抗管理的可执行方案，避免极端化实践。"
+author: zyn
+author_email: zyn@tangyou.space
+author_id: zyn
+author_name: zyn
+author_role: 医学院学生
+author_title: 医学院学生
+automation_id: ebook-delivery-20260313
+cta_form_id: ebook-signup
 date: 2026-03-13
+description: 从治疗期视角解读《The Diabetes Code》，重点讨论体重、进食节律与胰岛素阻抗管理的可执行方案，避免极端化实践。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260313/The-Diabetes-Code.pdf
+ebook_id: diabetes-code-20260313
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: the-diabetes-code
+tags:
+- Treatment
+- 2型糖尿病
+- 治疗期饮食
+- Diet
+- 胰岛素阻抗
+- 进食节律
+title: 《The Diabetes Code》怎么读：治疗期饮食与胰岛素阻抗管理框架
 translation_key: the-diabetes-code
-tags: [治疗期饮食, 胰岛素阻抗, 进食节律, 2型糖尿病]
-author: "zyn"
-author_title: "医学院学生"
-author_id: "zyn"
-author_name: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "diabetes-code-20260313"
-download_url: "https://download.tangyou.space/20260313/The-Diabetes-Code.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260313"
-slug: "the-diabetes-code"
 ---
 
 # 《The Diabetes Code》怎么读：治疗期饮食与胰岛素阻抗管理框架

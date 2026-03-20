@@ -1,10 +1,13 @@
 ---
-layout: default
-title: 糖尿病治疗：治疗方法与技术进展
-description: '1. 饮食管理 - 治疗期饮食底层逻辑：营养密度（ANDI）与“为生而食”；治疗期控糖关键能力；家庭糖尿病管理框架。2. 运动处方 - 2型糖尿病监测协议。3. 睡眠与代谢 - 糖尿病随访中的内分泌检查。4. 情绪与压力管理 - 1型糖尿病门诊到家庭计划。'
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: 1. 饮食管理 - 治疗期饮食底层逻辑：营养密度（ANDI）与“为生而食”；治疗期控糖关键能力；家庭糖尿病管理框架。2. 运动处方 - 2型糖尿病监测协议。3.
+  睡眠与代谢 - 糖尿病随访中的内分泌检查。4. 情绪与压力管理 - 1型糖尿病门诊到家庭计划。
 lang: zh
+layout: default
+tags:
+- Treatment
+title: 糖尿病治疗：治疗方法与技术进展
 translation_key: treatment-index-en
 ---
 # 糖尿病治疗：治疗方法与技术进展

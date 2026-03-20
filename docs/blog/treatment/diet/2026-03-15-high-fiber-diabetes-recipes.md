@@ -1,19 +1,23 @@
 ---
-title: "高纤维糖尿病食谱：一周可执行的稳糖餐盘与家庭备餐方案"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
 date: 2026-03-15
+disclaimer_key: medical-information-only
 lang: zh
+review_status: published
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+tags:
+- 治疗期饮食
+- Diet
+- Treatment
+- 高纤维食谱
+title: 高纤维糖尿病食谱：一周可执行的稳糖餐盘与家庭备餐方案
 translation_key: high-fiber-diabetes-recipes
-tags: [治疗期饮食, 高纤维食谱]
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "published"
-disclaimer_key: "medical-information-only"
 ---
 
 ![摆放了燕麦、豆类、蔬菜和全谷物的高纤维餐盘，旁边有血糖仪与记录本，强调饮食与监测协同。](https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1400&q=80)

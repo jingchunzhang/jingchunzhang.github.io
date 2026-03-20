@@ -1,13 +1,19 @@
 ---
-layout: default
-title: "5分钟冷静工具箱：把压力从‘血糖按钮’上移开"
-description: "压力无法被消灭，但可以被‘缓冲’。这篇文章提供一套 5 分钟内可完成的小工具：呼吸、身体扫描、短时走动与快速记录，帮助你在冲动进食或情绪爆发前把节奏拉回来。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
-date: "2026-03-02"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+date: '2026-03-02'
+description: 压力无法被消灭，但可以被‘缓冲’。这篇文章提供一套 5 分钟内可完成的小工具：呼吸、身体扫描、短时走动与快速记录，帮助你在冲动进食或情绪爆发前把节奏拉回来。
 lang: zh
+layout: default
+tags:
+- Emotion
+- 预防
+- 压力
+- Prevention
+- 情绪
+- 正念
+title: 5分钟冷静工具箱：把压力从‘血糖按钮’上移开
 translation_key: prevention/emotion/five-minute-calm-toolbox
-tags: [情绪, 压力, 预防, 正念]
 ---
 
 # 5分钟冷静工具箱：把压力从“血糖按钮”上移开

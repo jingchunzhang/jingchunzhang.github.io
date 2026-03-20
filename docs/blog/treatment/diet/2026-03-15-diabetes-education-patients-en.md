@@ -1,24 +1,28 @@
 ---
-layout: post
-title: "Diabetes Patient Education Essentials: Mastering Self-Management Fundamentals"
-date: 2026-03-15
-lang: en
-translation_key: diabetes-education-patients
-stage: treatment
-dimension: diet
+author_email: wep@tangyou.space
 author_id: wep
 author_name: wep
-author_email: wep@tangyou.space
 author_role: Family caregiver of diabetes patient
-reviewer_id: yyh
-reviewer_name: Dr. Medical Professional
-reviewer_email: yyh@tangyou.space
-reviewer_role: Diabetes care physician
-review_status: reviewed
+date: 2026-03-15
+description: Master the fundamentals of diabetes self-management. Learn blood glucose
+  monitoring, dietary strategies, and lifestyle changes for sustainable diabetes control.
+dimension: diet
 disclaimer_key: medical-information-only
-description: Master the fundamentals of diabetes self-management. Learn blood glucose monitoring, dietary strategies, and lifestyle changes for sustainable diabetes control.
 image: /assets/images/diabetes-education-intro.jpg
 image_alt: Patient learning about diabetes management with healthcare provider
+lang: en
+layout: post
+review_status: reviewed
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: Dr. Medical Professional
+reviewer_role: Diabetes care physician
+stage: treatment
+tags:
+- Diet
+- Treatment
+title: 'Diabetes Patient Education Essentials: Mastering Self-Management Fundamentals'
+translation_key: diabetes-education-patients
 ---
 
 ## What Every Newly Diagnosed Patient Should Know

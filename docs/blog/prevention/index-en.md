@@ -1,10 +1,13 @@
 ---
-layout: default
-title: "Diabetes Prevention: Building a Healthy Lifestyle Defense"
-description: "Diabetes, especially Type 2 diabetes, can largely be prevented or delayed through active lifestyle interventions."
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: Diabetes, especially Type 2 diabetes, can largely be prevented or delayed
+  through active lifestyle interventions.
 lang: en
+layout: default
+tags:
+- Prevention
+title: 'Diabetes Prevention: Building a Healthy Lifestyle Defense'
 translation_key: prevention/index
 ---
 # Diabetes Prevention: Building a Healthy Lifestyle Defense

@@ -1,28 +1,36 @@
 ---
-layout: default
-title: "Practical Carbohydrate Counting for Prevention: Keep It Simple and Sustainable"
-description: "A prevention-stage, long-form practical guide to carbohydrate counting inspired by Practical carbohydrate counting, focused on low-burden execution in real life."
+author: zyn
+author_email: zyn@tangyou.space
+author_id: zyn
+author_name: zyn
+author_role: 医学院学生
+author_title: Medical Student
+automation_id: ebook-delivery-20260313
+cta_form_id: ebook-signup
 date: 2026-03-13
+description: A prevention-stage, long-form practical guide to carbohydrate counting
+  inspired by Practical carbohydrate counting, focused on low-burden execution in
+  real life.
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260313/Practical-carbohydrate-counting-a-how-to-teach-guide-for-health-professionals.pdf
+ebook_id: carb-counting-20260313
 lang: en
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: practical-carbohydrate-counting-en
+tags:
+- Diabetes Prevention
+- Carb Counting
+- Glucose Stability
+- Prevention
+- Diet
+- Meal Planning
+title: 'Practical Carbohydrate Counting for Prevention: Keep It Simple and Sustainable'
 translation_key: practical-carbohydrate-counting
-tags: [Carb Counting, Diabetes Prevention, Meal Planning, Glucose Stability]
-author: "zyn"
-author_title: "Medical Student"
-author_id: "zyn"
-author_name: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "carb-counting-20260313"
-download_url: "https://download.tangyou.space/20260313/Practical-carbohydrate-counting-a-how-to-teach-guide-for-health-professionals.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260313"
-slug: "practical-carbohydrate-counting-en"
 ---
 
 # Practical Carbohydrate Counting for Prevention: Keep It Simple and Sustainable

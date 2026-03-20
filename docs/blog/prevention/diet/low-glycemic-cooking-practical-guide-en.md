@@ -1,28 +1,36 @@
 ---
-layout: default
-title: "Low-Glycemic Cooking Practical Guide for Busy Families"
-description: "A practical low-glycemic cooking guide: meal structure, ingredient swaps, and batch-cooking tactics for diabetes-friendly eating. Make healthy eating simple, delicious, and sustainable."
+author: zzh
+author_email: zzh@tangyou.space
+author_id: zzh
+author_name: zzh
+author_role: 糖尿病治疗期病人
+author_title: 糖尿病治疗期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-09
+description: 'A practical low-glycemic cooking guide: meal structure, ingredient swaps,
+  and batch-cooking tactics for diabetes-friendly eating. Make healthy eating simple,
+  delicious, and sustainable.'
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/Diabetes-Cooking-for-Everyone-250-All-Natural,-Low-Glycemic-Recipes-to-Nourish-and-Rejuvenate.pdf
+ebook_id: 20260309-diabetes-cooking-everyone
 lang: en
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: low-glycemic-cooking-practical-guide-en
+tags:
+- Low Glycemic
+- Diabetes Recipes
+- Prevention
+- Diet
+- Meal Planning
+- Cooking Tips
+title: Low-Glycemic Cooking Practical Guide for Busy Families
 translation_key: low-glycemic-cooking-practical-guide
-tags: [Low Glycemic, Diabetes Recipes, Meal Planning, Cooking Tips]
-author: "zzh"
-author_title: "糖尿病治疗期病人"
-author_id: "zzh"
-author_name: "zzh"
-author_email: "zzh@tangyou.space"
-author_role: "糖尿病治疗期病人"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-diabetes-cooking-everyone"
-download_url: "https://download.tangyou.space/20260309/Diabetes-Cooking-for-Everyone-250-All-Natural,-Low-Glycemic-Recipes-to-Nourish-and-Rejuvenate.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "low-glycemic-cooking-practical-guide-en"
 ---
 
 # Low-Glycemic Cooking Practical Guide for Busy Families

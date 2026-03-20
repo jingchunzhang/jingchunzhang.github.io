@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "糖尿病新手入门：从第一周开始建立稳血糖饮食框架"
-description: "基于《A Primer for Diabetic Patients》整理一套可执行的糖尿病入门饮食方案，帮助新手在前4周建立稳定、可持续的预防型生活节奏。"
+author: zyn
+author_email: zyn@tangyou.space
+author_id: zyn
+author_name: zyn
+author_role: 医学院学生
+author_title: 医学院学生
+automation_id: ebook-delivery-20260313
+cta_form_id: ebook-signup
 date: 2026-03-13
+description: 基于《A Primer for Diabetic Patients》整理一套可执行的糖尿病入门饮食方案，帮助新手在前4周建立稳定、可持续的预防型生活节奏。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260313/A-Primer-for-Diabetic-Patients.pdf
+ebook_id: primer-20260313
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: a-primer-for-diabetic-patients
+tags:
+- 饮食入门
+- Prevention
+- Diet
+- 糖尿病预防
+- 稳定血糖
+- 新手指南
+title: 糖尿病新手入门：从第一周开始建立稳血糖饮食框架
 translation_key: a-primer-for-diabetic-patients
-tags: [糖尿病预防, 饮食入门, 新手指南, 稳定血糖]
-author: "zyn"
-author_title: "医学院学生"
-author_id: "zyn"
-author_name: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "primer-20260313"
-download_url: "https://download.tangyou.space/20260313/A-Primer-for-Diabetic-Patients.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260313"
-slug: "a-primer-for-diabetic-patients"
 ---
 
 # 糖尿病新手入门：从第一周开始建立稳血糖饮食框架

@@ -1,13 +1,19 @@
 ---
-layout: default
-title: "睡眠规律比你想象更重要：‘社会时差’与血糖风险"
-description: "很多人把睡眠只当成‘睡够几小时’，但更关键的往往是‘几点睡、几点起’是否稳定。本文用通俗方式解释睡眠规律、社会时差，以及如何用最小行动把作息稳下来。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
-date: "2026-03-02"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+date: '2026-03-02'
+description: 很多人把睡眠只当成‘睡够几小时’，但更关键的往往是‘几点睡、几点起’是否稳定。本文用通俗方式解释睡眠规律、社会时差，以及如何用最小行动把作息稳下来。
 lang: zh
+layout: default
+tags:
+- 胰岛素抵抗
+- 预防
+- 睡眠
+- Prevention
+- Sleep
+- 作息
+title: 睡眠规律比你想象更重要：‘社会时差’与血糖风险
 translation_key: prevention/sleep/sleep-regularity-social-jetlag
-tags: [睡眠, 作息, 预防, 胰岛素抵抗]
 ---
 
 # 睡眠规律比你想象更重要：“社会时差”与血糖风险

@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "孕期如何预防妊娠糖尿病：从三餐、体重增长到日常活动的实用框架"
-description: "面向孕期女性的妊娠糖尿病预防指南：围绕饮食结构、体重管理、轻量活动、睡眠与产检，建立真正能执行的日常框架。"
+author: gwx
+author_email: gwx@tangyou.space
+author_id: gwx
+author_name: gwx
+author_role: 糖尿病康复期病人
+author_title: 糖尿病康复期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-12
+description: 面向孕期女性的妊娠糖尿病预防指南：围绕饮食结构、体重管理、轻量活动、睡眠与产检，建立真正能执行的日常框架。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/Diabetes-Cooking-for-Everyone-250-All-Natural,-Low-Glycemic-Recipes-to-Nourish-and-Rejuvenate.pdf
+ebook_id: 20260309-diabetes-cooking-everyone
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: kelvin@tangyou.space
+reviewer_id: kelvin
+reviewer_name: kelvin
+reviewer_role: 糖尿病研究人员
+slug: gestational-diabetes-prevention-pregnancy
+tags:
+- 饮食管理
+- Prevention
+- 孕期护理
+- Diet
+- 糖尿病预防
+- 妊娠糖尿病
+title: 孕期如何预防妊娠糖尿病：从三餐、体重增长到日常活动的实用框架
 translation_key: gestational-diabetes-prevention-pregnancy
-tags: [妊娠糖尿病, 孕期护理, 糖尿病预防, 饮食管理]
-author: "gwx"
-author_title: "糖尿病康复期病人"
-author_id: "gwx"
-author_name: "gwx"
-author_email: "gwx@tangyou.space"
-author_role: "糖尿病康复期病人"
-reviewer_id: "kelvin"
-reviewer_name: "kelvin"
-reviewer_email: "kelvin@tangyou.space"
-reviewer_role: "糖尿病研究人员"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-diabetes-cooking-everyone"
-download_url: "https://download.tangyou.space/20260309/Diabetes-Cooking-for-Everyone-250-All-Natural,-Low-Glycemic-Recipes-to-Nourish-and-Rejuvenate.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "gestational-diabetes-prevention-pregnancy"
 ---
 
 # 孕期如何预防妊娠糖尿病：从三餐、体重增长到日常活动的实用框架

@@ -1,28 +1,37 @@
 ---
-layout: default
-title: "Rehabilitation Exercise After Diabetes-Related Complications: From Safety Assessment to Functional Recovery"
-description: "A rehabilitation-phase exercise framework based on physical medicine principles for dysvascular and diabetic patients: safety first, function restoration, and long-term independence."
+author: zyn
+author_email: zyn@tangyou.space
+author_id: zyn
+author_name: zyn
+author_role: 医学院学生
+author_title: 医学院学生
+automation_id: ebook-delivery-20260313
+cta_form_id: ebook-signup
 date: 2026-03-13
+description: 'A rehabilitation-phase exercise framework based on physical medicine
+  principles for dysvascular and diabetic patients: safety first, function restoration,
+  and long-term independence.'
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260313/Physical-medicine-and-rehabilitation-clinics-of-North-America-the-dysvascular-and-diabetic-patient,-update-in-diagnosis,….pdf
+ebook_id: pmr-diabetic-20260313
 lang: en
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: physical-medicine-rehabilitation-diabetic-en
+tags:
+- Diabetes Rehabilitation
+- Functional Training
+- Exercise
+- Rehabilitation
+- Exercise Therapy
+- Complications
+title: 'Rehabilitation Exercise After Diabetes-Related Complications: From Safety
+  Assessment to Functional Recovery'
 translation_key: physical-medicine-rehabilitation-diabetic
-tags: [Diabetes Rehabilitation, Complications, Exercise Therapy, Functional Training]
-author: "zyn"
-author_title: "医学院学生"
-author_id: "zyn"
-author_name: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "pmr-diabetic-20260313"
-download_url: "https://download.tangyou.space/20260313/Physical-medicine-and-rehabilitation-clinics-of-North-America-the-dysvascular-and-diabetic-patient,-update-in-diagnosis,….pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260313"
-slug: "physical-medicine-rehabilitation-diabetic-en"
 ---
 
 # Rehabilitation Exercise After Diabetes-Related Complications: From Safety Assessment to Functional Recovery

@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "碳水计数怎么做才不崩溃：给糖尿病预防期的实操指南"
-description: "基于《Practical carbohydrate counting》提炼可执行碳水计数框架，帮助预防阶段读者用更低认知负担管理主食与餐后波动。"
+author: zyn
+author_email: zyn@tangyou.space
+author_id: zyn
+author_name: zyn
+author_role: 医学院学生
+author_title: 医学院学生
+automation_id: ebook-delivery-20260313
+cta_form_id: ebook-signup
 date: 2026-03-13
+description: 基于《Practical carbohydrate counting》提炼可执行碳水计数框架，帮助预防阶段读者用更低认知负担管理主食与餐后波动。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260313/Practical-carbohydrate-counting-a-how-to-teach-guide-for-health-professionals.pdf
+ebook_id: carb-counting-20260313
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: practical-carbohydrate-counting
+tags:
+- 碳水计数
+- 饮食管理
+- Prevention
+- Diet
+- 糖尿病预防
+- 血糖控制
+title: 碳水计数怎么做才不崩溃：给糖尿病预防期的实操指南
 translation_key: practical-carbohydrate-counting
-tags: [碳水计数, 糖尿病预防, 饮食管理, 血糖控制]
-author: "zyn"
-author_title: "医学院学生"
-author_id: "zyn"
-author_name: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "carb-counting-20260313"
-download_url: "https://download.tangyou.space/20260313/Practical-carbohydrate-counting-a-how-to-teach-guide-for-health-professionals.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260313"
-slug: "practical-carbohydrate-counting"
 ---
 
 # 碳水计数怎么做才不崩溃：给糖尿病预防期的实操指南

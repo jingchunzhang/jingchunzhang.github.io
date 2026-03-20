@@ -1,10 +1,13 @@
 ---
-layout: default
-title: 康复期睡眠修复：让“节律”和“深睡”一起帮你稳住血糖
-description: "进入康复期后，你可能会发现一个现实：**饮食和运动都做得不错，但只要睡几天不好，血糖、食欲、情绪和执行力就一起“掉线”。**"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: 进入康复期后，你可能会发现一个现实：**饮食和运动都做得不错，但只要睡几天不好，血糖、食欲、情绪和执行力就一起“掉线”。**
 lang: zh
+layout: default
+tags:
+- Rehabilitation
+- Sleep
+title: 康复期睡眠修复：让“节律”和“深睡”一起帮你稳住血糖
 translation_key: rehab-sleep-repair
 ---
 # 康复期睡眠修复：让“节律”和“深睡”一起帮你稳住血糖

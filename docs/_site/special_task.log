@@ -1,0 +1,12 @@
+==================================================
+Start Special Task: 2026-03-19 09:12:45
+==================================================
+Base keywords: ['diabetes', 'diabetic', 'blood sugar', 'glucose', 'insulin', '糖尿病', '血糖']
+Generated 70 dimensional keywords.
+Selected keywords: ['blood sugar in China', 'insulin in China', 'diabetic in USA', 'blood sugar during Winter']
+Plan to generate 5 posts.
+
+Processing [1/5]: blood sugar in China (Variant A)
+  Generating ZH...
+  Generating EN...
+生成失败: HTTPSConnectionPool(host='ark.cn-beijing.volces.com', port=443): Read timed out. (read timeout=120), 重试 1/3

@@ -1,10 +1,14 @@
 ---
-layout: default
-title: Emotion & Stress in Treatment
-description: "Stress and negative emotions can raise glucose via cortisol-related pathways and reduce adherence. You need a practical toolkit."
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: Stress and negative emotions can raise glucose via cortisol-related pathways
+  and reduce adherence. You need a practical toolkit.
 lang: en
+layout: default
+tags:
+- Emotion
+- Treatment
+title: Emotion & Stress in Treatment
 translation_key: treatment-emotion-index
 ---
 # Emotion & Stress in Treatment

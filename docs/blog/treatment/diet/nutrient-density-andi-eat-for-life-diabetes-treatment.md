@@ -1,10 +1,13 @@
 ---
-layout: default
-title: 治疗2型糖尿病的饮食底层逻辑：营养密度（ANDI）与“为生而食”
-description: "学习手册反复强调一个核心观点：**对2型糖尿病，生活方式（饮食+运动）是底层变量**。它不只是“把血糖压下来”，更关乎体重、胰岛素敏感性与并发症风险。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: 学习手册反复强调一个核心观点：**对2型糖尿病，生活方式（饮食+运动）是底层变量**。它不只是“把血糖压下来”，更关乎体重、胰岛素敏感性与并发症风险。
 lang: zh
+layout: default
+tags:
+- Diet
+- Treatment
+title: 治疗2型糖尿病的饮食底层逻辑：营养密度（ANDI）与“为生而食”
 translation_key: treatment-diet-andi
 ---
 # 治疗2型糖尿病的饮食底层逻辑：营养密度（ANDI）与“为生而食”

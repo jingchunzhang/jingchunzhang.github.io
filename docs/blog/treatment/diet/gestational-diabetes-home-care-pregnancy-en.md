@@ -1,28 +1,37 @@
 ---
-layout: default
-title: "Gestational Diabetes Home Care: How to Coordinate Glucose Checks, Snacks, and Prenatal Follow-Up"
-description: "After a gestational diabetes diagnosis, the goal is not panic but a stable home-care routine for glucose monitoring, meals, snacks, activity, and prenatal coordination."
+author: gwx
+author_email: gwx@tangyou.space
+author_id: gwx
+author_name: gwx
+author_role: 糖尿病康复期病人
+author_title: 糖尿病康复期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-12
+description: After a gestational diabetes diagnosis, the goal is not panic but a stable
+  home-care routine for glucose monitoring, meals, snacks, activity, and prenatal
+  coordination.
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/American-Diabetes-Association-Complete-Guide-to-Diabetes-The-Ultimate-Home-Reference-from-the-Diabetes-Experts.pdf
+ebook_id: 20260309-ada-complete-guide
 lang: en
+layout: default
+review_status: draft
+reviewer_email: kelvin@tangyou.space
+reviewer_id: kelvin
+reviewer_name: kelvin
+reviewer_role: 糖尿病研究人员
+slug: gestational-diabetes-home-care-pregnancy-en
+tags:
+- Gestational Diabetes
+- Treatment
+- Pregnancy Care
+- Glucose Monitoring
+- Home Management
+- Diet
+title: 'Gestational Diabetes Home Care: How to Coordinate Glucose Checks, Snacks,
+  and Prenatal Follow-Up'
 translation_key: gestational-diabetes-home-care-pregnancy
-tags: [Gestational Diabetes, Pregnancy Care, Glucose Monitoring, Home Management]
-author: "gwx"
-author_title: "糖尿病康复期病人"
-author_id: "gwx"
-author_name: "gwx"
-author_email: "gwx@tangyou.space"
-author_role: "糖尿病康复期病人"
-reviewer_id: "kelvin"
-reviewer_name: "kelvin"
-reviewer_email: "kelvin@tangyou.space"
-reviewer_role: "糖尿病研究人员"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-ada-complete-guide"
-download_url: "https://download.tangyou.space/20260309/American-Diabetes-Association-Complete-Guide-to-Diabetes-The-Ultimate-Home-Reference-from-the-Diabetes-Experts.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "gestational-diabetes-home-care-pregnancy-en"
 ---
 
 # Gestational Diabetes Home Care: How to Coordinate Glucose Checks, Snacks, and Prenatal Follow-Up

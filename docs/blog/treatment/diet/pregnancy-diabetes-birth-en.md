@@ -1,28 +1,36 @@
 ---
-layout: default
-title: "Pregnancy, Diabetes, and Birth: A Practical Treatment-Stage Care Path"
-description: "A long-form practical guide based on Pregnancy, diabetes, and birth, covering meal structure, monitoring rhythms, movement, and care-team coordination before delivery."
+author: zyn
+author_email: zyn@tangyou.space
+author_id: zyn
+author_name: zyn
+author_role: 医学院学生
+author_title: Medical Student
+automation_id: ebook-delivery-20260313
+cta_form_id: ebook-signup
 date: 2026-03-13
+description: A long-form practical guide based on Pregnancy, diabetes, and birth,
+  covering meal structure, monitoring rhythms, movement, and care-team coordination
+  before delivery.
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260313/Pregnancy,-diabetes,-and-birth-a-management-guide.pdf
+ebook_id: pregnancy-birth-20260313
 lang: en
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: pregnancy-diabetes-birth-en
+tags:
+- Gestational Diabetes
+- Treatment
+- Glucose Monitoring
+- Diet
+- Pregnancy Nutrition
+- Birth Planning
+title: 'Pregnancy, Diabetes, and Birth: A Practical Treatment-Stage Care Path'
 translation_key: pregnancy-diabetes-birth
-tags: [Gestational Diabetes, Pregnancy Nutrition, Glucose Monitoring, Birth Planning]
-author: "zyn"
-author_title: "Medical Student"
-author_id: "zyn"
-author_name: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "pregnancy-birth-20260313"
-download_url: "https://download.tangyou.space/20260313/Pregnancy,-diabetes,-and-birth-a-management-guide.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260313"
-slug: "pregnancy-diabetes-birth-en"
 ---
 
 # Pregnancy, Diabetes, and Birth: A Practical Treatment-Stage Care Path

@@ -1,10 +1,14 @@
 ---
-layout: default
-title: "Emotional Code: How Scientific Emotion Management Effectively Prevents Diabetes"
-description: "In today's fast-paced society, people are increasingly concerned about health issues."
-author: "danezhang"
-date: "2026-01-15"
+author: danezhang
+date: '2026-01-15'
+description: In today's fast-paced society, people are increasingly concerned about
+  health issues.
 lang: en
+layout: default
+tags:
+- Emotion
+- Prevention
+title: 'Emotional Code: How Scientific Emotion Management Effectively Prevents Diabetes'
 translation_key: prevention/emotion/emotion-management-diabetes-prevention
 ---
 > Breadcrumb: [Back to Prevention Home](../../) > [Emotion Management](../) > This Article

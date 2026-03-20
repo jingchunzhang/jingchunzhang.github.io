@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "治疗期怎么把护理做扎实：从《Practical Diabetes Care》到家庭执行"
-description: "把《Practical Diabetes Care》中的临床管理逻辑转化为家庭可执行流程：监测、饮食、活动、复盘四位一体，降低治疗期波动。"
+author: zyn
+author_email: zyn@tangyou.space
+author_id: zyn
+author_name: zyn
+author_role: 医学院学生
+author_title: 医学院学生
+automation_id: ebook-delivery-20260313
+cta_form_id: ebook-signup
 date: 2026-03-13
+description: 把《Practical Diabetes Care》中的临床管理逻辑转化为家庭可执行流程：监测、饮食、活动、复盘四位一体，降低治疗期波动。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260313/Practical-diabetes-care.pdf
+ebook_id: practical-care-20260313
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: practical-diabetes-care
+tags:
+- Treatment
+- 饮食策略
+- 家庭管理
+- 糖尿病治疗
+- Diet
+- 临床护理
+title: 治疗期怎么把护理做扎实：从《Practical Diabetes Care》到家庭执行
 translation_key: practical-diabetes-care
-tags: [糖尿病治疗, 临床护理, 家庭管理, 饮食策略]
-author: "zyn"
-author_title: "医学院学生"
-author_id: "zyn"
-author_name: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "practical-care-20260313"
-download_url: "https://download.tangyou.space/20260313/Practical-diabetes-care.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260313"
-slug: "practical-diabetes-care"
 ---
 
 # 治疗期怎么把护理做扎实：从《Practical Diabetes Care》到家庭执行

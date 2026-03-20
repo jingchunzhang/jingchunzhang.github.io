@@ -1,21 +1,30 @@
 ---
-title: "How to Eat Carbs Without Causing a Blood Sugar Spike: A Complete Guide for Diabetes Treatment"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
+categories:
+- Diabetes Treatment
 date: 2026-03-15
+description: A treatment-stage guide to understanding carbs and blood sugar, with
+  practical tips on meal sequencing, food pairing, and portion control.
+disclaimer_key: medical-information-only
 lang: en
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+tags:
+- blood sugar control
+- carb management
+- Treatment
+- meal sequencing
+- Diet
+- treatment diet
+title: 'How to Eat Carbs Without Causing a Blood Sugar Spike: A Complete Guide for
+  Diabetes Treatment'
 translation_key: how-to-eat-carbs-without-spike
-description: "A treatment-stage guide to understanding carbs and blood sugar, with practical tips on meal sequencing, food pairing, and portion control."
-categories: ["Diabetes Treatment"]
-tags: [treatment diet, carb management, blood sugar control, meal sequencing]
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
 ---
 
 # How to Eat Carbs Without Causing a Blood Sugar Spike: A Complete Guide for Diabetes Treatment

@@ -1,10 +1,13 @@
 ---
-layout: default
-title: "SEO: Basics, Advanced, and Companies"
-description: "This section covers SEO from fundamentals to advanced practice and an overview of notable companies in the industry:"
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: 'This section covers SEO from fundamentals to advanced practice and an
+  overview of notable companies in the industry:'
 lang: en
+layout: default
+tags:
+- SEO
+title: 'SEO: Basics, Advanced, and Companies'
 translation_key: seo-index
 ---
 # SEO: Basics, Advanced, and Companies

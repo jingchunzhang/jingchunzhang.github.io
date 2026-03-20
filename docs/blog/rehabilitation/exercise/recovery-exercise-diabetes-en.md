@@ -1,10 +1,14 @@
 ---
-layout: default
-title: "Exercise in Diabetes Recovery: From “Glucose Control” to “Fitness Restoration”"
-description: "In recovery, exercise goals expand. In treatment you ask: “Does it lower glucose?"
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: 'In recovery, exercise goals expand. In treatment you ask: “Does it lower
+  glucose?'
 lang: en
+layout: default
+tags:
+- Rehabilitation
+- Exercise
+title: 'Exercise in Diabetes Recovery: From “Glucose Control” to “Fitness Restoration”'
 translation_key: rehab-exercise-recovery
 ---
 # Exercise in Diabetes Recovery: From “Glucose Control” to “Fitness Restoration”

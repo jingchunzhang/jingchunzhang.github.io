@@ -1,28 +1,36 @@
 ---
-layout: default
-title: "How to Prevent Gestational Diabetes During Pregnancy: A Practical Framework for Meals, Weight Gain, and Daily Activity"
-description: "A practical gestational diabetes prevention guide for pregnancy, built around meal structure, weight-gain rhythm, light movement, sleep, and timely screening."
+author: gwx
+author_email: gwx@tangyou.space
+author_id: gwx
+author_name: gwx
+author_role: 糖尿病康复期病人
+author_title: 糖尿病康复期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-12
+description: A practical gestational diabetes prevention guide for pregnancy, built
+  around meal structure, weight-gain rhythm, light movement, sleep, and timely screening.
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/Diabetes-Cooking-for-Everyone-250-All-Natural,-Low-Glycemic-Recipes-to-Nourish-and-Rejuvenate.pdf
+ebook_id: 20260309-diabetes-cooking-everyone
 lang: en
+layout: default
+review_status: draft
+reviewer_email: kelvin@tangyou.space
+reviewer_id: kelvin
+reviewer_name: kelvin
+reviewer_role: 糖尿病研究人员
+slug: gestational-diabetes-prevention-pregnancy-en
+tags:
+- Gestational Diabetes
+- Pregnancy Care
+- Diabetes Prevention
+- Prevention
+- Nutrition
+- Diet
+title: 'How to Prevent Gestational Diabetes During Pregnancy: A Practical Framework
+  for Meals, Weight Gain, and Daily Activity'
 translation_key: gestational-diabetes-prevention-pregnancy
-tags: [Gestational Diabetes, Pregnancy Care, Diabetes Prevention, Nutrition]
-author: "gwx"
-author_title: "糖尿病康复期病人"
-author_id: "gwx"
-author_name: "gwx"
-author_email: "gwx@tangyou.space"
-author_role: "糖尿病康复期病人"
-reviewer_id: "kelvin"
-reviewer_name: "kelvin"
-reviewer_email: "kelvin@tangyou.space"
-reviewer_role: "糖尿病研究人员"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-diabetes-cooking-everyone"
-download_url: "https://download.tangyou.space/20260309/Diabetes-Cooking-for-Everyone-250-All-Natural,-Low-Glycemic-Recipes-to-Nourish-and-Rejuvenate.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "gestational-diabetes-prevention-pregnancy-en"
 ---
 
 # How to Prevent Gestational Diabetes During Pregnancy: A Practical Framework for Meals, Weight Gain, and Daily Activity

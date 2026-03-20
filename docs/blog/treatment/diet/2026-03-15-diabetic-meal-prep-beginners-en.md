@@ -1,28 +1,36 @@
 ---
-
-title: "Diabetic Meal Prep for Beginners: Build a Week Once, Reduce Daily Blood Sugar Chaos"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
+automation_id: ebook-delivery-20260315
+categories:
+- treatment
+- diet
+cta_form_id: ebook-signup
 date: 2026-03-15
+description: A beginner-friendly diabetic meal prep guide for the treatment phase,
+  including a weekly template, portion strategy, shopping workflow, and conservative
+  medical safety notes.
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260315/Diabetic-Meal-Prep.pdf
+ebook_id: diabetic-meal-prep-20260315
 lang: en
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: diabetic-meal-prep-beginners
+tags:
+- Treatment
+- meal prep
+- beginner guide
+- Diet
+- treatment diet
+title: 'Diabetic Meal Prep for Beginners: Build a Week Once, Reduce Daily Blood Sugar
+  Chaos'
 translation_key: diabetic-meal-prep-beginners
-description: "A beginner-friendly diabetic meal prep guide for the treatment phase, including a weekly template, portion strategy, shopping workflow, and conservative medical safety notes."
-categories: ["treatment", "diet"]
-tags: [treatment diet, meal prep, beginner guide]
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "diabetic-meal-prep-20260315"
-download_url: "https://download.tangyou.space/20260315/Diabetic-Meal-Prep.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260315"
-slug: "diabetic-meal-prep-beginners"
-
 ---
 # Diabetic Meal Prep for Beginners: Build a Week Once, Reduce Daily Blood Sugar Chaos
 

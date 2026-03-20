@@ -1,23 +1,26 @@
 ---
-title: "控糖10年踩过足感染的坑！新发糖尿病足感染怎么管才能不截肢？"
+author_email: zhl@tangyou.space
+author_id: zhl
+author_role: 糖尿病病人家属
+categories:
+- 糖尿病预防
 date: 2026-03-20 09:31:54 +0800
-description: "控糖10年踩过足感染的坑！新发糖尿病足感染怎么管才能不截肢？ - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: 控糖10年踩过足感染的坑！新发糖尿病足感染怎么管才能不截肢？ - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: management-and-outcomes-of-people-presenting-with-
-
-author_id: "zhl"
-author_email: "zhl@tangyou.space"
-author_role: "糖尿病病人家属"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- 糖尿病
+- 饮食
+- Diet
+title: 控糖10年踩过足感染的坑！新发糖尿病足感染怎么管才能不截肢？
 ---
 
 # 控糖10年踩过足感染的坑！新发糖尿病足感染怎么管才能不截肢？
-![医生为糖尿病患者检查足部情况](https://source.unsplash.com/1600x900/?diabetic,foot,care)
+![医生为糖尿病患者检查足部情况](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 大家好，我是有10年二型糖尿病史的老周，刚确诊那几年仗着自己年轻，总觉得并发症离我远，胡吃海喝还经常忘了吃药，血糖常年在空腹8-10之间飘，直到2018年栽在糖尿病足感染的坑里，才真正明白“糖友的脚比脸还金贵”这句话的分量。这些年我陪着不少糖友处理过足部问题，也特意了解过国内外关于新发糖尿病足感染患者的管理与预后相关的研究，今天就把我踩过的坑、总结的经验都分享给大家，希望能帮大家少走弯路。
 
@@ -39,7 +42,7 @@ download_url: ""
 ### 第四步：恢复期随访是决定预后的核心
 很多人觉得伤口长好就万事大吉了，其实这是大错特错。当时医生要求我前3个月每两周复查一次足部、测下肢血流，每个月查糖化血红蛋白，之后的一年每季度复查一次，这也是现在新发糖尿病足感染患者的管理与预后里特别强调的环节：得过一次足感染的糖友复发率是普通人的3倍，只有长期监控血糖、足部状况，才能避免再次出问题。
 
-![糖尿病足居家护理工具包](https://source.unsplash.com/1600x900/?diabetes,first,aid)
+![糖尿病足居家护理工具包](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 ## 真实案例：两种选择，两种完全不同的预后
 我身边有两个糖友差不多同时出现了新发糖尿病足感染，结局差得特别多：

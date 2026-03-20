@@ -1,28 +1,36 @@
 ---
-layout: default
-title: "Endocrinology Tests for Diabetes Follow-Up: What Matters Most"
-description: "A practical guide to endocrinology-related follow-up tests in diabetes care: key markers, trend interpretation, sleep-metabolic links, and how to make each clinic visit count."
+author: zzh
+author_email: zzh@tangyou.space
+author_id: zzh
+author_name: zzh
+author_role: 糖尿病治疗期病人
+author_title: 糖尿病治疗期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-09
+description: 'A practical guide to endocrinology-related follow-up tests in diabetes
+  care: key markers, trend interpretation, sleep-metabolic links, and how to make
+  each clinic visit count.'
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/Oxford-Handbook-of-Endocrinology-and-Diabetes.pdf
+ebook_id: 20260309-oxford-endo-diabetes
 lang: en
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: endocrinology-tests-for-diabetes-followup-en
+tags:
+- Treatment
+- Sleep Metabolism
+- Sleep
+- Endocrinology
+- Lab Interpretation
+- Diabetes Follow-up
+title: 'Endocrinology Tests for Diabetes Follow-Up: What Matters Most'
 translation_key: endocrinology-tests-for-diabetes-followup
-tags: [Endocrinology, Diabetes Follow-up, Lab Interpretation, Sleep Metabolism]
-author: "zzh"
-author_title: "糖尿病治疗期病人"
-author_id: "zzh"
-author_name: "zzh"
-author_email: "zzh@tangyou.space"
-author_role: "糖尿病治疗期病人"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-oxford-endo-diabetes"
-download_url: "https://download.tangyou.space/20260309/Oxford-Handbook-of-Endocrinology-and-Diabetes.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "endocrinology-tests-for-diabetes-followup-en"
 ---
 
 # Endocrinology Tests for Diabetes Follow-Up: What Matters Most

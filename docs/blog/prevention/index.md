@@ -1,10 +1,13 @@
 ---
-layout: default
-title: 糖尿病的预防：构建健康生活防线
-description: "糖尿病, 尤其是2型糖尿病, 在很大程度上是可以通过积极的生活方式干预来预防或延缓的。预防不仅是避免一种疾病, 更是投资于长期的健康与生活质量。本专区将从**饮食、运动、睡眠、情绪**四个核心维度, 为您提供科学、实用的预防策略。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: 糖尿病, 尤其是2型糖尿病, 在很大程度上是可以通过积极的生活方式干预来预防或延缓的。预防不仅是避免一种疾病, 更是投资于长期的健康与生活质量。本专区将从**饮食、运动、睡眠、情绪**四个核心维度,
+  为您提供科学、实用的预防策略。
 lang: zh
+layout: default
+tags:
+- Prevention
+title: 糖尿病的预防：构建健康生活防线
 translation_key: prevention/index
 ---
 # 糖尿病的预防：构建健康生活防线

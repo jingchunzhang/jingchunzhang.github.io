@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "妊娠糖尿病家庭护理：血糖监测、加餐安排与产检协同怎么做"
-description: "确诊妊娠糖尿病后，家庭护理重点不是恐慌，而是把血糖监测、正餐加餐、活动与产检协同成一套可执行流程。"
+author: gwx
+author_email: gwx@tangyou.space
+author_id: gwx
+author_name: gwx
+author_role: 糖尿病康复期病人
+author_title: 糖尿病康复期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-12
+description: 确诊妊娠糖尿病后，家庭护理重点不是恐慌，而是把血糖监测、正餐加餐、活动与产检协同成一套可执行流程。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/American-Diabetes-Association-Complete-Guide-to-Diabetes-The-Ultimate-Home-Reference-from-the-Diabetes-Experts.pdf
+ebook_id: 20260309-ada-complete-guide
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: kelvin@tangyou.space
+reviewer_id: kelvin
+reviewer_name: kelvin
+reviewer_role: 糖尿病研究人员
+slug: gestational-diabetes-home-care-pregnancy
+tags:
+- Treatment
+- 家庭管理
+- 孕期护理
+- 血糖监测
+- Diet
+- 妊娠糖尿病
+title: 妊娠糖尿病家庭护理：血糖监测、加餐安排与产检协同怎么做
 translation_key: gestational-diabetes-home-care-pregnancy
-tags: [妊娠糖尿病, 孕期护理, 血糖监测, 家庭管理]
-author: "gwx"
-author_title: "糖尿病康复期病人"
-author_id: "gwx"
-author_name: "gwx"
-author_email: "gwx@tangyou.space"
-author_role: "糖尿病康复期病人"
-reviewer_id: "kelvin"
-reviewer_name: "kelvin"
-reviewer_email: "kelvin@tangyou.space"
-reviewer_role: "糖尿病研究人员"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-ada-complete-guide"
-download_url: "https://download.tangyou.space/20260309/American-Diabetes-Association-Complete-Guide-to-Diabetes-The-Ultimate-Home-Reference-from-the-Diabetes-Experts.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "gestational-diabetes-home-care-pregnancy"
 ---
 
 # 妊娠糖尿病家庭护理：血糖监测、加餐安排与产检协同怎么做

@@ -1,23 +1,26 @@
 ---
-title: "搞懂2型糖尿病别瞎踩坑！10年老糖友亲测的科普/工具选购全指南"
+author_email: zhl@tangyou.space
+author_id: zhl
+author_role: 糖尿病病人家属
+categories:
+- 糖尿病预防
 date: 2026-03-20 09:53:27 +0800
-description: "搞懂2型糖尿病别瞎踩坑！10年老糖友亲测的科普/工具选购全指南 - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: 搞懂2型糖尿病别瞎踩坑！10年老糖友亲测的科普/工具选购全指南 - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: understanding-type-2-diabetes
-
-author_id: "zhl"
-author_email: "zhl@tangyou.space"
-author_role: "糖尿病病人家属"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- Exercise
+- 糖尿病
+- 饮食
+title: 搞懂2型糖尿病别瞎踩坑！10年老糖友亲测的科普/工具选购全指南
 ---
 
 # 搞懂2型糖尿病别瞎踩坑！10年老糖友亲测的科普/工具选购全指南
-![2型糖尿病科普权威配图](https://source.unsplash.com/1600x900/?diabetes,education)
+![2型糖尿病科普权威配图](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 大家好，我是患2型糖尿病10年的老周，刚确诊的时候跟很多人一样，对着检查单慌得不行，网上乱搜各种信息，买过号称“根治糖尿病”的偏方书，交过几千块的“逆转课”智商税，走了无数弯路才慢慢摸清楚门道。今天就给大家整理一份「了解2型糖尿病」相关的科普内容、管理工具的选购指南，帮大家少花冤枉钱，快速建立对2型糖尿病的正确认知。
 
@@ -63,7 +66,7 @@ download_url: ""
 ✅ **购买建议**：通过专属链接购买的朋友，额外赠送价值99元的智能体脂秤一个，方便日常监测体重体脂变化。【点击这里了解定制服务详情】
 
 ## 真实案例
-![老糖友日常控糖记录配图](https://source.unsplash.com/1600x900/?blood,sugar,diary)
+![老糖友日常控糖记录配图](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 我刚确诊2型糖尿病的时候，慌得不行，网上乱搜信息，花了299元买了一套号称“3个月根治糖尿病”的课程，跟着里面的方法停了药，每天只吃南瓜、苦瓜，结果半个月后测血糖升到了12.8，差点酮症酸中毒进医院。后来还是医生给我推荐了官方的科普指南，我花了1个月看完，才搞懂2型糖尿病是胰岛素抵抗或者分泌不足导致的，目前全世界都没有根治的方法，只能靠科学的饮食、运动、用药控制，后来我又买了协和的实战课，跟着学怎么计算碳水、调整用药，现在10年了，糖化一直稳定在6.2%以内，没有任何并发症。
 
 ## 常见问题（FAQ）

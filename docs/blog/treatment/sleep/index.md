@@ -1,10 +1,13 @@
 ---
-layout: default
-title: 睡眠与代谢：治疗期的恢复力基础
-description: "了解睡眠与代谢：治疗期的恢复力基础，以及其与糖尿病管理和预防的关系。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: 了解睡眠与代谢：治疗期的恢复力基础，以及其与糖尿病管理和预防的关系。
 lang: zh
+layout: default
+tags:
+- Treatment
+- Sleep
+title: 睡眠与代谢：治疗期的恢复力基础
 translation_key: treatment-sleep-index
 ---
 # 睡眠与代谢：治疗期的恢复力基础

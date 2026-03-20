@@ -89,7 +89,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=f0f3997c54e8a347b3d9779b029e28b8ca8a6e34">
+    <link rel="stylesheet" href="/assets/css/style.css?v=5a5c9f6595dc97769129d6e30f2aed7ed18fca55">
     <link rel="stylesheet" href="/assets/css/breadcrumb.css">
     
 
@@ -117,6 +117,137 @@
           <a class="btn" href="/contact/">联系我们</a>
          
        </nav>
+      <div class="search-trigger">
+  <button onclick="openSearch()" class="search-icon-btn" aria-label="Search">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+  </button>
+</div>
+<div id="search-modal" class="search-modal" style="display: none;">
+  <div class="search-modal-content">
+    <div class="search-header">
+      <h3>Search / 搜索</h3>
+      <button onclick="closeSearch()" class="close-btn">&times;</button>
+    </div>
+    <div id="pagefind-search"></div>
+  </div>
+</div>
+
+<style>
+.search-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.5);
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 100px;
+}
+.search-modal-content {
+  background: white;
+  padding: 2rem;
+  width: 90%;
+  max-width: 800px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  max-height: 80vh;
+  overflow-y: auto;
+}
+.search-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+/* Pagefind Overrides */
+:root {
+  --pagefind-ui-scale: 0.8;
+  --pagefind-ui-primary: #157878;
+  --pagefind-ui-text: #393939;
+  --pagefind-ui-background: #ffffff;
+  --pagefind-ui-border: #eeeeee;
+  --pagefind-ui-tag: #eeeeee;
+  --pagefind-ui-border-width: 2px;
+  --pagefind-ui-border-radius: 8px;
+  --pagefind-ui-image-border-radius: 8px;
+  --pagefind-ui-image-box-ratio: 3 / 2;
+  --pagefind-ui-font: "Open Sans", sans-serif;
+}
+</style>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({ element: "#pagefind-search", showSubResults: true });
+  });
+
+  function openSearch() {
+    document.getElementById('search-modal').style.display = 'flex';
+    // Focus input if possible
+    setTimeout(() => {
+      const input = document.querySelector('.pagefind-ui__search-input');
+      if(input) input.focus();
+    }, 100);
+  }
+
+  function closeSearch() {
+    document.getElementById('search-modal').style.display = 'none';
+  }
+
+  // Close on outside click
+  window.onclick = function(event) {
+    const modal = document.getElementById('search-modal');
+    if (event.target == modal) {
+      modal.style.display = "none";
+    }
+  }
+  
+  // Close on Escape key
+  document.addEventListener('keydown', function(event) {
+    if (event.key === "Escape") {
+      closeSearch();
+    }
+  });
+</script>
+
+
+<style>
+.search-trigger {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 1rem;
+}
+.search-icon-btn {
+  background: none;
+  border: none;
+  color: rgba(255,255,255,0.7);
+  cursor: pointer;
+  padding: 5px;
+  transition: color 0.2s;
+}
+.search-icon-btn:hover {
+  color: white;
+}
+/* Ensure search appears in mobile nav appropriately */
+@media screen and (max-width: 42rem) {
+  .search-trigger {
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+  }
+}
+</style>
+
       <h1 class="project-name">家庭糖尿病管理框架：能长期坚持的实用版本</h1>
       <h2 class="project-tagline">围绕治疗期家庭场景，建立“监测-饮食-活动-复盘”四位一体管理框架，帮助患者与家属把复杂建议变成可执行日程。</h2>
       
@@ -268,7 +399,103 @@
     
     
       
+        <li><a href="/blog/treatment/diet/2026-03-15-american-diabetes-association-complete-guide.html">美国糖尿病协会完整指南：治疗期饮食怎么吃，才能更稳地控住餐后血糖？</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-dash-diet-diabetes.html">得舒饮食（DASH）能帮助糖尿病治疗期稳住血糖吗？给家属的可执行7天方案</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-diabetes-a-to-z.html">糖尿病A到Z：治疗期饮食关键概念全指南</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-diabetes-education-patients.html">糖尿病患者教育入门：掌握生活管理的基础</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-diabetic-cooking-everyone.html">糖尿病患者的居家烹饪指南：简单方法预防血糖波动</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-diabetic-meal-prep-beginners.html">糖尿病膳食准备入门：新手也能执行的一周稳糖备餐法</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-high-fiber-diabetes-recipes.html">高纤维糖尿病食谱：一周可执行的稳糖餐盘与家庭备餐方案</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-how-to-eat-carbs-without-spike.html">治疗期如何科学吃碳水不升糖：进餐顺序与搭配技巧全攻略</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-lgbt-diabetes-risk.html">LGBTQ群体糖尿病风险更高？数据揭示的真相与应对策略</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-lgbt-inclusive-diabetes-care.html">为LGBT+群体提供包容性糖尿病护理：挑战与机遇</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-practical-diabetes-care-daily.html">糖尿病日常护理实操指南：血糖监测、用药提醒、饮食执行的三维协同法</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-transgender-diabetes-hormone-therapy.html">跨性别者与糖尿病：激素治疗、代谢风险与健康管理全指南</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-17-associations-of-body-weight-and-covid-19.html">儿童新发1型糖尿病体重、新冠与自身免疫的关联：一位妈妈的血泪经验与科学指南</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/comfort-food-breakfast-template-diabetes-treatment.html">治疗期舒适早餐模板：早上吃得稳，全天更好控糖</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/comfort-food-casserole-rice-balance-diabetes-treatment.html">焗饭与炖饭的治疗期平衡法：少一点精制主食，多一点稳定</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/comfort-food-dessert-portion-strategy-diabetes-treatment.html">治疗期甜食份量策略：不是绝对禁止，而是有边界地吃</a></li>
+      
+    
+      
         <li><a href="/blog/treatment/diet/comfort-food-diabetes-treatment.html">糖尿病治疗期的舒适食物改造法：吃得满足，也把血糖守住</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/comfort-food-eating-out-swap-diabetes-treatment.html">治疗期外食替换清单：舒适餐馆也能做出控糖友好选择</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/comfort-food-family-dinner-rotation-diabetes-treatment.html">治疗期家庭晚餐轮换：用舒适食物模板减少全家执行阻力</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/comfort-food-late-night-hunger-plan-diabetes-treatment.html">治疗期夜间饥饿应对：舒适感与血糖安全的双平衡</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/comfort-food-meal-prep-batch-cooking-diabetes-treatment.html">治疗期舒适食物批量备餐：忙碌日也能守住饮食结构</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/comfort-food-snack-craving-control-diabetes-treatment.html">治疗期加餐与馋意控制：把冲动进食变成可管理流程</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/comfort-food-soup-noodle-rebuild-diabetes-treatment.html">治疗期汤面重建：保留热汤满足感，降低餐后冲高</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/diabetes-complications-prevention-screening.html">糖尿病并发症预防：早期信号与筛查</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/gestational-diabetes-home-care-pregnancy.html">妊娠糖尿病家庭护理：血糖监测、加餐安排与产检协同怎么做</a></li>
       
     
       
@@ -285,6 +512,22 @@
     
       
         <li><a href="/blog/treatment/diet/nutrient-density-andi-eat-for-life-diabetes-treatment.html">治疗2型糖尿病的饮食底层逻辑：营养密度（ANDI）与“为生而食”</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/practical-diabetes-care-canada.html">加拿大临床语境下的治疗期控糖：家庭可执行的护理框架</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/practical-diabetes-care.html">治疗期怎么把护理做扎实：从《Practical Diabetes Care》到家庭执行</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/pregnancy-diabetes-birth.html">妊娠期糖尿病管理全流程：从孕期到分娩前的饮食与监测</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/the-diabetes-code.html">《The Diabetes Code》怎么读：治疗期饮食与胰岛素阻抗管理框架</a></li>
       
     
       

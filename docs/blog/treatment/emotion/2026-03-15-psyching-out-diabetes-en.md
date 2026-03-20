@@ -1,26 +1,34 @@
 ---
-title: "Psyching Out Diabetes: Emotional Regulation Strategies During Active Treatment"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
+automation_id: ebook-delivery-20260315
+categories:
+- Diabetes Treatment
+cta_form_id: ebook-signup
 date: 2026-03-15
+description: 'A practical, conservative guide for people in diabetes treatment and
+  their families: identify emotional triggers, lower stress reactivity, and build
+  sustainable daily adherence.'
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260315/Psyching-Out-Diabetes.pdf
+ebook_id: psyching-out-diabetes-20260315
 lang: en
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: psyching-out-diabetes
+tags:
+- Emotion
+- emotional regulation
+- Treatment
+- treatment emotion
+- positive mindset
+title: 'Psyching Out Diabetes: Emotional Regulation Strategies During Active Treatment'
 translation_key: psyching-out-diabetes
-description: "A practical, conservative guide for people in diabetes treatment and their families: identify emotional triggers, lower stress reactivity, and build sustainable daily adherence."
-categories: ["Diabetes Treatment"]
-tags: [treatment emotion, emotional regulation, positive mindset]
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "psyching-out-diabetes-20260315"
-download_url: "https://download.tangyou.space/20260315/Psyching-Out-Diabetes.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260315"
-slug: "psyching-out-diabetes"
 ---
 
 ![A person with diabetes reviewing glucose readings while journaling emotional state, showing integrated mental and medical self-management.](https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=1400&q=80)

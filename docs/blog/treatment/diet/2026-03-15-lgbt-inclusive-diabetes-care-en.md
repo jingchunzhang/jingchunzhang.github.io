@@ -1,21 +1,30 @@
 ---
-title: "Providing Inclusive Diabetes Care for LGBT+ Patients: Challenges and Opportunities"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
+categories:
+- Diabetes Treatment
 date: 2026-03-15
+description: Explore the challenges of providing inclusive care for LGBT+ diabetes
+  patients, how nutritionists and healthcare workers can improve services, and how
+  patients can protect their rights.
+disclaimer_key: medical-information-only
 lang: en
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+tags:
+- LGBTQ health
+- Treatment
+- inclusive care
+- Diet
+- treatment diet
+- healthcare equity
+title: 'Providing Inclusive Diabetes Care for LGBT+ Patients: Challenges and Opportunities'
 translation_key: lgbt-inclusive-diabetes-care
-description: "Explore the challenges of providing inclusive care for LGBT+ diabetes patients, how nutritionists and healthcare workers can improve services, and how patients can protect their rights."
-categories: ["Diabetes Treatment"]
-tags: [treatment diet, inclusive care, LGBTQ health, healthcare equity]
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
 ---
 
 # Providing Inclusive Diabetes Care for LGBT+ Patients: Challenges and Opportunities

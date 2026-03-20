@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "糖尿病关键术语速通：把看不懂变成看得懂"
-description: "用患者语言解释糖尿病高频术语，帮助你读懂报告、听懂门诊、做对家庭决策，减少信息焦虑与沟通误差。"
+author: zzh
+author_email: zzh@tangyou.space
+author_id: zzh
+author_name: zzh
+author_role: 糖尿病治疗期病人
+author_title: 糖尿病治疗期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-09
+description: 用患者语言解释糖尿病高频术语，帮助你读懂报告、听懂门诊、做对家庭决策，减少信息焦虑与沟通误差。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/The-Diabetes-Dictionary,-2nd-ed-What-Every-Person-with-Diabetes-Needs-to-Know.pdf
+ebook_id: 20260309-diabetes-dictionary
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: diabetes-terms-you-should-know
+tags:
+- Emotion
+- 健康素养
+- 患者教育
+- 康复沟通
+- Rehabilitation
+- 糖尿病词典
+title: 糖尿病关键术语速通：把看不懂变成看得懂
 translation_key: diabetes-terms-you-should-know
-tags: [糖尿病词典, 健康素养, 患者教育, 康复沟通]
-author: "zzh"
-author_title: "糖尿病治疗期病人"
-author_id: "zzh"
-author_name: "zzh"
-author_email: "zzh@tangyou.space"
-author_role: "糖尿病治疗期病人"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-diabetes-dictionary"
-download_url: "https://download.tangyou.space/20260309/The-Diabetes-Dictionary,-2nd-ed-What-Every-Person-with-Diabetes-Needs-to-Know.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "diabetes-terms-you-should-know"
 ---
 
 # 糖尿病关键术语速通：把看不懂变成看得懂

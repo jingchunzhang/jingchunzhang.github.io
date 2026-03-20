@@ -1,23 +1,28 @@
 ---
-title: "Managing Diabetes in Canada: A No-Fuss, Budget-Friendly Step-by-Step Guide for New Patients"
+author_email: zyn@tangyou.space
+author_id: zyn
+author_role: 医学院学生
+categories:
+- 糖尿病预防
 date: 2026-03-19 09:42:55 +0800
-description: "Managing Diabetes in Canada: A No-Fuss, Budget-Friendly Step-by-Step Guide for New Patients - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: 'Managing Diabetes in Canada: A No-Fuss, Budget-Friendly Step-by-Step
+  Guide for New Patients - 糖尿病知识全面解读'
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: 2026-03-19-diabetic-in-canada-a
-
-author_id: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- 糖尿病
+- 饮食
+- Diet
+title: 'Managing Diabetes in Canada: A No-Fuss, Budget-Friendly Step-by-Step Guide
+  for New Patients'
 ---
 
 # Managing Diabetes in Canada: A No-Fuss, Budget-Friendly Step-by-Step Guide for New Patients
-![Person checking blood glucose level with a Canadian health card and prescription on the kitchen table](https://source.unsplash.com/1600x900/?diabetes,canada,healthcare)
+![Person checking blood glucose level with a Canadian health card and prescription on the kitchen table](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 *Disclaimer: This content is AI-assisted and for informational purposes only. It does not constitute medical advice. Always consult a licensed healthcare provider before making any changes to your diabetes management plan.*
 

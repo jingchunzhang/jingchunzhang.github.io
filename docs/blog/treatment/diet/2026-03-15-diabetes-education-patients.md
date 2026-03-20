@@ -1,32 +1,31 @@
 ---
-title: "糖尿病患者教育入门：掌握生活管理的基础"
-date: 2026-03-15T08:00:00+08:00
-description: "了解糖尿病患者教育的核心内容，学习血糖管理、饮食控制和运动习惯的基础知识，为健康生活奠定基础。"
-categories: ["treatment"]
-tags: ["糖尿病患者教育", "血糖管理", "生活方式管理", "饮食控制"]
-slug: "2026-03-15-diabetes-education-patients"
-lang: "zh"
-translation_key: "diabetes-education-patients"
-
-# Persona fields
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-
-# Review fields
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-
-# Compliance/disclaimer routing
-disclaimer_key: "medical-information-only"
-
-# Funnel mapping
-ebook_id: "diabetes-education-basics"
-cta_form_id: "diabetes-edu-cta-zh"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
+categories:
+- treatment
+cta_form_id: diabetes-edu-cta-zh
+date: 2026-03-15 08:00:00+08:00
+description: 了解糖尿病患者教育的核心内容，学习血糖管理、饮食控制和运动习惯的基础知识，为健康生活奠定基础。
+disclaimer_key: medical-information-only
+ebook_id: diabetes-education-basics
+lang: zh
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: 2026-03-15-diabetes-education-patients
+tags:
+- 糖尿病患者教育
+- Treatment
+- 血糖管理
+- Diet
+- 生活方式管理
+- 饮食控制
+title: 糖尿病患者教育入门：掌握生活管理的基础
+translation_key: diabetes-education-patients
 ---
 
 > **医学免责声明**：本文提供的信息仅供教育之用，不替代专业医学建议。在改变治疗方案或饮食计划前，请咨询您的医生或认证糖尿病教育者。

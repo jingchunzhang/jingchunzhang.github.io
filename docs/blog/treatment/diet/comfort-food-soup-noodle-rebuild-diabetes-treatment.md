@@ -1,28 +1,33 @@
 ---
-layout: default
-title: "治疗期汤面重建：保留热汤满足感，降低餐后冲高"
-description: "从面量、汤底、蛋白和蔬菜比例入手，重建更稳血糖的汤面方案。"
+author: kelvin
+author_email: kelvin@tangyou.space
+author_id: kelvin
+author_name: kelvin
+author_role: 糖尿病研究人员
+author_title: 糖尿病研究人员
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-10
+description: 从面量、汤底、蛋白和蔬菜比例入手，重建更稳血糖的汤面方案。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub
+ebook_id: 20260310-diabetes-comfort-food-cookbook
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: comfort-food-soup-noodle-rebuild-diabetes-treatment
+tags:
+- 汤面
+- Treatment
+- 治疗期
+- 糖尿病饮食
+- Diet
+title: 治疗期汤面重建：保留热汤满足感，降低餐后冲高
 translation_key: comfort-food-soup-noodle-rebuild-diabetes-treatment
-tags: [汤面, 糖尿病饮食, 治疗期]
-author: "kelvin"
-author_title: "糖尿病研究人员"
-author_id: "kelvin"
-author_name: "kelvin"
-author_email: "kelvin@tangyou.space"
-author_role: "糖尿病研究人员"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260310-diabetes-comfort-food-cookbook"
-download_url: "https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "comfort-food-soup-noodle-rebuild-diabetes-treatment"
 ---
 
 # 治疗期汤面重建：保留热汤满足感，降低餐后冲高

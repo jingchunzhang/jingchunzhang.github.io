@@ -1,25 +1,28 @@
 ---
-title: "在家就能查血糖？2型糖尿病自我筛查的可行性+成本全对比"
+author_email: gwx@tangyou.space
+author_id: gwx
+author_role: 糖尿病康复期病人
+categories:
+- 糖尿病预防
 date: 2026-03-18 08:39:40 +0800
-description: "在家就能查血糖？2型糖尿病自我筛查的可行性+成本全对比 - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: 在家就能查血糖？2型糖尿病自我筛查的可行性+成本全对比 - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: feasibility-and-cost-effectiveness-of-at-home-self
-
-author_id: "gwx"
-author_email: "gwx@tangyou.space"
-author_role: "糖尿病康复期病人"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- Exercise
+- 糖尿病
+- 饮食
+title: 在家就能查血糖？2型糖尿病自我筛查的可行性+成本全对比
 ---
 
 # 在家就能查血糖？2型糖尿病自我筛查的可行性+成本全对比
 
 
-![在家做糖尿病筛查的场景](https://source.unsplash.com/1600x900/?diabetes home screening)
+![在家做糖尿病筛查的场景](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80 home screening)
 
 
 大家好，我是老李，10年前确诊2型糖尿病，从一开始扎手指就疼得掉眼泪，到现在摸索出不少居家管理的门道。最近很多糖友问我：“在家自己测血糖靠谱吗？哪种筛查方式最省钱又省心？”今天就结合我的亲身经历和研究，给大家扒一扒2型糖尿病居家筛查的“可行性”和“成本账”，帮你选到最适合自己的方式！

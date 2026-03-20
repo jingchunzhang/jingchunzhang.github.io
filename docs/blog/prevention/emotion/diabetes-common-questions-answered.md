@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "糖尿病高频问题实用解答：缓解焦虑的知识指南"
-description: "整理患者和家属最常问的糖尿病问题，涵盖情绪调节、饮食误区与日常监测，给出可执行、可复盘的实用回答。"
+author: zzh
+author_email: zzh@tangyou.space
+author_id: zzh
+author_name: zzh
+author_role: 糖尿病治疗期病人
+author_title: 糖尿病治疗期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-09
+description: 整理患者和家属最常问的糖尿病问题，涵盖情绪调节、饮食误区与日常监测，给出可执行、可复盘的实用回答。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/Q&A-on-Diabetes-Knowledge.pdf
+ebook_id: 20260309-diabetes-qa
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: diabetes-common-questions-answered
+tags:
+- Emotion
+- 心理调节
+- 家庭支持
+- 患者教育
+- Prevention
+- 糖尿病问答
+title: 糖尿病高频问题实用解答：缓解焦虑的知识指南
 translation_key: diabetes-common-questions-answered
-tags: [糖尿病问答, 患者教育, 家庭支持, 心理调节]
-author: "zzh"
-author_title: "糖尿病治疗期病人"
-author_id: "zzh"
-author_name: "zzh"
-author_email: "zzh@tangyou.space"
-author_role: "糖尿病治疗期病人"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-diabetes-qa"
-download_url: "https://download.tangyou.space/20260309/Q&A-on-Diabetes-Knowledge.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "diabetes-common-questions-answered"
 ---
 
 # 糖尿病高频问题实用解答：缓解焦虑的知识指南

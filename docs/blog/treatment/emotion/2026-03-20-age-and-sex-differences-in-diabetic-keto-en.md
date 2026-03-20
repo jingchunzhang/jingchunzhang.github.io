@@ -1,24 +1,29 @@
 ---
-title: "I’m a 10-Year Type 1 Diabetic: Here’s What That National Study On Age & Sex Differences In DKA Outcomes Actually Means For You"
+author_email: zhl@tangyou.space
+author_id: zhl
+author_role: 糖尿病病人家属
+categories:
+- 糖尿病预防
 date: 2026-03-20 09:26:40 +0800
-description: "I’m a 10-Year Type 1 Diabetic: Here’s What That National Study On Age & Sex Differences In DKA Outcomes Actually Means For You - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: 'I’m a 10-Year Type 1 Diabetic: Here’s What That National Study On Age
+  & Sex Differences In DKA Outcomes Actually Means For You - 糖尿病知识全面解读'
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: age-and-sex-differences-in-diabetic-ketoacidosis-o
-
-author_id: "zhl"
-author_email: "zhl@tangyou.space"
-author_role: "糖尿病病人家属"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Emotion
+- Treatment
+- 健康
+- 糖尿病
+- 饮食
+title: 'I’m a 10-Year Type 1 Diabetic: Here’s What That National Study On Age & Sex
+  Differences In DKA Outcomes Actually Means For You'
 ---
 
 # I’m a 10-Year Type 1 Diabetic: Here’s What That National Study On Age & Sex Differences In DKA Outcomes Actually Means For You
 
-![Person with type 1 diabetes checking blood glucose and ketone levels at home](https://source.unsplash.com/1600x900/?type1-diabetes,blood-glucose,ketone)
+![Person with type 1 diabetes checking blood glucose and ketone levels at home](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 I was diagnosed with type 1 diabetes (T1D) when I was 22, 10 years ago this October. In that decade, I’ve had two diabetic ketoacidosis (DKA) scares, sat through dozens of endocrinologist appointments, tested my blood sugar more times than I can count, and helped my 19-year-old sister navigate her own T1D diagnosis 3 years ago. I’ve always thought I knew everything there was to know about DKA risk, until I stumbled on the *Age and sex differences in diabetic ketoacidosis outcomes in type 1 diabetes: a national cohort study* last month. This massive 8-year analysis of over 120,000 T1D patients across the U.S. answered so many questions I’d had for years: why did my sister’s 2022 DKA admission land her in the ICU for 3 days, when my almost identical DKA episode a year earlier had me discharged from the ER in 24 hours? Why does my 68-year-old uncle, who’s had T1D for 42 years, keep having near-miss DKA events that feel way scarier than any I’ve experienced? The findings weren’t just abstract academic numbers—they were a playbook for keeping my family and myself safer.
 
@@ -52,7 +57,7 @@ I immediately started adjusting how I manage my own care and support my family a
 2. **I added period-related insulin adjustments to my sister’s plan**: The study noted that 42% of DKA admissions for AFAB adolescents happen in the first three days of their period, when hormone spikes raise blood sugar levels. We worked with her endo to create a temporary dose adjustment plan for her period, and she hasn’t had a high ketone episode during her period in 6 months.
 
 ## Real Case Study: How This Study Saved My Sister From Another ICU Stay Last Month
-![Young person with diabetes talking to emergency room care provider](https://source.unsplash.com/1600x900/?emergency-room,diabetes-care,doctor)
+![Young person with diabetes talking to emergency room care provider](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 Last month, my sister texted me at 8PM saying she had norovirus, her blood sugar was 396 mg/dL, her ketones were 0.9 mmol/L, and she’d vomited once. Before reading the *Age and sex differences in diabetic ketoacidosis outcomes in type 1 diabetes: a national cohort study*, I would have told her to take a correction dose, sip water, and check back in an hour. But instead, I grabbed my car keys and drove straight to her apartment, and we headed to the ER immediately.
 

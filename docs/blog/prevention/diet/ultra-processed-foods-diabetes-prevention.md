@@ -1,13 +1,18 @@
 ---
-layout: default
-title: '超加工食品（UPF）与2型糖尿病风险：看懂标签，做出更稳的选择'
-description: '超加工食品并不等同于“所有加工”。本文用通俗方式解释 UPF 的特点、可能影响血糖与胰岛素抵抗的路径，并给出一套可执行的“替换清单”和读配料表方法。'
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
 date: '2026-03-02'
+description: 超加工食品并不等同于“所有加工”。本文用通俗方式解释 UPF 的特点、可能影响血糖与胰岛素抵抗的路径，并给出一套可执行的“替换清单”和读配料表方法。
 lang: zh
+layout: default
+tags:
+- 预防
+- Prevention
+- 2型糖尿病
+- 饮食
+- Diet
+title: 超加工食品（UPF）与2型糖尿病风险：看懂标签，做出更稳的选择
 translation_key: prevention-diet-upf
-tags: [饮食, 预防, 2型糖尿病]
 ---
 
 # 超加工食品（UPF）与2型糖尿病风险：看懂标签，做出更稳的选择

@@ -1,23 +1,26 @@
 ---
-title: "糖友的诊疗方案更准了？聊聊电子病历模拟试验对循证护理的升级作用"
+author_email: zhl@tangyou.space
+author_id: zhl
+author_role: 糖尿病病人家属
+categories:
+- 糖尿病预防
 date: 2026-03-20 09:12:53 +0800
-description: "糖友的诊疗方案更准了？聊聊电子病历模拟试验对循证护理的升级作用 - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: 糖友的诊疗方案更准了？聊聊电子病历模拟试验对循证护理的升级作用 - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: enhancing-evidence-based-care-using-trial-emulatio
-
-author_id: "zhl"
-author_email: "zhl@tangyou.space"
-author_role: "糖尿病病人家属"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- Exercise
+- 糖尿病
+- 饮食
+title: 糖友的诊疗方案更准了？聊聊电子病历模拟试验对循证护理的升级作用
 ---
 
 # 糖友的诊疗方案更准了？聊聊电子病历模拟试验对循证护理的升级作用
-![糖尿病个性化诊疗场景](https://source.unsplash.com/1600x900/?diabetes,personalized,care)
+![糖尿病个性化诊疗场景](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 我得糖尿病今年第11年了，前几年总听医生说“循证护理”，说白了就是给咱们用的药、定的饮食运动方案，都是有实实在在研究数据支撑的，不是凭经验瞎猜的。但之前很多研究都是理想条件下的临床试验，放到咱们普通糖友身上，有时候总觉得有点“水土不服”：我之前按一个标准方案吃降糖药，别人控得挺好，我就总是低血糖，后来才知道那个试验的受试者都是60岁以下、没有并发症的人群，我本身有高血压，当然不适用。
 

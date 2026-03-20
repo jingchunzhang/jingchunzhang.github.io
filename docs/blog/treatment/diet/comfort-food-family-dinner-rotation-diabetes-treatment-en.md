@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "Family Dinner Rotation for Diabetes Treatment Comfort Meals"
-description: "A practical weekly family dinner rotation that keeps comfort, lowers decision fatigue, and supports glucose stability."
+author: kelvin
+author_email: kelvin@tangyou.space
+author_id: kelvin
+author_name: kelvin
+author_role: 糖尿病研究人员
+author_title: 糖尿病研究人员
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-10
+description: A practical weekly family dinner rotation that keeps comfort, lowers
+  decision fatigue, and supports glucose stability.
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub
+ebook_id: 20260310-diabetes-comfort-food-cookbook
 lang: en
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: comfort-food-family-dinner-rotation-diabetes-treatment-en
+tags:
+- Diabetes Treatment
+- Treatment
+- Comfort Food
+- Diet
+- Family Dinner
+title: Family Dinner Rotation for Diabetes Treatment Comfort Meals
 translation_key: comfort-food-family-dinner-rotation-diabetes-treatment
-tags: [Family Dinner, Diabetes Treatment, Comfort Food]
-author: "kelvin"
-author_title: "糖尿病研究人员"
-author_id: "kelvin"
-author_name: "kelvin"
-author_email: "kelvin@tangyou.space"
-author_role: "糖尿病研究人员"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260310-diabetes-comfort-food-cookbook"
-download_url: "https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "comfort-food-family-dinner-rotation-diabetes-treatment-en"
 ---
 
 # Family Dinner Rotation for Diabetes Treatment Comfort Meals

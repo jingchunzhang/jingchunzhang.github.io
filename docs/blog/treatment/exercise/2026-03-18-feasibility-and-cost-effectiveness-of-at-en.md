@@ -1,25 +1,30 @@
 ---
-title: "Is At-Home Type 2 Diabetes Screening Actually Feasible? Let’s Break Down the Costs and Myths"
+author_email: gwx@tangyou.space
+author_id: gwx
+author_role: 糖尿病康复期病人
+categories:
+- 糖尿病预防
 date: 2026-03-18 08:50:02 +0800
-description: "Is At-Home Type 2 Diabetes Screening Actually Feasible? Let’s Break Down the Costs and Myths - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: Is At-Home Type 2 Diabetes Screening Actually Feasible? Let’s Break Down
+  the Costs and Myths - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: feasibility-and-cost-effectiveness-of-at-home-self
-
-author_id: "gwx"
-author_email: "gwx@tangyou.space"
-author_role: "糖尿病康复期病人"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- Exercise
+- 糖尿病
+- 饮食
+title: Is At-Home Type 2 Diabetes Screening Actually Feasible? Let’s Break Down the
+  Costs and Myths
 ---
 
 # Is At-Home Type 2 Diabetes Screening Actually Feasible? Let’s Break Down the Costs and Myths
 
 
-![A person testing blood glucose at home with a meter and strips](https://source.unsplash.com/1600x900/?diabetes,home,testing)  
+![A person testing blood glucose at home with a meter and strips](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)  
 
 
 ## Introduction: Why Home T2D Screening Matters (But It’s Not All Good News)  

@@ -1,10 +1,12 @@
 ---
-layout: default
-title: 技术个人思考
-description: "了解技术个人思考，以及其与糖尿病管理和预防的关系。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: 了解技术个人思考，以及其与糖尿病管理和预防的关系。
 lang: zh
+layout: default
+tags:
+- Tech Thoughts
+title: 技术个人思考
 translation_key: tech-thoughts-index-en
 ---
 # 技术个人思考

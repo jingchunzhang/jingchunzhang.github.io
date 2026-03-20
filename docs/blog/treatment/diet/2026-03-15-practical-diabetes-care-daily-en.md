@@ -1,24 +1,29 @@
 ---
-layout: post
-title: "Practical Daily Diabetes Care: A Simple Routine for Blood Sugar Management"
-date: 2026-03-15
-lang: en
-translation_key: practical-diabetes-care-daily
-stage: treatment
-dimension: diet
+author_email: wep@tangyou.space
 author_id: wep
 author_name: wep
-author_email: wep@tangyou.space
 author_role: Family caregiver of diabetes patient
-reviewer_id: yyh
-reviewer_name: Dr. Medical Professional
-reviewer_email: yyh@tangyou.space
-reviewer_role: Diabetes care physician
-review_status: reviewed
+date: 2026-03-15
+description: Master daily diabetes care with a practical, sustainable routine. Learn
+  how to coordinate blood sugar monitoring, medication timing, and meal planning without
+  overwhelming yourself.
+dimension: diet
 disclaimer_key: medical-information-only
-description: Master daily diabetes care with a practical, sustainable routine. Learn how to coordinate blood sugar monitoring, medication timing, and meal planning without overwhelming yourself.
 image: /assets/images/daily-diabetes-care.jpg
 image_alt: Daily diabetes care routine with glucose meter and meal planning
+lang: en
+layout: post
+review_status: reviewed
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: Dr. Medical Professional
+reviewer_role: Diabetes care physician
+stage: treatment
+tags:
+- Diet
+- Treatment
+title: 'Practical Daily Diabetes Care: A Simple Routine for Blood Sugar Management'
+translation_key: practical-diabetes-care-daily
 ---
 
 ## The Daily Reality of Diabetes Care

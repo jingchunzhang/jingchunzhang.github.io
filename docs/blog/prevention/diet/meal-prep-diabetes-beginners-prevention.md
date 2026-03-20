@@ -1,23 +1,30 @@
 ---
-title: "糖尿病预防 备餐新手 入门"
+author_email: zzh@tangyou.space
+author_id: zzh
+author_name: zzh
+author_role: 糖尿病治疗期病人
+categories:
+- prevention
+- diet
 date: 2026-03-16
+description: 糖尿病预防 备餐新手 入门 - 糖尿病预防全面指南
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260311/Diabetic-Meal-Prep-for-Beginners-Cookbook-with-30-Day-Meal-Plan-to-Prevent-and-Reverse-Diabetes-Simple-and-Healthy-Recipes.epub
 lang: zh
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: meal-prep-diabetes-beginners-prevention
+tags:
+- 备餐
+- Prevention
+- Diet
+- 糖尿病预防
+- 健康饮食
+title: 糖尿病预防 备餐新手 入门
 translation_key: meal-prep-diabetes-beginners-prevention
-description: "糖尿病预防 备餐新手 入门 - 糖尿病预防全面指南"
-categories: ["prevention", "diet"]
-tags: ["糖尿病预防", "备餐", "健康饮食"]
-author_id: "zzh"
-author_name: "zzh"
-author_email: "zzh@tangyou.space"
-author_role: "糖尿病治疗期病人"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-download_url: "https://download.tangyou.space/20260311/Diabetic-Meal-Prep-for-Beginners-Cookbook-with-30-Day-Meal-Plan-to-Prevent-and-Reverse-Diabetes-Simple-and-Healthy-Recipes.epub"
-slug: "meal-prep-diabetes-beginners-prevention"
 ---
 
 # 糖尿病预防备餐新手入门避坑指南：过来人用10年经验告诉你，这些错误千万别踩！

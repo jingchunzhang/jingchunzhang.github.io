@@ -1,10 +1,13 @@
 ---
-layout: default
-title: 治疗期睡眠与代谢：把血糖变稳的“夜间工程”
-description: "睡眠不是“休息一下”，它是一个夜间的代谢调度系统：决定第二天的胰岛素敏感性、食欲、压力激素水平，以及你能否执行饮食和运动计划。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: 睡眠不是“休息一下”，它是一个夜间的代谢调度系统：决定第二天的胰岛素敏感性、食欲、压力激素水平，以及你能否执行饮食和运动计划。
 lang: zh
+layout: default
+tags:
+- Treatment
+- Sleep
+title: 治疗期睡眠与代谢：把血糖变稳的“夜间工程”
 translation_key: treatment-sleep-metabolism
 ---
 # 治疗期睡眠与代谢：把血糖变稳的“夜间工程”

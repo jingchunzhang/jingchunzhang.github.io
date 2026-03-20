@@ -1,10 +1,13 @@
 ---
-layout: default
-title: 广告联盟入门知识
-description: "了解广告联盟入门知识，以及其与糖尿病管理和预防的关系。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: 了解广告联盟入门知识，以及其与糖尿病管理和预防的关系。
 lang: zh
+layout: default
+tags:
+- Affiliate
+- Basics
+title: 广告联盟入门知识
 translation_key: affiliate-basics-index
 ---
 # 广告联盟入门知识

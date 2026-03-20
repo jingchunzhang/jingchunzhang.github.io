@@ -1,23 +1,31 @@
 ---
-title: "Vegetable Prep Shortcuts For Diabetes Prevention"
+author_email: zzh@tangyou.space
+author_id: zzh
+author_name: zzh
+author_role: 糖尿病治疗期病人
+categories:
+- prevention
+- diet
 date: 2026-03-16
+description: vegetable prep shortcuts for diabetes prevention - Comprehensive guide
+  for diabetes prevention
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260311/Diabetic-Meal-Prep-for-Beginners-Cookbook-with-30-Day-Meal-Plan-to-Prevent-and-Reverse-Diabetes-Simple-and-Healthy-Recipes.epub
 lang: en
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: vegetable-prep-shortcuts-diabetes-prevention-en
+tags:
+- 备餐
+- Prevention
+- Diet
+- 糖尿病预防
+- 健康饮食
+title: Vegetable Prep Shortcuts For Diabetes Prevention
 translation_key: vegetable-prep-shortcuts-diabetes-prevention
-description: "vegetable prep shortcuts for diabetes prevention - Comprehensive guide for diabetes prevention"
-categories: ["prevention", "diet"]
-tags: ["糖尿病预防", "备餐", "健康饮食"]
-author_id: "zzh"
-author_name: "zzh"
-author_email: "zzh@tangyou.space"
-author_role: "糖尿病治疗期病人"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-download_url: "https://download.tangyou.space/20260311/Diabetic-Meal-Prep-for-Beginners-Cookbook-with-30-Day-Meal-Plan-to-Prevent-and-Reverse-Diabetes-Simple-and-Healthy-Recipes.epub"
-slug: "vegetable-prep-shortcuts-diabetes-prevention-en"
 ---
 
 # 10 Time-Saving Vegetable Prep Shortcuts for Diabetes Prevention: A Step-by-Step Guide  

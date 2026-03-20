@@ -1,26 +1,31 @@
 ---
-layout: post
-title: High-Fiber Diabetes Recipes - Easy Meals for Better Blood Sugar Control
-slug: high-fiber-diabetes-recipes-en
-translation_key: high-fiber-diabetes-recipes
-lang: en
-date: 2026-03-15
-category: diabetes-nutrition
-stage: treatment
-dimension: diet
+author_email: wep@tangyou.space
 author_id: wep
 author_name: wep
-author_email: wep@tangyou.space
 author_role: Family caregiver of diabetes patient
-reviewer_id: yyh
-reviewer_name: Dr. Medical Professional
-reviewer_email: yyh@tangyou.space
-reviewer_role: Diabetes care physician
-review_status: reviewed
-description: Discover practical, high-fiber recipes that help stabilize blood sugar levels. Learn how family caregivers can prepare nutritious meals for diabetic loved ones.
+category: diabetes-nutrition
+date: 2026-03-15
+description: Discover practical, high-fiber recipes that help stabilize blood sugar
+  levels. Learn how family caregivers can prepare nutritious meals for diabetic loved
+  ones.
+dimension: diet
+disclaimer_key: medical-information-only
 image: /assets/images/high-fiber-recipes-intro.jpg
 image_alt: High-fiber meal preparation with vegetables and grains
-disclaimer_key: medical-information-only
+lang: en
+layout: post
+review_status: reviewed
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: Dr. Medical Professional
+reviewer_role: Diabetes care physician
+slug: high-fiber-diabetes-recipes-en
+stage: treatment
+tags:
+- Diet
+- Treatment
+title: High-Fiber Diabetes Recipes - Easy Meals for Better Blood Sugar Control
+translation_key: high-fiber-diabetes-recipes
 ---
 
 ## Introduction: Why Fiber Matters for Diabetes Management

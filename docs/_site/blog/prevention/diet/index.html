@@ -55,8 +55,8 @@
           "url": "https://www.tangyou.space/assets/images/logo.png"
         }
       },
-      "datePublished": "2026-03-10T10:57:41+08:00",
-      "dateModified": "2026-03-10T10:57:41+08:00",
+      "datePublished": "2026-03-20T14:32:40+08:00",
+      "dateModified": "2026-03-20T14:32:40+08:00",
       "medicalAudience": {
         "@type": "MedicalAudience",
         "audienceType": "患者"
@@ -89,7 +89,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=f0f3997c54e8a347b3d9779b029e28b8ca8a6e34">
+    <link rel="stylesheet" href="/assets/css/style.css?v=5a5c9f6595dc97769129d6e30f2aed7ed18fca55">
     <link rel="stylesheet" href="/assets/css/breadcrumb.css">
     
 
@@ -117,6 +117,137 @@
           <a class="btn" href="/contact/">联系我们</a>
          
        </nav>
+      <div class="search-trigger">
+  <button onclick="openSearch()" class="search-icon-btn" aria-label="Search">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+  </button>
+</div>
+<div id="search-modal" class="search-modal" style="display: none;">
+  <div class="search-modal-content">
+    <div class="search-header">
+      <h3>Search / 搜索</h3>
+      <button onclick="closeSearch()" class="close-btn">&times;</button>
+    </div>
+    <div id="pagefind-search"></div>
+  </div>
+</div>
+
+<style>
+.search-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.5);
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 100px;
+}
+.search-modal-content {
+  background: white;
+  padding: 2rem;
+  width: 90%;
+  max-width: 800px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  max-height: 80vh;
+  overflow-y: auto;
+}
+.search-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+/* Pagefind Overrides */
+:root {
+  --pagefind-ui-scale: 0.8;
+  --pagefind-ui-primary: #157878;
+  --pagefind-ui-text: #393939;
+  --pagefind-ui-background: #ffffff;
+  --pagefind-ui-border: #eeeeee;
+  --pagefind-ui-tag: #eeeeee;
+  --pagefind-ui-border-width: 2px;
+  --pagefind-ui-border-radius: 8px;
+  --pagefind-ui-image-border-radius: 8px;
+  --pagefind-ui-image-box-ratio: 3 / 2;
+  --pagefind-ui-font: "Open Sans", sans-serif;
+}
+</style>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({ element: "#pagefind-search", showSubResults: true });
+  });
+
+  function openSearch() {
+    document.getElementById('search-modal').style.display = 'flex';
+    // Focus input if possible
+    setTimeout(() => {
+      const input = document.querySelector('.pagefind-ui__search-input');
+      if(input) input.focus();
+    }, 100);
+  }
+
+  function closeSearch() {
+    document.getElementById('search-modal').style.display = 'none';
+  }
+
+  // Close on outside click
+  window.onclick = function(event) {
+    const modal = document.getElementById('search-modal');
+    if (event.target == modal) {
+      modal.style.display = "none";
+    }
+  }
+  
+  // Close on Escape key
+  document.addEventListener('keydown', function(event) {
+    if (event.key === "Escape") {
+      closeSearch();
+    }
+  });
+</script>
+
+
+<style>
+.search-trigger {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 1rem;
+}
+.search-icon-btn {
+  background: none;
+  border: none;
+  color: rgba(255,255,255,0.7);
+  cursor: pointer;
+  padding: 5px;
+  transition: color 0.2s;
+}
+.search-icon-btn:hover {
+  color: white;
+}
+/* Ensure search appears in mobile nav appropriately */
+@media screen and (max-width: 42rem) {
+  .search-trigger {
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+  }
+}
+</style>
+
       <h1 class="project-name">健康饮食：通过均衡营养预防糖尿病</h1>
       <h2 class="project-tagline">在众多糖尿病预防方法中，**合理的饮食结构**无疑是最基础、最重要的一环。不同于网络上各种极端饮食法的鼓吹，本专区强调的是**科学、均衡、可持续**的饮食方法。我们将从血糖调节的生理机制出发，帮助您理解为什么某些饮食选择能预防糖尿病，以及如何在日常生活中实践这些原则。</h2>
       
@@ -147,6 +278,7 @@
 <hr />
 
 <h2 id="核心文章">核心文章</h2>
+<h3 id="如何吃碳水化合物而不引起血糖飙升科学选购与搭配指南"><a href="/blog/prevention/diet/2026-03-17-how-to-eat-carbs-without-causing-a-blood.html">如何吃碳水化合物而不引起血糖飙升：科学选购与搭配指南</a></h3>
 
 <h3 id="食疗知慧通过均衡饮食科学预防糖尿病"><a href="/blog/prevention/diet/balanced-diet-diabetes-prevention.html">食疗知慧：通过均衡饮食科学预防糖尿病</a></h3>
 
@@ -202,6 +334,54 @@
 <h4 id="低gi烹饪实战忙碌家庭也能坚持的控糖餐"><a href="/blog/prevention/diet/low-glycemic-cooking-practical-guide.html">低GI烹饪实战：忙碌家庭也能坚持的控糖餐</a></h4>
 
 <p>掌握餐盘结构、食材替换与批量备餐策略，让控糖饮食简单、美味且可持续。附测试清单与电子书下载。</p>
+
+<h4 id="孕期如何预防妊娠糖尿病从三餐体重增长到日常活动的实用框架"><a href="/blog/prevention/diet/gestational-diabetes-prevention-pregnancy.html">孕期如何预防妊娠糖尿病：从三餐、体重增长到日常活动的实用框架</a></h4>
+
+<p>面向孕期女性的实用预防文章，聚焦餐盘结构、体重增长节奏、餐后步行和风险前移识别，帮助在筛查前就建立更稳的代谢日常。</p>
+
+<h4 id="给新手的糖尿病预防备餐入门先搭框架再谈食谱"><a href="/blog/prevention/diet/meal-prep-diabetes-beginners-prevention.html">给新手的糖尿病预防备餐入门：先搭框架，再谈食谱</a></h4>
+
+<p>适合刚开始做 meal prep 的读者，从餐盘结构、三天半启动法到冰箱基础件，一步步把备餐变成可持续习惯。</p>
+
+<h4 id="30天控糖友好餐计划把预防做成能执行的日程"><a href="/blog/prevention/diet/30-day-diabetes-meal-plan-prevention.html">30天控糖友好餐计划：把预防做成能执行的日程</a></h4>
+
+<p>把 30 天分成四周任务：先观察、再固定早餐和加餐、再稳定晚餐，最后复盘，让预防从口号变成节奏。</p>
+
+<p>给出热早餐、冷藏早餐和可带走早餐三类模板，帮助减少上午饥饿与下午甜食冲动。</p>
+
+<h4 id="预防糖尿病的午餐盒公式外带也能吃得稳"><a href="/blog/prevention/diet/lunch-box-diabetes-prevention.html">预防糖尿病的午餐盒公式：外带也能吃得稳</a></h4>
+
+<p>介绍适合工作日的 lunch box 结构、蛋白与蔬菜比例、酱料边界以及最适合复制的三类便当模板。</p>
+
+<h4 id="蛋白质批量备餐把饱腹和稳糖提前准备好"><a href="/blog/prevention/diet/protein-batch-cooking-diabetes-prevention.html">蛋白质批量备餐：把饱腹和稳糖提前准备好</a></h4>
+
+<p>用鸡蛋、豆腐、鱼、鸡肉和酸奶等基础件，建立更稳的正餐和加餐底盘。</p>
+
+<h4 id="蔬菜预处理捷径让一半餐盘真正落地"><a href="/blog/prevention/diet/vegetable-prep-shortcuts-diabetes-prevention.html">蔬菜预处理捷径：让一半餐盘真正落地</a></h4>
+
+<p>从洗切分装到冷冻蔬菜应用，减少蔬菜进入每餐的阻力，让“半盘蔬菜”真正变成现实。</p>
+
+<p>适合工作日晚间的冷冻晚餐模块，帮助你在最累的时候也能快速拼出完整餐盘。</p>
+
+<p>从蛋白、蔬菜、主食、加餐与调味五个模块写采购清单，减少浪费和工作日失控。</p>
+
+<h4 id="零食盒与馋意控制把加餐变成计划内选择"><a href="/blog/prevention/diet/snack-box-craving-control-diabetes-prevention.html">零食盒与馋意控制：把加餐变成计划内选择</a></h4>
+
+<p>把加餐从随机冲动改造成小份、可控、有结构的 snack box，降低下午和夜间吃乱的风险。</p>
+
+<p>用 meal prep 思路预设甜点时机和份量，让甜点从临时放纵变成有边界的计划。</p>
+
+<h4 id="糖尿病新手入门从第一周开始建立稳血糖饮食框架"><a href="/blog/prevention/diet/a-primer-for-diabetic-patients.html">糖尿病新手入门：从第一周开始建立稳血糖饮食框架</a></h4>
+
+<p>基于患者教育思路，给出预防期前4周可执行的饮食与行为起步方案。</p>
+
+<h4 id="碳水计数怎么做才不崩溃给糖尿病预防期的实操指南"><a href="/blog/prevention/diet/practical-carbohydrate-counting.html">碳水计数怎么做才不崩溃：给糖尿病预防期的实操指南</a></h4>
+
+<p>把碳水计数从“复杂计算”变成“可持续决策”，聚焦日常高频场景。</p>
+
+<h4 id="酸碱饮食与糖尿病预防如何科学吸收the-ph-miracle-for-diabetes"><a href="/blog/prevention/diet/ph-miracle-diabetes.html">‘酸碱饮食’与糖尿病预防：如何科学吸收《The pH miracle for diabetes》</a></h4>
+
+<p>从证据导向视角解读争议饮食法，保留高价值动作，避免极端化执行。</p>
 
 <hr />
 
@@ -304,6 +484,18 @@
     
     
       
+        <li><a href="/blog/prevention/diet/2026-03-17-how-to-eat-carbs-without-causing-a-blood.html">如何吃碳水化合物而不引起血糖飙升：科学选购与搭配指南</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/30-day-diabetes-meal-plan-prevention.html">30天 糖尿病预防 备餐计划</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/a-primer-for-diabetic-patients.html">糖尿病新手入门：从第一周开始建立稳血糖饮食框架</a></li>
+      
+    
+      
         <li><a href="/prevention/diet/anti-inflammatory-diet-diabetes-prevention.html"></a></li>
       
     
@@ -321,6 +513,14 @@
     
       
         <li><a href="/blog/prevention/diet/breakfast-structure-diabetes-prevention.html">早餐怎么吃更稳：一份可复制的‘蛋白 + 纤维 + 主食’模板</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/diabetes-heart-health-risk.html">糖尿病与心脏健康：不可忽视的风险</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/gestational-diabetes-prevention-pregnancy.html">孕期如何预防妊娠糖尿病：从三餐、体重增长到日常活动的实用框架</a></li>
       
     
       
@@ -346,11 +546,43 @@
       
     
       
+        <li><a href="/blog/prevention/diet/lunch-box-diabetes-prevention.html">午餐盒 糖尿病预防 便当</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/meal-prep-diabetes-beginners-prevention.html">糖尿病预防 备餐新手 入门</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/ph-miracle-diabetes.html">‘酸碱饮食’与糖尿病预防：如何科学吸收《The pH miracle for diabetes》</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/practical-carbohydrate-counting.html">碳水计数怎么做才不崩溃：给糖尿病预防期的实操指南</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/prediabetes-reversal-guide.html">什么是糖尿病前期？如何逆转？</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/protein-batch-cooking-diabetes-prevention.html">蛋白质 批量备餐 糖尿病预防</a></li>
+      
+    
+      
         <li><a href="/blog/prevention/diet/protein-strategy-glucose-stability.html">蛋白质：稳糖与控饥饿的‘杠杆’（怎么吃更实用）</a></li>
       
     
       
+        <li><a href="/blog/prevention/diet/snack-box-craving-control-diabetes-prevention.html">零食盒 馋意控制 糖尿病预防</a></li>
+      
+    
+      
         <li><a href="/blog/prevention/diet/ultra-processed-foods-diabetes-prevention.html">超加工食品（UPF）与2型糖尿病风险：看懂标签，做出更稳的选择</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/vegetable-prep-shortcuts-diabetes-prevention.html">蔬菜预处理 捷径 糖尿病预防</a></li>
       
     
   </ul>

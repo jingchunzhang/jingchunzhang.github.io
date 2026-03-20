@@ -1,10 +1,14 @@
 ---
-layout: default
-title: "Recovery Diet: Nuts and Seeds — Why Fat Quality Matters More Than Quantity"
-description: "In recovery, the challenge shifts from “getting glucose down” to “keeping long‑term risk down.”"
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: In recovery, the challenge shifts from “getting glucose down” to “keeping
+  long‑term risk down.”
 lang: en
+layout: default
+tags:
+- Diet
+- Rehabilitation
+title: 'Recovery Diet: Nuts and Seeds — Why Fat Quality Matters More Than Quantity'
 translation_key: rehab-diet-nuts-seeds
 ---
 # Recovery Diet: Nuts and Seeds — Why Fat Quality Matters More Than Quantity

@@ -1,25 +1,30 @@
 ---
-title: "Sulfonylurea Therapies: Which Is Safer for Your Heart and Severe Low Blood Sugar?"
+author_email: gwx@tangyou.space
+author_id: gwx
+author_role: 糖尿病康复期病人
+categories:
+- 糖尿病预防
 date: 2026-03-18 08:45:48 +0800
-description: "Sulfonylurea Therapies: Which Is Safer for Your Heart and Severe Low Blood Sugar? - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: 'Sulfonylurea Therapies: Which Is Safer for Your Heart and Severe Low
+  Blood Sugar? - 糖尿病知识全面解读'
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: comparative-safety-of-sulfonylurea-therapies-on-ca
-
-author_id: "gwx"
-author_email: "gwx@tangyou.space"
-author_role: "糖尿病康复期病人"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- Exercise
+- 糖尿病
+- 饮食
+title: 'Sulfonylurea Therapies: Which Is Safer for Your Heart and Severe Low Blood
+  Sugar?'
 ---
 
 # Sulfonylurea Therapies: Which Is Safer for Your Heart and Severe Low Blood Sugar?
 
 
-![Diabetes management and medication safety](https://source.unsplash.com/1600x900/?diabetes,medication)
+![Diabetes management and medication safety](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 
 ## Introduction: Why Sulfonylurea Safety Matters  
@@ -210,7 +215,7 @@ A: Sulfonylureas are often used long-term, but your doctor may switch them if sa
 Sulfonylureas are effective for lowering blood sugar, but their safety varies. **Glipizide** and **gliclazide** are often preferred for CV and hypoglycemia safety, especially in seniors or those with heart/kidney disease. Always work with your healthcare team to choose the right option for you.  
 
 
-![Heart health and diabetes](https://source.unsplash.com/1600x900/?heart,diabetes)
+![Heart health and diabetes](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 
 ### Thank You for Reading!  

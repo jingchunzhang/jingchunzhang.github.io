@@ -1,24 +1,27 @@
 ---
-title: "春节控糖总踩坑？4组对比清单帮糖友稳血糖不超标"
+author_email: zyn@tangyou.space
+author_id: zyn
+author_role: 医学院学生
+categories:
+- 糖尿病预防
 date: 2026-03-19 09:38:20 +0800
-description: "春节控糖总踩坑？4组对比清单帮糖友稳血糖不超标 - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: 春节控糖总踩坑？4组对比清单帮糖友稳血糖不超标 - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: 2026-03-19-glucose-during-spring-b
-
-author_id: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- 糖尿病
+- 饮食
+- Diet
+title: 春节控糖总踩坑？4组对比清单帮糖友稳血糖不超标
 ---
 
 # 春节控糖总踩坑？4组对比清单帮糖友稳血糖不超标
 
-![春节家庭聚餐与血糖监测](https://source.unsplash.com/1600x900/?diabetes,spring,festival)
+![春节家庭聚餐与血糖监测](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 据中华医学会糖尿病学分会2023年调研数据显示，春节期间糖尿病患者血糖超标概率是平日的2.7倍，近6成糖友会在节后1个月内出现血糖波动相关的不适症状。走亲访友时的高糖宴席、不规律的作息、松懈的监测习惯，都是春节期间血糖超标的核心诱因。
 
@@ -85,7 +88,7 @@ download_url: ""
 答：不要自己随便加量，大部分降糖药的剂量是医生根据你的体重、血糖情况调好的，自己加量极易引发低血糖，严重的会昏迷。如果确实吃了很多高糖的食物，可以饭后多运动30分钟，后续2顿少吃一点，监测血糖，如果连续2次血糖超过11mmol/L，联系自己的主治医生调整剂量，不要自己加药。
 
 ## 四、最后总结
-![血糖监测仪器](https://source.unsplash.com/1600x900/?blood,glucose,meter)
+![血糖监测仪器](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 ✅ 按清单执行的好处：
 1. 不用完全忌口，还能享受春节美食，不会太扫亲戚的兴
 2. 血糖波动幅度控制在1mmol/L以内，不会诱发并发症

@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "低GI烹饪实战：忙碌家庭也能坚持的控糖餐"
-description: "面向日常家庭场景的低GI烹饪指南：餐盘结构、食材替换与批量备餐策略。让控糖饮食变得简单、美味且可持续。"
+author: zzh
+author_email: zzh@tangyou.space
+author_id: zzh
+author_name: zzh
+author_role: 糖尿病治疗期病人
+author_title: 糖尿病治疗期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-09
+description: 面向日常家庭场景的低GI烹饪指南：餐盘结构、食材替换与批量备餐策略。让控糖饮食变得简单、美味且可持续。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/Diabetes-Cooking-for-Everyone-250-All-Natural,-Low-Glycemic-Recipes-to-Nourish-and-Rejuvenate.pdf
+ebook_id: 20260309-diabetes-cooking-everyone
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: low-glycemic-cooking-practical-guide
+tags:
+- 备餐
+- Prevention
+- 糖尿病饮食
+- Diet
+- 低GI
+- 烹饪技巧
+title: 低GI烹饪实战：忙碌家庭也能坚持的控糖餐
 translation_key: low-glycemic-cooking-practical-guide
-tags: [低GI, 糖尿病饮食, 备餐, 烹饪技巧]
-author: "zzh"
-author_title: "糖尿病治疗期病人"
-author_id: "zzh"
-author_name: "zzh"
-author_email: "zzh@tangyou.space"
-author_role: "糖尿病治疗期病人"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-diabetes-cooking-everyone"
-download_url: "https://download.tangyou.space/20260309/Diabetes-Cooking-for-Everyone-250-All-Natural,-Low-Glycemic-Recipes-to-Nourish-and-Rejuvenate.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "low-glycemic-cooking-practical-guide"
 ---
 
 # 低GI烹饪实战：忙碌家庭也能坚持的控糖餐

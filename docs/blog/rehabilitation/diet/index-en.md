@@ -1,10 +1,14 @@
 ---
-layout: default
-title: "Diet in Recovery: Sustainable Long-Term Strategy"
-description: "Recovery is about long-term sustainability: staying structured through social events, travel, and work stress."
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: 'Recovery is about long-term sustainability: staying structured through
+  social events, travel, and work stress.'
 lang: en
+layout: default
+tags:
+- Diet
+- Rehabilitation
+title: 'Diet in Recovery: Sustainable Long-Term Strategy'
 translation_key: rehab-diet-index
 ---
 # Diet in Recovery: Sustainable Long-Term Strategy

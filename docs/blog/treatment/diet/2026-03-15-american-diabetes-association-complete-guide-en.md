@@ -1,24 +1,30 @@
 ---
-title: "American Diabetes Association Complete Guide: What Should You Actually Eat During Diabetes Treatment to Reduce Post-Meal Spikes?"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
+automation_id: ebook-delivery-20260315
+cta_form_id: ebook-signup
 date: 2026-03-15
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260315/American-Diabetes-Association-Complete-Guide.pdf
+ebook_id: ada-complete-guide-20260315
 lang: en
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: american-diabetes-association-complete-guide
+tags:
+- Treatment
+- Diet
+- treatment diet
+- american diabetes association
+- complete guide
+title: 'American Diabetes Association Complete Guide: What Should You Actually Eat
+  During Diabetes Treatment to Reduce Post-Meal Spikes?'
 translation_key: american-diabetes-association-complete-guide
-tags: [treatment diet, american diabetes association, complete guide]
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "ada-complete-guide-20260315"
-download_url: "https://download.tangyou.space/20260315/American-Diabetes-Association-Complete-Guide.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260315"
-slug: "american-diabetes-association-complete-guide"
 ---
 
 # American Diabetes Association Complete Guide: What Should You Actually Eat During Diabetes Treatment to Reduce Post-Meal Spikes?

@@ -1,28 +1,37 @@
 ---
-layout: default
-title: "Postpartum and Lactation Glucose Recovery: Eat Enough, Support Milk Production, and Rebuild Metabolic Stability"
-description: "A practical postpartum and lactation guide for women with gestational diabetes history, balancing recovery, milk production, satiety, hydration, and long-term glucose stability."
+author: gwx
+author_email: gwx@tangyou.space
+author_id: gwx
+author_name: gwx
+author_role: 糖尿病康复期病人
+author_title: 糖尿病康复期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-12
+description: A practical postpartum and lactation guide for women with gestational
+  diabetes history, balancing recovery, milk production, satiety, hydration, and long-term
+  glucose stability.
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/Diabetes-Cooking-for-Everyone-250-All-Natural,-Low-Glycemic-Recipes-to-Nourish-and-Rejuvenate.pdf
+ebook_id: 20260309-diabetes-cooking-everyone
 lang: en
+layout: default
+review_status: draft
+reviewer_email: kelvin@tangyou.space
+reviewer_id: kelvin
+reviewer_name: kelvin
+reviewer_role: 糖尿病研究人员
+slug: postpartum-lactation-glucose-recovery-en
+tags:
+- Gestational Diabetes
+- Glucose Management
+- Diet
+- Rehabilitation
+- Lactation
+- Postpartum Recovery
+title: 'Postpartum and Lactation Glucose Recovery: Eat Enough, Support Milk Production,
+  and Rebuild Metabolic Stability'
 translation_key: postpartum-lactation-glucose-recovery
-tags: [Postpartum Recovery, Lactation, Gestational Diabetes, Glucose Management]
-author: "gwx"
-author_title: "糖尿病康复期病人"
-author_id: "gwx"
-author_name: "gwx"
-author_email: "gwx@tangyou.space"
-author_role: "糖尿病康复期病人"
-reviewer_id: "kelvin"
-reviewer_name: "kelvin"
-reviewer_email: "kelvin@tangyou.space"
-reviewer_role: "糖尿病研究人员"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-diabetes-cooking-everyone"
-download_url: "https://download.tangyou.space/20260309/Diabetes-Cooking-for-Everyone-250-All-Natural,-Low-Glycemic-Recipes-to-Nourish-and-Rejuvenate.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "postpartum-lactation-glucose-recovery-en"
 ---
 
 # Postpartum and Lactation Glucose Recovery: Eat Enough, Support Milk Production, and Rebuild Metabolic Stability

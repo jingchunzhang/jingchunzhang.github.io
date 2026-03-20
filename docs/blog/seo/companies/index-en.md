@@ -1,10 +1,14 @@
 ---
-layout: default
-title: SEO Companies
-description: "An overview of common company types and representative products in the SEO ecosystem."
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: An overview of common company types and representative products in the
+  SEO ecosystem.
 lang: en
+layout: default
+tags:
+- Companies
+- SEO
+title: SEO Companies
 translation_key: seo-companies-index
 ---
 # SEO Companies

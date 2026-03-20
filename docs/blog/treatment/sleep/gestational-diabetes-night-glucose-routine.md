@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "妊娠糖尿病夜间血糖稳定策略：晚餐、夜醒与次日空腹的衔接"
-description: "面向妊娠糖尿病治疗阶段的夜间管理指南：如何安排晚餐、必要加餐、夜间醒来应对与晨起复盘。"
+author: gwx
+author_email: gwx@tangyou.space
+author_id: gwx
+author_name: gwx
+author_role: 糖尿病康复期病人
+author_title: 糖尿病康复期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-12
+description: 面向妊娠糖尿病治疗阶段的夜间管理指南：如何安排晚餐、必要加餐、夜间醒来应对与晨起复盘。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/American-Diabetes-Association-Complete-Guide-to-Diabetes-The-Ultimate-Home-Reference-from-the-Diabetes-Experts.pdf
+ebook_id: 20260309-ada-complete-guide
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: kelvin@tangyou.space
+reviewer_id: kelvin
+reviewer_name: kelvin
+reviewer_role: 糖尿病研究人员
+slug: gestational-diabetes-night-glucose-routine
+tags:
+- 孕期睡眠
+- Treatment
+- Sleep
+- 治疗期管理
+- 夜间血糖
+- 妊娠糖尿病
+title: 妊娠糖尿病夜间血糖稳定策略：晚餐、夜醒与次日空腹的衔接
 translation_key: gestational-diabetes-night-glucose-routine
-tags: [妊娠糖尿病, 夜间血糖, 孕期睡眠, 治疗期管理]
-author: "gwx"
-author_title: "糖尿病康复期病人"
-author_id: "gwx"
-author_name: "gwx"
-author_email: "gwx@tangyou.space"
-author_role: "糖尿病康复期病人"
-reviewer_id: "kelvin"
-reviewer_name: "kelvin"
-reviewer_email: "kelvin@tangyou.space"
-reviewer_role: "糖尿病研究人员"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-ada-complete-guide"
-download_url: "https://download.tangyou.space/20260309/American-Diabetes-Association-Complete-Guide-to-Diabetes-The-Ultimate-Home-Reference-from-the-Diabetes-Experts.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "gestational-diabetes-night-glucose-routine"
 ---
 
 # 妊娠糖尿病夜间血糖稳定策略：晚餐、夜醒与次日空腹的衔接

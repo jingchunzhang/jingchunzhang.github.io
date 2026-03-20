@@ -1,10 +1,13 @@
 ---
-layout: default
-title: "Prevent Diabetes: Understand GI/GL and Manage Glucose Spikes"
-description: "Many people think diabetes prevention means “eat less sugar."
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: Many people think diabetes prevention means “eat less sugar.
 lang: en
+layout: default
+tags:
+- Diet
+- Prevention
+title: 'Prevent Diabetes: Understand GI/GL and Manage Glucose Spikes'
 translation_key: prevention-diet-gi-gl
 ---
 # Prevent Diabetes: Understand GI/GL and Manage Glucose Spikes

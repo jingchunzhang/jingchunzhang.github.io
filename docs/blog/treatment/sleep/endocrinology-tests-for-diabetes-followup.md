@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "糖尿病随访中的内分泌检查：重点看什么"
-description: "面向患者与家属的随访检查实用指南：重点指标解读、趋势追踪方法和就诊沟通要点，帮助把每次随访变得更有价值。"
+author: zzh
+author_email: zzh@tangyou.space
+author_id: zzh
+author_name: zzh
+author_role: 糖尿病治疗期病人
+author_title: 糖尿病治疗期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-09
+description: 面向患者与家属的随访检查实用指南：重点指标解读、趋势追踪方法和就诊沟通要点，帮助把每次随访变得更有价值。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/Oxford-Handbook-of-Endocrinology-and-Diabetes.pdf
+ebook_id: 20260309-oxford-endo-diabetes
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: endocrinology-tests-for-diabetes-followup
+tags:
+- Treatment
+- 内分泌
+- 睡眠代谢
+- Sleep
+- 检验解读
+- 糖尿病随访
+title: 糖尿病随访中的内分泌检查：重点看什么
 translation_key: endocrinology-tests-for-diabetes-followup
-tags: [内分泌, 糖尿病随访, 检验解读, 睡眠代谢]
-author: "zzh"
-author_title: "糖尿病治疗期病人"
-author_id: "zzh"
-author_name: "zzh"
-author_email: "zzh@tangyou.space"
-author_role: "糖尿病治疗期病人"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-oxford-endo-diabetes"
-download_url: "https://download.tangyou.space/20260309/Oxford-Handbook-of-Endocrinology-and-Diabetes.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "endocrinology-tests-for-diabetes-followup"
 ---
 
 # 糖尿病随访中的内分泌检查：重点看什么

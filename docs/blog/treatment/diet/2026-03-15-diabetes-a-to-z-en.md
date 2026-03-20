@@ -1,26 +1,33 @@
 ---
-title: "Diabetes A to Z: A Practical Diet Guide for the Treatment Stage"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
+automation_id: ebook-delivery-20260315
+categories:
+- treatment
+cta_form_id: ebook-signup
 date: 2026-03-15
+description: 'A conservative, treatment-stage diabetes diet guide from A to Z: blood
+  sugar basics, carb quality, medication-meal timing, monitoring, and family routines.'
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260315/Diabetes-A-to-Z.pdf
+ebook_id: diabetes-a-to-z-20260315
 lang: en
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: diabetes-a-to-z
+tags:
+- Treatment
+- Diet
+- treatment diet
+- diabetes basics
+- A to Z guide
+title: 'Diabetes A to Z: A Practical Diet Guide for the Treatment Stage'
 translation_key: diabetes-a-to-z
-description: "A conservative, treatment-stage diabetes diet guide from A to Z: blood sugar basics, carb quality, medication-meal timing, monitoring, and family routines."
-categories: ["treatment"]
-tags: [treatment diet, diabetes basics, A to Z guide]
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "diabetes-a-to-z-20260315"
-download_url: "https://download.tangyou.space/20260315/Diabetes-A-to-Z.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260315"
-slug: "diabetes-a-to-z"
 ---
 
 # Diabetes A to Z: What Patients and Families Should Know About Diet During Treatment

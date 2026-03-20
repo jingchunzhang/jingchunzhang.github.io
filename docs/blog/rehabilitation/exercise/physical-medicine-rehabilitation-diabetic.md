@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "糖尿病并发症后的康复锻炼：从安全评估到功能恢复"
-description: "结合《Physical medicine and rehabilitation... diabetic patient》提炼并发症风险人群的康复期运动框架，强调安全、功能与长期独立性。"
+author: zyn
+author_email: zyn@tangyou.space
+author_id: zyn
+author_name: zyn
+author_role: 医学院学生
+author_title: 医学院学生
+automation_id: ebook-delivery-20260313
+cta_form_id: ebook-signup
 date: 2026-03-13
+description: 结合《Physical medicine and rehabilitation... diabetic patient》提炼并发症风险人群的康复期运动框架，强调安全、功能与长期独立性。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260313/Physical-medicine-and-rehabilitation-clinics-of-North-America-the-dysvascular-and-diabetic-patient,-update-in-diagnosis,….pdf
+ebook_id: pmr-diabetic-20260313
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: physical-medicine-rehabilitation-diabetic
+tags:
+- 糖尿病康复
+- 功能训练
+- Exercise
+- 运动康复
+- Rehabilitation
+- 并发症
+title: 糖尿病并发症后的康复锻炼：从安全评估到功能恢复
 translation_key: physical-medicine-rehabilitation-diabetic
-tags: [糖尿病康复, 并发症, 运动康复, 功能训练]
-author: "zyn"
-author_title: "医学院学生"
-author_id: "zyn"
-author_name: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "pmr-diabetic-20260313"
-download_url: "https://download.tangyou.space/20260313/Physical-medicine-and-rehabilitation-clinics-of-North-America-the-dysvascular-and-diabetic-patient,-update-in-diagnosis,….pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260313"
-slug: "physical-medicine-rehabilitation-diabetic"
 ---
 
 # 糖尿病并发症后的康复锻炼：从安全评估到功能恢复

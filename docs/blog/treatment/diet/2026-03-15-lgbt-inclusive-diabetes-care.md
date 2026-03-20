@@ -1,21 +1,28 @@
 ---
-title: "为LGBT+群体提供包容性糖尿病护理：挑战与机遇"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
+categories:
+- 糖尿病治疗
 date: 2026-03-15
+description: 探讨为LGBT+糖尿病患者提供包容性护理的挑战，营养师和医疗工作者如何改进服务，以及患者如何维护自身权益。
+disclaimer_key: medical-information-only
 lang: zh
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+tags:
+- 包容性护理
+- Treatment
+- 医疗公平
+- LGBTQ健康
+- 治疗期饮食
+- Diet
+title: 为LGBT+群体提供包容性糖尿病护理：挑战与机遇
 translation_key: lgbt-inclusive-diabetes-care
-description: "探讨为LGBT+糖尿病患者提供包容性护理的挑战，营养师和医疗工作者如何改进服务，以及患者如何维护自身权益。"
-categories: ["糖尿病治疗"]
-tags: [治疗期饮食, 包容性护理, LGBTQ健康, 医疗公平]
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
 ---
 
 # 为LGBT+群体提供包容性糖尿病护理：挑战与机遇

@@ -1,23 +1,26 @@
 ---
-title: "入秋后糖尿病总波动？10年老糖友亲测有效的稳糖Step教程"
+author_email: zyn@tangyou.space
+author_id: zyn
+author_role: 医学院学生
+categories:
+- 糖尿病预防
 date: 2026-03-19 09:23:56 +0800
-description: "入秋后糖尿病总波动？10年老糖友亲测有效的稳糖Step教程 - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: 入秋后糖尿病总波动？10年老糖友亲测有效的稳糖Step教程 - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: 2026-03-19-糖尿病-during-autumn-a
-
-author_id: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- 糖尿病
+- 饮食
+- Diet
+title: 入秋后糖尿病总波动？10年老糖友亲测有效的稳糖Step教程
 ---
 
 # 入秋后糖尿病总波动？10年老糖友亲测有效的稳糖Step教程
-![秋季糖友居家测血糖日常](https://source.unsplash.com/1600x900/?diabetes,autumn)
+![秋季糖友居家测血糖日常](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 > 本文由AI辅助生成，仅供信息参考，不构成医疗建议。请咨询专业医生后再做决策。
 
 大家好，我是有10年糖龄的老糖友，每年入秋都能在糖友群看到好多人说“最近没乱吃啊，血糖怎么忽然就飘了”“贴了两次秋膘，餐后直接飙到12”，其实我前几年也踩过糖尿病秋季控糖的坑，后来慢慢摸出了规律，这3年入秋后我的空腹血糖基本稳定在6-6.5mmol/L，餐后很少超过8，今天就把我亲测有效的稳糖步骤分享给大家，新手照着做也能轻松稳住血糖。
@@ -35,7 +38,7 @@ download_url: ""
 【老糖友小贴士】不要一发现血糖升高就自己私自加药量，秋季的血糖升高很多是暂时的，先测满3天的完整数据再判断，盲目加药很容易引发低血糖，反而更危险。
 
 ### 步骤2：调整饮食结构，贴秋膘也要“轻补”
-![秋季适合糖友的清淡滋补餐食](https://source.unsplash.com/1600x900/?diabetic,food,autumn)
+![秋季适合糖友的清淡滋补餐食](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 **具体操作**：把夏天的清淡饮食适当调整，瘦牛肉、瘦猪肉等红肉每周加2-3次，每次吃1掌心的量，做法选清炖、清蒸，不要做红烧、糖醋的；秋季的应季水果比如苹果、梨、柚子、石榴，每次吃1/3个，放在两餐之间吃，不要吃完饭马上吃；藕、红薯、山药、芋头等淀粉含量高的应季菜，吃了之后要减去对应量的主食，比如吃了1块拳头大的红薯，就少吃小半碗米饭。
 【注意事项】不要喝秋季的各种浓补汤，比如大骨汤、老母鸡汤，汤表层的浮油油脂含量特别高，喝了之后餐后血糖很容易飙升。要喝汤的话先撇掉全部浮油，只喝清汤，每次不超过1小碗。
 

@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "孕期安全运动与妊娠糖尿病预防：把餐后活动变成每日稳定器"
-description: "给孕期女性的实用运动方案：如何在安全前提下用餐后步行、轻力量和久坐中断，降低妊娠糖尿病风险。"
+author: gwx
+author_email: gwx@tangyou.space
+author_id: gwx
+author_name: gwx
+author_role: 糖尿病康复期病人
+author_title: 糖尿病康复期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-12
+description: 给孕期女性的实用运动方案：如何在安全前提下用餐后步行、轻力量和久坐中断，降低妊娠糖尿病风险。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/American-Diabetes-Association-Complete-Guide-to-Diabetes-The-Ultimate-Home-Reference-from-the-Diabetes-Experts.pdf
+ebook_id: 20260309-ada-complete-guide
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: kelvin@tangyou.space
+reviewer_id: kelvin
+reviewer_name: kelvin
+reviewer_role: 糖尿病研究人员
+slug: pregnancy-safe-exercise-gestational-diabetes-prevention
+tags:
+- Exercise
+- Prevention
+- 孕期运动
+- 糖尿病预防
+- 餐后血糖
+- 妊娠糖尿病
+title: 孕期安全运动与妊娠糖尿病预防：把餐后活动变成每日稳定器
 translation_key: pregnancy-safe-exercise-gestational-diabetes-prevention
-tags: [妊娠糖尿病, 孕期运动, 糖尿病预防, 餐后血糖]
-author: "gwx"
-author_title: "糖尿病康复期病人"
-author_id: "gwx"
-author_name: "gwx"
-author_email: "gwx@tangyou.space"
-author_role: "糖尿病康复期病人"
-reviewer_id: "kelvin"
-reviewer_name: "kelvin"
-reviewer_email: "kelvin@tangyou.space"
-reviewer_role: "糖尿病研究人员"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-ada-complete-guide"
-download_url: "https://download.tangyou.space/20260309/American-Diabetes-Association-Complete-Guide-to-Diabetes-The-Ultimate-Home-Reference-from-the-Diabetes-Experts.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "pregnancy-safe-exercise-gestational-diabetes-prevention"
 ---
 
 # 孕期安全运动与妊娠糖尿病预防：把餐后活动变成每日稳定器

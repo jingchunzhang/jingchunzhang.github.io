@@ -55,8 +55,8 @@
           "url": "https://www.tangyou.space/assets/images/logo.png"
         }
       },
-      "datePublished": "2026-03-10T10:57:41+08:00",
-      "dateModified": "2026-03-10T10:57:41+08:00",
+      "datePublished": "2026-03-20T14:32:40+08:00",
+      "dateModified": "2026-03-20T14:32:40+08:00",
       "medicalAudience": {
         "@type": "MedicalAudience",
         "audienceType": "患者"
@@ -89,7 +89,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=f0f3997c54e8a347b3d9779b029e28b8ca8a6e34">
+    <link rel="stylesheet" href="/assets/css/style.css?v=5a5c9f6595dc97769129d6e30f2aed7ed18fca55">
     <link rel="stylesheet" href="/assets/css/breadcrumb.css">
     
 
@@ -117,6 +117,137 @@
           <a class="btn" href="/contact/">联系我们</a>
          
        </nav>
+      <div class="search-trigger">
+  <button onclick="openSearch()" class="search-icon-btn" aria-label="Search">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+  </button>
+</div>
+<div id="search-modal" class="search-modal" style="display: none;">
+  <div class="search-modal-content">
+    <div class="search-header">
+      <h3>Search / 搜索</h3>
+      <button onclick="closeSearch()" class="close-btn">&times;</button>
+    </div>
+    <div id="pagefind-search"></div>
+  </div>
+</div>
+
+<style>
+.search-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.5);
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 100px;
+}
+.search-modal-content {
+  background: white;
+  padding: 2rem;
+  width: 90%;
+  max-width: 800px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  max-height: 80vh;
+  overflow-y: auto;
+}
+.search-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+/* Pagefind Overrides */
+:root {
+  --pagefind-ui-scale: 0.8;
+  --pagefind-ui-primary: #157878;
+  --pagefind-ui-text: #393939;
+  --pagefind-ui-background: #ffffff;
+  --pagefind-ui-border: #eeeeee;
+  --pagefind-ui-tag: #eeeeee;
+  --pagefind-ui-border-width: 2px;
+  --pagefind-ui-border-radius: 8px;
+  --pagefind-ui-image-border-radius: 8px;
+  --pagefind-ui-image-box-ratio: 3 / 2;
+  --pagefind-ui-font: "Open Sans", sans-serif;
+}
+</style>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({ element: "#pagefind-search", showSubResults: true });
+  });
+
+  function openSearch() {
+    document.getElementById('search-modal').style.display = 'flex';
+    // Focus input if possible
+    setTimeout(() => {
+      const input = document.querySelector('.pagefind-ui__search-input');
+      if(input) input.focus();
+    }, 100);
+  }
+
+  function closeSearch() {
+    document.getElementById('search-modal').style.display = 'none';
+  }
+
+  // Close on outside click
+  window.onclick = function(event) {
+    const modal = document.getElementById('search-modal');
+    if (event.target == modal) {
+      modal.style.display = "none";
+    }
+  }
+  
+  // Close on Escape key
+  document.addEventListener('keydown', function(event) {
+    if (event.key === "Escape") {
+      closeSearch();
+    }
+  });
+</script>
+
+
+<style>
+.search-trigger {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 1rem;
+}
+.search-icon-btn {
+  background: none;
+  border: none;
+  color: rgba(255,255,255,0.7);
+  cursor: pointer;
+  padding: 5px;
+  transition: color 0.2s;
+}
+.search-icon-btn:hover {
+  color: white;
+}
+/* Ensure search appears in mobile nav appropriately */
+@media screen and (max-width: 42rem) {
+  .search-trigger {
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+  }
+}
+</style>
+
       <h1 class="project-name">糖尿病的预防：构建健康生活防线</h1>
       <h2 class="project-tagline">糖尿病, 尤其是2型糖尿病, 在很大程度上是可以通过积极的生活方式干预来预防或延缓的。预防不仅是避免一种疾病, 更是投资于长期的健康与生活质量。本专区将从**饮食、运动、睡眠、情绪**四个核心维度, 为您提供科学、实用的预防策略。</h2>
       
@@ -140,6 +271,11 @@
 
 <p>欢迎来到糖尿病预防专区。</p>
 
+<p><strong>专题入口</strong>：</p>
+<ul>
+  <li><strong><a href="/blog/topic-cluster-pregnancy-lactation.html">孕期与哺乳期糖尿病管理专题（总入口）</a></strong></li>
+</ul>
+
 <p>糖尿病, 尤其是2型糖尿病, 在很大程度上是可以通过积极的生活方式干预来预防或延缓的。预防不仅是避免一种疾病, 更是投资于长期的健康与生活质量。本专区将从<strong>饮食、运动、睡眠、情绪</strong>四个核心维度, 为您提供科学、实用的预防策略。</p>
 
 <p>在开始之前, 了解糖尿病的诊断标准是很有帮助的。您可以参考我们为您整理的权威资料:</p>
@@ -159,6 +295,16 @@
   <li><strong><a href="/blog/prevention/diet/glycemic-index-load-diabetes-prevention.html">如何用 GI/GL 让血糖更稳定（预防篇）</a></strong></li>
   <li><strong><a href="/blog/prevention/diet/legumes-resistant-starch-diabetes-prevention.html">豆类、纤维与抗性淀粉：预防胰岛素抵抗的“底盘”</a></strong></li>
   <li><strong><a href="/blog/prevention/diet/low-glycemic-cooking-practical-guide.html">低GI烹饪实践指南：让每餐都成为控糖利器</a></strong></li>
+  <li><strong><a href="/blog/prevention/diet/gestational-diabetes-prevention-pregnancy.html">孕期如何预防妊娠糖尿病：从三餐、体重增长到日常活动的实用框架</a></strong></li>
+  <li><strong><a href="/blog/prevention/diet/meal-prep-diabetes-beginners-prevention.html">给新手的糖尿病预防备餐入门：先搭框架，再谈食谱</a></strong></li>
+  <li><strong><a href="/blog/prevention/diet/30-day-diabetes-meal-plan-prevention.html">30天控糖友好餐计划：把预防做成能执行的日程</a></strong></li>
+  <li><strong><a href="/blog/prevention/diet/lunch-box-diabetes-prevention.html">预防糖尿病的午餐盒公式：外带也能吃得稳</a></strong></li>
+  <li><strong><a href="/blog/prevention/diet/protein-batch-cooking-diabetes-prevention.html">蛋白质批量备餐：把饱腹和稳糖提前准备好</a></strong></li>
+  <li><strong><a href="/blog/prevention/diet/vegetable-prep-shortcuts-diabetes-prevention.html">蔬菜预处理捷径：让一半餐盘真正落地</a></strong></li>
+  <li><strong><a href="/blog/prevention/diet/snack-box-craving-control-diabetes-prevention.html">零食盒与馋意控制：把加餐变成计划内选择</a></strong></li>
+  <li><strong><a href="/blog/prevention/diet/a-primer-for-diabetic-patients.html">糖尿病新手入门：从第一周开始建立稳血糖饮食框架</a></strong></li>
+  <li><strong><a href="/blog/prevention/diet/practical-carbohydrate-counting.html">碳水计数怎么做才不崩溃：给糖尿病预防期的实操指南</a></strong></li>
+  <li><strong><a href="/blog/prevention/diet/ph-miracle-diabetes.html">‘酸碱饮食’与糖尿病预防：如何科学吸收《The pH miracle for diabetes》</a></strong></li>
   <li><strong>均衡营养</strong>: 如何搭配主食、蛋白质、脂肪和蔬菜。</li>
   <li><strong>血糖生成指数(GI)</strong>: 选择低GI食物, 避免血糖剧烈波动。</li>
   <li><strong>健康烹饪</strong>: 采用蒸、煮、快炒等方式, 减少油盐糖的摄入。</li>
@@ -170,6 +316,7 @@
 <p>运动是提高胰岛素敏感性、控制体重最有效的方式之一。规律的身体活动能直接帮助身体消耗多余的糖分。我们将分享:</p>
 <ul>
   <li><strong><a href="/blog/prevention/exercise/how-daily-exercise-prevents-diabetes.html">运动是良医：如何通过科学锻炼有效预防糖尿病</a></strong></li>
+  <li><strong><a href="/blog/prevention/exercise/pregnancy-safe-exercise-gestational-diabetes-prevention.html">孕期安全运动与妊娠糖尿病预防：把餐后活动变成每日稳定器</a></strong></li>
   <li><strong>有氧运动</strong>: 如快走、慢跑、游泳, 提升心肺功能。</li>
   <li><strong>抗阻训练</strong>: 如举重、弹力带训练, 增加肌肉量, 提高基础代谢。</li>
   <li><strong>运动频率与时长</strong>: 根据国际指南, 建议每周至少150分钟的中等强度运动。</li>
@@ -182,6 +329,7 @@
 <p>睡眠质量与内分泌健康息息相关。长期睡眠不足或睡眠质量差会干扰激素分泌，增加胰岛素抵抗的风险。我们将关注：</p>
 <ul>
   <li><strong><a href="/blog/prevention/sleep/how-sleep-prevents-diabetes.html">睡眠是良医：充足优质睡眠如何有效预防糖尿病</a></strong></li>
+  <li><strong><a href="/blog/prevention/sleep/pregnancy-sleep-routine-gestational-diabetes-prevention.html">孕期睡眠规律与妊娠糖尿病预防：先把夜晚稳定下来</a></strong></li>
   <li><strong>睡眠与激素</strong>: 睡眠如何影响皮质醇、瘦素等关键激素。</li>
   <li><strong>建立睡眠节律</strong>: 如何培养规律的作息时间。</li>
   <li><strong>优化睡眠环境</strong>: 打造一个有利于深度睡眠的卧室环境。</li>
@@ -201,6 +349,144 @@
   <li><strong>寻求支持</strong>: 建立社会支持网络, 积极应对生活挑战。</li>
   <li><strong><a href="/blog/prevention/emotion/diabetes-common-questions-answered.html">糖尿病高频问题实用解答：缓解焦虑的知识指南</a></strong></li>
 </ul>
+
+<hr />
+
+<h2 id="最新更新-latest-in-prevention">最新更新 (Latest in Prevention)</h2>
+
+<div class="blog-filter-container">
+  <!-- Tag Cloud Section -->
+  
+  <div class="tag-cloud">
+    <h3>按标签筛选:</h3>
+    <button class="tag-btn active" data-filter="all">全部 All</button>
+    
+    
+  </div>
+  
+
+  <!-- Post List Section -->
+  <div class="post-list">
+    
+    
+    
+    
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const filterButtons = document.querySelectorAll('.tag-btn');
+    const postItems = document.querySelectorAll('.post-item');
+
+    // Function to filter posts
+    function filterPosts(filterValue) {
+      postItems.forEach(item => {
+        if (filterValue === 'all') {
+          item.style.display = 'block';
+        } else {
+          if (item.classList.contains(filterValue.substring(1))) { // remove dot
+            item.style.display = 'block';
+          } else {
+            item.style.display = 'none';
+          }
+        }
+      });
+
+      // Update active button state
+      filterButtons.forEach(btn => {
+        btn.classList.remove('active');
+        if (btn.getAttribute('data-filter') === filterValue || (filterValue === 'all' && btn.getAttribute('data-filter') === 'all')) {
+          btn.classList.add('active');
+        }
+      });
+    }
+
+    // Handle click events
+    filterButtons.forEach(button => {
+      button.addEventListener('click', () => {
+        const filterValue = button.getAttribute('data-filter');
+        filterPosts(filterValue);
+        
+        // Update URL query param without reload
+        const url = new URL(window.location);
+        if (filterValue === 'all') {
+          url.searchParams.delete('tag');
+        } else {
+            // Extract tag slug from class selector
+            const tagSlug = filterValue.substring(5); // remove .tag-
+            url.searchParams.set('tag', tagSlug);
+        }
+        window.history.pushState({}, '', url);
+      });
+    });
+
+    // Check URL query param on load
+    const urlParams = new URLSearchParams(window.location.search);
+    const tagParam = urlParams.get('tag');
+    if (tagParam) {
+      // Find button corresponding to this tag slug
+      const selector = `.tag-${tagParam}`;
+      filterPosts(selector);
+      
+      // Highlight the correct button
+      const activeBtn = document.querySelector(`.tag-btn[data-filter="${selector}"]`);
+      if (activeBtn) {
+          filterButtons.forEach(b => b.classList.remove('active'));
+          activeBtn.classList.add('active');
+      }
+    }
+  });
+</script>
+
+<style>
+  .blog-filter-container {
+    margin-top: 2rem;
+  }
+  .tag-cloud {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+  }
+  .tag-btn {
+    margin: 0.25rem;
+    padding: 0.5rem 1rem;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    background: white;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .tag-btn:hover, .tag-btn.active {
+    background: #159957;
+    color: white;
+    border-color: #159957;
+  }
+  .post-item {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eee;
+  }
+  .post-meta {
+    color: #666;
+    font-size: 0.9em;
+    margin-bottom: 0.5rem;
+  }
+  .tag-label {
+    display: inline-block;
+    background: #e9ecef;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    font-size: 0.85em;
+    margin-right: 0.5rem;
+    color: #495057;
+  }
+</style>
 
 <hr />
 

@@ -1,11 +1,14 @@
 ---
-layout: default
-title: "情绪密码：科学情绪管理如何有效预防糖尿病"
-description: '在当今快节奏的社会中，人们越来越关注健康问题。打开手机，我们能看到无数关于“控糖饮食”“高效运动”“优质睡眠”的建议。然而，在糖尿病预防的讨论中，**情绪管理**这个维度却常常被置于聚光灯之外。'
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
-date: "2026-01-15"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+date: '2026-01-15'
+description: 在当今快节奏的社会中，人们越来越关注健康问题。打开手机，我们能看到无数关于“控糖饮食”“高效运动”“优质睡眠”的建议。然而，在糖尿病预防的讨论中，**情绪管理**这个维度却常常被置于聚光灯之外。
 lang: zh
+layout: default
+tags:
+- Emotion
+- Prevention
+title: 情绪密码：科学情绪管理如何有效预防糖尿病
 translation_key: prevention/emotion/emotion-management-diabetes-prevention
 ---
 > 面包屑：[返回预防首页](../../) > [情绪管理](../) > 本文

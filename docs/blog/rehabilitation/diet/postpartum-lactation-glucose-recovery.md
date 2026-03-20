@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "哺乳期与产后血糖恢复：吃得够、奶量稳，也把代谢慢慢带回正轨"
-description: "围绕产后与哺乳期的真实场景，建立兼顾恢复、奶量、饱腹和血糖稳定的饮食与作息框架，帮助有妊娠糖尿病史的妈妈更平稳地过渡。"
+author: gwx
+author_email: gwx@tangyou.space
+author_id: gwx
+author_name: gwx
+author_role: 糖尿病康复期病人
+author_title: 糖尿病康复期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-12
+description: 围绕产后与哺乳期的真实场景，建立兼顾恢复、奶量、饱腹和血糖稳定的饮食与作息框架，帮助有妊娠糖尿病史的妈妈更平稳地过渡。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/Diabetes-Cooking-for-Everyone-250-All-Natural,-Low-Glycemic-Recipes-to-Nourish-and-Rejuvenate.pdf
+ebook_id: 20260309-diabetes-cooking-everyone
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: kelvin@tangyou.space
+reviewer_id: kelvin
+reviewer_name: kelvin
+reviewer_role: 糖尿病研究人员
+slug: postpartum-lactation-glucose-recovery
+tags:
+- 哺乳期
+- 血糖管理
+- 产后恢复
+- Diet
+- Rehabilitation
+- 妊娠糖尿病
+title: 哺乳期与产后血糖恢复：吃得够、奶量稳，也把代谢慢慢带回正轨
 translation_key: postpartum-lactation-glucose-recovery
-tags: [产后恢复, 哺乳期, 妊娠糖尿病, 血糖管理]
-author: "gwx"
-author_title: "糖尿病康复期病人"
-author_id: "gwx"
-author_name: "gwx"
-author_email: "gwx@tangyou.space"
-author_role: "糖尿病康复期病人"
-reviewer_id: "kelvin"
-reviewer_name: "kelvin"
-reviewer_email: "kelvin@tangyou.space"
-reviewer_role: "糖尿病研究人员"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-diabetes-cooking-everyone"
-download_url: "https://download.tangyou.space/20260309/Diabetes-Cooking-for-Everyone-250-All-Natural,-Low-Glycemic-Recipes-to-Nourish-and-Rejuvenate.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "postpartum-lactation-glucose-recovery"
 ---
 
 # 哺乳期与产后血糖恢复：吃得够、奶量稳，也把代谢慢慢带回正轨

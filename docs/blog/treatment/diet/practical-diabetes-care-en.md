@@ -1,28 +1,37 @@
 ---
-layout: default
-title: "How to Make Diabetes Treatment Care Stick: Turning Practical Diabetes Care into a Home Execution System"
-description: "A treatment-phase framework based on Practical Diabetes Care: monitoring rhythm, plate templates, activity baseline, and weekly review loops families can sustain."
+author: zyn
+author_email: zyn@tangyou.space
+author_id: zyn
+author_name: zyn
+author_role: 医学院学生
+author_title: 医学院学生
+automation_id: ebook-delivery-20260313
+cta_form_id: ebook-signup
 date: 2026-03-13
+description: 'A treatment-phase framework based on Practical Diabetes Care: monitoring
+  rhythm, plate templates, activity baseline, and weekly review loops families can
+  sustain.'
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260313/Practical-diabetes-care.pdf
+ebook_id: practical-care-20260313
 lang: en
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: practical-diabetes-care-en
+tags:
+- Diabetes Treatment
+- Treatment
+- Home Management
+- Diet
+- Clinical Care
+- Diet Strategy
+title: 'How to Make Diabetes Treatment Care Stick: Turning Practical Diabetes Care
+  into a Home Execution System'
 translation_key: practical-diabetes-care
-tags: [Diabetes Treatment, Clinical Care, Home Management, Diet Strategy]
-author: "zyn"
-author_title: "医学院学生"
-author_id: "zyn"
-author_name: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "practical-care-20260313"
-download_url: "https://download.tangyou.space/20260313/Practical-diabetes-care.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260313"
-slug: "practical-diabetes-care-en"
 ---
 
 # How to Make Diabetes Treatment Care Stick: Turning Practical Diabetes Care into a Home Execution System

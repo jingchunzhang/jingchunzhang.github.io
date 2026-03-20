@@ -1,13 +1,19 @@
 ---
-layout: default
-title: "压力一大就想吃：情绪性进食、渴望与血糖波动"
-description: "很多人的饮食问题不是‘不知道怎么吃’，而是‘压力来时控制不住’。本文把情绪性进食拆成可识别、可干预的几个环节，并给出低成本的替代策略。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
-date: "2026-03-02"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+date: '2026-03-02'
+description: 很多人的饮食问题不是‘不知道怎么吃’，而是‘压力来时控制不住’。本文把情绪性进食拆成可识别、可干预的几个环节，并给出低成本的替代策略。
 lang: zh
+layout: default
+tags:
+- Emotion
+- 预防
+- 压力
+- Prevention
+- 饮食
+- 情绪
+title: 压力一大就想吃：情绪性进食、渴望与血糖波动
 translation_key: prevention/emotion/stress-eating-cravings-glucose
-tags: [情绪, 压力, 预防, 饮食]
 ---
 
 # 压力一大就想吃：情绪性进食、渴望与血糖波动

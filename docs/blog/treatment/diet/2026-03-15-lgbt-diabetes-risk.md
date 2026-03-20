@@ -1,21 +1,28 @@
 ---
-title: "LGBTQ群体糖尿病风险更高？数据揭示的真相与应对策略"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
+categories:
+- 糖尿病治疗
 date: 2026-03-15
+description: 基于CDC较新数据，解读LGBTQ群体糖尿病患病率为何高于一般人群，以及高风险因素和预防策略。
+disclaimer_key: medical-information-only
 lang: zh
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+tags:
+- Treatment
+- LGBTQ健康
+- 治疗期饮食
+- 性别认同
+- Diet
+- 糖尿病风险
+title: LGBTQ群体糖尿病风险更高？数据揭示的真相与应对策略
 translation_key: lgbt-diabetes-risk
-description: "基于CDC较新数据，解读LGBTQ群体糖尿病患病率为何高于一般人群，以及高风险因素和预防策略。"
-categories: ["糖尿病治疗"]
-tags: [治疗期饮食, LGBTQ健康, 糖尿病风险, 性别认同]
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
 ---
 
 # LGBTQ群体糖尿病风险更高？数据揭示的真相与应对策略

@@ -55,8 +55,8 @@
           "url": "https://www.tangyou.space/assets/images/logo.png"
         }
       },
-      "datePublished": "2026-03-10T10:57:41+08:00",
-      "dateModified": "2026-03-10T10:57:41+08:00",
+      "datePublished": "2026-03-20T14:32:40+08:00",
+      "dateModified": "2026-03-20T14:32:40+08:00",
       "medicalAudience": {
         "@type": "MedicalAudience",
         "audienceType": "Patient"
@@ -89,7 +89,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=f0f3997c54e8a347b3d9779b029e28b8ca8a6e34">
+    <link rel="stylesheet" href="/assets/css/style.css?v=5a5c9f6595dc97769129d6e30f2aed7ed18fca55">
     <link rel="stylesheet" href="/assets/css/breadcrumb.css">
     
 
@@ -117,6 +117,137 @@
           <a class="btn" href="/contact/index-en">Contact</a>
          
        </nav>
+      <div class="search-trigger">
+  <button onclick="openSearch()" class="search-icon-btn" aria-label="Search">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+  </button>
+</div>
+<div id="search-modal" class="search-modal" style="display: none;">
+  <div class="search-modal-content">
+    <div class="search-header">
+      <h3>Search / 搜索</h3>
+      <button onclick="closeSearch()" class="close-btn">&times;</button>
+    </div>
+    <div id="pagefind-search"></div>
+  </div>
+</div>
+
+<style>
+.search-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.5);
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 100px;
+}
+.search-modal-content {
+  background: white;
+  padding: 2rem;
+  width: 90%;
+  max-width: 800px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  max-height: 80vh;
+  overflow-y: auto;
+}
+.search-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+/* Pagefind Overrides */
+:root {
+  --pagefind-ui-scale: 0.8;
+  --pagefind-ui-primary: #157878;
+  --pagefind-ui-text: #393939;
+  --pagefind-ui-background: #ffffff;
+  --pagefind-ui-border: #eeeeee;
+  --pagefind-ui-tag: #eeeeee;
+  --pagefind-ui-border-width: 2px;
+  --pagefind-ui-border-radius: 8px;
+  --pagefind-ui-image-border-radius: 8px;
+  --pagefind-ui-image-box-ratio: 3 / 2;
+  --pagefind-ui-font: "Open Sans", sans-serif;
+}
+</style>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({ element: "#pagefind-search", showSubResults: true });
+  });
+
+  function openSearch() {
+    document.getElementById('search-modal').style.display = 'flex';
+    // Focus input if possible
+    setTimeout(() => {
+      const input = document.querySelector('.pagefind-ui__search-input');
+      if(input) input.focus();
+    }, 100);
+  }
+
+  function closeSearch() {
+    document.getElementById('search-modal').style.display = 'none';
+  }
+
+  // Close on outside click
+  window.onclick = function(event) {
+    const modal = document.getElementById('search-modal');
+    if (event.target == modal) {
+      modal.style.display = "none";
+    }
+  }
+  
+  // Close on Escape key
+  document.addEventListener('keydown', function(event) {
+    if (event.key === "Escape") {
+      closeSearch();
+    }
+  });
+</script>
+
+
+<style>
+.search-trigger {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 1rem;
+}
+.search-icon-btn {
+  background: none;
+  border: none;
+  color: rgba(255,255,255,0.7);
+  cursor: pointer;
+  padding: 5px;
+  transition: color 0.2s;
+}
+.search-icon-btn:hover {
+  color: white;
+}
+/* Ensure search appears in mobile nav appropriately */
+@media screen and (max-width: 42rem) {
+  .search-trigger {
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+  }
+}
+</style>
+
       <h1 class="project-name">Healthy Diet: Preventing Diabetes Through Balanced Nutrition</h1>
       <h2 class="project-tagline">Among the various diabetes prevention methods, **a reasonable diet structure** is undoubtedly the most fundamental and important one.</h2>
       
@@ -150,6 +281,7 @@
 
 <h2 id="core-articles">Core Articles</h2>
 
+<h3 id="how-to-eat-carbs-without-causing-a-blood-sugar-spike-a-practical-comparison-guide"><a href="/blog/prevention/diet/2026-03-17-how-to-eat-carbs-without-causing-a-blood-en.html">How to Eat Carbs Without Causing a Blood Sugar Spike: A Practical Comparison Guide</a></h3>
 <h3 id="nutritional-wisdom-scientific-diabetes-prevention-through-balanced-diet"><a href="/blog/prevention/diet/balanced-diet-diabetes-prevention-en.html">Nutritional Wisdom: Scientific Diabetes Prevention Through Balanced Diet</a></h3>
 
 <p>An in-depth article systematically explaining how to prevent diabetes through balanced diet from three dimensions: problem presentation, physiological principles, and dietary choices. Includes practical daily meal examples, shopping suggestions, solutions to common challenges, and personalized advice for special populations.</p>
@@ -213,6 +345,54 @@
 <h4 id="low-glycemic-cooking-practical-guide-for-busy-families"><a href="/blog/prevention/diet/low-glycemic-cooking-practical-guide-en.html">Low-Glycemic Cooking Practical Guide for Busy Families</a></h4>
 
 <p>Plate structure, ingredient swaps, and batch-cooking tactics to make blood sugar-friendly eating simple, delicious, and sustainable. Includes a kitchen essentials checklist and ebook download.</p>
+
+<h4 id="how-to-prevent-gestational-diabetes-during-pregnancy-a-practical-framework-for-meals-weight-gain-and-daily-activity"><a href="/blog/prevention/diet/gestational-diabetes-prevention-pregnancy-en.html">How to Prevent Gestational Diabetes During Pregnancy: A Practical Framework for Meals, Weight Gain, and Daily Activity</a></h4>
+
+<p>A pregnancy-focused prevention guide that turns glucose-friendly eating, weight-gain rhythm, light movement, and screening awareness into a repeatable everyday system.</p>
+
+<h4 id="diabetes-meal-prep-for-beginners-start-with-structure-before-recipes"><a href="/blog/prevention/diet/meal-prep-diabetes-beginners-prevention-en.html">Diabetes Meal Prep for Beginners: Start with Structure Before Recipes</a></h4>
+
+<p>A starter guide that turns meal prep into a repeatable prevention system built around plate structure, 3.5-day prep cycles, and low-friction weekday meals.</p>
+
+<h4 id="a-30-day-diabetes-friendly-meal-plan-for-prevention"><a href="/blog/prevention/diet/30-day-diabetes-meal-plan-prevention-en.html">A 30-Day Diabetes-Friendly Meal Plan for Prevention</a></h4>
+
+<p>A four-week framework that helps readers observe patterns, stabilize breakfast and snacks, strengthen dinners, and review what actually works.</p>
+
+<p>Three breakfast templates—warm, refrigerated, and portable—to reduce morning instability and afternoon cravings.</p>
+
+<h4 id="lunch-box-formula-for-diabetes-prevention"><a href="/blog/prevention/diet/lunch-box-diabetes-prevention-en.html">Lunch Box Formula for Diabetes Prevention</a></h4>
+
+<p>A practical packed-lunch structure with clear protein, vegetable, starch, and sauce boundaries for steadier workdays.</p>
+
+<h4 id="protein-batch-cooking-for-diabetes-prevention"><a href="/blog/prevention/diet/protein-batch-cooking-diabetes-prevention-en.html">Protein Batch Cooking for Diabetes Prevention</a></h4>
+
+<p>How to prep eggs, tofu, chicken, fish, yogurt, and beans so ordinary meals feel fuller and more stable.</p>
+
+<h4 id="vegetable-prep-shortcuts-for-diabetes-prevention"><a href="/blog/prevention/diet/vegetable-prep-shortcuts-diabetes-prevention-en.html">Vegetable Prep Shortcuts for Diabetes Prevention</a></h4>
+
+<p>Simple prep methods that make half-plate vegetables realistic instead of aspirational.</p>
+
+<p>Freezer-ready dinner ideas that protect the evening meal when energy and decision quality are lowest.</p>
+
+<p>A grocery-list system organized by meal modules rather than random “healthy” items, reducing waste and weekday drift.</p>
+
+<h4 id="snack-box-and-craving-control-for-diabetes-prevention"><a href="/blog/prevention/diet/snack-box-craving-control-diabetes-prevention-en.html">Snack Box and Craving Control for Diabetes Prevention</a></h4>
+
+<p>How to build planned, portioned snacks that reduce impulsive sweet-drink and snack patterns.</p>
+
+<p>A practical framework for keeping dessert inside boundaries instead of letting it become an unplanned compensation loop.</p>
+
+<h4 id="diabetes-beginner-nutrition-plan-a-practical-first-4-week-framework"><a href="/blog/prevention/diet/a-primer-for-diabetic-patients-en.html">Diabetes Beginner Nutrition Plan: A Practical First-4-Week Framework</a></h4>
+
+<p>A prevention-stage starter system that turns broad advice into repeatable daily routines.</p>
+
+<h4 id="practical-carbohydrate-counting-for-prevention-keep-it-simple-and-sustainable"><a href="/blog/prevention/diet/practical-carbohydrate-counting-en.html">Practical Carbohydrate Counting for Prevention: Keep It Simple and Sustainable</a></h4>
+
+<p>Low-burden carb-counting guidance focused on repeat meals, scenario handling, and long-term adherence.</p>
+
+<h4 id="the-ph-diet-and-diabetes-prevention-how-to-read-the-ph-miracle-for-diabetes-with-evidence-based-judgment"><a href="/blog/prevention/diet/ph-miracle-diabetes-en.html">The ‘pH Diet’ and Diabetes Prevention: How to Read The pH Miracle for Diabetes with Evidence-Based Judgment</a></h4>
+
+<p>A prevention-focused interpretation that keeps useful behaviors (more vegetables, fewer sugary drinks, less ultra-processed intake) while avoiding cure narratives and extreme dietary claims.</p>
 
 <hr />
 
@@ -313,6 +493,18 @@
     
     
       
+        <li><a href="/blog/prevention/diet/2026-03-17-how-to-eat-carbs-without-causing-a-blood-en.html">How to Eat Carbs Without Causing a Blood Sugar Spike: A Practical Comparison Guide</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/30-day-diabetes-meal-plan-prevention-en.html">30 Day Diabetes Meal Plan Prevention</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/a-primer-for-diabetic-patients-en.html">Diabetes Beginner Nutrition Plan: A Practical First-4-Week Framework</a></li>
+      
+    
+      
         <li><a href="/prevention/diet/anti-inflammatory-diet-diabetes-prevention-en.html"></a></li>
       
     
@@ -330,6 +522,14 @@
     
       
         <li><a href="/blog/prevention/diet/breakfast-structure-diabetes-prevention-en.html">A Steadier Breakfast: A Copy‑Paste Template (Protein + Fiber + Carbs)</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/diabetes-heart-health-risk-en.html">Diabetes And Heart Health: Understanding The Risks</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/gestational-diabetes-prevention-pregnancy-en.html">How to Prevent Gestational Diabetes During Pregnancy: A Practical Framework for Meals, Weight Gain, and Daily Activity</a></li>
       
     
       
@@ -353,11 +553,43 @@
       
     
       
+        <li><a href="/blog/prevention/diet/lunch-box-diabetes-prevention-en.html">Diabetes Prevention Lunch Box Ideas</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/meal-prep-diabetes-beginners-prevention-en.html">Diabetes Meal Prep For Beginners Prevention</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/ph-miracle-diabetes-en.html">The ‘pH Diet’ and Diabetes Prevention: How to Read *The pH Miracle for Diabetes* with Evidence-Based Judgment</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/practical-carbohydrate-counting-en.html">Practical Carbohydrate Counting for Prevention: Keep It Simple and Sustainable</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/prediabetes-reversal-guide-en.html">Prediabetes: What Is It And How To Reverse It</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/protein-batch-cooking-diabetes-prevention-en.html">Protein Batch Cooking For Diabetes Prevention</a></li>
+      
+    
+      
         <li><a href="/blog/prevention/diet/protein-strategy-glucose-stability-en.html">Protein as a Leverage Point: Steadier Glucose &amp; Fewer Cravings (Practical Strategy)</a></li>
       
     
       
+        <li><a href="/blog/prevention/diet/snack-box-craving-control-diabetes-prevention-en.html">Snack Box For Diabetes Craving Control Prevention</a></li>
+      
+    
+      
         <li><a href="/blog/prevention/diet/ultra-processed-foods-diabetes-prevention-en.html">Ultra‑Processed Foods (UPFs) and Type 2 Diabetes Risk: Read Labels, Make Steadier Choices</a></li>
+      
+    
+      
+        <li><a href="/blog/prevention/diet/vegetable-prep-shortcuts-diabetes-prevention-en.html">Vegetable Prep Shortcuts For Diabetes Prevention</a></li>
       
     
   </ul>

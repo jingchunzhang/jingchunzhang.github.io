@@ -1,21 +1,28 @@
 ---
-title: "跨性别者与糖尿病：激素治疗、代谢风险与健康管理全指南"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
+categories:
+- 糖尿病治疗
 date: 2026-03-15
+description: 详解跨性别者激素治疗与糖尿病的关系，激素替代疗法对血糖的影响，以及跨性别糖友的健康管理策略。
+disclaimer_key: medical-information-only
 lang: zh
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+tags:
+- Treatment
+- 糖尿病管理
+- 跨性别健康
+- 治疗期饮食
+- Diet
+- 激素治疗
+title: 跨性别者与糖尿病：激素治疗、代谢风险与健康管理全指南
 translation_key: transgender-diabetes-hormone-therapy
-description: "详解跨性别者激素治疗与糖尿病的关系，激素替代疗法对血糖的影响，以及跨性别糖友的健康管理策略。"
-categories: ["糖尿病治疗"]
-tags: [治疗期饮食, 跨性别健康, 激素治疗, 糖尿病管理]
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
 ---
 
 # 跨性别者与糖尿病：激素治疗、代谢风险与健康管理全指南

@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "1型糖尿病：把门诊建议落成家庭日程"
-description: "将1型糖尿病门诊管理建议拆解为可执行的家庭日常流程：监测节奏、胰岛素管理节点、运动安全与情绪自我照护，降低决策疲劳。"
+author: zzh
+author_email: zzh@tangyou.space
+author_id: zzh
+author_name: zzh
+author_role: 糖尿病治疗期病人
+author_title: 糖尿病治疗期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-09
+description: 将1型糖尿病门诊管理建议拆解为可执行的家庭日常流程：监测节奏、胰岛素管理节点、运动安全与情绪自我照护，降低决策疲劳。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/Medical-Management-of-Type-1-Diabetes.pdf
+ebook_id: 20260309-type1-medical-management
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: type1-diabetes-clinic-to-home-plan
+tags:
+- 1型糖尿病
+- Emotion
+- 日常计划
+- Treatment
+- 胰岛素管理
+- 情绪管理
+title: 1型糖尿病：把门诊建议落成家庭日程
 translation_key: type1-diabetes-clinic-to-home-plan
-tags: [1型糖尿病, 胰岛素管理, 日常计划, 情绪管理]
-author: "zzh"
-author_title: "糖尿病治疗期病人"
-author_id: "zzh"
-author_name: "zzh"
-author_email: "zzh@tangyou.space"
-author_role: "糖尿病治疗期病人"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-type1-medical-management"
-download_url: "https://download.tangyou.space/20260309/Medical-Management-of-Type-1-Diabetes.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "type1-diabetes-clinic-to-home-plan"
 ---
 
 # 1型糖尿病：把门诊建议落成家庭日程

@@ -1,24 +1,29 @@
 ---
-title: "得舒饮食（DASH）能帮助糖尿病治疗期稳住血糖吗？给家属的可执行7天方案"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
+automation_id: ebook-delivery-20260315
+cta_form_id: ebook-signup
 date: 2026-03-15
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260315/Dash-Diet.pdf
+ebook_id: dash-diet-20260315
 lang: zh
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: dash-diet-diabetes
+tags:
+- Treatment
+- DASH
+- 治疗期饮食
+- 得舒饮食
+- Diet
+title: 得舒饮食（DASH）能帮助糖尿病治疗期稳住血糖吗？给家属的可执行7天方案
 translation_key: dash-diet-diabetes
-tags: [治疗期饮食, 得舒饮食, DASH]
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "dash-diet-20260315"
-download_url: "https://download.tangyou.space/20260315/Dash-Diet.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260315"
-slug: "dash-diet-diabetes"
 ---
 
 # 得舒饮食（DASH）能帮助糖尿病治疗期稳住血糖吗？给家属的可执行7天方案

@@ -1,10 +1,14 @@
 ---
-layout: default
-title: "Exercise as Medicine: How Scientific Training Effectively Prevents Diabetes"
-description: "Diabetes, a medical term that once sounded somewhat distant, has now become a public health problem affecting hundreds of millions of people globally."
-author: "danezhang"
-date: "2026-01-10"
+author: danezhang
+date: '2026-01-10'
+description: Diabetes, a medical term that once sounded somewhat distant, has now
+  become a public health problem affecting hundreds of millions of people globally.
 lang: en
+layout: default
+tags:
+- Prevention
+- Exercise
+title: 'Exercise as Medicine: How Scientific Training Effectively Prevents Diabetes'
 translation_key: prevention/exercise/how-daily-exercise-prevents-diabetes
 ---
 ## Preface: Why Do We Need to Pay Attention to Diabetes?

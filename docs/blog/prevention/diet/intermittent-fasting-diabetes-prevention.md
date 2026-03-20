@@ -1,13 +1,19 @@
 ---
-layout: default
-title: "轻断食/间歇性禁食：适合谁？怎么做才更安全、更可持续"
-description: "间歇性禁食并不是‘越饿越好’。对一些人，它可能帮助减少总能量与改善饮食节律；对另一些人，它可能导致暴食、情绪波动或低血糖风险。本文用‘风险先行’的方式讲清楚如何判断与如何落地。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
-date: "2026-03-02"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+date: '2026-03-02'
+description: 间歇性禁食并不是‘越饿越好’。对一些人，它可能帮助减少总能量与改善饮食节律；对另一些人，它可能导致暴食、情绪波动或低血糖风险。本文用‘风险先行’的方式讲清楚如何判断与如何落地。
 lang: zh
+layout: default
+tags:
+- 预防
+- Prevention
+- 轻断食
+- 饮食
+- Diet
+- 作息
+title: 轻断食/间歇性禁食：适合谁？怎么做才更安全、更可持续
 translation_key: prevention/diet/intermittent-fasting-diabetes-prevention
-tags: [饮食, 轻断食, 预防, 作息]
 ---
 
 # 轻断食/间歇性禁食：适合谁？怎么做才更安全、更可持续

@@ -1,10 +1,13 @@
 ---
-layout: default
-title: 治疗期运动处方：安全、有效、可坚持的控糖训练
-description: "治疗期运动的目标不是“拼命出汗”，而是用最低的风险，获得最稳定的回报：**提高胰岛素敏感性、降低餐后血糖、改善体重与心肺体能，同时避免低血糖和运动损伤**。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: 治疗期运动的目标不是“拼命出汗”，而是用最低的风险，获得最稳定的回报：**提高胰岛素敏感性、降低餐后血糖、改善体重与心肺体能，同时避免低血糖和运动损伤**。
 lang: zh
+layout: default
+tags:
+- Treatment
+- Exercise
+title: 治疗期运动处方：安全、有效、可坚持的控糖训练
 translation_key: treatment-exercise-prescription
 ---
 # 治疗期运动处方：安全、有效、可坚持的控糖训练

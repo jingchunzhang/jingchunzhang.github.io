@@ -1,28 +1,35 @@
 ---
-layout: default
-title: "Type 2 Diabetes Monitoring Protocols: A Practical Home Version"
-description: "A long-form home monitoring protocol for Type 2 diabetes: fixed checkpoints, context logging, weekly trend review, and action triggers you can sustain."
+author: zzh
+author_email: zzh@tangyou.space
+author_id: zzh
+author_name: zzh
+author_role: 糖尿病治疗期病人
+author_title: 糖尿病治疗期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-09
+description: 'A long-form home monitoring protocol for Type 2 diabetes: fixed checkpoints,
+  context logging, weekly trend review, and action triggers you can sustain.'
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/Type-2-Diabetes-Methods-and-Protocols.pdf
+ebook_id: 20260309-type2-methods-protocols
 lang: en
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: type2-diabetes-monitoring-protocols-en
+tags:
+- Exercise Integration
+- Treatment
+- Exercise
+- Type 2 Diabetes
+- Monitoring Protocol
+- Home Care
+title: 'Type 2 Diabetes Monitoring Protocols: A Practical Home Version'
 translation_key: type2-diabetes-monitoring-protocols
-tags: [Type 2 Diabetes, Monitoring Protocol, Home Care, Exercise Integration]
-author: "zzh"
-author_title: "糖尿病治疗期病人"
-author_id: "zzh"
-author_name: "zzh"
-author_email: "zzh@tangyou.space"
-author_role: "糖尿病治疗期病人"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-type2-methods-protocols"
-download_url: "https://download.tangyou.space/20260309/Type-2-Diabetes-Methods-and-Protocols.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "type2-diabetes-monitoring-protocols-en"
 ---
 
 # Type 2 Diabetes Monitoring Protocols: A Practical Home Version

@@ -1,10 +1,15 @@
 ---
-layout: default
-title: 'Diet During Diabetes Treatment: Turn “Glucose Control” Into Every Meal'
-description: "Build a sustainable glucose-friendly eating system for diabetes treatment: steadier post-meal glucose, gradual metabolic improvement, and better medication coordination while reducing hypoglycemia risk."
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: 'Build a sustainable glucose-friendly eating system for diabetes treatment:
+  steadier post-meal glucose, gradual metabolic improvement, and better medication
+  coordination while reducing hypoglycemia risk.'
 lang: en
+layout: default
+tags:
+- Diet
+- Treatment
+title: 'Diet During Diabetes Treatment: Turn “Glucose Control” Into Every Meal'
 translation_key: treatment-diet-therapeutic
 ---
 

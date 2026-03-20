@@ -1,26 +1,32 @@
 ---
-title: "Psyching Out Diabetes：治疗期如何把情绪压力变成可执行的日常行动"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
+automation_id: ebook-delivery-20260315
+categories:
+- 糖尿病治疗
+cta_form_id: ebook-signup
 date: 2026-03-15
+description: 面向治疗期糖尿病患者与家属的心理调适实用指南：识别情绪触发点、建立4步应对框架、降低内耗并提升治疗执行度。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260315/Psyching-Out-Diabetes.pdf
+ebook_id: psyching-out-diabetes-20260315
 lang: zh
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: psyching-out-diabetes
+tags:
+- Emotion
+- 积极心态
+- Treatment
+- 治疗期情绪
+- 心理调适
+title: Psyching Out Diabetes：治疗期如何把情绪压力变成可执行的日常行动
 translation_key: psyching-out-diabetes
-description: "面向治疗期糖尿病患者与家属的心理调适实用指南：识别情绪触发点、建立4步应对框架、降低内耗并提升治疗执行度。"
-categories: ["糖尿病治疗"]
-tags: [治疗期情绪, 心理调适, 积极心态]
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "psyching-out-diabetes-20260315"
-download_url: "https://download.tangyou.space/20260315/Psyching-Out-Diabetes.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260315"
-slug: "psyching-out-diabetes"
 ---
 
 ![一位糖尿病患者在餐桌前记录血糖与情绪，旁边放着血糖仪与笔记本，强调“情绪-行为-血糖”联动管理。](https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=1400&q=80)

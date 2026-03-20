@@ -1,23 +1,28 @@
 ---
-title: "What Is Type 1 Diabetes? A 10-Year T1D Vet’s No-Jargon Guide for Newly Diagnosed Folks & Caregivers"
+author_email: zhl@tangyou.space
+author_id: zhl
+author_role: 糖尿病病人家属
+categories:
+- 糖尿病预防
 date: 2026-03-20 09:40:46 +0800
-description: "What Is Type 1 Diabetes? A 10-Year T1D Vet’s No-Jargon Guide for Newly Diagnosed Folks & Caregivers - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: What Is Type 1 Diabetes? A 10-Year T1D Vet’s No-Jargon Guide for Newly
+  Diagnosed Folks & Caregivers - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: what-is-type-1-diabetes?
-
-author_id: "zhl"
-author_email: "zhl@tangyou.space"
-author_role: "糖尿病病人家属"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- Exercise
+- 糖尿病
+- 饮食
+title: What Is Type 1 Diabetes? A 10-Year T1D Vet’s No-Jargon Guide for Newly Diagnosed
+  Folks & Caregivers
 ---
 
 # What Is Type 1 Diabetes? A 10-Year T1D Vet’s No-Jargon Guide for Newly Diagnosed Folks & Caregivers
-![Warm photo of a young person with type 1 diabetes checking their continuous glucose monitor while laughing with a friend at a coffee shop](https://source.unsplash.com/1600x900/?type-1-diabetes-support)
+![Warm photo of a young person with type 1 diabetes checking their continuous glucose monitor while laughing with a friend at a coffee shop](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 If you just found out you or a loved one has type 1 diabetes, I know exactly how overwhelming it feels. I was 22 when I got diagnosed, sitting in a hospital ER after 2 weeks of nonstop thirst, random 15-pound weight loss, and peeing so often I thought I had a chronic bladder infection. My doctor sat down and dumped a stack of dense medical pamphlets on me, and the first question I blurted out was: What is type 1 diabetes, and is this my fault?
 

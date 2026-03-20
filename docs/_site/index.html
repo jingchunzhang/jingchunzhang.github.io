@@ -55,8 +55,8 @@
           "url": "https://www.tangyou.space/assets/images/logo.png"
         }
       },
-      "datePublished": "2026-03-10T10:57:41+08:00",
-      "dateModified": "2026-03-10T10:57:41+08:00",
+      "datePublished": "2026-03-20T14:32:40+08:00",
+      "dateModified": "2026-03-20T14:32:40+08:00",
       "medicalAudience": {
         "@type": "MedicalAudience",
         "audienceType": "患者"
@@ -89,7 +89,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=f0f3997c54e8a347b3d9779b029e28b8ca8a6e34">
+    <link rel="stylesheet" href="/assets/css/style.css?v=5a5c9f6595dc97769129d6e30f2aed7ed18fca55">
     <link rel="stylesheet" href="/assets/css/breadcrumb.css">
     
 
@@ -117,6 +117,137 @@
           <a class="btn" href="/contact/">联系我们</a>
          
        </nav>
+      <div class="search-trigger">
+  <button onclick="openSearch()" class="search-icon-btn" aria-label="Search">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+  </button>
+</div>
+<div id="search-modal" class="search-modal" style="display: none;">
+  <div class="search-modal-content">
+    <div class="search-header">
+      <h3>Search / 搜索</h3>
+      <button onclick="closeSearch()" class="close-btn">&times;</button>
+    </div>
+    <div id="pagefind-search"></div>
+  </div>
+</div>
+
+<style>
+.search-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.5);
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 100px;
+}
+.search-modal-content {
+  background: white;
+  padding: 2rem;
+  width: 90%;
+  max-width: 800px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  max-height: 80vh;
+  overflow-y: auto;
+}
+.search-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+/* Pagefind Overrides */
+:root {
+  --pagefind-ui-scale: 0.8;
+  --pagefind-ui-primary: #157878;
+  --pagefind-ui-text: #393939;
+  --pagefind-ui-background: #ffffff;
+  --pagefind-ui-border: #eeeeee;
+  --pagefind-ui-tag: #eeeeee;
+  --pagefind-ui-border-width: 2px;
+  --pagefind-ui-border-radius: 8px;
+  --pagefind-ui-image-border-radius: 8px;
+  --pagefind-ui-image-box-ratio: 3 / 2;
+  --pagefind-ui-font: "Open Sans", sans-serif;
+}
+</style>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({ element: "#pagefind-search", showSubResults: true });
+  });
+
+  function openSearch() {
+    document.getElementById('search-modal').style.display = 'flex';
+    // Focus input if possible
+    setTimeout(() => {
+      const input = document.querySelector('.pagefind-ui__search-input');
+      if(input) input.focus();
+    }, 100);
+  }
+
+  function closeSearch() {
+    document.getElementById('search-modal').style.display = 'none';
+  }
+
+  // Close on outside click
+  window.onclick = function(event) {
+    const modal = document.getElementById('search-modal');
+    if (event.target == modal) {
+      modal.style.display = "none";
+    }
+  }
+  
+  // Close on Escape key
+  document.addEventListener('keydown', function(event) {
+    if (event.key === "Escape") {
+      closeSearch();
+    }
+  });
+</script>
+
+
+<style>
+.search-trigger {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 1rem;
+}
+.search-icon-btn {
+  background: none;
+  border: none;
+  color: rgba(255,255,255,0.7);
+  cursor: pointer;
+  padding: 5px;
+  transition: color 0.2s;
+}
+.search-icon-btn:hover {
+  color: white;
+}
+/* Ensure search appears in mobile nav appropriately */
+@media screen and (max-width: 42rem) {
+  .search-trigger {
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+  }
+}
+</style>
+
       <h1 class="project-name">Tangyou Space｜糖友空间</h1>
       <h2 class="project-tagline">广州一诺张杨人工智能科技有限责任公司｜糖尿病知识与电子资料｜Shopify/WordPress 应用开发、广告联盟与 SEO 服务</h2>
       
@@ -129,39 +260,236 @@
       
       <h1 id="tangyou-space糖友空间">Tangyou Space｜糖友空间</h1>
 
-<p>我们为个人用户与企业客户提供两条产品线：</p>
+<blockquote>
+  <table>
+    <tbody>
+      <tr>
+        <td><strong><a href="/about/">About Us / 关于我们</a></strong></td>
+        <td><strong><a href="./index-en">English Version</a></strong></td>
+      </tr>
+    </tbody>
+  </table>
+</blockquote>
 
-<h2 id="面向个人b2c糖尿病知识与电子资料">面向个人（B2C）：糖尿病知识与电子资料</h2>
+<p>我们致力于构建糖尿病全周期管理的内容生态与数字服务。</p>
+
+<hr />
+
+<h2 id="-面向个人-for-individuals">👨‍👩‍👧‍👦 面向个人 (For Individuals)</h2>
+
+<p>我们的核心内容覆盖糖尿病管理的三个关键阶段：</p>
+
+<div class="features-grid">
+  <div class="feature-card">
+    <h3>🛡️ 预防阶段 (Prevention)</h3>
+    <p>早期筛查、饮食干预与生活方式调整，降低发病风险。</p>
+    <a href="./blog/prevention/" class="btn">浏览预防指南 &rarr;</a>
+  </div>
+  <div class="feature-card">
+    <h3>💊 治疗阶段 (Treatment)</h3>
+    <p>科学用药、饮食处方与运动疗法，实现平稳控糖。</p>
+    <a href="./blog/treatment/" class="btn">浏览治疗方案 &rarr;</a>
+  </div>
+  <div class="feature-card">
+    <h3>🌱 康复阶段 (Rehabilitation)</h3>
+    <p>并发症管理、长期健康维护与逆转可能探索。</p>
+    <a href="./blog/rehabilitation/" class="btn">浏览康复策略 &rarr;</a>
+  </div>
+</div>
+
+<hr />
+
+<h2 id="-面向企业-for-business">🏢 面向企业 (For Business)</h2>
+
+<p>我们为健康科技企业与开发者提供专业服务：</p>
 
 <ul>
-  <li>覆盖 <strong>预防 / 治疗 / 康复</strong> 的系统化内容与资料</li>
-  <li>电子资料、工具与服务（以实际产品为准）</li>
-  <li>内容入口：<strong><a href="/blog/">博客 Blog</a></strong>
-    <ul>
-      <li><a href="/blog/fasting_blood_sugar_tracking.html">掌控清晨血糖：记录饮食与运动的力量</a></li>
-    </ul>
-  </li>
-</ul>
-
-<h2 id="面向企业b2b独立站应用开发--广告联盟--seo">面向企业（B2B）：独立站应用开发 &amp; 广告联盟 &amp; SEO</h2>
-
-<ul>
-  <li>Shopify / WordPress 应用与插件开发</li>
-  <li>广告联盟相关能力（跟踪、归因、结算、联盟管理等）</li>
-  <li>SEO 工具与咨询服务（技术 SEO、内容体系、增长实验）</li>
+  <li><strong><a href="/products/">独立站应用开发</a></strong>：Shopify / WordPress 插件定制</li>
+  <li><strong><a href="/solutions/">广告联盟技术</a></strong>：追踪、归因与结算系统搭建</li>
+  <li><strong><a href="/seo/">SEO 增长咨询</a></strong>：垂直领域的流量获取与转化优化</li>
 </ul>
 
 <hr />
 
-<h2 id="快速入口">快速入口</h2>
+<h2 id="-最新文章-latest-from-blog">📰 最新文章 (Latest from Blog)</h2>
 
-<ul>
-  <li><strong><a href="/products/">产品与服务</a></strong></li>
-  <li><strong><a href="/solutions/">解决方案</a></strong></li>
-  <li><strong><a href="/blog/">博客 Blog</a></strong></li>
-  <li><strong><a href="/about/">关于我们</a></strong></li>
-  <li><strong><a href="/contact/">联系我们</a></strong></li>
-</ul>
+<div class="blog-filter-container">
+  <!-- Tag Cloud Section -->
+  
+
+  <!-- Post List Section -->
+  <div class="post-list">
+    
+    
+    
+    
+    
+    
+    
+    
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const filterButtons = document.querySelectorAll('.tag-btn');
+    const postItems = document.querySelectorAll('.post-item');
+
+    // Function to filter posts
+    function filterPosts(filterValue) {
+      postItems.forEach(item => {
+        if (filterValue === 'all') {
+          item.style.display = 'block';
+        } else {
+          if (item.classList.contains(filterValue.substring(1))) { // remove dot
+            item.style.display = 'block';
+          } else {
+            item.style.display = 'none';
+          }
+        }
+      });
+
+      // Update active button state
+      filterButtons.forEach(btn => {
+        btn.classList.remove('active');
+        if (btn.getAttribute('data-filter') === filterValue || (filterValue === 'all' && btn.getAttribute('data-filter') === 'all')) {
+          btn.classList.add('active');
+        }
+      });
+    }
+
+    // Handle click events
+    filterButtons.forEach(button => {
+      button.addEventListener('click', () => {
+        const filterValue = button.getAttribute('data-filter');
+        filterPosts(filterValue);
+        
+        // Update URL query param without reload
+        const url = new URL(window.location);
+        if (filterValue === 'all') {
+          url.searchParams.delete('tag');
+        } else {
+            // Extract tag slug from class selector
+            const tagSlug = filterValue.substring(5); // remove .tag-
+            url.searchParams.set('tag', tagSlug);
+        }
+        window.history.pushState({}, '', url);
+      });
+    });
+
+    // Check URL query param on load
+    const urlParams = new URLSearchParams(window.location.search);
+    const tagParam = urlParams.get('tag');
+    if (tagParam) {
+      // Find button corresponding to this tag slug
+      const selector = `.tag-${tagParam}`;
+      filterPosts(selector);
+      
+      // Highlight the correct button
+      const activeBtn = document.querySelector(`.tag-btn[data-filter="${selector}"]`);
+      if (activeBtn) {
+          filterButtons.forEach(b => b.classList.remove('active'));
+          activeBtn.classList.add('active');
+      }
+    }
+  });
+</script>
+
+<style>
+  .blog-filter-container {
+    margin-top: 2rem;
+  }
+  .tag-cloud {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+  }
+  .tag-btn {
+    margin: 0.25rem;
+    padding: 0.5rem 1rem;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    background: white;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .tag-btn:hover, .tag-btn.active {
+    background: #159957;
+    color: white;
+    border-color: #159957;
+  }
+  .post-item {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eee;
+  }
+  .post-meta {
+    color: #666;
+    font-size: 0.9em;
+    margin-bottom: 0.5rem;
+  }
+  .tag-label {
+    display: inline-block;
+    background: #e9ecef;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    font-size: 0.85em;
+    margin-right: 0.5rem;
+    color: #495057;
+  }
+</style>
+
+<p style="text-align: center; margin-top: 2rem;">
+  <a href="./blog/" class="btn btn-outline">浏览全部文章 (View All) &rarr;</a>
+</p>
+
+<style>
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+.feature-card {
+  padding: 1.5rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  background: #f9f9f9;
+  text-align: center;
+}
+.feature-card h3 {
+  margin-top: 0;
+  color: #159957;
+}
+.feature-card .btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background: #159957;
+  color: white;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 0.9em;
+}
+.feature-card .btn:hover {
+  background: #1e7e34;
+}
+.btn-outline {
+  border: 2px solid #159957;
+  color: #159957;
+  background: transparent;
+  padding: 0.6rem 1.2rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.btn-outline:hover {
+  background: #159957;
+  color: white;
+}
+</style>
+
 
 
       <div class="ml-embedded" data-form="K8yClL"></div>

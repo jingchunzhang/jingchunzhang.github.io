@@ -1,22 +1,24 @@
 ---
-
-title: "儿童1型糖尿病患者糖尿病酮症酸中毒的炎症特征对比清单"
+author_email: yyh@tangyou.space
+author_id: yyh
+author_role: 糖尿病治疗医生
+categories:
+- 糖尿病预防
 date: 2026-03-17 08:42:08 +0800
+description: inflammatory profile of diabetic ketoacidosis in children with type 1
+  diabetes - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
 lang: zh
-description: "inflammatory profile of diabetic ketoacidosis in children with type 1 diabetes - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+review_status: draft
 slug: inflammatory-profile-of-diabetic-ketoacidosis-in-c
-
-author_id: "yyh"
-author_email: "yyh@tangyou.space"
-author_role: "糖尿病治疗医生"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
-
+tags:
+- Emotion
+- Treatment
+- 健康
+- 糖尿病
+- 饮食
+title: 儿童1型糖尿病患者糖尿病酮症酸中毒的炎症特征对比清单
 ---
 # 儿童1型糖尿病患者糖尿病酮症酸中毒的炎症特征对比清单
 

@@ -1,10 +1,14 @@
 ---
-layout: default
-title: Sleep Repair in Recovery
-description: "Treat sleep as part of your recovery system: rhythm, depth, breathing screening, and evening habits shape next-day metabolism and adherence."
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: 'Treat sleep as part of your recovery system: rhythm, depth, breathing
+  screening, and evening habits shape next-day metabolism and adherence.'
 lang: en
+layout: default
+tags:
+- Rehabilitation
+- Sleep
+title: Sleep Repair in Recovery
 translation_key: rehab-sleep-index
 ---
 # Sleep Repair in Recovery

@@ -1,23 +1,26 @@
 ---
-title: "春节胡吃海喝还能稳血糖？我陪糖友老爸3年的实战经验全分享"
+author_email: zyn@tangyou.space
+author_id: zyn
+author_role: 医学院学生
+categories:
+- 糖尿病预防
 date: 2026-03-19 09:33:54 +0800
-description: "春节胡吃海喝还能稳血糖？我陪糖友老爸3年的实战经验全分享 - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: 春节胡吃海喝还能稳血糖？我陪糖友老爸3年的实战经验全分享 - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: 2026-03-19-glucose-during-spring-a
-
-author_id: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- 糖尿病
+- 饮食
+- Diet
+title: 春节胡吃海喝还能稳血糖？我陪糖友老爸3年的实战经验全分享
 ---
 
 # 春节胡吃海喝还能稳血糖？我陪糖友老爸3年的实战经验全分享
-![春节餐桌上的血糖仪与清淡搭配餐食](https://source.unsplash.com/1600x900/?spring festival,glucose meter)
+![春节餐桌上的血糖仪与清淡搭配餐食](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80 festival,glucose meter)
 
 作为一个陪着二型糖友老爸控糖4年的过来人，我最头疼的就是每年春节：一桌子高糖高油的硬菜，走亲戚必塞的蜜饯糖果，还有坐下来就是一下午的麻将局，稍不注意春节期间血糖就直接飙红。前两年踩过无数坑，甚至大年初一跑过急诊，现在我们家已经能做到整个春节血糖都稳在正常区间，今天就把所有经验都掏给你们，不管是自己控糖还是家里有糖友，都能用得上。
 
@@ -40,7 +43,7 @@ download_url: ""
 很多人觉得控糖就要每天走一万步，春节根本没那个时间，其实只要找对时机就行：吃完饭后别马上坐着打麻将、看电视，站着和亲戚聊15分钟天，或者在小区里慢走20分钟，餐后1小时左右再做10分钟的拉伸、原地踏步，我测过我爸的数值，这么做餐后血糖能降1.5-2个点，效果特别明显。
 ### 第四步：监测别偷懒，异常及时调整
 春节别嫌测血糖麻烦，每天至少测1次空腹、1次餐后两小时，如果当天吃了点甜的，就多测1次，要是血糖稍微偏高一点，下一顿就减掉一半主食，多吃2碗青菜，基本第二天就能拉回来，不会连续飘高。
-![中老年人餐后在小区散步](https://source.unsplash.com/1600x900/?old people,walking after meal)
+![中老年人餐后在小区散步](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80 people,walking after meal)
 
 ## 真实案例：去年春节我爸7天血糖全达标
 去年春节我们就是按着这个方法来的，整个假期7天我爸的空腹血糖最高6.2，餐后两小时最高7.5，完全在医生要求的合理区间里，节后复查医生都夸我们控得好。

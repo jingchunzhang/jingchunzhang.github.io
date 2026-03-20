@@ -1,11 +1,13 @@
 ---
-layout: default
-title: 长期饮食策略：康复期如何吃得稳、吃得久
-description: "- 康复期长期饮食策略：从“控得住”到“吃得久”
-- 康复期坚果与种子怎么吃：脂肪质量、份量与心血管风险"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: '- 康复期长期饮食策略：从“控得住”到“吃得久” - 康复期坚果与种子怎么吃：脂肪质量、份量与心血管风险'
 lang: zh
+layout: default
+tags:
+- Diet
+- Rehabilitation
+title: 长期饮食策略：康复期如何吃得稳、吃得久
 translation_key: rehab-diet-index
 ---
 # 长期饮食策略：康复期如何吃得稳、吃得久

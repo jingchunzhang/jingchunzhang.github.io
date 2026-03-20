@@ -1,28 +1,37 @@
 ---
-layout: default
-title: "Gestational Diabetes Night Glucose Routine: Align Dinner, Night Wakings, and Next-Morning Fasting"
-description: "A practical nighttime care framework for gestational diabetes treatment: dinner timing, optional bedtime snacks, night-waking decisions, and fasting review logic."
+author: gwx
+author_email: gwx@tangyou.space
+author_id: gwx
+author_name: gwx
+author_role: 糖尿病康复期病人
+author_title: 糖尿病康复期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-12
+description: 'A practical nighttime care framework for gestational diabetes treatment:
+  dinner timing, optional bedtime snacks, night-waking decisions, and fasting review
+  logic.'
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/American-Diabetes-Association-Complete-Guide-to-Diabetes-The-Ultimate-Home-Reference-from-the-Diabetes-Experts.pdf
+ebook_id: 20260309-ada-complete-guide
 lang: en
+layout: default
+review_status: draft
+reviewer_email: kelvin@tangyou.space
+reviewer_id: kelvin
+reviewer_name: kelvin
+reviewer_role: 糖尿病研究人员
+slug: gestational-diabetes-night-glucose-routine-en
+tags:
+- Gestational Diabetes
+- Treatment
+- Sleep
+- Treatment Care
+- Pregnancy Sleep
+- Night Glucose
+title: 'Gestational Diabetes Night Glucose Routine: Align Dinner, Night Wakings, and
+  Next-Morning Fasting'
 translation_key: gestational-diabetes-night-glucose-routine
-tags: [Gestational Diabetes, Night Glucose, Pregnancy Sleep, Treatment Care]
-author: "gwx"
-author_title: "糖尿病康复期病人"
-author_id: "gwx"
-author_name: "gwx"
-author_email: "gwx@tangyou.space"
-author_role: "糖尿病康复期病人"
-reviewer_id: "kelvin"
-reviewer_name: "kelvin"
-reviewer_email: "kelvin@tangyou.space"
-reviewer_role: "糖尿病研究人员"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-ada-complete-guide"
-download_url: "https://download.tangyou.space/20260309/American-Diabetes-Association-Complete-Guide-to-Diabetes-The-Ultimate-Home-Reference-from-the-Diabetes-Experts.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "gestational-diabetes-night-glucose-routine-en"
 ---
 
 # Gestational Diabetes Night Glucose Routine: Align Dinner, Night Wakings, and Next-Morning Fasting

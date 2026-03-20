@@ -1,24 +1,29 @@
 ---
-layout: post
-title: "Diabetic-Friendly Home Cooking: Simple Techniques to Control Blood Sugar"
-date: 2026-03-15
-lang: en
-translation_key: diabetic-cooking-everyone
-stage: treatment
-dimension: diet
+author_email: wep@tangyou.space
 author_id: wep
 author_name: wep
-author_email: wep@tangyou.space
 author_role: Family caregiver of diabetes patient
-reviewer_id: yyh
-reviewer_name: Dr. Medical Professional
-reviewer_email: yyh@tangyou.space
-reviewer_role: Diabetes care physician
-review_status: reviewed
+date: 2026-03-15
+description: Master diabetic-friendly cooking techniques at home. Learn ingredient
+  selection, preparation methods, and practical tips to create healthy meals that
+  keep blood sugar stable.
+dimension: diet
 disclaimer_key: medical-information-only
-description: Master diabetic-friendly cooking techniques at home. Learn ingredient selection, preparation methods, and practical tips to create healthy meals that keep blood sugar stable.
 image: /assets/images/diabetic-cooking-intro.jpg
 image_alt: Healthy diabetic meal preparation in home kitchen
+lang: en
+layout: post
+review_status: reviewed
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: Dr. Medical Professional
+reviewer_role: Diabetes care physician
+stage: treatment
+tags:
+- Diet
+- Treatment
+title: 'Diabetic-Friendly Home Cooking: Simple Techniques to Control Blood Sugar'
+translation_key: diabetic-cooking-everyone
 ---
 
 ## Why Cooking Methods Matter for Diabetes

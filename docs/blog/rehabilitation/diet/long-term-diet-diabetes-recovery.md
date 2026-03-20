@@ -1,10 +1,13 @@
 ---
-layout: default
-title: 康复期长期饮食策略：从“控得住”到“吃得久”
-description: "康复期的饮食不再是短期冲刺，也不是天天紧绷的“控糖任务”，而是要把控糖变成一种**稳定、低摩擦、可复盘的生活方式**。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: 康复期的饮食不再是短期冲刺，也不是天天紧绷的“控糖任务”，而是要把控糖变成一种**稳定、低摩擦、可复盘的生活方式**。
 lang: zh
+layout: default
+tags:
+- Diet
+- Rehabilitation
+title: 康复期长期饮食策略：从“控得住”到“吃得久”
 translation_key: rehab-diet-longterm
 ---
 # 康复期长期饮食策略：从“控得住”到“吃得久”

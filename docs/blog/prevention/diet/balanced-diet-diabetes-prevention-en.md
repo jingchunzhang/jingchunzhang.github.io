@@ -1,10 +1,14 @@
 ---
-layout: default
-title: "Nutritional Wisdom: Scientific Diabetes Prevention Through Balanced Diet"
-description: "In today's era of information explosion, various claims about diabetes dietary prevention are circulating on the internet."
-author: "danezhang"
-date: "2026-01-15"
+author: danezhang
+date: '2026-01-15'
+description: In today's era of information explosion, various claims about diabetes
+  dietary prevention are circulating on the internet.
 lang: en
+layout: default
+tags:
+- Diet
+- Prevention
+title: 'Nutritional Wisdom: Scientific Diabetes Prevention Through Balanced Diet'
 translation_key: prevention/diet/balanced-diet-diabetes-prevention
 ---
 ## Preface: The Diet Dilemma in the Era of Information Explosion

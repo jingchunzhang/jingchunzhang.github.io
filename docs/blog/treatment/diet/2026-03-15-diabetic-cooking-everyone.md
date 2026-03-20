@@ -1,23 +1,26 @@
 ---
-layout: post
-title: "糖尿病患者的居家烹饪指南：简单方法预防血糖波动"
-description: "学习如何选择食材、掌握烹饪技巧，让糖尿病患者在家也能吃出健康。包括实用检查清单和常见误区。"
-date: 2026-03-15
-lang: zh
-categories: blog treatment diet
-tags: 糖尿病 烹饪 饮食管理 血糖控制
+author_email: wep@tangyou.space
 author_id: wep
 author_name: wep
-author_email: wep@tangyou.space
 author_role: 糖尿病病人家属
+categories: blog treatment diet
+date: 2026-03-15
+description: 学习如何选择食材、掌握烹饪技巧，让糖尿病患者在家也能吃出健康。包括实用检查清单和常见误区。
+disclaimer_key: medical-information-only
+lang: zh
+layout: post
+review_status: reviewed
+reviewer_email: yyh@tangyou.space
 reviewer_id: yyh
 reviewer_name: yyh
-reviewer_email: yyh@tangyou.space
 reviewer_role: 糖尿病治疗医生
-review_status: reviewed
-disclaimer_key: medical-information-only
-translation_key: diabetic-cooking-everyone
 slug: 2026-03-15-diabetic-cooking-everyone
+tags:
+- 糖尿病 烹饪 饮食管理 血糖控制
+- Diet
+- Treatment
+title: 糖尿病患者的居家烹饪指南：简单方法预防血糖波动
+translation_key: diabetic-cooking-everyone
 ---
 
 ## 为什么烹饪方式对糖尿病患者这么重要？

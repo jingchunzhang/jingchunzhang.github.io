@@ -1,23 +1,28 @@
 ---
-title: "Does 12 Months of Benfotiamine Actually Improve Nerve and Tissue Health for People With Diabetes? An Evidence-Based Breakdown"
+author_email: zhl@tangyou.space
+author_id: zhl
+author_role: 糖尿病病人家属
+categories:
+- 糖尿病预防
 date: 2026-03-20 09:21:21 +0800
-description: "Does 12 Months of Benfotiamine Actually Improve Nerve and Tissue Health for People With Diabetes? An Evidence-Based Breakdown - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: Does 12 Months of Benfotiamine Actually Improve Nerve and Tissue Health
+  for People With Diabetes? An Evidence-Based Breakdown - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: effects-of-benfotiamine-treatment-over-12-months-o
-
-author_id: "zhl"
-author_email: "zhl@tangyou.space"
-author_role: "糖尿病病人家属"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- Exercise
+- 糖尿病
+- 饮食
+title: Does 12 Months of Benfotiamine Actually Improve Nerve and Tissue Health for
+  People With Diabetes? An Evidence-Based Breakdown
 ---
 
 # Does 12 Months of Benfotiamine Actually Improve Nerve and Tissue Health for People With Diabetes? An Evidence-Based Breakdown
-![Benfotiamine supplement for supporting diabetic nerve and tissue health](https://source.unsplash.com/1600x900/?diabetes,nerve,supplement)
+![Benfotiamine supplement for supporting diabetic nerve and tissue health](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 For people living with diabetes or prediabetes, nerve and small blood vessel damage is one of the most common and disabling long-term complications, often starting with mild numbness or tingling in the feet long before it shows up on standard test results. Many over-the-counter supplements claim to support nerve health, but few have long-term data backing their effects. This guide breaks down peer-reviewed research on *effects of benfotiamine treatment over 12 months on morphometric, neurophysiological and clinical measures*, with practical, actionable insights tailored to at-risk groups.
 

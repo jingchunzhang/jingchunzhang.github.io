@@ -1,28 +1,37 @@
 ---
-layout: default
-title: "Comfort Food During Diabetes Treatment: Keep the Satisfaction Without Losing Glucose Stability"
-description: "A practical long-form guide to rebuilding comfort food for diabetes treatment: warmer meals, better satiety, smaller glucose swings, and a home system you can actually sustain."
+author: kelvin
+author_email: kelvin@tangyou.space
+author_id: kelvin
+author_name: kelvin
+author_role: 糖尿病研究人员
+author_title: 糖尿病研究人员
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-10
+description: 'A practical long-form guide to rebuilding comfort food for diabetes
+  treatment: warmer meals, better satiety, smaller glucose swings, and a home system
+  you can actually sustain.'
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub
+ebook_id: 20260310-diabetes-comfort-food-cookbook
 lang: en
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: comfort-food-diabetes-treatment-en
+tags:
+- Treatment
+- Home Cooking
+- Treatment Stage
+- Comfort Food
+- Diet
+- Diabetes Diet
+title: 'Comfort Food During Diabetes Treatment: Keep the Satisfaction Without Losing
+  Glucose Stability'
 translation_key: comfort-food-diabetes-treatment
-tags: [Diabetes Diet, Treatment Stage, Comfort Food, Home Cooking]
-author: "kelvin"
-author_title: "糖尿病研究人员"
-author_id: "kelvin"
-author_name: "kelvin"
-author_email: "kelvin@tangyou.space"
-author_role: "糖尿病研究人员"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260310-diabetes-comfort-food-cookbook"
-download_url: "https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "comfort-food-diabetes-treatment-en"
 ---
 
 # Comfort Food During Diabetes Treatment: Keep the Satisfaction Without Losing Glucose Stability

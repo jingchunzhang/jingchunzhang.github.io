@@ -1,10 +1,14 @@
 ---
-layout: default
-title: "Emotion Management: Preventing Diabetes Through Mental Health"
-description: "Among the four pillars of diabetes prevention, **emotion management** is often the most overlooked."
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: Among the four pillars of diabetes prevention, **emotion management**
+  is often the most overlooked.
 lang: en
+layout: default
+tags:
+- Emotion
+- Prevention
+title: 'Emotion Management: Preventing Diabetes Through Mental Health'
 translation_key: prevention/emotion/index
 ---
 # Emotion Management: Preventing Diabetes Through Mental Health

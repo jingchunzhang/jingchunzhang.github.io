@@ -1,11 +1,13 @@
 ---
-layout: default
-title: 心理康复：把控糖变成生活方式
-description: "- 康复期心理修复：让控糖从“努力”变成“更顺手”
-- 康复期的目标达成“6步法”：把计划变成可执行的行动"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: '- 康复期心理修复：让控糖从“努力”变成“更顺手” - 康复期的目标达成“6步法”：把计划变成可执行的行动'
 lang: zh
+layout: default
+tags:
+- Emotion
+- Rehabilitation
+title: 心理康复：把控糖变成生活方式
 translation_key: rehab-emotion-index
 ---
 # 心理康复：把控糖变成生活方式

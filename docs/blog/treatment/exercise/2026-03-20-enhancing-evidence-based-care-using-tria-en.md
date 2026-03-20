@@ -1,23 +1,28 @@
 ---
-title: "I Tried Using EHR Trial Emulation to Boost Evidence-Based Care – Here’s What Worked (And What Totally Flopped)"
+author_email: zhl@tangyou.space
+author_id: zhl
+author_role: 糖尿病病人家属
+categories:
+- 糖尿病预防
 date: 2026-03-20 09:12:53 +0800
-description: "I Tried Using EHR Trial Emulation to Boost Evidence-Based Care – Here’s What Worked (And What Totally Flopped) - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: I Tried Using EHR Trial Emulation to Boost Evidence-Based Care – Here’s
+  What Worked (And What Totally Flopped) - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: enhancing-evidence-based-care-using-trial-emulatio
-
-author_id: "zhl"
-author_email: "zhl@tangyou.space"
-author_role: "糖尿病病人家属"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- Exercise
+- 糖尿病
+- 饮食
+title: I Tried Using EHR Trial Emulation to Boost Evidence-Based Care – Here’s What
+  Worked (And What Totally Flopped)
 ---
 
 # I Tried Using EHR Trial Emulation to Boost Evidence-Based Care – Here’s What Worked (And What Totally Flopped)
-![Clinician reviewing electronic health record data for real-world research](https://source.unsplash.com/1600x900/?electronic-health-records,clinical-research)
+![Clinician reviewing electronic health record data for real-world research](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 As a quality improvement lead at a 450-bed community hospital for the past 5 years, I’ve spent countless hours trying to close gaps between evidence-based care guidelines and what actually works for our patient population. For years, we ran into the same frustrating wall: randomized controlled trials (RCTs), the gold standard of medical evidence, almost always exclude the patients that make up 60% of our case load: elderly adults with multiple chronic conditions, low socioeconomic status, and limited access to primary care. Eighteen months ago, our team decided to test a method we’d been reading about: enhancing evidence-based care using trial emulation in electronic health records: real-world effects have been touted in top journals, but we had no idea if it would work for a small, underfunded community hospital like ours. This is our unfiltered experience, the mistakes we made, and the patient outcomes we delivered that convinced me this tool is here to stay.
 
@@ -39,7 +44,7 @@ After we fixed the data issue and ran a second analysis, we presented our result
 
 ### The Successes: When It Actually Moved the Needle on Patient Care
 After those missteps, we restarted the project following FDA target trial emulation guidelines, and the results were game-changing.
-![Clinical data team analyzing real-world patient outcome metrics](https://source.unsplash.com/1600x900/?clinical-data-analysis,healthcare-quality-improvement)
+![Clinical data team analyzing real-world patient outcome metrics](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 First, we worked with frontline clinicians to define a clear, relevant research question: “For adult post-op patients with type 2 diabetes or steroid-induced hyperglycemia, what insulin regimen reduces severe hypoglycemia risk while maintaining glucose target adherence?” Then we spent 4 weeks cleaning our EHR dataset: we used an open-source NLP tool to extract data from free-text notes, cross-validated 10% of entries manually to ensure 93% accuracy, and ended up with a clean, de-identified dataset of 2,847 patients treated between 2020 and 2022.
 
 We designed the emulated trial exactly like a real RCT: we defined clear eligibility and exclusion criteria, matched intervention and control groups on 11 confounding variables (age, BMI, A1c level, pre-op kidney function, steroid use, surgery type, etc.) to eliminate bias, and defined our primary outcomes (severe hypoglycemia rate, glucose target adherence within 72 hours) upfront.

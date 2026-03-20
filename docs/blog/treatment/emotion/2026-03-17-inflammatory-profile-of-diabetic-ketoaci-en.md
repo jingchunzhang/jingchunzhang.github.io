@@ -1,22 +1,25 @@
 ---
-
-title: "Inflammatory Profile of Diabetic Ketoacidosis in Children with Type 1 Diabetes: A Parent’s & Caregiver’s Guide to Avoiding Common Pitfalls"
+author_email: yyh@tangyou.space
+author_id: yyh
+author_role: 糖尿病治疗医生
+categories:
+- 糖尿病预防
 date: 2026-03-17 08:42:08 +0800
+description: inflammatory profile of diabetic ketoacidosis in children with type 1
+  diabetes - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
 lang: en
-description: "inflammatory profile of diabetic ketoacidosis in children with type 1 diabetes - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+review_status: draft
 slug: inflammatory-profile-of-diabetic-ketoacidosis-in-c
-
-author_id: "yyh"
-author_email: "yyh@tangyou.space"
-author_role: "糖尿病治疗医生"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
-
+tags:
+- Emotion
+- Treatment
+- 健康
+- 糖尿病
+- 饮食
+title: 'Inflammatory Profile of Diabetic Ketoacidosis in Children with Type 1 Diabetes:
+  A Parent’s & Caregiver’s Guide to Avoiding Common Pitfalls'
 ---
 # Inflammatory Profile of Diabetic Ketoacidosis in Children with Type 1 Diabetes: A Parent’s & Caregiver’s Guide to Avoiding Common Pitfalls  
 

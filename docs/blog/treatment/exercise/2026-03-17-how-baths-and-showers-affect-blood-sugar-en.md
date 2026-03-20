@@ -1,20 +1,24 @@
 ---
-title: "how baths and showers affect blood sugar for people living with diabetes"
+author_email: yyh@tangyou.space
+author_id: yyh
+author_role: 糖尿病治疗医生
+categories:
+- 糖尿病预防
 date: 2026-03-17 08:37:21 +0800
+description: how baths and showers affect blood sugar for people living with diabetes
+  - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
 lang: en
-description: "how baths and showers affect blood sugar for people living with diabetes - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+review_status: draft
 slug: how-baths-and-showers-affect-blood-sugar-for-peopl
-
-author_id: "yyh"
-author_email: "yyh@tangyou.space"
-author_role: "糖尿病治疗医生"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- Exercise
+- 糖尿病
+- 饮食
+title: how baths and showers affect blood sugar for people living with diabetes
 ---
 
 ![Comparison of how baths and showers affect blood sugar for people with diabetes](https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80) *Image: Visual comparison of bathing and showering effects on blood sugar for diabetes management*  

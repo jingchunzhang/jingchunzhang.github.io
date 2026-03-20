@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "孕期睡眠规律与妊娠糖尿病预防：先把夜晚稳定下来"
-description: "从作息规律、夜间醒来管理到晚间进食边界，建立孕期可执行的睡眠策略，降低妊娠糖尿病风险。"
+author: gwx
+author_email: gwx@tangyou.space
+author_id: gwx
+author_name: gwx
+author_role: 糖尿病康复期病人
+author_title: 糖尿病康复期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-12
+description: 从作息规律、夜间醒来管理到晚间进食边界，建立孕期可执行的睡眠策略，降低妊娠糖尿病风险。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/American-Diabetes-Association-Complete-Guide-to-Diabetes-The-Ultimate-Home-Reference-from-the-Diabetes-Experts.pdf
+ebook_id: 20260309-ada-complete-guide
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: kelvin@tangyou.space
+reviewer_id: kelvin
+reviewer_name: kelvin
+reviewer_role: 糖尿病研究人员
+slug: pregnancy-sleep-routine-gestational-diabetes-prevention
+tags:
+- 孕期睡眠
+- Prevention
+- Sleep
+- 糖尿病预防
+- 妊娠糖尿病
+- 作息管理
+title: 孕期睡眠规律与妊娠糖尿病预防：先把夜晚稳定下来
 translation_key: pregnancy-sleep-routine-gestational-diabetes-prevention
-tags: [妊娠糖尿病, 孕期睡眠, 糖尿病预防, 作息管理]
-author: "gwx"
-author_title: "糖尿病康复期病人"
-author_id: "gwx"
-author_name: "gwx"
-author_email: "gwx@tangyou.space"
-author_role: "糖尿病康复期病人"
-reviewer_id: "kelvin"
-reviewer_name: "kelvin"
-reviewer_email: "kelvin@tangyou.space"
-reviewer_role: "糖尿病研究人员"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-ada-complete-guide"
-download_url: "https://download.tangyou.space/20260309/American-Diabetes-Association-Complete-Guide-to-Diabetes-The-Ultimate-Home-Reference-from-the-Diabetes-Experts.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "pregnancy-sleep-routine-gestational-diabetes-prevention"
 ---
 
 # 孕期睡眠规律与妊娠糖尿病预防：先把夜晚稳定下来

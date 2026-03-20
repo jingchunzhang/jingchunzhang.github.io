@@ -1,10 +1,16 @@
 ---
-layout: default
-title: "Sleep Repair in Recovery: Stabilize Rhythm and Deep Sleep to Support Glucose Control"
-description: "In the recovery phase, many people notice a frustrating pattern: **diet and exercise look good on paper, but a few bad nights can still derail glucose, appet..."
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: 'In the recovery phase, many people notice a frustrating pattern: **diet
+  and exercise look good on paper, but a few bad nights can still derail glucose,
+  appet...'
 lang: en
+layout: default
+tags:
+- Rehabilitation
+- Sleep
+title: 'Sleep Repair in Recovery: Stabilize Rhythm and Deep Sleep to Support Glucose
+  Control'
 translation_key: rehab-sleep-repair
 ---
 # Sleep Repair in Recovery: Stabilize Rhythm and Deep Sleep to Support Glucose Control

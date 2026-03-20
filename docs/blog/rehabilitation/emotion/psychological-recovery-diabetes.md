@@ -1,12 +1,13 @@
 ---
-layout: default
-title: 康复期心理修复：让控糖从“努力”变成“更顺手”
-description: "- 你如何在忙碌、压力、社交、疲惫时仍能做出更好的选择？
-- 你如何面对偶尔失控，而不是一失控就彻底放弃？
-- 你如何把控糖变成生活方式，而不是永远的“任务清单”？"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: '- 你如何在忙碌、压力、社交、疲惫时仍能做出更好的选择？ - 你如何面对偶尔失控，而不是一失控就彻底放弃？ - 你如何把控糖变成生活方式，而不是永远的“任务清单”？'
 lang: zh
+layout: default
+tags:
+- Emotion
+- Rehabilitation
+title: 康复期心理修复：让控糖从“努力”变成“更顺手”
 translation_key: rehab-emotion-psych
 ---
 # 康复期心理修复：让控糖从“努力”变成“更顺手”

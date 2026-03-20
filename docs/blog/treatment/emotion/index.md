@@ -1,10 +1,13 @@
 ---
-layout: default
-title: 情绪与压力管理：治疗期的“隐形用药”
-description: "了解情绪与压力管理：治疗期的“隐形用药”，以及其与糖尿病管理和预防的关系。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: 了解情绪与压力管理：治疗期的“隐形用药”，以及其与糖尿病管理和预防的关系。
 lang: zh
+layout: default
+tags:
+- Emotion
+- Treatment
+title: 情绪与压力管理：治疗期的“隐形用药”
 translation_key: treatment-emotion-index
 ---
 # 情绪与压力管理：治疗期的“隐形用药”

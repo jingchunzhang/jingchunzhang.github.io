@@ -1,10 +1,14 @@
 ---
-layout: default
-title: "Psychological Recovery in Diabetes: Make Healthy Choices Feel Easier"
-description: "In the recovery phase, many people hit a “this shouldn’t be hard—but it is” problem:"
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: 'In the recovery phase, many people hit a “this shouldn’t be hard—but
+  it is” problem:'
 lang: en
+layout: default
+tags:
+- Emotion
+- Rehabilitation
+title: 'Psychological Recovery in Diabetes: Make Healthy Choices Feel Easier'
 translation_key: rehab-emotion-psych
 ---
 # Psychological Recovery in Diabetes: Make Healthy Choices Feel Easier

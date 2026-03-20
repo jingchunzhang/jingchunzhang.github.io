@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "加拿大临床语境下的治疗期控糖：家庭可执行的护理框架"
-description: "结合《Practical diabetes care for Canadian professionals》提炼跨文化、跨场景可执行的糖尿病治疗期护理策略。"
+author: zyn
+author_email: zyn@tangyou.space
+author_id: zyn
+author_name: zyn
+author_role: 医学院学生
+author_title: 医学院学生
+automation_id: ebook-delivery-20260313
+cta_form_id: ebook-signup
 date: 2026-03-13
+description: 结合《Practical diabetes care for Canadian professionals》提炼跨文化、跨场景可执行的糖尿病治疗期护理策略。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260313/Practical-diabetes-care-for-Canadian-health-care-professionals.pdf
+ebook_id: practical-care-canada-20260313
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: practical-diabetes-care-canada
+tags:
+- Treatment
+- 饮食管理
+- 糖尿病治疗
+- 自我监测
+- Diet
+- 加拿大护理
+title: 加拿大临床语境下的治疗期控糖：家庭可执行的护理框架
 translation_key: practical-diabetes-care-canada
-tags: [糖尿病治疗, 加拿大护理, 饮食管理, 自我监测]
-author: "zyn"
-author_title: "医学院学生"
-author_id: "zyn"
-author_name: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "practical-care-canada-20260313"
-download_url: "https://download.tangyou.space/20260313/Practical-diabetes-care-for-Canadian-health-care-professionals.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260313"
-slug: "practical-diabetes-care-canada"
 ---
 
 # 加拿大临床语境下的治疗期控糖：家庭可执行的护理框架

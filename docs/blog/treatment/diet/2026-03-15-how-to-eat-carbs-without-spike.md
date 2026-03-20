@@ -1,21 +1,28 @@
 ---
-title: "治疗期如何科学吃碳水不升糖：进餐顺序与搭配技巧全攻略"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
+categories:
+- 糖尿病治疗
 date: 2026-03-15
+description: 从治疗期视角，详解碳水化合物与血糖的关系，提供进餐顺序、食物搭配、份量控制的实用技巧，帮助糖友科学摄入碳水。
+disclaimer_key: medical-information-only
 lang: zh
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+tags:
+- 碳水管理
+- Treatment
+- 治疗期饮食
+- 进餐顺序
+- Diet
+- 血糖控制
+title: 治疗期如何科学吃碳水不升糖：进餐顺序与搭配技巧全攻略
 translation_key: how-to-eat-carbs-without-spike
-description: "从治疗期视角，详解碳水化合物与血糖的关系，提供进餐顺序、食物搭配、份量控制的实用技巧，帮助糖友科学摄入碳水。"
-categories: ["糖尿病治疗"]
-tags: [治疗期饮食, 碳水管理, 血糖控制, 进餐顺序]
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
 ---
 
 # 治疗期如何科学吃碳水不升糖：进餐顺序与搭配技巧全攻略

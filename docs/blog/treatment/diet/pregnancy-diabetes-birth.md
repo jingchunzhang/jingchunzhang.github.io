@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "妊娠期糖尿病管理全流程：从孕期到分娩前的饮食与监测"
-description: "基于《Pregnancy, diabetes, and birth》整理妊娠期糖尿病的治疗期实用框架，覆盖餐盘、监测、活动、就诊协同。"
+author: zyn
+author_email: zyn@tangyou.space
+author_id: zyn
+author_name: zyn
+author_role: 医学院学生
+author_title: 医学院学生
+automation_id: ebook-delivery-20260313
+cta_form_id: ebook-signup
 date: 2026-03-13
+description: 基于《Pregnancy, diabetes, and birth》整理妊娠期糖尿病的治疗期实用框架，覆盖餐盘、监测、活动、就诊协同。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260313/Pregnancy,-diabetes,-and-birth-a-management-guide.pdf
+ebook_id: pregnancy-birth-20260313
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: pregnancy-diabetes-birth
+tags:
+- 产检协同
+- Treatment
+- 孕期饮食
+- 血糖监测
+- Diet
+- 妊娠糖尿病
+title: 妊娠期糖尿病管理全流程：从孕期到分娩前的饮食与监测
 translation_key: pregnancy-diabetes-birth
-tags: [妊娠糖尿病, 孕期饮食, 血糖监测, 产检协同]
-author: "zyn"
-author_title: "医学院学生"
-author_id: "zyn"
-author_name: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "pregnancy-birth-20260313"
-download_url: "https://download.tangyou.space/20260313/Pregnancy,-diabetes,-and-birth-a-management-guide.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260313"
-slug: "pregnancy-diabetes-birth"
 ---
 
 # 妊娠期糖尿病管理全流程：从孕期到分娩前的饮食与监测

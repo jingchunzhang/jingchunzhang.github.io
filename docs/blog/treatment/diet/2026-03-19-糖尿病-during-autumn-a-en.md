@@ -1,23 +1,28 @@
 ---
-title: "My 3 Years of Managing Diabetes During Autumn: What Actually Works (And What Messed Up My Blood Sugar Badly)"
+author_email: zyn@tangyou.space
+author_id: zyn
+author_role: 医学院学生
+categories:
+- 糖尿病预防
 date: 2026-03-19 09:23:56 +0800
-description: "My 3 Years of Managing Diabetes During Autumn: What Actually Works (And What Messed Up My Blood Sugar Badly) - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: 'My 3 Years of Managing Diabetes During Autumn: What Actually Works (And
+  What Messed Up My Blood Sugar Badly) - 糖尿病知识全面解读'
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: 2026-03-19-糖尿病-during-autumn-a
-
-author_id: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- 糖尿病
+- 饮食
+- Diet
+title: 'My 3 Years of Managing Diabetes During Autumn: What Actually Works (And What
+  Messed Up My Blood Sugar Badly)'
 ---
 
 # My 3 Years of Managing Diabetes During Autumn: What Actually Works (And What Messed Up My Blood Sugar Badly)
-![Warm, diabetes-friendly autumn meal with roasted root vegetables, spiced baked apple, and herbal tea](https://source.unsplash.com/1600x900/?diabetes,autumn,healthy,food)
+![Warm, diabetes-friendly autumn meal with roasted root vegetables, spiced baked apple, and herbal tea](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 I was diagnosed with type 2 diabetes 4 years ago, and my first autumn after diagnosis was an unmitigated disaster for my blood sugar. I’d spent all summer getting my A1c down to 6.2, feeling proud of my progress, only to watch my readings spike out of control as soon as the leaves started turning. I drank fresh pressed apple cider at a farmers market thinking it was “healthy natural produce,” ate whole bags of roasted chestnuts on walks, and loaded up on pumpkin bread that my neighbor baked for the block – all without counting a single carb. By the end of October, my A1c had jumped back up to 7.1, and I felt like I’d wasted all the hard work I put in that summer. Over the next 3 years, I tested every tip, trick, and hack I could find for managing diabetes during autumn, and I’ve finally landed on a routine that lets me enjoy all the cozy fall flavors I love while keeping my blood sugar stable. Today I’m sharing everything I’ve learned, the mistakes I made so you don’t have to, and the habits that actually work.
 

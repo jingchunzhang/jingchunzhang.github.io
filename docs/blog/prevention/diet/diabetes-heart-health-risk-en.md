@@ -1,23 +1,30 @@
 ---
-title: "Diabetes And Heart Health: Understanding The Risks"
+author_email: zzh@tangyou.space
+author_id: zzh
+author_name: zzh
+author_role: 糖尿病治疗期病人
+categories:
+- prevention
+- diet
 date: 2026-03-16
+description: 'diabetes and heart health: understanding the risks - Comprehensive guide'
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260311/Diabetic-Meal-Prep-for-Beginners-Cookbook-with-30-Day-Meal-Plan-to-Prevent-and-Reverse-Diabetes-Simple-and-Healthy-Recipes.epub
 lang: en
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: diabetes-heart-health-risk-en
+tags:
+- 健康
+- 预防
+- Prevention
+- 糖尿病
+- Diet
+title: 'Diabetes And Heart Health: Understanding The Risks'
 translation_key: diabetes-heart-health-risk
-description: "diabetes and heart health: understanding the risks - Comprehensive guide"
-categories: ["prevention", "diet"]
-tags: ["糖尿病", "健康", "预防"]
-author_id: "zzh"
-author_name: "zzh"
-author_email: "zzh@tangyou.space"
-author_role: "糖尿病治疗期病人"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-download_url: "https://download.tangyou.space/20260311/Diabetic-Meal-Prep-for-Beginners-Cookbook-with-30-Day-Meal-Plan-to-Prevent-and-Reverse-Diabetes-Simple-and-Healthy-Recipes.epub"
-slug: "diabetes-heart-health-risk-en"
 ---
 
 # Diabetes and Heart Health: Understanding the Risks  

@@ -1,22 +1,24 @@
 ---
-
-title: "儿童新发1型糖尿病体重、新冠与自身免疫的关联：一位妈妈的血泪经验与科学指南"
+author_email: yyh@tangyou.space
+author_id: yyh
+author_role: 糖尿病治疗医生
+categories:
+- 糖尿病预防
 date: 2026-03-17 08:52:10 +0800
+description: 'associations of body weight and covid-19 with autoimmunity in pediatric
+  new-onset type 1 diabetes: r - 糖尿病知识全面解读'
+disclaimer_key: medical-information-only
+download_url: ''
 lang: zh
-description: "associations of body weight and covid-19 with autoimmunity in pediatric new-onset type 1 diabetes: r - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+review_status: draft
 slug: associations-of-body-weight-and-covid-19-with-auto
-
-author_id: "yyh"
-author_email: "yyh@tangyou.space"
-author_role: "糖尿病治疗医生"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
-
+tags:
+- Treatment
+- 健康
+- 糖尿病
+- 饮食
+- Diet
+title: 儿童新发1型糖尿病体重、新冠与自身免疫的关联：一位妈妈的血泪经验与科学指南
 ---
 ![儿童1型糖尿病患者日常健康管理场景](https://images.unsplash.com/photo-1574783184401-64679d270c5e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80)
 

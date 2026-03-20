@@ -1,20 +1,25 @@
 ---
-title: "associations of body weight and covid-19 with autoimmunity in pediatric new-onset type 1 diabetes: r"
+author_email: yyh@tangyou.space
+author_id: yyh
+author_role: 糖尿病治疗医生
+categories:
+- 糖尿病预防
 date: 2026-03-17 08:52:10 +0800
+description: 'associations of body weight and covid-19 with autoimmunity in pediatric
+  new-onset type 1 diabetes: r - 糖尿病知识全面解读'
+disclaimer_key: medical-information-only
+download_url: ''
 lang: en
-description: "associations of body weight and covid-19 with autoimmunity in pediatric new-onset type 1 diabetes: r - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+review_status: draft
 slug: associations-of-body-weight-and-covid-19-with-auto
-
-author_id: "yyh"
-author_email: "yyh@tangyou.space"
-author_role: "糖尿病治疗医生"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- 糖尿病
+- 饮食
+- Diet
+title: 'associations of body weight and covid-19 with autoimmunity in pediatric new-onset
+  type 1 diabetes: r'
 ---
 
 ### Associations of Body Weight and COVID-19 with Autoimmunity in Pediatric New-Onset Type 1 Diabetes: A Comparative Analysis  

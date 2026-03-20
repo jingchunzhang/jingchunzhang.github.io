@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "2型糖尿病监测协议：家庭可执行版本"
-description: "将2型糖尿病监测从“想到才测”升级为可复用协议：监测时点、记录方法、趋势复盘与门诊沟通。"
+author: zzh
+author_email: zzh@tangyou.space
+author_id: zzh
+author_name: zzh
+author_role: 糖尿病治疗期病人
+author_title: 糖尿病治疗期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-09
+description: 将2型糖尿病监测从“想到才测”升级为可复用协议：监测时点、记录方法、趋势复盘与门诊沟通。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/Type-2-Diabetes-Methods-and-Protocols.pdf
+ebook_id: 20260309-type2-methods-protocols
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: type2-diabetes-monitoring-protocols
+tags:
+- Treatment
+- Exercise
+- 家庭管理
+- 2型糖尿病
+- 运动协同
+- 监测协议
+title: 2型糖尿病监测协议：家庭可执行版本
 translation_key: type2-diabetes-monitoring-protocols
-tags: [2型糖尿病, 监测协议, 家庭管理, 运动协同]
-author: "zzh"
-author_title: "糖尿病治疗期病人"
-author_id: "zzh"
-author_name: "zzh"
-author_email: "zzh@tangyou.space"
-author_role: "糖尿病治疗期病人"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-type2-methods-protocols"
-download_url: "https://download.tangyou.space/20260309/Type-2-Diabetes-Methods-and-Protocols.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "type2-diabetes-monitoring-protocols"
 ---
 
 # 2型糖尿病监测协议：家庭可执行版本

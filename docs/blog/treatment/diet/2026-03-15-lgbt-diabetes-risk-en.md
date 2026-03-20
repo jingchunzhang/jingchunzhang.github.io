@@ -1,21 +1,31 @@
 ---
-title: "Higher Diabetes Risk in LGBTQ Community? The Truth Revealed by Data and Coping Strategies"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
+categories:
+- Diabetes Treatment
 date: 2026-03-15
+description: Based on recent CDC data, explain why the LGBTQ community has higher
+  diabetes prevalence than the general population, along with risk factors and prevention
+  strategies.
+disclaimer_key: medical-information-only
 lang: en
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+tags:
+- LGBTQ health
+- Treatment
+- Diet
+- treatment diet
+- diabetes risk
+- gender identity
+title: Higher Diabetes Risk in LGBTQ Community? The Truth Revealed by Data and Coping
+  Strategies
 translation_key: lgbt-diabetes-risk
-description: "Based on recent CDC data, explain why the LGBTQ community has higher diabetes prevalence than the general population, along with risk factors and prevention strategies."
-categories: ["Diabetes Treatment"]
-tags: [treatment diet, LGBTQ health, diabetes risk, gender identity]
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
 ---
 
 # Higher Diabetes Risk in LGBTQ Community? The Truth Revealed by Data and Coping Strategies

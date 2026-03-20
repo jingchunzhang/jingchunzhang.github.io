@@ -1,13 +1,19 @@
 ---
-layout: default
-title: "喝水这件小事：脱水、含糖饮料与血糖波动"
-description: "‘多喝水’听起来像老生常谈，但对很多人来说，口渴被误当成饥饿、饮料被当成习惯、含糖饮品成为隐形能量。本文用可执行的方法，把喝水这件事做得更具体。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
-date: "2026-03-02"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+date: '2026-03-02'
+description: ‘多喝水’听起来像老生常谈，但对很多人来说，口渴被误当成饥饿、饮料被当成习惯、含糖饮品成为隐形能量。本文用可执行的方法，把喝水这件事做得更具体。
 lang: zh
+layout: default
+tags:
+- 喝水
+- 预防
+- 体重
+- Prevention
+- 饮食
+- Diet
+title: 喝水这件小事：脱水、含糖饮料与血糖波动
 translation_key: prevention/diet/hydration-glucose-stability
-tags: [饮食, 喝水, 预防, 体重]
 ---
 
 # 喝水这件小事：脱水、含糖饮料与血糖波动

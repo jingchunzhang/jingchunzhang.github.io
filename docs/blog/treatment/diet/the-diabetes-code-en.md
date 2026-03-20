@@ -1,28 +1,35 @@
 ---
-layout: default
-title: "How to Apply The Diabetes Code in Treatment: A Safety-First Framework"
-description: "A treatment-stage interpretation of The Diabetes Code focused on insulin resistance, sustainable meal structure, and clinician-coordinated implementation."
+author: zyn
+author_email: zyn@tangyou.space
+author_id: zyn
+author_name: zyn
+author_role: 医学院学生
+author_title: Medical Student
+automation_id: ebook-delivery-20260313
+cta_form_id: ebook-signup
 date: 2026-03-13
+description: A treatment-stage interpretation of The Diabetes Code focused on insulin
+  resistance, sustainable meal structure, and clinician-coordinated implementation.
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260313/The-Diabetes-Code.pdf
+ebook_id: diabetes-code-20260313
 lang: en
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: the-diabetes-code-en
+tags:
+- Meal Timing
+- Treatment
+- Type 2 Diabetes
+- Insulin Resistance
+- Treatment Diet
+- Diet
+title: 'How to Apply The Diabetes Code in Treatment: A Safety-First Framework'
 translation_key: the-diabetes-code
-tags: [Insulin Resistance, Type 2 Diabetes, Treatment Diet, Meal Timing]
-author: "zyn"
-author_title: "Medical Student"
-author_id: "zyn"
-author_name: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "diabetes-code-20260313"
-download_url: "https://download.tangyou.space/20260313/The-Diabetes-Code.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260313"
-slug: "the-diabetes-code-en"
 ---
 
 # How to Apply The Diabetes Code in Treatment: A Safety-First Framework

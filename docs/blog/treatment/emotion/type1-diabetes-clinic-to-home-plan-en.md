@@ -1,28 +1,36 @@
 ---
-layout: default
-title: "Type 1 Diabetes: Turning Clinic Advice into a Daily Home Plan"
-description: "How to convert Type 1 diabetes clinical recommendations into a clear daily home protocol: monitoring rhythm, insulin management checkpoints, exercise safety, and emotional self-care to reduce decision fatigue."
+author: zzh
+author_email: zzh@tangyou.space
+author_id: zzh
+author_name: zzh
+author_role: 糖尿病治疗期病人
+author_title: 糖尿病治疗期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-09
+description: 'How to convert Type 1 diabetes clinical recommendations into a clear
+  daily home protocol: monitoring rhythm, insulin management checkpoints, exercise
+  safety, and emotional self-care to reduce decision fatigue.'
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/Medical-Management-of-Type-1-Diabetes.pdf
+ebook_id: 20260309-type1-medical-management
 lang: en
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: type1-diabetes-clinic-to-home-plan-en
+tags:
+- Emotion
+- Treatment
+- Daily Routine
+- Emotion Management
+- Insulin Management
+- Type 1 Diabetes
+title: 'Type 1 Diabetes: Turning Clinic Advice into a Daily Home Plan'
 translation_key: type1-diabetes-clinic-to-home-plan
-tags: [Type 1 Diabetes, Insulin Management, Daily Routine, Emotion Management]
-author: "zzh"
-author_title: "糖尿病治疗期病人"
-author_id: "zzh"
-author_name: "zzh"
-author_email: "zzh@tangyou.space"
-author_role: "糖尿病治疗期病人"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-type1-medical-management"
-download_url: "https://download.tangyou.space/20260309/Medical-Management-of-Type-1-Diabetes.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "type1-diabetes-clinic-to-home-plan-en"
 ---
 
 # Type 1 Diabetes: Turning Clinic Advice into a Daily Home Plan

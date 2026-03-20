@@ -1,10 +1,14 @@
 ---
-layout: default
-title: SEO Basics
-description: "Start with fundamentals: keywords, content, site structure, technical SEO, and links."
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: 'Start with fundamentals: keywords, content, site structure, technical
+  SEO, and links.'
 lang: en
+layout: default
+tags:
+- Basics
+- SEO
+title: SEO Basics
 translation_key: seo-basics-index
 ---
 # SEO Basics

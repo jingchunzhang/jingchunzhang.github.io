@@ -1,28 +1,33 @@
 ---
-layout: default
-title: "治疗期家庭晚餐轮换：用舒适食物模板减少全家执行阻力"
-description: "为治疗期设计一周家庭晚餐轮换表，兼顾口味、成本与控糖稳定性。"
+author: kelvin
+author_email: kelvin@tangyou.space
+author_id: kelvin
+author_name: kelvin
+author_role: 糖尿病研究人员
+author_title: 糖尿病研究人员
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-10
+description: 为治疗期设计一周家庭晚餐轮换表，兼顾口味、成本与控糖稳定性。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub
+ebook_id: 20260310-diabetes-comfort-food-cookbook
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: comfort-food-family-dinner-rotation-diabetes-treatment
+tags:
+- Treatment
+- 家庭晚餐
+- 治疗期
+- 糖尿病饮食
+- Diet
+title: 治疗期家庭晚餐轮换：用舒适食物模板减少全家执行阻力
 translation_key: comfort-food-family-dinner-rotation-diabetes-treatment
-tags: [家庭晚餐, 治疗期, 糖尿病饮食]
-author: "kelvin"
-author_title: "糖尿病研究人员"
-author_id: "kelvin"
-author_name: "kelvin"
-author_email: "kelvin@tangyou.space"
-author_role: "糖尿病研究人员"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260310-diabetes-comfort-food-cookbook"
-download_url: "https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "comfort-food-family-dinner-rotation-diabetes-treatment"
 ---
 
 # 治疗期家庭晚餐轮换：用舒适食物模板减少全家执行阻力

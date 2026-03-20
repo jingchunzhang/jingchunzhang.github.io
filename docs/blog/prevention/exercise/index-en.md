@@ -1,10 +1,14 @@
 ---
-layout: default
-title: "Exercise and Diabetes Prevention"
-description: "Exercise supports diabetes prevention through aerobic fitness, strength training, daily movement, and breaking up prolonged sitting to improve insulin sensitivity."
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: Exercise supports diabetes prevention through aerobic fitness, strength
+  training, daily movement, and breaking up prolonged sitting to improve insulin sensitivity.
 lang: en
+layout: default
+tags:
+- Prevention
+- Exercise
+title: Exercise and Diabetes Prevention
 translation_key: prevention-exercise-index
 ---
 ## Exercise and Diabetes Prevention

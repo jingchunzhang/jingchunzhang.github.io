@@ -1,30 +1,35 @@
 ---
-title: "A Complete Beginner’s Guide to Managing New Diabetes-Related Foot Infections: What to Expect for Better Outcomes"
+author_email: zhl@tangyou.space
+author_id: zhl
+author_role: 糖尿病病人家属
+categories:
+- 糖尿病预防
 date: 2026-03-20 09:31:54 +0800
-description: "A Complete Beginner’s Guide to Managing New Diabetes-Related Foot Infections: What to Expect for Better Outcomes - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: 'A Complete Beginner’s Guide to Managing New Diabetes-Related Foot Infections:
+  What to Expect for Better Outcomes - 糖尿病知识全面解读'
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: management-and-outcomes-of-people-presenting-with-
-
-author_id: "zhl"
-author_email: "zhl@tangyou.space"
-author_role: "糖尿病病人家属"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- 糖尿病
+- 饮食
+- Diet
+title: 'A Complete Beginner’s Guide to Managing New Diabetes-Related Foot Infections:
+  What to Expect for Better Outcomes'
 ---
 
 # A Complete Beginner’s Guide to Managing New Diabetes-Related Foot Infections: What to Expect for Better Outcomes
 
-![Diabetic foot infection care guide showing a nurse checking a patient's foot with diabetes](https://source.unsplash.com/1600x900/?diabetes,foot,healthcare)
+![Diabetic foot infection care guide showing a nurse checking a patient's foot with diabetes](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 If you live with diabetes, you’ve probably heard warnings about foot health, but it can be easy to brush off a small blister, scrape, or patch of redness as no big deal. But data from long-term research on the management and outcomes of people presenting with new diabetes-related foot infections: a prospective cohort analysis shows that even minor, seemingly harmless foot issues can turn serious in as little as 72 hours if left untreated. Diabetes-related foot infections (DFIs) are one of the top causes of hospital admission and amputation for people with diabetes, but early, evidence-based care can reduce amputation risk by more than 80%.
 
 This guide breaks down everything you need to know about recognizing and managing new DFIs, based on the latest prospective clinical research, with simple, actionable steps for even first-time patients.
 
-![Blood sugar monitor and diabetic foot care supplies laid out on a table](https://source.unsplash.com/1600x900/?diabetes,medical,supplies)
+![Blood sugar monitor and diabetic foot care supplies laid out on a table](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 ## First Things First: What Counts as a New Diabetes-Related Foot Infection?
 A new DFI is any active infection in the foot that develops in a person with type 1 or type 2 diabetes, triggered by even minor skin damage (cuts, blisters, cracked heels, ingrown toenails, or calluses that break open). Common signs to watch for include:

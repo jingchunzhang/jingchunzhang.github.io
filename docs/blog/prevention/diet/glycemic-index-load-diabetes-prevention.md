@@ -1,10 +1,13 @@
 ---
-layout: default
-title: 预防糖尿病：读懂GI/GL，把“升糖速度”管起来
-description: "很多人以为预防糖尿病就是“少吃糖”。但从日常饮食看，更常见的问题其实是：**精制主食、甜饮、加工零食**让血糖反复快速上升，久而久之更容易走向胰岛素抵抗。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: 很多人以为预防糖尿病就是“少吃糖”。但从日常饮食看，更常见的问题其实是：**精制主食、甜饮、加工零食**让血糖反复快速上升，久而久之更容易走向胰岛素抵抗。
 lang: zh
+layout: default
+tags:
+- Diet
+- Prevention
+title: 预防糖尿病：读懂GI/GL，把“升糖速度”管起来
 translation_key: prevention-diet-gi-gl
 ---
 # 预防糖尿病：读懂GI/GL，把“升糖速度”管起来

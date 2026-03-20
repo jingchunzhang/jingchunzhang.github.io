@@ -1,23 +1,26 @@
 ---
-title: "打GLP-1控糖怕出情绪问题？10年老糖友的实用避坑指南"
+author_email: zhl@tangyou.space
+author_id: zhl
+author_role: 糖尿病病人家属
+categories:
+- 糖尿病预防
 date: 2026-03-20 09:09:16 +0800
-description: "打GLP-1控糖怕出情绪问题？10年老糖友的实用避坑指南 - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: 打GLP-1控糖怕出情绪问题？10年老糖友的实用避坑指南 - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: association-of-glp-1-receptor-agonists-with-intent
-
-author_id: "zhl"
-author_email: "zhl@tangyou.space"
-author_role: "糖尿病病人家属"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Emotion
+- Treatment
+- 健康
+- 糖尿病
+- 饮食
+title: 打GLP-1控糖怕出情绪问题？10年老糖友的实用避坑指南
 ---
 
 # 打GLP-1控糖怕出情绪问题？10年老糖友的实用避坑指南
-![糖尿病患者用药咨询](https://source.unsplash.com/1600x900/?diabetes,medication)
+![糖尿病患者用药咨询](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 我是得2型糖尿病10年的老陈，前几年因为血糖不稳+体重超标，医生给我开了GLP-1受体激动剂也就是大家常说的司美格鲁肽、利拉鲁肽这类针剂，打了8个月血糖稳了，体重也掉了20斤，整体感受还是挺好的。但最近不少糖友都刷到了《2型糖尿病患者使用GLP-1受体激动剂与故意自我伤害风险的关联》的相关研究，吓得刚开了药的都不敢打了，还有正在打的朋友私自停了针，血糖飙升。今天我就结合自己的用药经验和身边糖友的真实情况，给大家整理了这篇避坑指南，既不用因噎废食，也别踩了情绪风险的坑。
 
 ## 这6个常见误区，90%的糖友都踩过
@@ -49,7 +52,7 @@ GLP-1作用于中枢的食欲调节区域，用药初期可能会有食欲下降
 我身边的糖友张哥，今年42岁，得2型糖尿病3年，身高175，体重180斤，医生给他开了司美格鲁肽，让他从每周0.25mg慢慢加量。他用了1个月觉得瘦的慢，就自己私自加到了1mg，加量之后确实瘦的快，半个月就掉了10斤，但是也啥都吃不下，以前每周都要和朋友去撸串喝啤酒，现在去了坐那看着别人吃，觉得特别没意思，回家也不想和老婆孩子说话，总觉得活着没奔头，有一次做家务拿美工刀，鬼使神差就划了手腕一下，还好划的不深，老婆发现之后赶紧带他去了医院。
 医生给他把药量降回了0.5mg，同时让他去心理科做了两次疏导，还给他调整了饮食方案，每周允许他吃1次100g以内的烤串，只要当天多走3000步就行。大概半个月左右，张哥的情绪就回来了，现在用药半年，体重掉了30斤，空腹血糖稳定在5.6左右，再也没有出现过消极的念头。
 
-![糖尿病患者情绪记录](https://source.unsplash.com/1600x900/?mood,tracker)
+![糖尿病患者情绪记录](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 ## 实操步骤：4步帮你避开GLP-1的情绪风险
 给大家整理了我自己用GLP-1的时候一直在用的4步监测法，简单好操作，只要坚持做，基本就能避开大部分情绪风险：

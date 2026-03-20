@@ -1,21 +1,31 @@
 ---
-title: "Transgender Individuals and Diabetes: Hormone Therapy, Metabolic Risks, and Complete Health Management Guide"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
+categories:
+- Diabetes Treatment
 date: 2026-03-15
+description: Explain the relationship between hormone therapy and diabetes for transgender
+  individuals, the impact of hormone replacement therapy on blood sugar, and health
+  management strategies for transgender diabetics.
+disclaimer_key: medical-information-only
 lang: en
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+tags:
+- Treatment
+- transgender health
+- Diet
+- treatment diet
+- hormone therapy
+- diabetes management
+title: 'Transgender Individuals and Diabetes: Hormone Therapy, Metabolic Risks, and
+  Complete Health Management Guide'
 translation_key: transgender-diabetes-hormone-therapy
-description: "Explain the relationship between hormone therapy and diabetes for transgender individuals, the impact of hormone replacement therapy on blood sugar, and health management strategies for transgender diabetics."
-categories: ["Diabetes Treatment"]
-tags: [treatment diet, transgender health, hormone therapy, diabetes management]
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
 ---
 
 # Transgender Individuals and Diabetes: Hormone Therapy, Metabolic Risks, and Complete Health Management Guide

@@ -1,13 +1,19 @@
 ---
-layout: default
-title: "蛋白质：稳糖与控饥饿的‘杠杆’（怎么吃更实用）"
-description: "蛋白质并不是健身人士的专属。对想要稳定血糖、减少零食冲动、维持肌肉的人来说，蛋白质常常是最值得优先优化的变量。本文提供可执行的蛋白策略与餐盘示例。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
-date: "2026-03-02"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+date: '2026-03-02'
+description: 蛋白质并不是健身人士的专属。对想要稳定血糖、减少零食冲动、维持肌肉的人来说，蛋白质常常是最值得优先优化的变量。本文提供可执行的蛋白策略与餐盘示例。
 lang: zh
+layout: default
+tags:
+- 胰岛素抵抗
+- 预防
+- Prevention
+- 饮食
+- 蛋白质
+- Diet
+title: 蛋白质：稳糖与控饥饿的‘杠杆’（怎么吃更实用）
 translation_key: prevention/diet/protein-strategy-glucose-stability
-tags: [饮食, 蛋白质, 预防, 胰岛素抵抗]
 ---
 
 # 蛋白质：稳糖与控饥饿的“杠杆”（怎么吃更实用）

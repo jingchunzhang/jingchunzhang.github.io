@@ -1,23 +1,26 @@
 ---
-title: "糖友秋季稳糖全指南：吃喝动护对比清单，少踩坑血糖稳到冬天"
+author_email: zyn@tangyou.space
+author_id: zyn
+author_role: 医学院学生
+categories:
+- 糖尿病预防
 date: 2026-03-19 09:28:51 +0800
-description: "糖友秋季稳糖全指南：吃喝动护对比清单，少踩坑血糖稳到冬天 - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: 糖友秋季稳糖全指南：吃喝动护对比清单，少踩坑血糖稳到冬天 - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: 2026-03-19-糖尿病-during-autumn-b
-
-author_id: "zyn"
-author_email: "zyn@tangyou.space"
-author_role: "医学院学生"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- 糖尿病
+- 饮食
+- Diet
+title: 糖友秋季稳糖全指南：吃喝动护对比清单，少踩坑血糖稳到冬天
 ---
 
 # 糖友秋季稳糖全指南：吃喝动护对比清单，少踩坑血糖稳到冬天
-![秋季适合糖友的低GI饮食搭配](https://source.unsplash.com/1600x900/?diabetes,autumn,healthyfood)
+![秋季适合糖友的低GI饮食搭配](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 入秋后气温骤降，人体食欲提升、代谢减慢，加上糖炒栗子、月饼、炖品等秋季高糖高油应季食物扎堆上市，是糖尿病患者血糖波动的高发期。据《中国糖尿病患者季节血糖波动调查报告》显示，约62%的2型糖尿病患者入秋后空腹血糖会较夏季升高1.2-2.5mmol/L，并发症发作风险提升30%。今天我们就从糖友秋季最关心的4个核心维度做对比，帮大家明明白白避坑，平稳控糖。
 
@@ -67,7 +70,7 @@ download_url: ""
 56岁的张阿姨患2型糖尿病4年，空腹血糖常年在7-8mmol/L波动，去年入秋后跟着家人贴秋膘，每周都吃红烧肉、糖炒栗子，还每天冲秋梨膏润燥，不到1个月空腹血糖就升到了10.3mmol/L，餐后2小时血糖甚至达到16.7mmol/L。后来她按照我们给出的秋季稳糖方案调整饮食、运动和护理习惯，2周后空腹血糖就降到了6.7mmol/L，餐后2小时稳定在8mmol/L以内。
 
 ### 实操步骤：3天秋季稳糖食谱示例
-![糖友秋季稳糖食谱搭配示例](https://source.unsplash.com/1600x900/?diabetes,meal,plan)
+![糖友秋季稳糖食谱搭配示例](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 所有食谱的主食均为生重计算，可根据自身BMI、活动量调整10-20g的摄入量：
 - **Day1**：早餐（杂粮粥25g+煮鸡蛋1个+凉拌菠菜100g）→ 加餐（蒸板栗3颗）→ 午餐（糙米饭50g+清蒸鲈鱼100g+清炒莲藕100g）→ 加餐（柚子2瓣）→ 晚餐（玉米半根+虾仁炒西兰花150g+凉拌豆腐100g）
 - **Day2**：早餐（全麦面包1片+煮鸡蛋1个+无糖豆浆200ml）→ 加餐（小番茄10颗）→ 午餐（荞麦面50g+鸡胸肉80g+炒青菜150g）→ 加餐（蒸雪梨1/2个）→ 晚餐（杂粮饭50g+无加糖红烧排骨50g+炒娃娃菜150g）

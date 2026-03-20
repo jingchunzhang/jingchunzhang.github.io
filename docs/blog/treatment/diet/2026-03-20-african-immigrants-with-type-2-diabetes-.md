@@ -1,23 +1,26 @@
 ---
-title: "非洲裔2型糖友移民分3种生理亚型？控糖食材选购看这篇就够了"
+author_email: zhl@tangyou.space
+author_id: zhl
+author_role: 糖尿病病人家属
+categories:
+- 糖尿病预防
 date: 2026-03-20 09:00:14 +0800
-description: "非洲裔2型糖友移民分3种生理亚型？控糖食材选购看这篇就够了 - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: 非洲裔2型糖友移民分3种生理亚型？控糖食材选购看这篇就够了 - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: african-immigrants-with-type-2-diabetes-present-wi
-
-author_id: "zhl"
-author_email: "zhl@tangyou.space"
-author_role: "糖尿病病人家属"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Treatment
+- 健康
+- 糖尿病
+- 饮食
+- Diet
+title: 非洲裔2型糖友移民分3种生理亚型？控糖食材选购看这篇就够了
 ---
 
 # 非洲裔2型糖友移民分3种生理亚型？控糖食材选购看这篇就够了
-![适合非洲裔2型糖尿病患者的健康控糖食材](https://source.unsplash.com/1600x900/?diabetes,african,healthy food)
+![适合非洲裔2型糖尿病患者的健康控糖食材](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80 food)
 
 最近国际内分泌领域的权威研究显示，非洲裔2型糖尿病移民普遍存在三类不同的生理亚型，不同亚型的糖代谢特点、合并症风险差异很大，对应的饮食选购逻辑也完全不同。很多在华非洲裔糖友不知道自己的分型，随便购买控糖食品，往往花了钱还控不好血糖，今天就给大家出一份针对性的选购指南，帮大家少踩坑、少花钱，轻松把血糖控制在合理区间。
 

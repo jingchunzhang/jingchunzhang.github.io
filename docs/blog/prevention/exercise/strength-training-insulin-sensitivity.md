@@ -1,13 +1,19 @@
 ---
-layout: default
-title: "力量训练不是健身房专属：肌肉=更稳的代谢底盘"
-description: "很多人把力量训练当成‘增肌’或‘塑形’，忽略了它对血糖与胰岛素敏感性的价值。本文用可执行的方式讲清：为什么力量训练重要、怎么从零开始、以及最常见的安全要点。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
-date: "2026-03-02"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+date: '2026-03-02'
+description: 很多人把力量训练当成‘增肌’或‘塑形’，忽略了它对血糖与胰岛素敏感性的价值。本文用可执行的方式讲清：为什么力量训练重要、怎么从零开始、以及最常见的安全要点。
 lang: zh
+layout: default
+tags:
+- 胰岛素抵抗
+- Exercise
+- 预防
+- Prevention
+- 力量训练
+- 运动
+title: 力量训练不是健身房专属：肌肉=更稳的代谢底盘
 translation_key: prevention/exercise/strength-training-insulin-sensitivity
-tags: [运动, 力量训练, 预防, 胰岛素抵抗]
 ---
 
 # 力量训练不是健身房专属：肌肉 = 更稳的代谢底盘

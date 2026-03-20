@@ -1,26 +1,33 @@
 ---
-title: "糖尿病膳食准备入门：新手也能执行的一周稳糖备餐法"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
+automation_id: ebook-delivery-20260315
+categories:
+- treatment
+- diet
+cta_form_id: ebook-signup
 date: 2026-03-15
+description: 面向治疗期糖友与家属的膳食准备入门指南：从购物清单、分餐模板到一周执行节奏，帮助更稳定地管理餐后血糖。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260315/Diabetic-Meal-Prep.pdf
+ebook_id: diabetic-meal-prep-20260315
 lang: zh
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: diabetic-meal-prep-beginners
+tags:
+- Treatment
+- 膳食准备
+- 治疗期饮食
+- Diet
+- 入门指南
+title: 糖尿病膳食准备入门：新手也能执行的一周稳糖备餐法
 translation_key: diabetic-meal-prep-beginners
-description: "面向治疗期糖友与家属的膳食准备入门指南：从购物清单、分餐模板到一周执行节奏，帮助更稳定地管理餐后血糖。"
-categories: ["treatment", "diet"]
-tags: [治疗期饮食, 膳食准备, 入门指南]
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "diabetic-meal-prep-20260315"
-download_url: "https://download.tangyou.space/20260315/Diabetic-Meal-Prep.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260315"
-slug: "diabetic-meal-prep-beginners"
 ---
 
 # 糖尿病膳食准备入门：先把一周“吃什么”定下来，血糖更稳

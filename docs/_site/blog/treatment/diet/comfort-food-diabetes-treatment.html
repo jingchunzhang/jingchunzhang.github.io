@@ -89,7 +89,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=f0f3997c54e8a347b3d9779b029e28b8ca8a6e34">
+    <link rel="stylesheet" href="/assets/css/style.css?v=5a5c9f6595dc97769129d6e30f2aed7ed18fca55">
     <link rel="stylesheet" href="/assets/css/breadcrumb.css">
     
 
@@ -117,6 +117,137 @@
           <a class="btn" href="/contact/">联系我们</a>
          
        </nav>
+      <div class="search-trigger">
+  <button onclick="openSearch()" class="search-icon-btn" aria-label="Search">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+  </button>
+</div>
+<div id="search-modal" class="search-modal" style="display: none;">
+  <div class="search-modal-content">
+    <div class="search-header">
+      <h3>Search / 搜索</h3>
+      <button onclick="closeSearch()" class="close-btn">&times;</button>
+    </div>
+    <div id="pagefind-search"></div>
+  </div>
+</div>
+
+<style>
+.search-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.5);
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 100px;
+}
+.search-modal-content {
+  background: white;
+  padding: 2rem;
+  width: 90%;
+  max-width: 800px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  max-height: 80vh;
+  overflow-y: auto;
+}
+.search-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+/* Pagefind Overrides */
+:root {
+  --pagefind-ui-scale: 0.8;
+  --pagefind-ui-primary: #157878;
+  --pagefind-ui-text: #393939;
+  --pagefind-ui-background: #ffffff;
+  --pagefind-ui-border: #eeeeee;
+  --pagefind-ui-tag: #eeeeee;
+  --pagefind-ui-border-width: 2px;
+  --pagefind-ui-border-radius: 8px;
+  --pagefind-ui-image-border-radius: 8px;
+  --pagefind-ui-image-box-ratio: 3 / 2;
+  --pagefind-ui-font: "Open Sans", sans-serif;
+}
+</style>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({ element: "#pagefind-search", showSubResults: true });
+  });
+
+  function openSearch() {
+    document.getElementById('search-modal').style.display = 'flex';
+    // Focus input if possible
+    setTimeout(() => {
+      const input = document.querySelector('.pagefind-ui__search-input');
+      if(input) input.focus();
+    }, 100);
+  }
+
+  function closeSearch() {
+    document.getElementById('search-modal').style.display = 'none';
+  }
+
+  // Close on outside click
+  window.onclick = function(event) {
+    const modal = document.getElementById('search-modal');
+    if (event.target == modal) {
+      modal.style.display = "none";
+    }
+  }
+  
+  // Close on Escape key
+  document.addEventListener('keydown', function(event) {
+    if (event.key === "Escape") {
+      closeSearch();
+    }
+  });
+</script>
+
+
+<style>
+.search-trigger {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 1rem;
+}
+.search-icon-btn {
+  background: none;
+  border: none;
+  color: rgba(255,255,255,0.7);
+  cursor: pointer;
+  padding: 5px;
+  transition: color 0.2s;
+}
+.search-icon-btn:hover {
+  color: white;
+}
+/* Ensure search appears in mobile nav appropriately */
+@media screen and (max-width: 42rem) {
+  .search-trigger {
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+  }
+}
+</style>
+
       <h1 class="project-name">糖尿病治疗期的舒适食物改造法：吃得满足，也把血糖守住</h1>
       <h2 class="project-tagline">把汤面、炖饭、焗菜和甜口小食改造成更稳血糖的治疗期版本：从餐盘结构、烹调顺序、份量分配到外食策略，一次讲清可长期执行的 comfort food 框架。</h2>
       
@@ -153,159 +284,102 @@
   </table>
 </blockquote>
 
-<p>很多人一进入糖尿病治疗期，就把“舒适食物”理解成必须彻底告别的对象：面条不能碰、炖饭不能吃、想喝一碗热汤都觉得有负罪感。可现实是，如果饮食方案只剩“克制”和“忍耐”，大多数人坚持不了太久。真正可持续的治疗期饮食，不是把熟悉的味道全部拿走，而是学会把 comfort food 改造成<strong>更稳血糖、饱腹感更强、和药物更容易协同</strong>的版本。</p>
+<p>很多人一进入糖尿病治疗期，就把“舒适食物”理解成必须彻底告别：面不能吃、饭不能碰、甜味都要消失。可现实里，越是把饮食做成一套充满剥夺感的规则，越容易在疲惫、压力或社交场景里反扑。真正可持续的治疗期饮食，不是把熟悉的味道全部拿走，而是把 comfort food 改造成<strong>更稳血糖、饱腹更久、与药物和监测更容易协同</strong>的版本。</p>
 
-<p>这篇文章的目标不是教你追求“完美清淡”，而是帮你建立一套家庭里能长期执行的改造逻辑：先决定结构，再决定口味；先守住血糖曲线，再保留满足感。对许多患者和家属来说，这比临时靠意志力拒绝所有爱吃的食物，更接近真实生活。</p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/MyPlate_icon.svg" alt="一份均衡餐盘示意（蔬菜、蛋白质、主食）" /></p>
 
-<h2 id="先给结论治疗期舒适食物最该改的不是菜名而是四个变量">先给结论：治疗期舒适食物最该改的，不是“菜名”，而是四个变量</h2>
+<p><em>图1：治疗期舒适食物的底层逻辑，不是先决定“吃什么菜名”，而是先决定餐盘结构。</em></p>
 
-<p>同样叫“鸡汤面”或“焗饭”，血糖反应可能天差地别。关键通常不在名字，而在下面四件事：</p>
+<p>舒适食物之所以危险，往往不是因为“它好吃”，而是因为它同时满足了几个高风险条件：吃得快、吃得多、蔬菜和蛋白不足、主食过软过精制、吃完短时间又饿。于是你会发现，问题并不只发生在那一顿饭，而是体现在后面的整条链路：餐后冲高、情绪更差、晚上更想吃、第二天更难回到正轨。</p>
+
+<h2 id="一先别急着戒掉先看清真正该改的四件事">一、先别急着戒掉，先看清真正该改的四件事</h2>
+
+<p>治疗期舒适食物最该改的，不是菜名，而是下面四个变量：</p>
 
 <ol>
-  <li><strong>碳水密度</strong>：主食是不是过多、过软、过精制。</li>
-  <li><strong>蛋白锚点</strong>：一餐里有没有足够蛋白质减慢吸收速度。</li>
-  <li><strong>纤维体积</strong>：蔬菜和豆类够不够，让一餐真正有“容量”。</li>
-  <li><strong>进食顺序与份量</strong>：是不是先把蔬菜和蛋白吃进去，再决定主食量。</li>
+  <li><strong>碳水密度</strong>：是不是一整碗都被白面、白米、软烂淀粉占满；</li>
+  <li><strong>蛋白锚点</strong>：是不是只有主食和酱，没有足够蛋白延缓吸收；</li>
+  <li><strong>蔬菜体积</strong>：蔬菜只是点缀，还是能真正占到半盘；</li>
+  <li><strong>顺序与份量</strong>：你是先把主食吃光，还是先吃菜和蛋白再决定主食量。</li>
 </ol>
 
-<p>所以，治疗期的 comfort food 改造，不是把“面、饭、土豆、甜味”全删光，而是把原本容易导致餐后冲高的组合，改成更平缓的结构。你依然可以吃热乎、柔软、带满足感的食物，只是需要把“血糖友好”嵌进做法里。</p>
+<p>只要这四件事抓住了，很多 comfort food 根本不需要“消失”，只需要重建结构。比如汤面不是不能吃，而是要把“满碗面”改成“半碗面 + 大量菜 + 蛋白”；焗饭不是不能做，而是从“白米 + 厚酱”改成“混合谷物 + 明确蛋白 + 旁边再补一盘蔬菜”。</p>
 
-<h2 id="为什么舒适食物最容易让治疗期失控">为什么舒适食物最容易让治疗期失控</h2>
+<h2 id="二为什么舒适食物特别容易让治疗期失控">二、为什么舒适食物特别容易让治疗期失控</h2>
 
-<p>舒适食物的问题，不只是热量高。更麻烦的是它常常同时满足三个高风险条件：<strong>容易吃快、容易吃多、吃完很快又饿</strong>。像白面汤面、奶油焗饭、软烂粥饭、甜口烘焙，在口感上几乎不需要咀嚼负担，进入速度快，饱腹信号来得慢；如果再缺少蛋白和蔬菜，就很容易形成“吃的时候很舒服，两个小时后血糖和饥饿一起反扑”的模式。</p>
+<p>舒适食物通常和放松、安慰、奖赏绑定在一起。你压力大、加班晚、状态差时，最容易想吃的往往不是西兰花，而是热汤面、焗饭、甜口点心、奶香主食。这没有错，但如果这类食物长期以“高精制主食 + 低纤维 + 低蛋白”的形式出现，就会把“安慰自己”变成“反复波动自己”。</p>
 
-<p>对正在使用胰岛素或促泌剂的人来说，这种波动还会增加处理难度：餐后高、后面又低，情绪和食欲也更容易被牵着走。久而久之，患者不是败给某一顿饭，而是败给这种“想安慰自己，结果越来越乱”的循环。</p>
+<p><img src="https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&amp;fit=crop&amp;w=1200&amp;q=80" alt="健康烹饪与家庭备餐" /></p>
 
-<h2 id="一个最实用的改造框架先保留体验再换掉风险最高的部分">一个最实用的改造框架：先保留体验，再换掉风险最高的部分</h2>
+<p><em>图2：治疗期并不要求食物失去温度和满足感，关键在于把舒适感和结构稳定放到同一张餐桌上。</em></p>
 
-<p>与其强行把 comfort food 全部变成“沙拉 + 水煮鸡胸”，不如优先改掉最伤血糖的部分。一个更容易执行的次序是：</p>
+<p>更麻烦的是，治疗期很多人还在配合口服药、胰岛素或连续血糖监测。如果一顿舒适餐吃完先高后低，你不仅会觉得累，还会误以为“是不是我又没控制住”。事实上，很多时候不是意志力差，而是那顿饭本身的设计就把你推向波动。</p>
 
-<h3 id="1先留住温度香气和口感">1）先留住温度、香气和口感</h3>
+<h2 id="三一个真正可执行的改造框架保留体验替换风险">三、一个真正可执行的改造框架：保留体验，替换风险</h2>
 
-<p>人们想吃舒适食物，很多时候不是单纯想吃糖或油，而是想获得放松感、熟悉感和被照顾的感觉。热汤、炖煮、香料、柔软口感，这些体验可以保留。</p>
+<p>最好的改造方法不是“清空厨房、全部重来”，而是按优先级动手：</p>
 
-<h3 id="2再替换精制主食和裸碳水组合">2）再替换精制主食和“裸碳水”组合</h3>
+<h3 id="1先保留舒适体验">1）先保留舒适体验</h3>
 
-<p>把一大碗细白面换成小份量全麦/杂粮面，或者一半豆类面一半普通面；把焗饭底部的纯白米改成糙米+花椰菜米混合；把只喝汤配面包，改成“汤 + 蛋白 + 蔬菜 + 少量主食”。</p>
+<p>热汤、柔软口感、熟悉香气、家庭味道，这些都可以保留。因为人们真正需要的，很多时候是被照顾感，而不是单纯的糖和油。</p>
 
-<h3 id="3给每顿舒适餐加一个蛋白锚点">3）给每顿舒适餐加一个蛋白锚点</h3>
+<h3 id="2替换掉最危险的那部分">2）替换掉最危险的那部分</h3>
 
-<p>鸡蛋、豆腐、鱼、鸡胸、希腊酸奶、低糖奶酪都可以。蛋白不是装饰，而是帮助你把舒适感变成更持久的饱足感。</p>
+<p>把最容易拉高血糖的主食形式改掉：白面减量、白米改成混合谷物、甜饮改成无糖、厚酱减少、甜点缩成计划内小份。</p>
 
-<h3 id="4让蔬菜真正占体积">4）让蔬菜真正占体积</h3>
+<h3 id="3每顿都补足蛋白和蔬菜">3）每顿都补足蛋白和蔬菜</h3>
 
-<p>很多人会在 comfort food 里“象征性加一点菜”，但量太少。更有效的做法是让非淀粉蔬菜至少占到碗或盘子的一半体积：蘑菇、番茄、菠菜、西兰花、花菜、茄子、南瓜泥与豆类的组合，都很适合做成柔软、温热的家庭版治疗期餐。</p>
+<p>舒适餐最容易犯的错是“只有风味，没有结构”。鸡蛋、豆腐、鱼、鸡肉、希腊酸奶、豆类，这些都能成为稳定器；绿叶菜、菌菇、番茄、花菜、瓜类则提供体积和纤维。</p>
 
-<h2 id="四种最常见舒适食物怎么改更稳">四种最常见舒适食物，怎么改更稳</h2>
+<h3 id="4把顺序固定下来">4）把顺序固定下来</h3>
 
-<h3 id="汤面--粉类">汤面 / 粉类</h3>
+<p>先菜、再蛋白、最后主食。这个顺序看似简单，却常常能显著减少餐后冲高，也能让你更早接收到“差不多够了”的饱腹信号。</p>
 
-<p>最容易出问题的是“面多、菜少、蛋白缺席”。实用改法：</p>
+<h2 id="四最适合从哪里开始改先改你一周最常吃的三顿">四、最适合从哪里开始改？先改你一周最常吃的三顿</h2>
 
-<ul>
-  <li>面量先减到原来的 1/2 到 2/3；</li>
-  <li>加蛋、豆腐、鸡丝或牛肉片做蛋白；</li>
-  <li>用青菜、菌菇、番茄把体积补上；</li>
-  <li>先喝几口汤、先吃菜和蛋白，主食最后吃。</li>
-</ul>
-
-<h3 id="炖饭--焗饭">炖饭 / 焗饭</h3>
-
-<p>高风险点在于软烂白米 + 奶油/酱汁太多。更稳的做法是：</p>
+<p>不要试图在一天内改掉所有习惯。更现实的方法，是先抓出三个高频场景：</p>
 
 <ul>
-  <li>用糙米、藜麦、豆类或花椰菜米混合；</li>
-  <li>奶油感交给南瓜泥、蘑菇和少量奶酪，不要全靠黄油和面粉；</li>
-  <li>增加鸡肉、虾、豆类提升饱腹；</li>
-  <li>一份饭旁边固定配一大盘蔬菜。</li>
+  <li>工作日晚上的热汤面；</li>
+  <li>周末想吃焗饭或炖饭的时候；</li>
+  <li>夜里容易嘴馋时的甜口加餐。</li>
 </ul>
 
-<h3 id="土豆泥--软烂主食">土豆泥 / 软烂主食</h3>
+<p>只要你把这三种场景的底层结构改稳，整周的血糖体验就会明显不一样。治疗期饮食的价值，不在“某一顿很完美”，而在“多数时候都能回到正确模板”。</p>
 
-<p>不是完全不能吃，而是别让它成为整顿饭的主体。你可以把土豆泥改成“土豆 + 花菜 + 原味酸奶/橄榄油”的混合版本，让升糖速度和总量都更平缓。</p>
+<h2 id="五一个可直接照抄的治疗期舒适餐公式">五、一个可直接照抄的治疗期舒适餐公式</h2>
 
-<h3 id="甜口小食">甜口小食</h3>
+<p>如果你不想每天都重新算，可以先用这个公式：</p>
 
-<p>治疗期最怕“明明想吃一点甜，最后演变成一整轮加餐”。比较现实的替代策略是：</p>
+<p><strong>半盘蔬菜 + 四分之一蛋白 + 四分之一主食 + 无糖饮品 + 计划内小满足。</strong></p>
 
-<ul>
-  <li>甜味尽量安排在正餐后，而不是空腹单独吃；</li>
-  <li>用酸奶、坚果、莓果、小份高可可黑巧替代大体积糕点；</li>
-  <li>如果某个甜品吃完总让你继续想吃，说明它更像触发器，不适合留在常规库存里。</li>
-</ul>
-
-<h2 id="中段-cta把-comfort-food-变成可重复系统">中段 CTA：把 comfort food 变成“可重复系统”</h2>
-
-<p>如果你想拿到一份可下载、可打印的糖尿病 comfort food 参考食谱，可以保存这本电子书：<br />
-<strong><a href="https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub">下载《The Diabetes Comfort Food Diet Cookbook》</a></strong></p>
-
-<p>更好的使用方式不是“照着做 200 道菜”，而是先从 3 到 5 个家庭高频场景入手：工作日晚餐、周末热汤、想吃甜口时、外食回家补救餐。你只需要先把最常重复的场景改稳，整体血糖体验就会明显改善。</p>
-
-<h2 id="家庭执行时最值得固定的三条规则">家庭执行时，最值得固定的三条规则</h2>
-
-<h3 id="规则一先定模板再买食材">规则一：先定模板，再买食材</h3>
-
-<p>不要“买什么做什么”，而要先有模板。比如：</p>
-
-<ul>
-  <li>一锅热汤 + 一份蛋白 + 一份少量主食；</li>
-  <li>一盘焗菜 + 一盘蔬菜 + 一小份杂粮；</li>
-  <li>一份酸奶碗 + 坚果 + 莓果，替代晚间甜食。</li>
-</ul>
-
-<p>模板会减少临时决策疲劳，也能防止“本来只想吃得舒服一点，结果越吃越随意”。</p>
-
-<h3 id="规则二舒适餐也要留下复盘数据">规则二：舒适餐也要留下复盘数据</h3>
-
-<p>你不需要每顿都精确称重，但建议在新的 comfort food 改法上线时，观察两件事：</p>
-
-<ul>
-  <li>餐后 2 小时血糖或 CGM 曲线；</li>
-  <li>这顿饭后 3 到 4 小时是否明显再饿、犯困或想加餐。</li>
-</ul>
-
-<p>如果一顿饭吃完“很满足但很快又饿”，通常说明结构还不够稳。</p>
-
-<h3 id="规则三把安慰分成食物安慰和生活安慰">规则三：把“安慰”分成食物安慰和生活安慰</h3>
-
-<p>很多人真正需要的是放松，而不是更多食物。治疗期如果总把压力释放全部交给 comfort food，饮食会失去边界。你可以保留一部分食物安慰，但同时加上非食物安慰：热水澡、短步行、提前睡觉、固定周末热汤时刻。这样满足感不会全部压在碳水和甜味上。</p>
-
-<h2 id="独立站-cta如果你想把饮食执行得更省力">独立站 CTA：如果你想把饮食执行得更省力</h2>
-
-<p>如果你已经发现自己不是“不会吃”，而是<strong>每天决策太多、家庭协同太弱、很难长期复盘</strong>，可以继续看糖友空间整理的解决思路与资源：<br />
-<strong><a href="https://shop.tangyou.space">访问糖友空间解决方案页</a></strong></p>
-
-<p>对治疗期用户来说，真正有价值的不是再背更多规则，而是把监测、饮食、活动和家庭支持串成一个系统。</p>
+<p>这里的“计划内小满足”很关键。它意味着你不是一口都不能享受，而是把享受放进边界里。例如饭后的小份酸奶莓果、少量黑巧、或一小块与家人共享的甜点。对很多人来说，这种“有边界的满足”比“完全禁止”更稳定。</p>
 
 <h2 id="faq">FAQ</h2>
 
-<h3 id="q1治疗期是不是应该彻底戒掉所有-comfort-food">Q1：治疗期是不是应该彻底戒掉所有 comfort food？</h3>
+<h3 id="q1治疗期是不是必须彻底戒掉所有-comfort-food">Q1：治疗期是不是必须彻底戒掉所有 comfort food？</h3>
 
-<p>A：不建议把规则设得过于绝对。更现实的目标是降低高风险频率、改良常吃版本，并让每一餐更容易和药物及血糖监测协同。完全禁止通常会提高反扑概率。</p>
+<p>A：不建议用极端禁令当作长期策略。更稳的方法是降低高风险频率、改造常见版本，并让舒适餐与监测和用药协同。</p>
 
-<h3 id="q2我已经把主食减很多了为什么餐后还是高">Q2：我已经把主食减很多了，为什么餐后还是高？</h3>
+<h3 id="q2如果我已经减少主食了为什么还是高">Q2：如果我已经减少主食了，为什么还是高？</h3>
 
-<p>A：要一起看结构：是不是汤面太软烂、进食太快、蛋白和蔬菜不足、酱汁含糖太高，或者晚餐时间太晚。单看“主食克数”常常不够。</p>
+<p>A：要一起看食物质地、酱料、吃饭速度、蛋白和蔬菜是否足够，以及你是不是在情绪紧绷时吃得过快。</p>
 
-<h3 id="q3治疗期能不能吃无糖甜点">Q3：治疗期能不能吃“无糖甜点”？</h3>
+<h3 id="q3舒适食物和低血糖风险有关吗">Q3：舒适食物和低血糖风险有关吗？</h3>
 
-<p>A：要看总碳水、脂肪和份量，而不是只看“无糖”二字。有些无糖甜点仍然以精制面粉或高能量脂肪为主，血糖和总热量并不友好。</p>
+<p>A：如果你在用胰岛素或促泌剂，突然大幅减少主食可能增加低血糖风险。饮食调整最好结合血糖监测和医生建议做。</p>
 
-<h3 id="q4如果家人都想吃正常版-comfort-food我一个人怎么坚持">Q4：如果家人都想吃正常版 comfort food，我一个人怎么坚持？</h3>
+<h2 id="电子书下载">电子书下载</h2>
 
-<p>A：优先改共同底层结构，而不是做两套完全不同的饭。比如同一锅汤底、同样的蛋白和蔬菜，只在主食种类和份量上做区分，这样更容易长期执行。</p>
-
-<h2 id="结尾-cta下载食谱先改你最常吃的那三顿">结尾 CTA：下载食谱，先改你最常吃的那三顿</h2>
-
-<p>不要企图一夜之间把所有饮食习惯推翻。治疗期最有效的方法，是先锁定你最常重复的 3 个 comfort food 场景，把它们改成更稳的版本，再用血糖反馈持续微调。<br />
-<strong><a href="https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub">立即下载 comfort food 参考电子书</a></strong></p>
+<p>想把舒适食物改造做成一套更具体的家庭参考，可以先保存这本电子书：<br />
+<strong><a href="https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub">立即下载《The Diabetes Comfort Food Diet Cookbook》</a></strong></p>
 
 <h2 id="推荐阅读">推荐阅读</h2>
 
 <ul>
-  <li><a href="./therapeutic-diet-diabetes-treatment">治疗期饮食管理：把“控糖”落到每一餐</a></li>
+  <li><a href="./comfort-food-breakfast-template-diabetes-treatment">治疗期舒适早餐模板：早上吃得稳，全天更好控糖</a></li>
+  <li><a href="./comfort-food-soup-noodle-rebuild-diabetes-treatment">治疗期汤面重建：保留热汤满足感，降低餐后冲高</a></li>
   <li><a href="./home-diabetes-management-framework">家庭糖尿病管理框架：能长期坚持的实用版本</a></li>
-  <li><a href="../../prevention/diet/low-glycemic-cooking-practical-guide">低GI烹饪实战：忙碌家庭也能坚持的控糖餐</a></li>
 </ul>
 
 <h2 id="医疗免责声明">医疗免责声明</h2>
@@ -328,6 +402,102 @@
     
     
       
+        <li><a href="/blog/treatment/diet/2026-03-15-american-diabetes-association-complete-guide.html">美国糖尿病协会完整指南：治疗期饮食怎么吃，才能更稳地控住餐后血糖？</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-dash-diet-diabetes.html">得舒饮食（DASH）能帮助糖尿病治疗期稳住血糖吗？给家属的可执行7天方案</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-diabetes-a-to-z.html">糖尿病A到Z：治疗期饮食关键概念全指南</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-diabetes-education-patients.html">糖尿病患者教育入门：掌握生活管理的基础</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-diabetic-cooking-everyone.html">糖尿病患者的居家烹饪指南：简单方法预防血糖波动</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-diabetic-meal-prep-beginners.html">糖尿病膳食准备入门：新手也能执行的一周稳糖备餐法</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-high-fiber-diabetes-recipes.html">高纤维糖尿病食谱：一周可执行的稳糖餐盘与家庭备餐方案</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-how-to-eat-carbs-without-spike.html">治疗期如何科学吃碳水不升糖：进餐顺序与搭配技巧全攻略</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-lgbt-diabetes-risk.html">LGBTQ群体糖尿病风险更高？数据揭示的真相与应对策略</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-lgbt-inclusive-diabetes-care.html">为LGBT+群体提供包容性糖尿病护理：挑战与机遇</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-practical-diabetes-care-daily.html">糖尿病日常护理实操指南：血糖监测、用药提醒、饮食执行的三维协同法</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-15-transgender-diabetes-hormone-therapy.html">跨性别者与糖尿病：激素治疗、代谢风险与健康管理全指南</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/2026-03-17-associations-of-body-weight-and-covid-19.html">儿童新发1型糖尿病体重、新冠与自身免疫的关联：一位妈妈的血泪经验与科学指南</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/comfort-food-breakfast-template-diabetes-treatment.html">治疗期舒适早餐模板：早上吃得稳，全天更好控糖</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/comfort-food-casserole-rice-balance-diabetes-treatment.html">焗饭与炖饭的治疗期平衡法：少一点精制主食，多一点稳定</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/comfort-food-dessert-portion-strategy-diabetes-treatment.html">治疗期甜食份量策略：不是绝对禁止，而是有边界地吃</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/comfort-food-eating-out-swap-diabetes-treatment.html">治疗期外食替换清单：舒适餐馆也能做出控糖友好选择</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/comfort-food-family-dinner-rotation-diabetes-treatment.html">治疗期家庭晚餐轮换：用舒适食物模板减少全家执行阻力</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/comfort-food-late-night-hunger-plan-diabetes-treatment.html">治疗期夜间饥饿应对：舒适感与血糖安全的双平衡</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/comfort-food-meal-prep-batch-cooking-diabetes-treatment.html">治疗期舒适食物批量备餐：忙碌日也能守住饮食结构</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/comfort-food-snack-craving-control-diabetes-treatment.html">治疗期加餐与馋意控制：把冲动进食变成可管理流程</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/comfort-food-soup-noodle-rebuild-diabetes-treatment.html">治疗期汤面重建：保留热汤满足感，降低餐后冲高</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/diabetes-complications-prevention-screening.html">糖尿病并发症预防：早期信号与筛查</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/gestational-diabetes-home-care-pregnancy.html">妊娠糖尿病家庭护理：血糖监测、加餐安排与产检协同怎么做</a></li>
+      
+    
+      
         <li><a href="/blog/treatment/diet/home-diabetes-management-framework.html">家庭糖尿病管理框架：能长期坚持的实用版本</a></li>
       
     
@@ -345,6 +515,22 @@
     
       
         <li><a href="/blog/treatment/diet/nutrient-density-andi-eat-for-life-diabetes-treatment.html">治疗2型糖尿病的饮食底层逻辑：营养密度（ANDI）与“为生而食”</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/practical-diabetes-care-canada.html">加拿大临床语境下的治疗期控糖：家庭可执行的护理框架</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/practical-diabetes-care.html">治疗期怎么把护理做扎实：从《Practical Diabetes Care》到家庭执行</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/pregnancy-diabetes-birth.html">妊娠期糖尿病管理全流程：从孕期到分娩前的饮食与监测</a></li>
+      
+    
+      
+        <li><a href="/blog/treatment/diet/the-diabetes-code.html">《The Diabetes Code》怎么读：治疗期饮食与胰岛素阻抗管理框架</a></li>
       
     
       

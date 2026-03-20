@@ -1,10 +1,15 @@
 ---
-layout: default
-title: "Emotion and Stress During Diabetes Treatment: Stop White‑Knuckling Glucose Control"
-description: "In the treatment phase, what exhausts people isn’t carb math—it’s the loop:"
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: 'In the treatment phase, what exhausts people isn’t carb math—it’s the
+  loop:'
 lang: en
+layout: default
+tags:
+- Emotion
+- Treatment
+title: 'Emotion and Stress During Diabetes Treatment: Stop White‑Knuckling Glucose
+  Control'
 translation_key: treatment-emotion-stress
 ---
 # Emotion and Stress During Diabetes Treatment: Stop White‑Knuckling Glucose Control

@@ -1,10 +1,13 @@
 ---
-layout: default
-title: 个人健康日志
-description: "了解个人健康日志，以及其与糖尿病管理和预防的关系。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: 了解个人健康日志，以及其与糖尿病管理和预防的关系。
 lang: zh
+layout: default
+tags:
+- Health Log
+- Exercise
+title: 个人健康日志
 translation_key: health-log-index-en
 ---
 # 个人健康日志

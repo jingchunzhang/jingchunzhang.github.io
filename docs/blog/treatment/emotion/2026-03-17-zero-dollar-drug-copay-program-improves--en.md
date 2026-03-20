@@ -1,22 +1,25 @@
 ---
-
-title: "Zero Dollar Drug Copay Programs for Diabetes: A Comparative Analysis of Adherence and Medication Patterns"
+author_email: yyh@tangyou.space
+author_id: yyh
+author_role: 糖尿病治疗医生
+categories:
+- 糖尿病预防
 date: 2026-03-17 08:50:28 +0800
+description: zero dollar drug copay program improves antidiabetic medication adherence
+  and medication use pattern - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
 lang: en
-description: "zero dollar drug copay program improves antidiabetic medication adherence and medication use pattern - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+review_status: draft
 slug: zero-dollar-drug-copay-program-improves-antidiabet
-
-author_id: "yyh"
-author_email: "yyh@tangyou.space"
-author_role: "糖尿病治疗医生"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
-
+tags:
+- Emotion
+- Treatment
+- 健康
+- 糖尿病
+- 饮食
+title: 'Zero Dollar Drug Copay Programs for Diabetes: A Comparative Analysis of Adherence
+  and Medication Patterns'
 ---
 # Zero Dollar Drug Copay Programs for Diabetes: A Comparative Analysis of Adherence and Medication Patterns  
 

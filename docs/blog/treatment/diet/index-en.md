@@ -1,10 +1,14 @@
 ---
-layout: default
-title: "Diet in Treatment: Glucose-Friendly Plate Strategy"
-description: "During treatment, diet is about **stable glucose, sustainable weight/metabolic improvement, and coordination with medication**."
-author: "Dane Zhang (张杨)"
-author_title: "Health Tech Researcher"
+author: Dane Zhang (张杨)
+author_title: Health Tech Researcher
+description: During treatment, diet is about **stable glucose, sustainable weight/metabolic
+  improvement, and coordination with medication**.
 lang: en
+layout: default
+tags:
+- Diet
+- Treatment
+title: 'Diet in Treatment: Glucose-Friendly Plate Strategy'
 translation_key: treatment-diet-index
 ---
 # Diet in Treatment: Glucose-Friendly Plate Strategy

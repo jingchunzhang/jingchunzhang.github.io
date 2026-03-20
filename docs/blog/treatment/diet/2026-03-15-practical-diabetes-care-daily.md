@@ -1,24 +1,30 @@
 ---
-title: "糖尿病日常护理实操指南：血糖监测、用药提醒、饮食执行的三维协同法"
+author_email: wep@tangyou.space
+author_id: wep
+author_name: wep
+author_role: 糖尿病病人家属
+automation_id: ebook-delivery-20260315
+cta_form_id: ebook-signup
 date: 2026-03-15
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260315/Practical-Diabetes-Care-Daily.pdf
+ebook_id: practical-diabetes-daily-20260315
 lang: zh
+review_status: draft
+reviewer_email: yyh@tangyou.space
+reviewer_id: yyh
+reviewer_name: yyh
+reviewer_role: 糖尿病治疗医生
+slug: practical-diabetes-care-daily
+tags:
+- Treatment
+- 日常管理
+- 血糖监测
+- Diet
+- 实操指南
+- 治疗期护理
+title: 糖尿病日常护理实操指南：血糖监测、用药提醒、饮食执行的三维协同法
 translation_key: practical-diabetes-care-daily
-tags: [治疗期护理, 日常管理, 实操指南, 血糖监测]
-author_id: "wep"
-author_name: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-reviewer_id: "yyh"
-reviewer_name: "yyh"
-reviewer_email: "yyh@tangyou.space"
-reviewer_role: "糖尿病治疗医生"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "practical-diabetes-daily-20260315"
-download_url: "https://download.tangyou.space/20260315/Practical-Diabetes-Care-Daily.pdf"
-cta_form_id: "ebook-signup"
-automation_id: "ebook-delivery-20260315"
-slug: "practical-diabetes-care-daily"
 ---
 
 # 糖尿病日常护理实操指南：血糖监测、用药提醒、饮食执行的三维协同法

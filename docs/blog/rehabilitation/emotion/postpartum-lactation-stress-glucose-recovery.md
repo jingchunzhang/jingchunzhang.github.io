@@ -1,28 +1,34 @@
 ---
-layout: default
-title: "产后与哺乳期压力管理：避免“压力-进食-血糖”循环"
-description: "针对有妊娠糖尿病史的产后妈妈，提供可执行的情绪与压力管理策略，降低压力诱发进食和血糖波动。"
+author: gwx
+author_email: gwx@tangyou.space
+author_id: gwx
+author_name: gwx
+author_role: 糖尿病康复期病人
+author_title: 糖尿病康复期病人
+automation_id: pending-mailerlite
+cta_form_id: pending-mailerlite
 date: 2026-03-12
+description: 针对有妊娠糖尿病史的产后妈妈，提供可执行的情绪与压力管理策略，降低压力诱发进食和血糖波动。
+disclaimer_key: medical-information-only
+download_url: https://download.tangyou.space/20260309/American-Diabetes-Association-Complete-Guide-to-Diabetes-The-Ultimate-Home-Reference-from-the-Diabetes-Experts.pdf
+ebook_id: 20260309-ada-complete-guide
 lang: zh
+layout: default
+review_status: draft
+reviewer_email: kelvin@tangyou.space
+reviewer_id: kelvin
+reviewer_name: kelvin
+reviewer_role: 糖尿病研究人员
+slug: postpartum-lactation-stress-glucose-recovery
+tags:
+- Emotion
+- 哺乳期
+- 产后恢复
+- 血糖恢复
+- Rehabilitation
+- 情绪管理
+title: 产后与哺乳期压力管理：避免“压力-进食-血糖”循环
 translation_key: postpartum-lactation-stress-glucose-recovery
-tags: [产后恢复, 哺乳期, 情绪管理, 血糖恢复]
-author: "gwx"
-author_title: "糖尿病康复期病人"
-author_id: "gwx"
-author_name: "gwx"
-author_email: "gwx@tangyou.space"
-author_role: "糖尿病康复期病人"
-reviewer_id: "kelvin"
-reviewer_name: "kelvin"
-reviewer_email: "kelvin@tangyou.space"
-reviewer_role: "糖尿病研究人员"
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-ebook_id: "20260309-ada-complete-guide"
-download_url: "https://download.tangyou.space/20260309/American-Diabetes-Association-Complete-Guide-to-Diabetes-The-Ultimate-Home-Reference-from-the-Diabetes-Experts.pdf"
-cta_form_id: "pending-mailerlite"
-automation_id: "pending-mailerlite"
-slug: "postpartum-lactation-stress-glucose-recovery"
 ---
 
 # 产后与哺乳期压力管理：避免“压力-进食-血糖”循环

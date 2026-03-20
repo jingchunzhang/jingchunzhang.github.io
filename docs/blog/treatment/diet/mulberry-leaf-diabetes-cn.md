@@ -1,10 +1,13 @@
 ---
-layout: default
-title: 爱吃碳水却怕血糖飙升？来认识这款"天然糖分阻断"茶饮：桑叶 (Mulberry Leaf)
-description: "桑叶含DNJ成分能阻断糖分吸收，帮助控制餐后血糖飙升。了解这款天然碳水阻断剂的科学原理、使用方法及安全注意事项。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: 桑叶含DNJ成分能阻断糖分吸收，帮助控制餐后血糖飙升。了解这款天然碳水阻断剂的科学原理、使用方法及安全注意事项。
 lang: zh
+layout: default
+tags:
+- Diet
+- Treatment
+title: 爱吃碳水却怕血糖飙升？来认识这款"天然糖分阻断"茶饮：桑叶 (Mulberry Leaf)
 translation_key: mulberry-leaf-diabetes
 ---
 

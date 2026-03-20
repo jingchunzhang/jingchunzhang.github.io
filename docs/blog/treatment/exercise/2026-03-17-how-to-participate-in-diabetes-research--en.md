@@ -1,22 +1,25 @@
 ---
-
-title: "How to Participate in Diabetes Research Panels and Studies: Paid vs Unpaid Options Compared"
+author_email: yyh@tangyou.space
+author_id: yyh
+author_role: 糖尿病治疗医生
+categories:
+- 糖尿病预防
 date: 2026-03-17 08:35:24 +0800
+description: how to participate in diabetes research panels and studies (paid and
+  unpaid) - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
 lang: en
-description: "how to participate in diabetes research panels and studies (paid and unpaid) - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+review_status: draft
 slug: how-to-participate-in-diabetes-research-panels-and
-
-author_id: "yyh"
-author_email: "yyh@tangyou.space"
-author_role: "糖尿病治疗医生"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
-
+tags:
+- Treatment
+- 健康
+- Exercise
+- 糖尿病
+- 饮食
+title: 'How to Participate in Diabetes Research Panels and Studies: Paid vs Unpaid
+  Options Compared'
 ---
 ![Diabetes research panel discussion with diverse participants](https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80) *Alt text: A diverse group of individuals in a diabetes research panel discussion, illustrating inclusive participation in medical research.*  
 

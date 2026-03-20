@@ -1,12 +1,13 @@
 ---
-layout: default
-title: 康复期长期坚持的“6步法”：把目标写下来、做成系统
-description: "- “我会把饮料默认改成无糖。”
-- “我会每晚 23:30 前关灯。”
-- “我会每周做 2 次力量训练。”"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: '- “我会把饮料默认改成无糖。” - “我会每晚 23:30 前关灯。” - “我会每周做 2 次力量训练。”'
 lang: zh
+layout: default
+tags:
+- Emotion
+- Rehabilitation
+title: 康复期长期坚持的“6步法”：把目标写下来、做成系统
 translation_key: rehab-emotion-six-steps
 ---
 # 康复期长期坚持的“6步法”：把目标写下来、做成系统

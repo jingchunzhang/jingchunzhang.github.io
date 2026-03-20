@@ -1,23 +1,26 @@
 ---
-title: "1型糖友必看！酮症酸中毒风险竟和年龄性别有关？最新研究解读+防控好物选购指南"
+author_email: zhl@tangyou.space
+author_id: zhl
+author_role: 糖尿病病人家属
+categories:
+- 糖尿病预防
 date: 2026-03-20 09:26:40 +0800
-description: "1型糖友必看！酮症酸中毒风险竟和年龄性别有关？最新研究解读+防控好物选购指南 - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: 1型糖友必看！酮症酸中毒风险竟和年龄性别有关？最新研究解读+防控好物选购指南 - 糖尿病知识全面解读
+disclaimer_key: medical-information-only
+download_url: ''
+review_status: draft
 slug: age-and-sex-differences-in-diabetic-ketoacidosis-o
-
-author_id: "zhl"
-author_email: "zhl@tangyou.space"
-author_role: "糖尿病病人家属"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+tags:
+- Emotion
+- Treatment
+- 健康
+- 糖尿病
+- 饮食
+title: 1型糖友必看！酮症酸中毒风险竟和年龄性别有关？最新研究解读+防控好物选购指南
 ---
 
 # 1型糖友必看！酮症酸中毒风险竟和年龄性别有关？最新研究解读+防控好物选购指南
-![1型糖尿病患者日常血糖监测](https://source.unsplash.com/1600x900/?diabetes,type1)
+![1型糖尿病患者日常血糖监测](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 
 大家好，我是患1型糖尿病10年的老糖友阿明，这些年身边见过不少糖友因为酮症酸中毒住院，轻则恶心呕吐脱水，重则进ICU抢救。最近我看到国内最新发布的**《1型糖尿病酮症酸中毒结局的年龄与性别差异：全国队列研究》**，看完特别有共鸣：原来不同年龄、性别的1型糖友，酮症酸中毒的发生风险、预后差异比我们想象的大得多，提前针对性防控，至少能降低60%的酮症急症风险。今天就给大家好好解读这个研究，再分享我踩过无数坑总结出来的酮症防控好物选购指南，帮大家少走弯路。
 
@@ -35,7 +38,7 @@ download_url: ""
 ---
 
 ## 二、酮症防控好物选购核心要点
-![血糖血酮监测工具合集](https://source.unsplash.com/1600x900/?blood,glucose,meter)
+![血糖血酮监测工具合集](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
 我这些年买过不下20套血糖、酮体监测设备，踩过不少杂牌子不准、数据不同步的坑，总结下来选购要盯牢3个维度：
 ### 1. 功能维度：按需选择，不用贪多
 日常监测选能同时测血糖、酮体的设备即可，特殊群体可以叠加功能：

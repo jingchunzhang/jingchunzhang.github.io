@@ -1,13 +1,19 @@
 ---
-layout: default
-title: "早餐怎么吃更稳：一份可复制的‘蛋白 + 纤维 + 主食’模板"
-description: "早餐是很多人一天里最容易‘随便吃’的一餐，但它往往决定了上午的饥饿感、专注度与餐后血糖波动。本文给出一套不极端、可长期执行的早餐结构模板，并提供多套中式/西式示例。"
-author: "张杨 (Dane Zhang)"
-author_title: "健康科技研究员"
-date: "2026-03-02"
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+date: '2026-03-02'
+description: 早餐是很多人一天里最容易‘随便吃’的一餐，但它往往决定了上午的饥饿感、专注度与餐后血糖波动。本文给出一套不极端、可长期执行的早餐结构模板，并提供多套中式/西式示例。
 lang: zh
+layout: default
+tags:
+- 预防
+- Prevention
+- 血糖
+- 饮食
+- Diet
+- 早餐
+title: 早餐怎么吃更稳：一份可复制的‘蛋白 + 纤维 + 主食’模板
 translation_key: prevention/diet/breakfast-structure-diabetes-prevention
-tags: [饮食, 早餐, 预防, 血糖]
 ---
 
 # 早餐怎么吃更稳：一份可复制的“蛋白 + 纤维 + 主食”模板
