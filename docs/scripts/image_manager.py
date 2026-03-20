@@ -167,6 +167,10 @@ class ImageManager:
         keywords = keywords.replace('"', '').replace("'", "").strip()
         if not keywords:
             keywords = "diabetes health lifestyle" 
+        
+        # If the title/keywords are generic, add specific terms to avoid duplicates
+        # or just rely on search randomness (which Unsplash search isn't very random).
+        # We could append a random term if needed, but 'mixed' strategy relies on 'used_unsplash_ids' to filter.
 
         strategy = self.config.get('strategy', 'mixed')
         new_image = None
@@ -188,14 +192,20 @@ class ImageManager:
                 if self.config.get('backup', True):
                     shutil.copy(filepath, f"{filepath}.bak")
                 
-                new_content = content.replace('https://images.unsplash.com/' + DEFAULT_IMAGE + '?auto=format&fit=crop&w=1200&q=80', new_image['url'])
-                new_content = new_content.replace('https://images.unsplash.com/' + DEFAULT_IMAGE, new_image['url'])
+                # Use regex for robust replacement
+                # Matches: https://images.unsplash.com/photo-ID... optionally followed by query params
+                pattern = r'https://images\.unsplash\.com/' + re.escape(DEFAULT_IMAGE) + r'(\?[^\s\)\"\']*)?'
                 
-                with open(filepath, 'w', encoding='utf-8') as f:
-                    f.write(new_content)
+                new_content = re.sub(pattern, new_image['url'], content)
                 
-                print(f"Updated {filepath}")
-                self.save_history()
+                if new_content != content:
+                    with open(filepath, 'w', encoding='utf-8') as f:
+                        f.write(new_content)
+                    
+                    print(f"Updated {filepath}")
+                    self.save_history()
+                else:
+                    print(f"Skipping {filepath}: Content matched check but regex replacement failed. Check pattern.")
         else:
             print(f"Skipping {filepath}: Could not find/generate replacement image.")
 
