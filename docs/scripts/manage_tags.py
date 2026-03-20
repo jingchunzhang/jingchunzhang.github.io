@@ -85,7 +85,6 @@ def scan_and_update(dry_run=False):
             
             path_tags = get_tags_from_path(filepath)
             
-            # Merge path tags into current tags
             new_tags = list(set(current_tags + path_tags))
             
             if set(new_tags) != set(current_tags):
@@ -129,18 +128,14 @@ def generate_tag_data():
 def manage_tags(action, tag, file_pattern=None, new_tag=None, dry_run=False):
     updated_count = 0
     
-    # Find matching files
     if file_pattern:
-        # Support recursive glob if pattern contains **
         if '**' in file_pattern:
             files = glob.glob(file_pattern, recursive=True)
         else:
             files = glob.glob(file_pattern)
         
-        # Filter only markdown files in BLOG_DIR (safety check)
         files = [f for f in files if f.endswith('.md') and BLOG_DIR in f]
     else:
-        # If no pattern, walk all blog files (for rename)
         files = []
         for root, dirs, filenames in os.walk(BLOG_DIR):
             for f in filenames:
@@ -158,7 +153,6 @@ def manage_tags(action, tag, file_pattern=None, new_tag=None, dry_run=False):
         if isinstance(current_tags, str):
             current_tags = [current_tags]
         
-        # Ensure we work with a list
         current_tags = list(current_tags) if current_tags else []
         original_tags = current_tags.copy()
         modified = False
@@ -175,9 +169,7 @@ def manage_tags(action, tag, file_pattern=None, new_tag=None, dry_run=False):
         
         elif action == 'rename':
             if tag in current_tags and new_tag:
-                # Replace old tag with new tag
                 current_tags = [new_tag if t == tag else t for t in current_tags]
-                # Remove duplicates if new_tag was already there
                 current_tags = list(set(current_tags))
                 modified = True
 
@@ -192,7 +184,6 @@ def manage_tags(action, tag, file_pattern=None, new_tag=None, dry_run=False):
     
     print(f"Total files updated: {updated_count}")
     
-    # After any modification, regenerate the data file
     if not dry_run and updated_count > 0:
         generate_tag_data()
 
@@ -200,26 +191,21 @@ def main():
     parser = argparse.ArgumentParser(description='Manage blog tags')
     subparsers = parser.add_subparsers(dest='command', help='Commands')
 
-    # Scan command
     parser_scan = subparsers.add_parser('scan', help='Scan directory structure and auto-populate tags')
     parser_scan.add_argument('--dry-run', action='store_true')
 
-    # List command
     parser_list = subparsers.add_parser('list', help='List all tags and regenerate data file')
 
-    # Add command
     parser_add = subparsers.add_parser('add', help='Add a tag to specific files')
     parser_add.add_argument('tag', help='Tag to add')
     parser_add.add_argument('file_pattern', help='Glob pattern for files (e.g. "blog/posts/*.md")')
     parser_add.add_argument('--dry-run', action='store_true')
 
-    # Remove command
     parser_remove = subparsers.add_parser('remove', help='Remove a tag from specific files')
     parser_remove.add_argument('tag', help='Tag to remove')
     parser_remove.add_argument('file_pattern', help='Glob pattern for files')
     parser_remove.add_argument('--dry-run', action='store_true')
 
-    # Rename command
     parser_rename = subparsers.add_parser('rename', help='Rename a tag globally')
     parser_rename.add_argument('old_tag', help='Old tag name')
     parser_rename.add_argument('new_tag', help='New tag name')
@@ -229,7 +215,7 @@ def main():
 
     if args.command == 'scan':
         scan_and_update(dry_run=args.dry_run)
-        generate_tag_data() # Always regenerate after scan
+        generate_tag_data()
     elif args.command == 'list':
         generate_tag_data()
     elif args.command == 'add':
