@@ -30,4 +30,10 @@ translation_key: rehabilitation-index-en
    - [糖尿病关键术语速通：把看不懂变成看得懂](./emotion/diabetes-terms-you-should-know.md)
    - [产后与哺乳期压力管理：避免“压力-进食-血糖”循环](./emotion/postpartum-lactation-stress-glucose-recovery.md)
 
+---
+
+## 最新更新 (Latest in Rehabilitation)
+
+{% include post-list.html path="/rehabilitation/" %}
+
 [返回博客首页](./../)

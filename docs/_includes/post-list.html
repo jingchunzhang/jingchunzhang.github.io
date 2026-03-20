@@ -1,0 +1,174 @@
+<div class="blog-filter-container">
+  <!-- Tag Cloud Section -->
+  {% if include.show_tags != false %}
+  <div class="tag-cloud">
+    <h3>按标签筛选:</h3>
+    <button class="tag-btn active" data-filter="all">全部 All</button>
+    {% assign tags = site.tags | sort %}
+    {% for tag in tags %}
+      <button class="tag-btn" data-filter=".tag-{{ tag[0] | slugify }}">{{ tag[0] }} ({{ tag[1].size }})</button>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <!-- Post List Section -->
+  <div class="post-list">
+    {% assign posts = site.posts %}
+    
+    {% if include.category %}
+      {% assign filtered_posts = "" | split: "" %}
+      {% for post in posts %}
+        {% if post.categories contains include.category %}
+          {% assign filtered_posts = filtered_posts | push: post %}
+        {% endif %}
+      {% endfor %}
+      {% assign posts = filtered_posts %}
+    {% elsif include.path %}
+      {% assign filtered_posts = "" | split: "" %}
+      {% for post in posts %}
+        {% if post.url contains include.path %}
+          {% assign filtered_posts = filtered_posts | push: post %}
+        {% endif %}
+      {% endfor %}
+      {% assign posts = filtered_posts %}
+    {% endif %}
+    
+    {% assign limit = include.limit | default: 9999 %}
+    {% assign count = 0 %}
+    
+    {% for post in posts %}
+      {% if count < limit %}
+        <div class="post-item {% for tag in post.tags %}tag-{{ tag | slugify }} {% endfor %}" data-tags="{{ post.tags | join: ',' }}">
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <div class="post-meta">
+            <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+            {% if post.categories.size > 0 %}
+            <span class="post-categories">
+              Category: {{ post.categories | join: ', ' }}
+            </span>
+            {% endif %}
+          </div>
+          <div class="post-excerpt">
+            {{ post.excerpt | strip_html | truncatewords: 30 }}
+          </div>
+          <div class="post-tags">
+            {% for tag in post.tags %}
+              <span class="tag-label">{{ tag }}</span>
+            {% endfor %}
+          </div>
+        </div>
+        {% assign count = count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const filterButtons = document.querySelectorAll('.tag-btn');
+    const postItems = document.querySelectorAll('.post-item');
+
+    // Function to filter posts
+    function filterPosts(filterValue) {
+      postItems.forEach(item => {
+        if (filterValue === 'all') {
+          item.style.display = 'block';
+        } else {
+          if (item.classList.contains(filterValue.substring(1))) { // remove dot
+            item.style.display = 'block';
+          } else {
+            item.style.display = 'none';
+          }
+        }
+      });
+
+      // Update active button state
+      filterButtons.forEach(btn => {
+        btn.classList.remove('active');
+        if (btn.getAttribute('data-filter') === filterValue || (filterValue === 'all' && btn.getAttribute('data-filter') === 'all')) {
+          btn.classList.add('active');
+        }
+      });
+    }
+
+    // Handle click events
+    filterButtons.forEach(button => {
+      button.addEventListener('click', () => {
+        const filterValue = button.getAttribute('data-filter');
+        filterPosts(filterValue);
+        
+        // Update URL query param without reload
+        const url = new URL(window.location);
+        if (filterValue === 'all') {
+          url.searchParams.delete('tag');
+        } else {
+            // Extract tag slug from class selector
+            const tagSlug = filterValue.substring(5); // remove .tag-
+            url.searchParams.set('tag', tagSlug);
+        }
+        window.history.pushState({}, '', url);
+      });
+    });
+
+    // Check URL query param on load
+    const urlParams = new URLSearchParams(window.location.search);
+    const tagParam = urlParams.get('tag');
+    if (tagParam) {
+      // Find button corresponding to this tag slug
+      const selector = `.tag-${tagParam}`;
+      filterPosts(selector);
+      
+      // Highlight the correct button
+      const activeBtn = document.querySelector(`.tag-btn[data-filter="${selector}"]`);
+      if (activeBtn) {
+          filterButtons.forEach(b => b.classList.remove('active'));
+          activeBtn.classList.add('active');
+      }
+    }
+  });
+</script>
+
+<style>
+  .blog-filter-container {
+    margin-top: 2rem;
+  }
+  .tag-cloud {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+  }
+  .tag-btn {
+    margin: 0.25rem;
+    padding: 0.5rem 1rem;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    background: white;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .tag-btn:hover, .tag-btn.active {
+    background: #159957;
+    color: white;
+    border-color: #159957;
+  }
+  .post-item {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eee;
+  }
+  .post-meta {
+    color: #666;
+    font-size: 0.9em;
+    margin-bottom: 0.5rem;
+  }
+  .tag-label {
+    display: inline-block;
+    background: #e9ecef;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    font-size: 0.85em;
+    margin-right: 0.5rem;
+    color: #495057;
+  }
+</style>

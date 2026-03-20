@@ -80,6 +80,12 @@ translation_key: prevention/index
 
 ---
 
+## 最新更新 (Latest in Prevention)
+
+{% include post-list.html path="/prevention/" %}
+
+---
+
 希望通过本专区的内容, 您能建立起一套属于自己的健康生活方式, 构筑起一道坚实的糖尿病防线。
 
 [返回博客首页](./../)

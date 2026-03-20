@@ -2,4 +2,58 @@
 layout: default
 ---
 
-{{ content }}
+<header class="post-header">
+  <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+  <p class="post-meta">
+    {% if page.author %}
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <span itemprop="name">{{ page.author }}</span>
+      </span>
+    {% endif %}
+    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+      {{ page.date | date: date_format }}
+    </time>
+    
+    {% if page.tags %}
+    <span class="post-tags-meta">
+      | Tags: 
+      {% for tag in page.tags %}
+        <a href="{{ '/blog/' | relative_url }}?tag={{ tag | slugify }}" class="post-tag">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    </span>
+    {% endif %}
+  </p>
+</header>
+
+<div class="post-content" itemprop="articleBody">
+  {{ content }}
+</div>
+
+<div class="related-posts">
+  {% if page.lang == 'en' %}
+    <h3>Related Articles</h3>
+  {% else %}
+    <h3>相关文章</h3>
+  {% endif %}
+  {% include related-articles.html %}
+</div>
+
+<style>
+.post-tags-meta {
+  margin-left: 10px;
+  color: #828282;
+}
+.post-tag {
+  color: #159957;
+  text-decoration: none;
+}
+.post-tag:hover {
+  text-decoration: underline;
+}
+.related-posts {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid #eee;
+}
+</style>

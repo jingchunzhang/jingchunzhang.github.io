@@ -13,47 +13,23 @@ translation_key: blog
 
 您好, 欢迎访问 **[糖友空间博客](https://www.tangyou.space/blog/)**。本站是 **[糖友空间](https://shop.tangyou.space)** 的官方内容中心, 致力于成为您在糖尿病管理路上的可靠伙伴。
 
-我们的核心使命是分享与糖尿病相关的知识, 全面覆盖从 **预防**、**治疗** 到 **康复** 的每一个关键阶段。
+---
+
+## 核心专题 (Hubs)
+
+我们按疾病管理阶段为您整理了核心专题：
+
+*   **[预防阶段 (Prevention)](./prevention/)**：早期干预与生活方式调整
+*   **[治疗阶段 (Treatment)](./treatment/)**：药物、饮食与运动的综合管理
+*   **[康复阶段 (Rehabilitation)](./rehabilitation/)**：逆转可能与长期健康维护
 
 ---
 
-## 糖尿病基础知识 (必读)
-*   **[The Best Gifts for People with Diabetes](./2026-03-14-the-best-gifts-for-people-with-diabetes)**
+## 所有文章 (All Posts)
 
-*   **[警惕“甜蜜的杀手”：糖尿病并发症全景概述](./diabetes-complications-overview)**
-*   **[全球主流糖尿病诊断标准参考](./diabetes-diagnostic-criteria)**
+使用下方标签筛选感兴趣的内容，或使用右上角的搜索功能。
 
-## 生活与管理 (最新更新)
-*   **[搞懂2型糖尿病别瞎踩坑！10年老糖友亲测的科普/工具选购全指南](./treatment/exercise/2026-03-20-understanding-type-2-diabetes)**
-*   **[打了3年胰岛素，我总结了这份人人能懂的实用指南](./treatment/exercise/2026-03-20-everything-you-need-to-know-about-insuli)**
-*   **[入秋后糖尿病总波动？10年老糖友亲测有效的稳糖Step教程](./treatment/diet/2026-03-19-糖尿病-during-autumn-a)**
-*   **[糖友秋季稳糖全指南：吃喝动护对比清单，少踩坑血糖稳到冬天](./treatment/diet/2026-03-19-糖尿病-during-autumn-b)**
-*   **[春节胡吃海喝还能稳血糖？我陪糖友老爸3年的实战经验全分享](./treatment/diet/2026-03-19-glucose-during-spring-a)**
-*   **[春节控糖总踩坑？4组对比清单帮糖友稳血糖不超标](./treatment/diet/2026-03-19-glucose-during-spring-b)**
-*   **[加拿大糖友避坑指南：这6个常见错误别再犯了！](./treatment/diet/2026-03-19-diabetic-in-canada-a)**
-*   **[在家就能查血糖？2型糖尿病自我筛查的可行性+成本全对比](./treatment/exercise/2026-03-18-feasibility-and-cost-effectiveness-of-at)**
-*   **[磺脲类降糖药选哪种更安全？心血管和低血糖风险对比指南](./treatment/exercise/2026-03-18-comparative-safety-of-sulfonylurea-thera)**
-*   **[feasibility and cost-effectiveness of at-home self-sampling screening for type 2 diabetes: a pilot s](./treatment/emotion/2026-03-17-feasibility-and-cost-effectiveness-of-at)**
-## 核心关注：糖尿病管理三部曲
-
-### 1. 预防阶段
-
-*   [进入 **预防** 分类](./prevention/)
-
-### 2. 治疗阶段
-
-*   [进入 **治疗** 分类](./treatment/)
-
-### 3. 康复阶段
-
-*   [进入 **康复** 分类](./rehabilitation/)
-
----
-
-## 增长与变现
-
-*   [进入 **网络广告联盟** 分类](./affiliate/)
-*   [进入 **SEO** 分类](./seo/)
+{% include post-list.html %}
 
 ---
 

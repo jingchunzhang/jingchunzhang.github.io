@@ -1,0 +1,33 @@
+<div class="search-trigger">
+  <button onclick="openSearch()" class="search-icon-btn" aria-label="Search">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+  </button>
+</div>
+{% include pagefind-ui.html %}
+
+<style>
+.search-trigger {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 1rem;
+}
+.search-icon-btn {
+  background: none;
+  border: none;
+  color: rgba(255,255,255,0.7);
+  cursor: pointer;
+  padding: 5px;
+  transition: color 0.2s;
+}
+.search-icon-btn:hover {
+  color: white;
+}
+/* Ensure search appears in mobile nav appropriately */
+@media screen and (max-width: 42rem) {
+  .search-trigger {
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+  }
+}
+</style>

@@ -48,7 +48,14 @@ translation_key: treatment-index-en
 4. [情绪与压力管理](./emotion/)
    - [治疗期情绪与压力管理：让控糖不再靠硬扛](./emotion/stress-emotion-diabetes-treatment.md)
    - [1型糖尿病：把门诊建议落成家庭日程](./emotion/type1-diabetes-clinic-to-home-plan.md)
-   - [治疗期情绪管理：把《Psychology in Diabetes Care》变成日常可执行工具](./emotion/psychology-in-diabetes-care.md)
-   - [负面情绪如何拖累控糖：从《Psyching Out Diabetes》到可执行应对方案](./emotion/psyching-out-diabetes.md)
+    - [治疗期情绪管理：把《Psychology in Diabetes Care》变成日常可执行工具](./emotion/psychology-in-diabetes-care.md)
+    - [负面情绪如何拖累控糖：从《Psyching Out Diabetes》到可执行应对方案](./emotion/psyching-out-diabetes.md)
+
+---
+
+## 最新更新 (Latest in Treatment)
+
+{% include post-list.html path="/treatment/" %}
 
 [返回博客首页](./../)
+
