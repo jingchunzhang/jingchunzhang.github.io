@@ -1,21 +1,22 @@
 ---
-title: "糖尿病患者的最佳礼物清单：避坑指南与实用推荐"
-date: 2026-03-14 11:35:36 +0800
-sort_date: "2026-03-14 11:35:36 +0800"
+title: 糖尿病患者的最佳礼物清单：避坑指南与实用推荐
+date: '2026-03-14T11:35:36+08:00'
+sort_date: '2026-03-14T11:35:36+08:00'
 lang: zh
-description: "The Best Gifts for People with Diabetes - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: The Best Gifts for People with Diabetes - 糖尿病知识全面解读
+categories:
+- 糖尿病预防
+tags:
+- 糖尿病
+- 健康
+- 饮食
 slug: the-best-gifts-for-people-with-diabetes
-
-author_id: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+author_id: wep
+author_email: wep@tangyou.space
+author_role: 糖尿病病人家属
+review_status: draft
+disclaimer_key: medical-information-only
+download_url: ''
 ---
 
 # 糖尿病患者的最佳礼物清单：避坑指南与实用推荐

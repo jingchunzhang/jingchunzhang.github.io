@@ -8,6 +8,7 @@ unsplash:
   appid: 900869
   download: false 
   orientation: 'landscape'
+  max_requests: 40
 
 volcengine:
   api_url: 'https://ark.cn-beijing.volces.com/api/v3/images/generations'

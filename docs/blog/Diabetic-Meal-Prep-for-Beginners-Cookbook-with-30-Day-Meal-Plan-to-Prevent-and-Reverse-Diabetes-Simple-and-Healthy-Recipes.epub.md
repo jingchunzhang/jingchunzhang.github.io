@@ -1,23 +1,22 @@
 ---
-
-title: "糖尿病预防早餐准备指南：科学饮食，从一顿健康早餐开始"
-date: 2026-03-14 10:20:45 +0800
-sort_date: "2026-03-14 10:20:45 +0800"
+title: 糖尿病预防早餐准备指南：科学饮食，从一顿健康早餐开始
+date: '2026-03-14T10:20:45+08:00'
+sort_date: '2026-03-14T10:20:45+08:00'
 lang: zh
-description: "breakfast-meal-prep-diabetes-prevention - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: breakfast-meal-prep-diabetes-prevention - 糖尿病知识全面解读
+categories:
+- 糖尿病预防
+tags:
+- 糖尿病
+- 健康
+- 饮食
 slug: Diabetic-Meal-Prep-for-Beginners-Cookbook-with-30-Day-Meal-Plan-to-Prevent-and-Reverse-Diabetes-Simple-and-Healthy-Recipes.epub
-
-author_id: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-
-review_status: "draft"
-disclaimer_key: "kelvin@tangyou.space"
-
-download_url: " z-lib.sk).epub"
-
+author_id: wep
+author_email: wep@tangyou.space
+author_role: 糖尿病病人家属
+review_status: draft
+disclaimer_key: kelvin@tangyou.space
+download_url: ' z-lib.sk).epub'
 ---
 # 糖尿病预防早餐准备指南：科学饮食，从一顿健康早餐开始
 

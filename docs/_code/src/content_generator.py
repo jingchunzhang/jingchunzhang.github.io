@@ -32,7 +32,6 @@ class ContentGenerator:
             return self._generate_gemini(prompt)
     
     def _generate_volcengine(self, prompt: str) -> str:
-        """使用火山引擎LLM生成内容"""
         url = f"{self.volcengine_api_base}/chat/completions"
         headers = {
             "Content-Type": "application/json",
@@ -54,7 +53,6 @@ class ContentGenerator:
         return result['choices'][0]['message']['content']
     
     def _generate_gemini(self, prompt: str) -> str:
-        """使用Gemini生成内容"""
         import google.generativeai as genai
         genai.configure(api_key=self.gemini_api_key)
         model = genai.GenerativeModel(self.gemini_model)
@@ -92,7 +90,7 @@ def generate_front_matter(topic: Dict, publish_date, custom_title: Optional[str]
      
      author_info = get_author_for_date(publish_date)
      
-     date_str = publish_date.strftime("%Y-%m-%d %H:%M:%S +0800")
+     date_str = publish_date.strftime("%Y-%m-%dT%H:%M:%S+08:00")
      
      title = (custom_title or topic.get('keyword', '')).replace('"', '\\"')
      

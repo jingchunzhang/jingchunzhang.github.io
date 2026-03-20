@@ -24,6 +24,9 @@ class ImageManager:
         
         self.download_dir = self.config.get('local_image_dir', 'assets/images/generated')
         Path(self.download_dir).mkdir(parents=True, exist_ok=True)
+        
+        self.unsplash_requests_count = 0
+        self.unsplash_limit = self.config.get('unsplash', {}).get('max_requests', 50)
 
     def load_config(self, path):
         if not os.path.exists(path):
@@ -57,6 +60,11 @@ class ImageManager:
     def search_unsplash(self, query):
         if not self.unsplash_key:
             return None
+        
+        if self.unsplash_requests_count >= self.unsplash_limit:
+            return None
+            
+        self.unsplash_requests_count += 1
 
         url = "https://api.unsplash.com/search/photos"
         headers = {"Authorization": f"Client-ID {self.unsplash_key}"}
@@ -168,21 +176,23 @@ class ImageManager:
         if not keywords:
             keywords = "diabetes health lifestyle" 
         
-        # If the title/keywords are generic, add specific terms to avoid duplicates
-        # or just rely on search randomness (which Unsplash search isn't very random).
-        # We could append a random term if needed, but 'mixed' strategy relies on 'used_unsplash_ids' to filter.
-
         strategy = self.config.get('strategy', 'mixed')
         new_image = None
         
-        if strategy in ['unsplash', 'mixed']:
+        unsplash_limit_hit = self.unsplash_requests_count >= self.unsplash_limit
+        
+        if strategy in ['unsplash', 'mixed'] and not unsplash_limit_hit:
             new_image = self.search_unsplash(keywords)
             if new_image:
                 if 'used_unsplash_ids' not in self.history:
                     self.history['used_unsplash_ids'] = []
                 self.history['used_unsplash_ids'].append(new_image['id'])
-
-        if not new_image and strategy in ['volcengine', 'mixed']:
+        
+        force_fallback = (strategy == 'unsplash' and unsplash_limit_hit)
+        
+        if not new_image and (strategy in ['volcengine', 'mixed'] or force_fallback):
+            if unsplash_limit_hit and strategy == 'unsplash':
+                 print(f"Forcing Volcengine fallback due to Unsplash limit ({self.unsplash_limit})")
             new_image = self.generate_volcengine(keywords)
 
         if new_image:
@@ -192,7 +202,6 @@ class ImageManager:
                 if self.config.get('backup', True):
                     shutil.copy(filepath, f"{filepath}.bak")
                 
-                # Use regex for robust replacement
                 # Matches: https://images.unsplash.com/photo-ID... optionally followed by query params
                 pattern = r'https://images\.unsplash\.com/' + re.escape(DEFAULT_IMAGE) + r'(\?[^\s\)\"\']*)?'
                 

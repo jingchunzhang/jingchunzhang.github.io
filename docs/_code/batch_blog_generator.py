@@ -147,7 +147,7 @@ def generate_blog(keyword: str, is_english: bool = False, max_retries: int = 3) 
 
 
 def create_front_matter(blog: dict, author_info: dict) -> str:
-    date_str = datetime.now().strftime('%Y-%m-%d')
+    date_str = datetime.now().strftime('%Y-%m-%dT%H:%M:%S+08:00')
     
     if blog['is_english']:
         title = blog['keyword'].title()

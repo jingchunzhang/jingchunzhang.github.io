@@ -1,21 +1,22 @@
 ---
-title: "The Best Gifts for People with Diabetes"
-date: 2026-03-14 11:35:36 +0800
-sort_date: "2026-03-14 11:35:36 +0800"
+title: The Best Gifts for People with Diabetes
+date: '2026-03-14T11:35:36+08:00'
+sort_date: '2026-03-14T11:35:36+08:00'
 lang: en
-description: "The Best Gifts for People with Diabetes - 糖尿病知识全面解读"
-categories: ["糖尿病预防"]
-tags: ["糖尿病", "健康", "饮食"]
+description: The Best Gifts for People with Diabetes - 糖尿病知识全面解读
+categories:
+- 糖尿病预防
+tags:
+- 糖尿病
+- 健康
+- 饮食
 slug: the-best-gifts-for-people-with-diabetes
-
-author_id: "wep"
-author_email: "wep@tangyou.space"
-author_role: "糖尿病病人家属"
-
-review_status: "draft"
-disclaimer_key: "medical-information-only"
-
-download_url: ""
+author_id: wep
+author_email: wep@tangyou.space
+author_role: 糖尿病病人家属
+review_status: draft
+disclaimer_key: medical-information-only
+download_url: ''
 ---
 
 # The Best Gifts for People with Diabetes: Thoughtful Ideas for Every Budget & Lifestyle
