@@ -2,4 +2,5 @@
 
 bundle exec jekyll build
 npx pagefind --site _site
-echo "Build complete with search index!"
+cp -r _site/pagefind .
+echo "Build complete! Search index generated and copied to source root."
