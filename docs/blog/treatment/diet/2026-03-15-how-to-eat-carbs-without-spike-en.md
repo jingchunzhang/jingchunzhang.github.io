@@ -5,7 +5,8 @@ author_name: wep
 author_role: 糖尿病病人家属
 categories:
 - Diabetes Treatment
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 description: A treatment-stage guide to understanding carbs and blood sugar, with
   practical tips on meal sequencing, food pairing, and portion control.
 disclaimer_key: medical-information-only

@@ -7,7 +7,8 @@ author_role: 糖尿病康复期病人
 author_title: 糖尿病康复期病人
 automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
-date: 2026-03-12
+date: 2026-03-12 00:00:00 +0800
+sort_date: "2026-03-12 00:00:00 +0800"
 description: 围绕产后与哺乳期的真实场景，建立兼顾恢复、奶量、饱腹和血糖稳定的饮食与作息框架，帮助有妊娠糖尿病史的妈妈更平稳地过渡。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260309/Diabetes-Cooking-for-Everyone-250-All-Natural,-Low-Glycemic-Recipes-to-Nourish-and-Rejuvenate.pdf

@@ -2,6 +2,7 @@
 author: 张杨 (Dane Zhang)
 author_title: 健康科技研究员
 date: '2026-03-02'
+sort_date: "2026-03-02"
 description: 很多人的饮食问题不是‘不知道怎么吃’，而是‘压力来时控制不住’。本文把情绪性进食拆成可识别、可干预的几个环节，并给出低成本的替代策略。
 lang: zh
 layout: default

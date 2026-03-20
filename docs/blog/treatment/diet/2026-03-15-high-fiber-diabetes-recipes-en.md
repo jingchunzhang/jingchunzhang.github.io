@@ -4,7 +4,8 @@ author_id: wep
 author_name: wep
 author_role: Family caregiver of diabetes patient
 category: diabetes-nutrition
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 description: Discover practical, high-fiber recipes that help stabilize blood sugar
   levels. Learn how family caregivers can prepare nutritious meals for diabetic loved
   ones.

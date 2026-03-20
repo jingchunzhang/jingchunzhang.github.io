@@ -3,7 +3,8 @@ author_email: wep@tangyou.space
 author_id: wep
 author_name: wep
 author_role: Family caregiver of diabetes patient
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 description: Master diabetic-friendly cooking techniques at home. Learn ingredient
   selection, preparation methods, and practical tips to create healthy meals that
   keep blood sugar stable.

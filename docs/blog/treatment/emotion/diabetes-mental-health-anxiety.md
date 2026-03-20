@@ -6,7 +6,8 @@ author_role: 糖尿病治疗期病人
 categories:
 - treatment
 - emotion
-date: 2026-03-16
+date: 2026-03-16 00:00:00 +0800
+sort_date: "2026-03-16 00:00:00 +0800"
 description: 糖尿病心理健康：应对焦虑和抑郁 - 全面指南
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260311/Diabetic-Meal-Prep-for-Beginners-Cookbook-with-30-Day-Meal-Plan-to-Prevent-and-Reverse-Diabetes-Simple-and-Healthy-Recipes.epub

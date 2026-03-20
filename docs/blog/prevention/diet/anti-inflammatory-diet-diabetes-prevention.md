@@ -2,6 +2,7 @@
 author: 张杨 (Dane Zhang)
 author_title: 健康科技研究员
 date: '2026-01-15'
+sort_date: "2026-01-15"
 description: 深入解析慢性低度炎症与2型糖尿病的关系，阐述抗炎饮食的科学原理、具体食物选择及日常实践方法。
 lang: zh
 layout: default

@@ -5,6 +5,7 @@ description: "Protein isn’t only for athletes. For steadier glucose, fewer cra
 author: "Dane Zhang (张杨)"
 author_title: "Health Tech Researcher"
 date: "2026-03-02"
+sort_date: "2026-03-02"
 lang: en
 translation_key: prevention/diet/protein-strategy-glucose-stability
 tags: [Diet, Protein, Prevention, Insulin Resistance]

@@ -5,6 +5,7 @@ author_role: 糖尿病治疗医生
 categories:
 - 糖尿病预防
 date: 2026-03-17 08:52:10 +0800
+sort_date: "2026-03-17 08:52:10 +0800"
 description: 'associations of body weight and covid-19 with autoimmunity in pediatric
   new-onset type 1 diabetes: r - 糖尿病知识全面解读'
 disclaimer_key: medical-information-only

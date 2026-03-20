@@ -2,6 +2,7 @@
 author: 张杨 (Dane Zhang)
 author_title: 健康科技研究员
 date: '2026-03-02'
+sort_date: "2026-03-02"
 description: 很多人以为运动必须大汗淋漓才算数。其实对血糖更友好的，是把运动‘嵌入每一顿饭后’。本文用最可执行的方式讲清：饭后走路为什么有效、怎么走、以及常见误区。
 lang: zh
 layout: default

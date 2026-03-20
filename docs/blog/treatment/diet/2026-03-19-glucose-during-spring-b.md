@@ -5,6 +5,7 @@ author_role: 医学院学生
 categories:
 - 糖尿病预防
 date: 2026-03-19 09:38:20 +0800
+sort_date: "2026-03-19 09:38:20 +0800"
 description: 春节控糖总踩坑？4组对比清单帮糖友稳血糖不超标 - 糖尿病知识全面解读
 disclaimer_key: medical-information-only
 download_url: ''

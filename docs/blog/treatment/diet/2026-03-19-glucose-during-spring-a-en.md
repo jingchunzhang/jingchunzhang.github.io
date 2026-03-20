@@ -5,6 +5,7 @@ author_role: 医学院学生
 categories:
 - 糖尿病预防
 date: 2026-03-19 09:33:54 +0800
+sort_date: "2026-03-19 09:33:54 +0800"
 description: 7 Spring Glucose Mistakes I Regretted Making (As a 10-Year Type 2 Diabetes
   Vet) – Stay Steady Through Picnics, Festivals, and Allergy Season! - 糖尿病知识全面解读
 disclaimer_key: medical-information-only

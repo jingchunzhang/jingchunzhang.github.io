@@ -5,6 +5,7 @@ author_role: 糖尿病病人家属
 categories:
 - 糖尿病预防
 date: 2026-03-20 09:00:14 +0800
+sort_date: "2026-03-20 09:00:14 +0800"
 description: What The 3 Type 2 Diabetes Subtypes In African Immigrants Mean For Your
   Daily Care & Diet Choices - 糖尿病知识全面解读
 disclaimer_key: medical-information-only

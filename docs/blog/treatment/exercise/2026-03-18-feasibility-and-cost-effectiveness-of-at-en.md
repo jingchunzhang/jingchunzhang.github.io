@@ -5,6 +5,7 @@ author_role: 糖尿病康复期病人
 categories:
 - 糖尿病预防
 date: 2026-03-18 08:50:02 +0800
+sort_date: "2026-03-18 08:50:02 +0800"
 description: Is At-Home Type 2 Diabetes Screening Actually Feasible? Let’s Break Down
   the Costs and Myths - 糖尿病知识全面解读
 disclaimer_key: medical-information-only

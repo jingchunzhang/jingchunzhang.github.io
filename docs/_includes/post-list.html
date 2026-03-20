@@ -4,16 +4,24 @@
   <div class="tag-cloud">
     <h3>按标签筛选:</h3>
     <button class="tag-btn active" data-filter="all">全部 All</button>
-    {% assign tags = site.tags | sort %}
+    {% assign tags = site.data.tags %}
     {% for tag in tags %}
-      <button class="tag-btn" data-filter=".tag-{{ tag[0] | slugify }}">{{ tag[0] }} ({{ tag[1].size }})</button>
+      <button class="tag-btn" data-filter=".tag-{{ tag[0] | slugify: "pretty" }}">{{ tag[0] }} ({{ tag[1] }})</button>
     {% endfor %}
   </div>
   {% endif %}
 
-  <!-- Post List Section -->
+    <!-- Post List Section -->
   <div class="post-list">
-    {% assign posts = site.posts %}
+    {% assign blog_pages = site.pages | where_exp: "item", "item.url contains '/blog/'" %}
+    {% assign dated_pages = blog_pages | where_exp: "item", "item.sort_date" %}
+    {% assign all_pages = dated_pages | sort: "sort_date" | reverse %}
+    
+    {% assign posts = "" | split: "" %}
+    
+    {% for p in all_pages %}
+        {% assign posts = posts | push: p %}
+    {% endfor %}
     
     {% if include.category %}
       {% assign filtered_posts = "" | split: "" %}
@@ -38,7 +46,7 @@
     
     {% for post in posts %}
       {% if count < limit %}
-        <div class="post-item {% for tag in post.tags %}tag-{{ tag | slugify }} {% endfor %}" data-tags="{{ post.tags | join: ',' }}">
+        <div class="post-item {% for tag in post.tags %}tag-{{ tag | slugify: "pretty" }} {% endfor %}" data-tags="{{ post.tags | join: ',' }}">
           <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
           <div class="post-meta">
             <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>

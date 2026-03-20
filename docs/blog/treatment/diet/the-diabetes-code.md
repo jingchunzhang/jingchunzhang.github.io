@@ -7,7 +7,8 @@ author_role: 医学院学生
 author_title: 医学院学生
 automation_id: ebook-delivery-20260313
 cta_form_id: ebook-signup
-date: 2026-03-13
+date: 2026-03-13 00:00:00 +0800
+sort_date: "2026-03-13 00:00:00 +0800"
 description: 从治疗期视角解读《The Diabetes Code》，重点讨论体重、进食节律与胰岛素阻抗管理的可执行方案，避免极端化实践。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260313/The-Diabetes-Code.pdf

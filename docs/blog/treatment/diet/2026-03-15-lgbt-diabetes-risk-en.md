@@ -5,7 +5,8 @@ author_name: wep
 author_role: 糖尿病病人家属
 categories:
 - Diabetes Treatment
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 description: Based on recent CDC data, explain why the LGBTQ community has higher
   diabetes prevalence than the general population, along with risk factors and prevention
   strategies.

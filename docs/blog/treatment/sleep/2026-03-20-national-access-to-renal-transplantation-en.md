@@ -5,6 +5,7 @@ author_role: 糖尿病病人家属
 categories:
 - 糖尿病预防
 date: 2026-03-20 09:17:17 +0800
+sort_date: "2026-03-20 09:17:17 +0800"
 description: 'Kidney Transplants for People With Diabetes: Your No-BS Guide to Access
   and Long-Term Survival - 糖尿病知识全面解读'
 disclaimer_key: medical-information-only

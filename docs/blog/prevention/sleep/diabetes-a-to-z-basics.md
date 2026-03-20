@@ -7,7 +7,8 @@ author_role: 糖尿病治疗期病人
 author_title: 糖尿病治疗期病人
 automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
-date: 2026-03-09
+date: 2026-03-09 00:00:00 +0800
+sort_date: "2026-03-09 00:00:00 +0800"
 description: 面向新确诊与家庭支持者的糖尿病A到Z基础参考，涵盖睡眠、饮食与日常管理，附实操清单与电子书下载。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260309/Diabetes-A-to-Z-What-You-Need-to-Know-about-Diabetes---Simply-Put.pdf

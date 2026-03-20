@@ -5,6 +5,7 @@ description: "Stress can’t be eliminated, but it can be buffered. This 5‑min
 author: "Dane Zhang (张杨)"
 author_title: "Health Tech Researcher"
 date: "2026-03-02"
+sort_date: "2026-03-02"
 lang: en
 translation_key: prevention/emotion/five-minute-calm-toolbox
 tags: [Emotion, Stress, Prevention, Mindfulness]

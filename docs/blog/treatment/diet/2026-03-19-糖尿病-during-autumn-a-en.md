@@ -5,6 +5,7 @@ author_role: 医学院学生
 categories:
 - 糖尿病预防
 date: 2026-03-19 09:23:56 +0800
+sort_date: "2026-03-19 09:23:56 +0800"
 description: 'My 3 Years of Managing Diabetes During Autumn: What Actually Works (And
   What Messed Up My Blood Sugar Badly) - 糖尿病知识全面解读'
 disclaimer_key: medical-information-only

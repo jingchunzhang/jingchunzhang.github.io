@@ -5,6 +5,7 @@ author_role: 糖尿病病人家属
 categories:
 - 糖尿病预防
 date: 2026-03-20 09:12:53 +0800
+sort_date: "2026-03-20 09:12:53 +0800"
 description: 糖友的诊疗方案更准了？聊聊电子病历模拟试验对循证护理的升级作用 - 糖尿病知识全面解读
 disclaimer_key: medical-information-only
 download_url: ''

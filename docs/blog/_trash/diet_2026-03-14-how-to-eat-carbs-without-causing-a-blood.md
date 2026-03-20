@@ -1,6 +1,7 @@
 ---
 title: "How to Eat Carbs Without Causing a Blood Sugar Spike"
 date: 2026-03-14 11:56:27 +0800
+sort_date: "2026-03-14 11:56:27 +0800"
 description: "How to Eat Carbs Without Causing a Blood Sugar Spike - 糖尿病知识全面解读"
 categories: ["糖尿病预防"]
 tags: ["糖尿病", "健康", "饮食"]

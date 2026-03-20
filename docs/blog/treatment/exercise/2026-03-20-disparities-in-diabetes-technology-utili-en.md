@@ -5,6 +5,7 @@ author_role: 糖尿病病人家属
 categories:
 - 糖尿病预防
 date: 2026-03-20 09:36:15 +0800
+sort_date: "2026-03-20 09:36:15 +0800"
 description: A Step-by-Step Guide to Closing Diabetes Tech Access Gaps for Kids and
   Teens With Diabetes - 糖尿病知识全面解读
 disclaimer_key: medical-information-only

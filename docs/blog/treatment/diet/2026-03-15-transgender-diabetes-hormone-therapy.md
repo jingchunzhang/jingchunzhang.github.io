@@ -5,7 +5,8 @@ author_name: wep
 author_role: 糖尿病病人家属
 categories:
 - 糖尿病治疗
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 description: 详解跨性别者激素治疗与糖尿病的关系，激素替代疗法对血糖的影响，以及跨性别糖友的健康管理策略。
 disclaimer_key: medical-information-only
 lang: zh

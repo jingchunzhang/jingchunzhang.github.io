@@ -5,6 +5,7 @@ author_role: 糖尿病康复期病人
 categories:
 - 糖尿病预防
 date: 2026-03-18 08:45:48 +0800
+sort_date: "2026-03-18 08:45:48 +0800"
 description: 磺脲类降糖药选哪种更安全？心血管和低血糖风险对比指南 - 糖尿病知识全面解读
 disclaimer_key: medical-information-only
 download_url: ''

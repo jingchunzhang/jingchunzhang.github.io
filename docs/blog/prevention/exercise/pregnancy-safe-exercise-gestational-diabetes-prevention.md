@@ -7,7 +7,8 @@ author_role: 糖尿病康复期病人
 author_title: 糖尿病康复期病人
 automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
-date: 2026-03-12
+date: 2026-03-12 00:00:00 +0800
+sort_date: "2026-03-12 00:00:00 +0800"
 description: 给孕期女性的实用运动方案：如何在安全前提下用餐后步行、轻力量和久坐中断，降低妊娠糖尿病风险。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260309/American-Diabetes-Association-Complete-Guide-to-Diabetes-The-Ultimate-Home-Reference-from-the-Diabetes-Experts.pdf

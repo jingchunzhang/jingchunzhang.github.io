@@ -5,6 +5,7 @@ description: "Caffeine isn’t the enemy, but late timing can impair sleep and i
 author: "Dane Zhang (张杨)"
 author_title: "Health Tech Researcher"
 date: "2026-03-02"
+sort_date: "2026-03-02"
 lang: en
 translation_key: prevention/sleep/caffeine-sleep-glucose
 tags: [Sleep, Caffeine, Prevention, Routine]

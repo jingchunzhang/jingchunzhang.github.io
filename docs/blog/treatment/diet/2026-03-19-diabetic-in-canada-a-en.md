@@ -5,6 +5,7 @@ author_role: 医学院学生
 categories:
 - 糖尿病预防
 date: 2026-03-19 09:42:55 +0800
+sort_date: "2026-03-19 09:42:55 +0800"
 description: 'Managing Diabetes in Canada: A No-Fuss, Budget-Friendly Step-by-Step
   Guide for New Patients - 糖尿病知识全面解读'
 disclaimer_key: medical-information-only

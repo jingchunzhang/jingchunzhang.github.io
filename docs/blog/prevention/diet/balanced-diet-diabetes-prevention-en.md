@@ -1,6 +1,7 @@
 ---
 author: danezhang
 date: '2026-01-15'
+sort_date: "2026-01-15"
 description: In today's era of information explosion, various claims about diabetes
   dietary prevention are circulating on the internet.
 lang: en

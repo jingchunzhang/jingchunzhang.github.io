@@ -6,7 +6,8 @@ author_role: 糖尿病治疗期病人
 categories:
 - prevention
 - diet
-date: 2026-03-16
+date: 2026-03-16 00:00:00 +0800
+sort_date: "2026-03-16 00:00:00 +0800"
 description: 30天 糖尿病预防 备餐计划 - 糖尿病预防全面指南
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260311/Diabetic-Meal-Prep-for-Beginners-Cookbook-with-30-Day-Meal-Plan-to-Prevent-and-Reverse-Diabetes-Simple-and-Healthy-Recipes.epub

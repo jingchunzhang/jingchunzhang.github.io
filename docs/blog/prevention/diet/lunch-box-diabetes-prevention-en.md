@@ -6,7 +6,8 @@ author_role: 糖尿病治疗期病人
 categories:
 - prevention
 - diet
-date: 2026-03-16
+date: 2026-03-16 00:00:00 +0800
+sort_date: "2026-03-16 00:00:00 +0800"
 description: diabetes prevention lunch box ideas - Comprehensive guide for diabetes
   prevention
 disclaimer_key: medical-information-only

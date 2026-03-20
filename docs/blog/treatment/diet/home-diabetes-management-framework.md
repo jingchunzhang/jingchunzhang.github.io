@@ -7,7 +7,8 @@ author_role: 糖尿病治疗期病人
 author_title: 糖尿病治疗期病人
 automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
-date: 2026-03-09
+date: 2026-03-09 00:00:00 +0800
+sort_date: "2026-03-09 00:00:00 +0800"
 description: 围绕治疗期家庭场景，建立“监测-饮食-活动-复盘”四位一体管理框架，帮助患者与家属把复杂建议变成可执行日程。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260309/American-Diabetes-Association-Complete-Guide-to-Diabetes-The-Ultimate-Home-Reference-from-the-Diabetes-Experts.pdf

@@ -3,7 +3,8 @@ author_email: wep@tangyou.space
 author_id: wep
 author_name: wep
 author_role: 糖尿病病人家属
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 disclaimer_key: medical-information-only
 lang: zh
 review_status: published

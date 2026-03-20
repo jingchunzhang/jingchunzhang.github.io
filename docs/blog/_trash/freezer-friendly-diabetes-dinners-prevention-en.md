@@ -1,6 +1,7 @@
 ---
 title: "Freezer Friendly Diabetes Prevention Dinners"
-date: 2026-03-16
+date: 2026-03-16 00:00:00 +0800
+sort_date: "2026-03-16 00:00:00 +0800"
 lang: en
 translation_key: freezer-friendly-diabetes-dinners-prevention
 description: "freezer friendly diabetes prevention dinners - Comprehensive guide for diabetes prevention"

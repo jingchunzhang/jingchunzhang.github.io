@@ -5,6 +5,7 @@ author_role: 糖尿病病人家属
 categories:
 - 糖尿病预防
 date: 2026-03-20 09:21:21 +0800
+sort_date: "2026-03-20 09:21:21 +0800"
 description: 吃了12个月苯磷硫胺，我的神经病变真的好转了？亲测全记录 - 糖尿病知识全面解读
 disclaimer_key: medical-information-only
 download_url: ''

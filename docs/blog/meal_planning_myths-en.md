@@ -4,7 +4,8 @@ title: 5 Myths About Diabetic Meal Planning You Need to Stop Believing
 description: "Receiving a diabetes diagnosis often comes with a flood of advice—some helpful, but much of it outdated or simply wrong."
 author: "Dane Zhang (张杨)"
 author_title: "Health Tech Researcher"
-date: 2026-02-08
+date: 2026-02-08 00:00:00 +0800
+sort_date: "2026-02-08 00:00:00 +0800"
 tags: [Nutrition, Meal Planning, Myth Busting, Healthy Living]
 lang: en
 ---

@@ -7,7 +7,8 @@ author_role: 糖尿病康复期病人
 author_title: 糖尿病康复期病人
 automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
-date: 2026-03-12
+date: 2026-03-12 00:00:00 +0800
+sort_date: "2026-03-12 00:00:00 +0800"
 description: 针对有妊娠糖尿病史的产后妈妈，提供可执行的情绪与压力管理策略，降低压力诱发进食和血糖波动。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260309/American-Diabetes-Association-Complete-Guide-to-Diabetes-The-Ultimate-Home-Reference-from-the-Diabetes-Experts.pdf

@@ -2,6 +2,7 @@
 author: 张杨 (Dane Zhang)
 author_title: 健康科技研究员
 date: '2026-03-02'
+sort_date: "2026-03-02"
 description: 蛋白质并不是健身人士的专属。对想要稳定血糖、减少零食冲动、维持肌肉的人来说，蛋白质常常是最值得优先优化的变量。本文提供可执行的蛋白策略与餐盘示例。
 lang: zh
 layout: default

@@ -7,7 +7,8 @@ author_role: 医学院学生
 author_title: 医学院学生
 automation_id: ebook-delivery-20260313
 cta_form_id: ebook-signup
-date: 2026-03-13
+date: 2026-03-13 00:00:00 +0800
+sort_date: "2026-03-13 00:00:00 +0800"
 description: 结合《Physical medicine and rehabilitation... diabetic patient》提炼并发症风险人群的康复期运动框架，强调安全、功能与长期独立性。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260313/Physical-medicine-and-rehabilitation-clinics-of-North-America-the-dysvascular-and-diabetic-patient,-update-in-diagnosis,….pdf

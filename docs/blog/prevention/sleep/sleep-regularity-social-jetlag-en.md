@@ -5,6 +5,7 @@ description: "Sleep isn’t only about hours. Regular timing (sleep and wake con
 author: "Dane Zhang (张杨)"
 author_title: "Health Tech Researcher"
 date: "2026-03-02"
+sort_date: "2026-03-02"
 lang: en
 translation_key: prevention/sleep/sleep-regularity-social-jetlag
 tags: [Sleep, Routine, Prevention, Insulin Resistance]

@@ -5,6 +5,7 @@ author_role: 糖尿病病人家属
 categories:
 - 糖尿病预防
 date: 2026-03-20 09:26:40 +0800
+sort_date: "2026-03-20 09:26:40 +0800"
 description: 1型糖友必看！酮症酸中毒风险竟和年龄性别有关？最新研究解读+防控好物选购指南 - 糖尿病知识全面解读
 disclaimer_key: medical-information-only
 download_url: ''

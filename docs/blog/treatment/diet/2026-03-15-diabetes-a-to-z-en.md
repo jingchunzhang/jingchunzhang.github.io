@@ -7,7 +7,8 @@ automation_id: ebook-delivery-20260315
 categories:
 - treatment
 cta_form_id: ebook-signup
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 description: 'A conservative, treatment-stage diabetes diet guide from A to Z: blood
   sugar basics, carb quality, medication-meal timing, monitoring, and family routines.'
 disclaimer_key: medical-information-only

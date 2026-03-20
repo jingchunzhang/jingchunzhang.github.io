@@ -1,6 +1,7 @@
 ---
 title: "糖尿病预防 备餐 采购清单"
-date: 2026-03-16
+date: 2026-03-16 00:00:00 +0800
+sort_date: "2026-03-16 00:00:00 +0800"
 lang: zh
 translation_key: grocery-list-diabetes-meal-prep-prevention
 description: "糖尿病预防 备餐 采购清单 - 糖尿病预防全面指南"

@@ -7,7 +7,8 @@ author_role: 糖尿病研究人员
 author_title: 糖尿病研究人员
 automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
-date: 2026-03-10
+date: 2026-03-10 00:00:00 +0800
+sort_date: "2026-03-10 00:00:00 +0800"
 description: 把汤面、炖饭、焗菜和甜口小食改造成更稳血糖的治疗期版本：从餐盘结构、烹调顺序、份量分配到外食策略，一次讲清可长期执行的 comfort food
   框架。
 disclaimer_key: medical-information-only

@@ -7,7 +7,8 @@ author_role: 糖尿病研究人员
 author_title: 糖尿病研究人员
 automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
-date: 2026-03-10
+date: 2026-03-10 00:00:00 +0800
+sort_date: "2026-03-10 00:00:00 +0800"
 description: 为治疗期设计的加餐决策流程：先判断、再替代、再复盘，减少高糖零食连锁反应。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub

@@ -1,6 +1,7 @@
 ---
 title: "How Baths and Showers Affect Blood Sugar for People Living with Diabetes"
 date: 2026-03-14 11:52:19 +0800
+sort_date: "2026-03-14 11:52:19 +0800"
 description: "How Baths and Showers Affect Blood Sugar for People Living with Diabetes - 糖尿病知识全面解读"
 categories: ["糖尿病预防"]
 tags: ["糖尿病", "健康", "饮食"]

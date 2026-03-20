@@ -2,7 +2,8 @@
 layout: default
 title: "How Negative Emotions Undermine Glucose Control: Practical Responses from Psyching Out Diabetes"
 description: "A treatment-phase emotional resilience framework to manage guilt, anger, anxiety, and burnout without abandoning core diabetes self-care behaviors."
-date: 2026-03-13
+date: 2026-03-13 00:00:00 +0800
+sort_date: "2026-03-13 00:00:00 +0800"
 lang: en
 translation_key: psyching-out-diabetes
 tags: [Negative Emotion, Diabetes Treatment, Emotional Resilience, Behavior Change]

@@ -7,7 +7,8 @@ author_role: 糖尿病康复期病人
 author_title: 糖尿病康复期病人
 automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
-date: 2026-03-12
+date: 2026-03-12 00:00:00 +0800
+sort_date: "2026-03-12 00:00:00 +0800"
 description: A practical pregnancy sleep strategy for gestational diabetes prevention,
   including routine timing, night-waking management, and evening snack boundaries.
 disclaimer_key: medical-information-only

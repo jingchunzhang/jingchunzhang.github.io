@@ -5,6 +5,7 @@ author_role: 糖尿病康复期病人
 categories:
 - 糖尿病预防
 date: 2026-03-18 08:39:40 +0800
+sort_date: "2026-03-18 08:39:40 +0800"
 description: 在家就能查血糖？2型糖尿病自我筛查的可行性+成本全对比 - 糖尿病知识全面解读
 disclaimer_key: medical-information-only
 download_url: ''

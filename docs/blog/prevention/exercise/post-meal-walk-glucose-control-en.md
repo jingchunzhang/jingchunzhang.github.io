@@ -5,6 +5,7 @@ description: "Exercise doesn’t have to be intense to matter. After‑meal walk
 author: "Dane Zhang (张杨)"
 author_title: "Health Tech Researcher"
 date: "2026-03-02"
+sort_date: "2026-03-02"
 lang: en
 translation_key: prevention/exercise/post-meal-walk-glucose-control
 tags: [Exercise, Walking, Prevention, Glucose]

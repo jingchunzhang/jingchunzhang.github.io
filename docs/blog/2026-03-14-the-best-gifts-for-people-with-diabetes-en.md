@@ -1,6 +1,7 @@
 ---
 title: "The Best Gifts for People with Diabetes"
 date: 2026-03-14 11:35:36 +0800
+sort_date: "2026-03-14 11:35:36 +0800"
 lang: en
 description: "The Best Gifts for People with Diabetes - 糖尿病知识全面解读"
 categories: ["糖尿病预防"]

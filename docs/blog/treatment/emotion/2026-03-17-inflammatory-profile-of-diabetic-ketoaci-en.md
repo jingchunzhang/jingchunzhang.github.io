@@ -5,6 +5,7 @@ author_role: 糖尿病治疗医生
 categories:
 - 糖尿病预防
 date: 2026-03-17 08:42:08 +0800
+sort_date: "2026-03-17 08:42:08 +0800"
 description: inflammatory profile of diabetic ketoacidosis in children with type 1
   diabetes - 糖尿病知识全面解读
 disclaimer_key: medical-information-only

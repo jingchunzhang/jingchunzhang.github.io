@@ -2,6 +2,7 @@
 
 title: "糖尿病预防早餐准备指南：科学饮食，从一顿健康早餐开始"
 date: 2026-03-14 10:20:45 +0800
+sort_date: "2026-03-14 10:20:45 +0800"
 lang: zh
 description: "breakfast-meal-prep-diabetes-prevention - 糖尿病知识全面解读"
 categories: ["糖尿病预防"]

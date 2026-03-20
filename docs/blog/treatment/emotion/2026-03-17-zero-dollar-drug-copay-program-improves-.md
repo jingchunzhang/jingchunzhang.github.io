@@ -5,6 +5,7 @@ author_role: 糖尿病治疗医生
 categories:
 - 糖尿病预防
 date: 2026-03-17 08:50:28 +0800
+sort_date: "2026-03-17 08:50:28 +0800"
 description: zero dollar drug copay program improves antidiabetic medication adherence
   and medication use pattern - 糖尿病知识全面解读
 disclaimer_key: medical-information-only

@@ -7,7 +7,8 @@ author_role: 医学院学生
 author_title: 医学院学生
 automation_id: ebook-delivery-20260313
 cta_form_id: ebook-signup
-date: 2026-03-13
+date: 2026-03-13 00:00:00 +0800
+sort_date: "2026-03-13 00:00:00 +0800"
 description: 基于《Practical carbohydrate counting》提炼可执行碳水计数框架，帮助预防阶段读者用更低认知负担管理主食与餐后波动。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260313/Practical-carbohydrate-counting-a-how-to-teach-guide-for-health-professionals.pdf

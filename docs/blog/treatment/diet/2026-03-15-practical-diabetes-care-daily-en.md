@@ -3,7 +3,8 @@ author_email: wep@tangyou.space
 author_id: wep
 author_name: wep
 author_role: Family caregiver of diabetes patient
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 description: Master daily diabetes care with a practical, sustainable routine. Learn
   how to coordinate blood sugar monitoring, medication timing, and meal planning without
   overwhelming yourself.

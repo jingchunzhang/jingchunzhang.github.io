@@ -1,6 +1,7 @@
 ---
 title: "Inflammatory profile of diabetic ketoacidosis in children with type 1 diabetes"
 date: 2026-03-14 12:00:27 +0800
+sort_date: "2026-03-14 12:00:27 +0800"
 description: "Inflammatory profile of diabetic ketoacidosis in children with type 1 diabetes - 糖尿病知识全面解读"
 categories: ["糖尿病预防"]
 tags: ["糖尿病", "健康", "饮食"]

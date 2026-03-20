@@ -7,7 +7,8 @@ author_role: 医学院学生
 author_title: 医学院学生
 automation_id: ebook-delivery-20260313
 cta_form_id: ebook-signup
-date: 2026-03-13
+date: 2026-03-13 00:00:00 +0800
+sort_date: "2026-03-13 00:00:00 +0800"
 description: 基于《A Primer for Diabetic Patients》整理一套可执行的糖尿病入门饮食方案，帮助新手在前4周建立稳定、可持续的预防型生活节奏。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260313/A-Primer-for-Diabetic-Patients.pdf

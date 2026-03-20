@@ -7,7 +7,8 @@ automation_id: ebook-delivery-20260315
 categories:
 - Diabetes Treatment
 cta_form_id: ebook-signup
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 description: 'A practical, conservative guide for people in diabetes treatment and
   their families: identify emotional triggers, lower stress reactivity, and build
   sustainable daily adherence.'

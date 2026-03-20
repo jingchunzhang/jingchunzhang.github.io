@@ -7,7 +7,8 @@ author_role: 糖尿病治疗期病人
 author_title: 糖尿病治疗期病人
 automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
-date: 2026-03-09
+date: 2026-03-09 00:00:00 +0800
+sort_date: "2026-03-09 00:00:00 +0800"
 description: 'A practical prediabetes warning guide: symptoms, lab thresholds, and
   a one-month action plan with ebook support. Learn how to identify and reverse prediabetes
   through exercise and diet.'

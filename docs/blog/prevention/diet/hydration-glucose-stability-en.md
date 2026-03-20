@@ -5,6 +5,7 @@ description: "Drink more water sounds generic, but in real life thirst is often 
 author: "Dane Zhang (张杨)"
 author_title: "Health Tech Researcher"
 date: "2026-03-02"
+sort_date: "2026-03-02"
 lang: en
 translation_key: prevention/diet/hydration-glucose-stability
 tags: [Diet, Hydration, Prevention, Weight]

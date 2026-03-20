@@ -7,7 +7,8 @@ author_role: 糖尿病研究人员
 author_title: 糖尿病研究人员
 automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
-date: 2026-03-10
+date: 2026-03-10 00:00:00 +0800
+sort_date: "2026-03-10 00:00:00 +0800"
 description: A treatment-safe night snack framework to protect next-morning glucose
   while preserving comfort.
 disclaimer_key: medical-information-only

@@ -5,6 +5,7 @@ author_role: 医学院学生
 categories:
 - 糖尿病预防
 date: 2026-03-19 09:42:55 +0800
+sort_date: "2026-03-19 09:42:55 +0800"
 description: 加拿大糖友避坑指南：这6个常见错误别再犯了！ - 糖尿病知识全面解读
 disclaimer_key: medical-information-only
 download_url: ''

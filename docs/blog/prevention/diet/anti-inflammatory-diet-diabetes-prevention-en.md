@@ -2,6 +2,7 @@
 author: Dane Zhang (张杨)
 author_title: Health Tech Researcher
 date: '2026-01-15'
+sort_date: "2026-01-15"
 description: Deep dive into the relationship between chronic low-grade inflammation
   and Type 2 diabetes, explaining anti-inflammatory diet principles, food choices,
   and practical daily implementation.

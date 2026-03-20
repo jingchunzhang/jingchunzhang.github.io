@@ -5,7 +5,8 @@ author_name: wep
 author_role: 糖尿病病人家属
 automation_id: ebook-delivery-20260315
 cta_form_id: ebook-signup
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260315/Practical-Diabetes-Care-Daily.pdf
 ebook_id: practical-diabetes-daily-20260315

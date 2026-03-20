@@ -5,6 +5,7 @@ author_role: 糖尿病病人家属
 categories:
 - 糖尿病预防
 date: 2026-03-20 09:17:17 +0800
+sort_date: "2026-03-20 09:17:17 +0800"
 description: 糖友换肾到底难不难？可及性+术后生存情况全对比，10年糖友帮你踩过坑了 - 糖尿病知识全面解读
 disclaimer_key: medical-information-only
 download_url: ''

@@ -1,6 +1,7 @@
 ---
 title: "Denied at Security? Your Right to Bring Diabetes Supplies into Stadiums, Concerts, Airports, and Other Venues"
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 lang: en
 translation_key: diabetes-supplies-rights
 description: "A practical rights-and-preparation guide for carrying insulin, glucose monitors, and emergency sugar into public venues, with scripts for de-escalation and safe next steps if access is denied."

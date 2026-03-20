@@ -5,6 +5,7 @@ author_role: 糖尿病病人家属
 categories:
 - 糖尿病预防
 date: 2026-03-20 09:53:27 +0800
+sort_date: "2026-03-20 09:53:27 +0800"
 description: 'Type 2 Diabetes 101: What You Actually Need to Know to Prevent or Manage
   It - 糖尿病知识全面解读'
 disclaimer_key: medical-information-only

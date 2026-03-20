@@ -5,7 +5,8 @@ author_name: wep
 author_role: 糖尿病病人家属
 categories:
 - 糖尿病治疗
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 description: 基于CDC较新数据，解读LGBTQ群体糖尿病患病率为何高于一般人群，以及高风险因素和预防策略。
 disclaimer_key: medical-information-only
 lang: zh

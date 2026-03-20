@@ -2,6 +2,7 @@
 author: 张杨 (Dane Zhang)
 author_title: 健康科技研究员
 date: '2026-03-02'
+sort_date: "2026-03-02"
 description: 间歇性禁食并不是‘越饿越好’。对一些人，它可能帮助减少总能量与改善饮食节律；对另一些人，它可能导致暴食、情绪波动或低血糖风险。本文用‘风险先行’的方式讲清楚如何判断与如何落地。
 lang: zh
 layout: default

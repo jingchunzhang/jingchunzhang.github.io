@@ -7,7 +7,8 @@ author_role: 糖尿病康复期病人
 author_title: 糖尿病康复期病人
 automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
-date: 2026-03-12
+date: 2026-03-12 00:00:00 +0800
+sort_date: "2026-03-12 00:00:00 +0800"
 description: 面向孕期女性的妊娠糖尿病预防指南：围绕饮食结构、体重管理、轻量活动、睡眠与产检，建立真正能执行的日常框架。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260309/Diabetes-Cooking-for-Everyone-250-All-Natural,-Low-Glycemic-Recipes-to-Nourish-and-Rejuvenate.pdf

@@ -7,7 +7,8 @@ author_role: 医学院学生
 author_title: 医学院学生
 automation_id: ebook-delivery-20260313
 cta_form_id: ebook-signup
-date: 2026-03-13
+date: 2026-03-13 00:00:00 +0800
+sort_date: "2026-03-13 00:00:00 +0800"
 description: A treatment-phase psychological care framework based on Psychology in
   Diabetes Care to reduce anxiety, guilt, burnout, and adherence collapse in everyday
   life.

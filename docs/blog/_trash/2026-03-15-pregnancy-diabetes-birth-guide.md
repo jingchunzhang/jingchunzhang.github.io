@@ -2,7 +2,8 @@
 layout: default
 title: "妊娠糖尿病与分娩：治疗期饮食管理与血糖控制实用指南"
 description: "面向妊娠糖尿病家庭的分娩前饮食与血糖管理指南，帮助在医生方案下把三餐、加餐、监测、活动与就医协同起来。"
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 lang: zh
 translation_key: pregnancy-diabetes-birth-guide
 tags: [妊娠糖尿病, 分娩, 孕期管理]

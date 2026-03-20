@@ -8,7 +8,8 @@ categories:
 - treatment
 - diet
 cta_form_id: ebook-signup
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 description: A beginner-friendly diabetic meal prep guide for the treatment phase,
   including a weekly template, portion strategy, shopping workflow, and conservative
   medical safety notes.

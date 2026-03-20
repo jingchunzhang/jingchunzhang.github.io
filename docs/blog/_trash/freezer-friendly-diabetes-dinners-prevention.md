@@ -1,6 +1,7 @@
 ---
 title: "冷冻晚餐 糖尿病预防 备餐"
-date: 2026-03-16
+date: 2026-03-16 00:00:00 +0800
+sort_date: "2026-03-16 00:00:00 +0800"
 lang: zh
 translation_key: freezer-friendly-diabetes-dinners-prevention
 description: "冷冻晚餐 糖尿病预防 备餐 - 糖尿病预防全面指南"

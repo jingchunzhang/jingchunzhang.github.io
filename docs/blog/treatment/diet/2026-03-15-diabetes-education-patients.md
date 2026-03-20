@@ -7,6 +7,7 @@ categories:
 - treatment
 cta_form_id: diabetes-edu-cta-zh
 date: 2026-03-15 08:00:00+08:00
+sort_date: "2026-03-15 08:00:00+08:00"
 description: 了解糖尿病患者教育的核心内容，学习血糖管理、饮食控制和运动习惯的基础知识，为健康生活奠定基础。
 disclaimer_key: medical-information-only
 ebook_id: diabetes-education-basics

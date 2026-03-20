@@ -5,6 +5,7 @@ author_role: 糖尿病病人家属
 categories:
 - 糖尿病预防
 date: 2026-03-20 09:00:14 +0800
+sort_date: "2026-03-20 09:00:14 +0800"
 description: 非洲裔2型糖友移民分3种生理亚型？控糖食材选购看这篇就够了 - 糖尿病知识全面解读
 disclaimer_key: medical-information-only
 download_url: ''

@@ -7,7 +7,8 @@ author_role: 糖尿病治疗期病人
 author_title: 糖尿病治疗期病人
 automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
-date: 2026-03-09
+date: 2026-03-09 00:00:00 +0800
+sort_date: "2026-03-09 00:00:00 +0800"
 description: 面向日常家庭场景的低GI烹饪指南：餐盘结构、食材替换与批量备餐策略。让控糖饮食变得简单、美味且可持续。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260309/Diabetes-Cooking-for-Everyone-250-All-Natural,-Low-Glycemic-Recipes-to-Nourish-and-Rejuvenate.pdf

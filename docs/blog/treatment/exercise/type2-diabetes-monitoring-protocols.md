@@ -7,7 +7,8 @@ author_role: 糖尿病治疗期病人
 author_title: 糖尿病治疗期病人
 automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
-date: 2026-03-09
+date: 2026-03-09 00:00:00 +0800
+sort_date: "2026-03-09 00:00:00 +0800"
 description: 将2型糖尿病监测从“想到才测”升级为可复用协议：监测时点、记录方法、趋势复盘与门诊沟通。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260309/Type-2-Diabetes-Methods-and-Protocols.pdf

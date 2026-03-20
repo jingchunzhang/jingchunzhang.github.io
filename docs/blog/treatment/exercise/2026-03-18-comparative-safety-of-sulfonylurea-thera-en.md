@@ -5,6 +5,7 @@ author_role: 糖尿病康复期病人
 categories:
 - 糖尿病预防
 date: 2026-03-18 08:45:48 +0800
+sort_date: "2026-03-18 08:45:48 +0800"
 description: 'Sulfonylurea Therapies: Which Is Safer for Your Heart and Severe Low
   Blood Sugar? - 糖尿病知识全面解读'
 disclaimer_key: medical-information-only

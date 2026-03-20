@@ -4,7 +4,8 @@ title: 'Navigating the Cost of Care: Practical Tips for Managing Diabetes Expens
 description: "Living with diabetes is a full-time job, and unfortunately, it often comes with a steep price tag."
 author: "Dane Zhang (张杨)"
 author_title: "Health Tech Researcher"
-date: 2026-02-08
+date: 2026-02-08 00:00:00 +0800
+sort_date: "2026-02-08 00:00:00 +0800"
 tags: [Advocacy, Healthcare Costs, Financial Tips, Insulin]
 lang: en
 ---

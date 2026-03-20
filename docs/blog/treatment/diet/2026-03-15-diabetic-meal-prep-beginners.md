@@ -8,7 +8,8 @@ categories:
 - treatment
 - diet
 cta_form_id: ebook-signup
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 description: 面向治疗期糖友与家属的膳食准备入门指南：从购物清单、分餐模板到一周执行节奏，帮助更稳定地管理餐后血糖。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260315/Diabetic-Meal-Prep.pdf

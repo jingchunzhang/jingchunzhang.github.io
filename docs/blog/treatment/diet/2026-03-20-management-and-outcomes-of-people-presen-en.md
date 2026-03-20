@@ -5,6 +5,7 @@ author_role: 糖尿病病人家属
 categories:
 - 糖尿病预防
 date: 2026-03-20 09:31:54 +0800
+sort_date: "2026-03-20 09:31:54 +0800"
 description: 'A Complete Beginner’s Guide to Managing New Diabetes-Related Foot Infections:
   What to Expect for Better Outcomes - 糖尿病知识全面解读'
 disclaimer_key: medical-information-only

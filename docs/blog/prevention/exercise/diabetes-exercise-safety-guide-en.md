@@ -6,7 +6,8 @@ author_role: 糖尿病治疗期病人
 categories:
 - prevention
 - exercise
-date: 2026-03-16
+date: 2026-03-16 00:00:00 +0800
+sort_date: "2026-03-16 00:00:00 +0800"
 description: 'diabetes exercise guide: safe and effective workouts - Comprehensive
   guide'
 disclaimer_key: medical-information-only

@@ -1,6 +1,7 @@
 ---
 title: "早餐备餐 糖尿病预防"
-date: 2026-03-16
+date: 2026-03-16 00:00:00 +0800
+sort_date: "2026-03-16 00:00:00 +0800"
 lang: zh
 translation_key: breakfast-meal-prep-diabetes-prevention
 description: "早餐备餐 糖尿病预防 - 糖尿病预防全面指南"

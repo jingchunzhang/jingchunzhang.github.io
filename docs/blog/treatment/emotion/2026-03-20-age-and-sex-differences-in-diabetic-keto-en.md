@@ -5,6 +5,7 @@ author_role: 糖尿病病人家属
 categories:
 - 糖尿病预防
 date: 2026-03-20 09:26:40 +0800
+sort_date: "2026-03-20 09:26:40 +0800"
 description: 'I’m a 10-Year Type 1 Diabetic: Here’s What That National Study On Age
   & Sex Differences In DKA Outcomes Actually Means For You - 糖尿病知识全面解读'
 disclaimer_key: medical-information-only

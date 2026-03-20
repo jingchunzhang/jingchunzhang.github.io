@@ -5,6 +5,7 @@ description: "Intermittent fasting is a meal‑timing tool, not metabolic magic.
 author: "Dane Zhang (张杨)"
 author_title: "Health Tech Researcher"
 date: "2026-03-02"
+sort_date: "2026-03-02"
 lang: en
 translation_key: prevention/diet/intermittent-fasting-diabetes-prevention
 tags: [Diet, Intermittent Fasting, Prevention, Routine]

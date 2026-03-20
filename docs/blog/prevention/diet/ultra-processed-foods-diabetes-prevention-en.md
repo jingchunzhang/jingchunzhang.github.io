@@ -5,6 +5,7 @@ description: 'UPFs are not the same as “all processed foods.” This guide exp
 author: "Dane Zhang (张杨)"
 author_title: "Health Tech Researcher"
 date: '2026-03-02'
+sort_date: "2026-03-02"
 lang: en
 translation_key: prevention-diet-upf
 tags: [Diet, Prevention, Type 2 Diabetes]

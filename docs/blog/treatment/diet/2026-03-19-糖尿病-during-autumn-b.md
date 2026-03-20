@@ -5,6 +5,7 @@ author_role: 医学院学生
 categories:
 - 糖尿病预防
 date: 2026-03-19 09:28:51 +0800
+sort_date: "2026-03-19 09:28:51 +0800"
 description: 糖友秋季稳糖全指南：吃喝动护对比清单，少踩坑血糖稳到冬天 - 糖尿病知识全面解读
 disclaimer_key: medical-information-only
 download_url: ''

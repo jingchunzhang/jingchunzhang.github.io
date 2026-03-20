@@ -5,6 +5,7 @@ author_role: 糖尿病病人家属
 categories:
 - 糖尿病预防
 date: 2026-03-20 09:58:09 +0800
+sort_date: "2026-03-20 09:58:09 +0800"
 description: 'A Beginner’s Complete Guide to Insulin: What It Does, How to Use It,
   and Safety Tips - 糖尿病知识全面解读'
 disclaimer_key: medical-information-only

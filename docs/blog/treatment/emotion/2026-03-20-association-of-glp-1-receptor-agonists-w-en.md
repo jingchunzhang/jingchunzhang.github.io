@@ -5,6 +5,7 @@ author_role: 糖尿病病人家属
 categories:
 - 糖尿病预防
 date: 2026-03-20 09:09:16 +0800
+sort_date: "2026-03-20 09:09:16 +0800"
 description: What I Learned About GLP-1 Agonists and Self-Harm Risk As a 7-Year Type
   2 Diabetes Patient - 糖尿病知识全面解读
 disclaimer_key: medical-information-only

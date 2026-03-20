@@ -5,6 +5,7 @@ author_role: 医学院学生
 categories:
 - 糖尿病预防
 date: 2026-03-19 09:33:54 +0800
+sort_date: "2026-03-19 09:33:54 +0800"
 description: 春节胡吃海喝还能稳血糖？我陪糖友老爸3年的实战经验全分享 - 糖尿病知识全面解读
 disclaimer_key: medical-information-only
 download_url: ''

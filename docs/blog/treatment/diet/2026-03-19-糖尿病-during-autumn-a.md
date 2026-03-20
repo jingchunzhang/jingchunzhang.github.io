@@ -5,6 +5,7 @@ author_role: 医学院学生
 categories:
 - 糖尿病预防
 date: 2026-03-19 09:23:56 +0800
+sort_date: "2026-03-19 09:23:56 +0800"
 description: 入秋后糖尿病总波动？10年老糖友亲测有效的稳糖Step教程 - 糖尿病知识全面解读
 disclaimer_key: medical-information-only
 download_url: ''

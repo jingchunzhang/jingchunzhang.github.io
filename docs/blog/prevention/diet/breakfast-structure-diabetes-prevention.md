@@ -2,6 +2,7 @@
 author: 张杨 (Dane Zhang)
 author_title: 健康科技研究员
 date: '2026-03-02'
+sort_date: "2026-03-02"
 description: 早餐是很多人一天里最容易‘随便吃’的一餐，但它往往决定了上午的饥饿感、专注度与餐后血糖波动。本文给出一套不极端、可长期执行的早餐结构模板，并提供多套中式/西式示例。
 lang: zh
 layout: default

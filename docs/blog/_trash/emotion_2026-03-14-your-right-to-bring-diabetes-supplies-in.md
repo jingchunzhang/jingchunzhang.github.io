@@ -1,6 +1,7 @@
 ---
 title: "Your Right to Bring Diabetes Supplies into Stadiums, Concerts & Other Venues"
 date: 2026-03-14 11:55:10 +0800
+sort_date: "2026-03-14 11:55:10 +0800"
 description: "Your Right to Bring Diabetes Supplies into Stadiums, Concerts & Other Venues - 糖尿病知识全面解读"
 categories: ["糖尿病预防"]
 tags: ["糖尿病", "健康", "饮食"]

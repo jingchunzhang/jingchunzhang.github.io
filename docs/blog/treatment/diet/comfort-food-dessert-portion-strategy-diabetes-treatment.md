@@ -7,7 +7,8 @@ author_role: 糖尿病研究人员
 author_title: 糖尿病研究人员
 automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
-date: 2026-03-10
+date: 2026-03-10 00:00:00 +0800
+sort_date: "2026-03-10 00:00:00 +0800"
 description: 治疗期甜食管理实操：时间点、份量上限、搭配原则，减少‘一口变一整份’。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub

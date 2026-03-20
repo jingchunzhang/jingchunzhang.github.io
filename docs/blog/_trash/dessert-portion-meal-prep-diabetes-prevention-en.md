@@ -1,6 +1,7 @@
 ---
 title: "Dessert Portion Meal Prep For Diabetes Prevention"
-date: 2026-03-16
+date: 2026-03-16 00:00:00 +0800
+sort_date: "2026-03-16 00:00:00 +0800"
 lang: en
 translation_key: dessert-portion-meal-prep-diabetes-prevention
 description: "dessert portion meal prep for diabetes prevention - Comprehensive guide for diabetes prevention"

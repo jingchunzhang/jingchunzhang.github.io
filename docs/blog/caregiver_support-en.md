@@ -4,7 +4,8 @@ title: 'The Silent Partners: A Guide for Supporting a Loved One with Diabetes'
 description: "Diabetes doesn't just happen to an individual; it impacts the whole family."
 author: "Dane Zhang (张杨)"
 author_title: "Health Tech Researcher"
-date: 2026-02-08
+date: 2026-02-08 00:00:00 +0800
+sort_date: "2026-02-08 00:00:00 +0800"
 tags: [Caregivers, Mental Health, Relationships, Support]
 lang: en
 ---

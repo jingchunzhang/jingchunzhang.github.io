@@ -5,6 +5,7 @@ author_role: 糖尿病病人家属
 categories:
 - 糖尿病预防
 date: 2026-03-20 09:12:53 +0800
+sort_date: "2026-03-20 09:12:53 +0800"
 description: I Tried Using EHR Trial Emulation to Boost Evidence-Based Care – Here’s
   What Worked (And What Totally Flopped) - 糖尿病知识全面解读
 disclaimer_key: medical-information-only

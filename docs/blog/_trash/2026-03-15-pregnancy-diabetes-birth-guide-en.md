@@ -2,7 +2,8 @@
 layout: default
 title: "Pregnancy Diabetes and Birth: A Practical Nutrition and Glucose Strategy Before Delivery"
 description: "A conservative, practical guide to gestational diabetes nutrition and blood glucose management before birth, designed for families coordinating meals, monitoring, activity, and clinical follow-up."
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 lang: en
 translation_key: pregnancy-diabetes-birth-guide
 tags: [Gestational Diabetes, Childbirth, Pregnancy Management]

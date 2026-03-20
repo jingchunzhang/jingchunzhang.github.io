@@ -2,7 +2,8 @@
 layout: default
 title: "负面情绪如何拖累控糖：从《Psyching Out Diabetes》到可执行应对方案"
 description: "面向治疗期读者，拆解内疚、愤怒、焦虑等负面情绪对糖尿病自我管理的影响，并提供可执行的日常应对框架。"
-date: 2026-03-13
+date: 2026-03-13 00:00:00 +0800
+sort_date: "2026-03-13 00:00:00 +0800"
 lang: zh
 translation_key: psyching-out-diabetes
 tags: [负面情绪, 糖尿病治疗, 心理韧性, 行为改变]

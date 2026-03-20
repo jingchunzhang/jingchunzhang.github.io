@@ -7,7 +7,8 @@ author_role: 糖尿病治疗期病人
 author_title: 糖尿病治疗期病人
 automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
-date: 2026-03-09
+date: 2026-03-09 00:00:00 +0800
+sort_date: "2026-03-09 00:00:00 +0800"
 description: 整理患者和家属最常问的糖尿病问题，涵盖情绪调节、饮食误区与日常监测，给出可执行、可复盘的实用回答。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260309/Q&A-on-Diabetes-Knowledge.pdf

@@ -7,7 +7,8 @@ automation_id: ebook-delivery-20260315
 categories:
 - 糖尿病治疗
 cta_form_id: ebook-signup
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 description: 面向治疗期糖尿病患者与家属的心理调适实用指南：识别情绪触发点、建立4步应对框架、降低内耗并提升治疗执行度。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260315/Psyching-Out-Diabetes.pdf

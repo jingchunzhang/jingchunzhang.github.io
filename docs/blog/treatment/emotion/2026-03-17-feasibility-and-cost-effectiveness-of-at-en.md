@@ -5,6 +5,7 @@ author_role: 糖尿病治疗医生
 categories:
 - 糖尿病预防
 date: 2026-03-17 08:56:04 +0800
+sort_date: "2026-03-17 08:56:04 +0800"
 description: 'feasibility and cost-effectiveness of at-home self-sampling screening
   for type 2 diabetes: a pilot s - 糖尿病知识全面解读'
 disclaimer_key: medical-information-only

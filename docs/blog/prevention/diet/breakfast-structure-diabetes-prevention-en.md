@@ -5,6 +5,7 @@ description: "Breakfast is often the meal people wing, but it can shape morning 
 author: "Dane Zhang (张杨)"
 author_title: "Health Tech Researcher"
 date: "2026-03-02"
+sort_date: "2026-03-02"
 lang: en
 translation_key: prevention/diet/breakfast-structure-diabetes-prevention
 tags: [Diet, Breakfast, Prevention, Glucose]

@@ -5,6 +5,7 @@ author_role: 糖尿病病人家属
 categories:
 - 糖尿病预防
 date: 2026-03-20 09:31:54 +0800
+sort_date: "2026-03-20 09:31:54 +0800"
 description: 控糖10年踩过足感染的坑！新发糖尿病足感染怎么管才能不截肢？ - 糖尿病知识全面解读
 disclaimer_key: medical-information-only
 download_url: ''

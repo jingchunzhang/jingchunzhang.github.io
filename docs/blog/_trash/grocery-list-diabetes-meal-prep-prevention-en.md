@@ -1,6 +1,7 @@
 ---
 title: "Grocery List For Diabetes Meal Prep Prevention"
-date: 2026-03-16
+date: 2026-03-16 00:00:00 +0800
+sort_date: "2026-03-16 00:00:00 +0800"
 lang: en
 translation_key: grocery-list-diabetes-meal-prep-prevention
 description: "grocery list for diabetes meal prep prevention - Comprehensive guide for diabetes prevention"

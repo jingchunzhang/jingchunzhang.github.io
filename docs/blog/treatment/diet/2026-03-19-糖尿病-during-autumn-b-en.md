@@ -5,6 +5,7 @@ author_role: 医学院学生
 categories:
 - 糖尿病预防
 date: 2026-03-19 09:28:51 +0800
+sort_date: "2026-03-19 09:28:51 +0800"
 description: 'Managing Diabetes in Autumn: My 3 Years of Tried-and-True Hacks (No
   Fancy Gadgets Required!) - 糖尿病知识全面解读'
 disclaimer_key: medical-information-only

@@ -5,6 +5,7 @@ author_role: 糖尿病病人家属
 categories:
 - 糖尿病预防
 date: 2026-03-20 09:40:46 +0800
+sort_date: "2026-03-20 09:40:46 +0800"
 description: 1型糖尿病是什么？从发病常识到必备物资选购全指南 - 糖尿病知识全面解读
 disclaimer_key: medical-information-only
 download_url: ''

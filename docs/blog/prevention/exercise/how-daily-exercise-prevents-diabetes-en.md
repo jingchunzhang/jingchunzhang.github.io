@@ -1,6 +1,7 @@
 ---
 author: danezhang
 date: '2026-01-10'
+sort_date: "2026-01-10"
 description: Diabetes, a medical term that once sounded somewhat distant, has now
   become a public health problem affecting hundreds of millions of people globally.
 lang: en

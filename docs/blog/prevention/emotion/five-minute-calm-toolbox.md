@@ -2,6 +2,7 @@
 author: 张杨 (Dane Zhang)
 author_title: 健康科技研究员
 date: '2026-03-02'
+sort_date: "2026-03-02"
 description: 压力无法被消灭，但可以被‘缓冲’。这篇文章提供一套 5 分钟内可完成的小工具：呼吸、身体扫描、短时走动与快速记录，帮助你在冲动进食或情绪爆发前把节奏拉回来。
 lang: zh
 layout: default

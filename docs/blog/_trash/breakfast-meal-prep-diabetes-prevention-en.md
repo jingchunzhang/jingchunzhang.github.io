@@ -1,6 +1,7 @@
 ---
 title: "Diabetes Prevention Breakfast Meal Prep"
-date: 2026-03-16
+date: 2026-03-16 00:00:00 +0800
+sort_date: "2026-03-16 00:00:00 +0800"
 lang: en
 translation_key: breakfast-meal-prep-diabetes-prevention
 description: "diabetes prevention breakfast meal prep - Comprehensive guide for diabetes prevention"

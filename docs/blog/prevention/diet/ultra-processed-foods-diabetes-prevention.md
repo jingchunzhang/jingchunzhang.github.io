@@ -2,6 +2,7 @@
 author: 张杨 (Dane Zhang)
 author_title: 健康科技研究员
 date: '2026-03-02'
+sort_date: "2026-03-02"
 description: 超加工食品并不等同于“所有加工”。本文用通俗方式解释 UPF 的特点、可能影响血糖与胰岛素抵抗的路径，并给出一套可执行的“替换清单”和读配料表方法。
 lang: zh
 layout: default

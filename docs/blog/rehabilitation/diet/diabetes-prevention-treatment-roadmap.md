@@ -7,7 +7,8 @@ author_role: 糖尿病治疗期病人
 author_title: 糖尿病治疗期病人
 automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
-date: 2026-03-09
+date: 2026-03-09 00:00:00 +0800
+sort_date: "2026-03-09 00:00:00 +0800"
 description: 从高风险识别到治疗执行，再到康复维持的阶段化路线图，帮助患者和家属建立长期可持续的糖尿病管理系统。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260309/Compass-on-the-Road-of-Diabetes-Prevention-and-Treatment-[2016.4].pdf

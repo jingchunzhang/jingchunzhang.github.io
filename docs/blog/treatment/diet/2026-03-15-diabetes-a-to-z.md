@@ -7,7 +7,8 @@ automation_id: ebook-delivery-20260315
 categories:
 - treatment
 cta_form_id: ebook-signup
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 description: 从A到Z系统梳理糖尿病治疗期饮食核心概念：血糖、碳水、药物配餐、监测、低血糖应对与家庭执行清单。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260315/Diabetes-A-to-Z.pdf

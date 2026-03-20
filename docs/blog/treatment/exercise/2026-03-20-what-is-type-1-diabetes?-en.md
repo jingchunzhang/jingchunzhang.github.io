@@ -5,6 +5,7 @@ author_role: 糖尿病病人家属
 categories:
 - 糖尿病预防
 date: 2026-03-20 09:40:46 +0800
+sort_date: "2026-03-20 09:40:46 +0800"
 description: What Is Type 1 Diabetes? A 10-Year T1D Vet’s No-Jargon Guide for Newly
   Diagnosed Folks & Caregivers - 糖尿病知识全面解读
 disclaimer_key: medical-information-only

@@ -5,6 +5,7 @@ description: "Strength training isn’t only about aesthetics. For metabolic hea
 author: "Dane Zhang (张杨)"
 author_title: "Health Tech Researcher"
 date: "2026-03-02"
+sort_date: "2026-03-02"
 lang: en
 translation_key: prevention/exercise/strength-training-insulin-sensitivity
 tags: [Exercise, Strength, Prevention, Insulin Resistance]

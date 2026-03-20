@@ -7,7 +7,8 @@ author_role: 医学院学生
 author_title: 医学院学生
 automation_id: ebook-delivery-20260313
 cta_form_id: ebook-signup
-date: 2026-03-13
+date: 2026-03-13 00:00:00 +0800
+sort_date: "2026-03-13 00:00:00 +0800"
 description: 'A rehabilitation-phase exercise framework based on physical medicine
   principles for dysvascular and diabetic patients: safety first, function restoration,
   and long-term independence.'

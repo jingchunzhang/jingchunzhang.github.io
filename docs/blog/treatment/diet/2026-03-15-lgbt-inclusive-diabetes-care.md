@@ -5,7 +5,8 @@ author_name: wep
 author_role: 糖尿病病人家属
 categories:
 - 糖尿病治疗
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 description: 探讨为LGBT+糖尿病患者提供包容性护理的挑战，营养师和医疗工作者如何改进服务，以及患者如何维护自身权益。
 disclaimer_key: medical-information-only
 lang: zh

@@ -2,6 +2,7 @@
 author: 张杨 (Dane Zhang)
 author_title: 健康科技研究员
 date: '2026-03-02'
+sort_date: "2026-03-02"
 description: 咖啡因本身不是敌人，但用错时间会破坏睡眠，从而间接影响食欲、体重与血糖。本文给出一个简单的‘咖啡因时间策略’，让提神不以睡眠为代价。
 lang: zh
 layout: default

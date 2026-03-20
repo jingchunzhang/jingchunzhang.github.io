@@ -5,7 +5,8 @@ author_name: wep
 author_role: 糖尿病病人家属
 categories:
 - Diabetes Treatment
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 description: Explore the challenges of providing inclusive care for LGBT+ diabetes
   patients, how nutritionists and healthcare workers can improve services, and how
   patients can protect their rights.

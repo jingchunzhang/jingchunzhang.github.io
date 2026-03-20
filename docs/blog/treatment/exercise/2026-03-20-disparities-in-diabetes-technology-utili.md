@@ -5,6 +5,7 @@ author_role: 糖尿病病人家属
 categories:
 - 糖尿病预防
 date: 2026-03-20 09:36:15 +0800
+sort_date: "2026-03-20 09:36:15 +0800"
 description: 为啥有的糖娃能用上先进控糖设备，有的却不行？一文讲透差异和解决办法 - 糖尿病知识全面解读
 disclaimer_key: medical-information-only
 download_url: ''

@@ -7,7 +7,8 @@ author_role: 糖尿病治疗期病人
 author_title: 糖尿病治疗期病人
 automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
-date: 2026-03-09
+date: 2026-03-09 00:00:00 +0800
+sort_date: "2026-03-09 00:00:00 +0800"
 description: 将1型糖尿病门诊管理建议拆解为可执行的家庭日常流程：监测节奏、胰岛素管理节点、运动安全与情绪自我照护，降低决策疲劳。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260309/Medical-Management-of-Type-1-Diabetes.pdf

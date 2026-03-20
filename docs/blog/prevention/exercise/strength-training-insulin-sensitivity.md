@@ -2,6 +2,7 @@
 author: 张杨 (Dane Zhang)
 author_title: 健康科技研究员
 date: '2026-03-02'
+sort_date: "2026-03-02"
 description: 很多人把力量训练当成‘增肌’或‘塑形’，忽略了它对血糖与胰岛素敏感性的价值。本文用可执行的方式讲清：为什么力量训练重要、怎么从零开始、以及最常见的安全要点。
 lang: zh
 layout: default

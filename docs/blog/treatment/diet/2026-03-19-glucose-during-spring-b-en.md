@@ -5,6 +5,7 @@ author_role: 医学院学生
 categories:
 - 糖尿病预防
 date: 2026-03-19 09:38:20 +0800
+sort_date: "2026-03-19 09:38:20 +0800"
 description: 'Managing Glucose During Spring: Your Complete Guide to Monitors, Diet
   Hacks, and Stress-Free Celebrations - 糖尿病知识全面解读'
 disclaimer_key: medical-information-only

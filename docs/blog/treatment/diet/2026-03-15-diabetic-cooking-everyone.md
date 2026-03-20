@@ -4,7 +4,8 @@ author_id: wep
 author_name: wep
 author_role: 糖尿病病人家属
 categories: blog treatment diet
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 description: 学习如何选择食材、掌握烹饪技巧，让糖尿病患者在家也能吃出健康。包括实用检查清单和常见误区。
 disclaimer_key: medical-information-only
 lang: zh

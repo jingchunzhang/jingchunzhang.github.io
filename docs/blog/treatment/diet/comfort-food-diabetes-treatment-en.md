@@ -7,7 +7,8 @@ author_role: 糖尿病研究人员
 author_title: 糖尿病研究人员
 automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
-date: 2026-03-10
+date: 2026-03-10 00:00:00 +0800
+sort_date: "2026-03-10 00:00:00 +0800"
 description: 'A practical long-form guide to rebuilding comfort food for diabetes
   treatment: warmer meals, better satiety, smaller glucose swings, and a home system
   you can actually sustain.'

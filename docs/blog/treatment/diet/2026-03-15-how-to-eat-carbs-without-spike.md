@@ -5,7 +5,8 @@ author_name: wep
 author_role: 糖尿病病人家属
 categories:
 - 糖尿病治疗
-date: 2026-03-15
+date: 2026-03-15 00:00:00 +0800
+sort_date: "2026-03-15 00:00:00 +0800"
 description: 从治疗期视角，详解碳水化合物与血糖的关系，提供进餐顺序、食物搭配、份量控制的实用技巧，帮助糖友科学摄入碳水。
 disclaimer_key: medical-information-only
 lang: zh

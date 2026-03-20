@@ -7,7 +7,8 @@ author_role: 糖尿病治疗期病人
 author_title: 糖尿病治疗期病人
 automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
-date: 2026-03-09
+date: 2026-03-09 00:00:00 +0800
+sort_date: "2026-03-09 00:00:00 +0800"
 description: 糖尿病前期并不明显，但可以通过关键指标与行为记录提前识别并干预。本文详细介绍了预警信号、运动干预及30天行动计划。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260309/Diabetes-a-to-Z.pdf
