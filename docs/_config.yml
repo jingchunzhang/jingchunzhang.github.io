@@ -13,6 +13,7 @@ plugins:
   - jekyll-redirect-from
 
 exclude:
+  - node_modules
   - _ai
   - _website
   - _gemini
