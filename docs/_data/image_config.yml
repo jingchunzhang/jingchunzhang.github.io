@@ -1,0 +1,18 @@
+strategy: 'mixed'
+backup: true
+local_image_dir: 'assets/images/generated'
+
+unsplash:
+  access_key: 'iIQOEFnvT21tkDMnYyCScGg5htc5Fy6Ix-yBgrjsikE'
+  secret_key: '1Hd1aaIZd2yLDTD7xqRD64hw1Z0XeKELyPZMyNRPlDw'
+  appid: 900869
+  download: false 
+  orientation: 'landscape'
+
+volcengine:
+  api_url: 'https://ark.cn-beijing.volces.com/api/v3/images/generations'
+  api_key: '54bf396f-61d1-4ef9-95d2-1da543cbd838'
+  model: 'doubao-seedream-3-0-t2i-250415'
+  size: '1024x1024'
+  guidance_scale: 3
+  prompt_prefix: "high quality, professional photography, realistic style, "
