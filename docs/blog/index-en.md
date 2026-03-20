@@ -24,6 +24,8 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 *   **[Mainstream Global Diabetes Diagnostic Criteria Reference](./diabetes-diagnostic-criteria-en)**
 
 ## Living with Diabetes (Latest Updates)
+*   **[Type 2 Diabetes 101: What You Actually Need to Know to Prevent or Manage It](./treatment/exercise/2026-03-20-understanding-type-2-diabetes-en)**
+*   **[A Beginner’s Complete Guide to Insulin: What It Does, How to Use It, and Safety Tips](./treatment/exercise/2026-03-20-everything-you-need-to-know-about-insuli-en)**
 *   **[My 3 Years of Managing Diabetes During Autumn: What Actually Works (And What Messed Up My Blood Sugar Badly)](./treatment/diet/2026-03-19-糖尿病-during-autumn-a-en)**
 *   **[Managing Diabetes in Autumn: My 3 Years of Tried-and-True Hacks (No Fancy Gadgets Required!)](./treatment/diet/2026-03-19-糖尿病-during-autumn-b-en)**
 *   **[7 Spring Glucose Mistakes I Regretted Making (As a 10-Year Type 2 Diabetes Vet) – Stay Steady Through Picnics, Festivals, and Allergy Season!](./treatment/diet/2026-03-19-glucose-during-spring-a-en)**
@@ -32,8 +34,6 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 *   **[Is At-Home Type 2 Diabetes Screening Actually Feasible? Let’s Break Down the Costs and Myths](./treatment/exercise/2026-03-18-feasibility-and-cost-effectiveness-of-at-en)**
 *   **[Sulfonylurea Therapies: Which Is Safer for Your Heart and Severe Low Blood Sugar?](./treatment/exercise/2026-03-18-comparative-safety-of-sulfonylurea-thera-en)**
 *   **[feasibility and cost-effectiveness of at-home self-sampling screening for type 2 diabetes: a pilot s](./treatment/emotion/2026-03-17-feasibility-and-cost-effectiveness-of-at-en)**
-*   **[longitudinal changes in epigenetic age acceleration](./prevention/2026-03-17-longitudinal-changes-in-epigenetic-age-a-en)**
-*   **[associations of body weight and covid-19](./treatment/diet/2026-03-17-associations-of-body-weight-and-covid-19-en)**
 ## Core Focus: Three Pillars of Diabetes Management
 
 ### 1. Prevention
