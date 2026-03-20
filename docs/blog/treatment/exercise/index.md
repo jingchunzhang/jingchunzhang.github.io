@@ -12,13 +12,17 @@ translation_key: treatment-exercise-index
 治疗期运动需要同时考虑 **降糖效果** 与 **低血糖风险、并发症与足部安全**，强调“可执行、可监测、可调整”。
 
 ## 核心文章
-### [打了3年胰岛素，我总结了这份人人能懂的实用指南](./2026-03-20-everything-you-need-to-know-about-insuli.md)
-### [搞懂2型糖尿病别瞎踩坑！10年老糖友亲测的科普/工具选购全指南](./2026-03-20-understanding-type-2-diabetes.md)
-### [磺脲类降糖药选哪种更安全？心血管和低血糖风险对比指南](./2026-03-18-comparative-safety-of-sulfonylurea-thera.md)
-### [在家就能查血糖？2型糖尿病自我筛查的可行性+成本全对比](./2026-03-18-feasibility-and-cost-effectiveness-of-at.md)
-### [association of genetic variation](./2026-03-17-association-of-genetic-variation-with-ag.md)
-### [how to participate in diabetes research panels and studies (paid and unpaid)](./2026-03-17-how-to-participate-in-diabetes-research-.md)
-### [how baths and showers affect blood sugar for people living with diabetes](./2026-03-17-how-baths-and-showers-affect-blood-sugar.md)
+### [1型糖尿病是什么？从发病常识到必备物资选购全指南](./2026-03-20-what-is-type-1-diabetes?.md) <span style="color:red">NEW (2026-03-20)</span>
+### [糖友的诊疗方案更准了？聊聊电子病历模拟试验对循证护理的升级作用](./2026-03-20-enhancing-evidence-based-care-using-tria.md) <span style="color:red">NEW (2026-03-20)</span>
+### [吃了12个月苯磷硫胺，我的神经病变真的好转了？亲测全记录](./2026-03-20-effects-of-benfotiamine-treatment-over-1.md) <span style="color:red">NEW (2026-03-20)</span>
+### [为啥有的糖娃能用上先进控糖设备，有的却不行？一文讲透差异和解决办法](./2026-03-20-disparities-in-diabetes-technology-utili.md) <span style="color:red">NEW (2026-03-20)</span>
+### [打了3年胰岛素，我总结了这份人人能懂的实用指南](./2026-03-20-everything-you-need-to-know-about-insuli.md) <span style="color:red">NEW (2026-03-20)</span>
+### [搞懂2型糖尿病别瞎踩坑！10年老糖友亲测的科普/工具选购全指南](./2026-03-20-understanding-type-2-diabetes.md) <span style="color:red">NEW (2026-03-20)</span>
+### [磺脲类降糖药选哪种更安全？心血管和低血糖风险对比指南](./2026-03-18-comparative-safety-of-sulfonylurea-thera.md) <span style="color:red">NEW (2026-03-18)</span>
+### [在家就能查血糖？2型糖尿病自我筛查的可行性+成本全对比](./2026-03-18-feasibility-and-cost-effectiveness-of-at.md) <span style="color:red">NEW (2026-03-18)</span>
+### [1型糖尿病遗传变异与诊断年龄的关联：我的基因解码与控糖经验分享](./2026-03-17-association-of-genetic-variation-with-ag.md)
+### [如何参与糖尿病研究小组和研究（有偿和无偿）：Step-by-Step指南](./2026-03-17-how-to-participate-in-diabetes-research-.md)
+### [沐浴与洗澡如何影响糖尿病患者的血糖：科学指南与管理建议](./2026-03-17-how-baths-and-showers-affect-blood-sugar.md)
 
 - [治疗期运动处方：安全、有效、可坚持的控糖训练](./exercise-prescription-diabetes-treatment.md)
 - [2型糖尿病监测协议：家庭可执行版本](./type2-diabetes-monitoring-protocols.md)

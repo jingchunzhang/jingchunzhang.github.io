@@ -17,7 +17,7 @@ Among the various diabetes prevention methods, **a reasonable diet structure** i
 
 ## Core Articles
 
-### [how to eat carbs without causing a blood sugar spike](./2026-03-17-how-to-eat-carbs-without-causing-a-blood-en.md)
+### [How to Eat Carbs Without Causing a Blood Sugar Spike: A Practical Comparison Guide](./2026-03-17-how-to-eat-carbs-without-causing-a-blood-en.md)
 ### [Nutritional Wisdom: Scientific Diabetes Prevention Through Balanced Diet](./balanced-diet-diabetes-prevention-en.md)
 
 An in-depth article systematically explaining how to prevent diabetes through balanced diet from three dimensions: problem presentation, physiological principles, and dietary choices. Includes practical daily meal examples, shopping suggestions, solutions to common challenges, and personalized advice for special populations.

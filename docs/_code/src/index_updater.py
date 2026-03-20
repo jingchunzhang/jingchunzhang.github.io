@@ -33,6 +33,15 @@ def add_links_batch(posts: list):
         slug = post.get('slug', '')
         title_zh = post.get('title_zh', '')
         title_en = post.get('title_en', '')
+        publish_date = post.get('date')
+
+        if isinstance(publish_date, str):
+            try:
+                publish_date = datetime.fromisoformat(publish_date)
+            except ValueError:
+                publish_date = datetime.now()
+        elif not publish_date:
+            publish_date = datetime.now()
         
         parts = subdir.split('/')
         if len(parts) == 2:
@@ -42,26 +51,48 @@ def add_links_batch(posts: list):
             subdir_index_en = config.BLOG_SOURCE_DIR / subdir / "index-en.md"
             
             if title_zh:
-                _add_link_to_subdir_index(subdir_index_zh, slug, title_zh)
+                _add_link_to_subdir_index(subdir_index_zh, slug, title_zh, publish_date)
             if title_en:
-                _add_link_to_subdir_index(subdir_index_en, slug + "-en", title_en)
+                _add_link_to_subdir_index(subdir_index_en, slug + "-en", title_en, publish_date)
 
-def _add_link_to_subdir_index(index_file: Path, slug: str, title: str):
+def _add_link_to_subdir_index(index_file: Path, slug: str, title: str, publish_date: datetime):
     if not index_file.exists():
         return
     
     content = index_file.read_text(encoding='utf-8')
     
-    link_markdown = f"### [{title}](./{slug}.md)"
+    is_new_post = False
+    if publish_date:
+        if isinstance(publish_date, datetime):
+            is_new_post = (datetime.now() - publish_date).days <= 2
+        else:
+             is_new_post = (datetime.now().date() - publish_date).days <= 2
+
+    new_flag = ""
+    if is_new_post:
+        date_str = publish_date.strftime('%Y-%m-%d')
+        new_flag = f" <span style=\"color:red\">NEW ({date_str})</span>"
+
+    link_markdown_base = f"### [{title}](./{slug}.md)"
+    link_markdown = link_markdown_base + new_flag
     
-    if link_markdown in content:
+    escaped_base = re.escape(link_markdown_base)
+    pattern = re.compile(f"^{escaped_base}.*$", re.MULTILINE)
+    
+    match = pattern.search(content)
+    
+    if match:
+        current_line = match.group(0)
+        if current_line != link_markdown:
+            content = content.replace(current_line, link_markdown)
+            index_file.write_text(content, encoding='utf-8')
         return
     
     lines = content.split('\n')
     
     insert_idx = None
     for i, line in enumerate(lines):
-        if "## " in line and "核心文章" in line:
+        if "## " in line and ("核心文章" in line or "Core Articles" in line):
             insert_idx = i + 1
             break
     
@@ -108,8 +139,8 @@ def _update_new_section(index_file: Path, new_links: list):
     content = index_file.read_text(encoding='utf-8')
     lines = content.split('\n')
     
-    new_section_start = None
-    new_section_end = None
+    new_section_start = -1
+    new_section_end = -1
     for i, line in enumerate(lines):
         if "最新更新" in line or "Latest" in line:
             new_section_start = i
@@ -117,11 +148,11 @@ def _update_new_section(index_file: Path, new_links: list):
                 if lines[j].startswith('## '):
                     new_section_end = j
                     break
-            if new_section_end is None:
+            if new_section_end == -1:
                 new_section_end = len(lines)
             break
     
-    if new_section_start is None:
+    if new_section_start == -1:
         return
     
     old_links = []

@@ -13,6 +13,12 @@ Stress and negative emotions can raise glucose via cortisol-related pathways and
 
 ## Featured
 
+### [What I Learned About GLP-1 Agonists and Self-Harm Risk As a 7-Year Type 2 Diabetes Patient](./2026-03-20-association-of-glp-1-receptor-agonists-w-en.md) <span style="color:red">NEW (2026-03-20)</span>
+### [I’m a 10-Year Type 1 Diabetic: Here’s What That National Study On Age & Sex Differences In DKA Outcomes Actually Means For You](./2026-03-20-age-and-sex-differences-in-diabetic-keto-en.md) <span style="color:red">NEW (2026-03-20)</span>
+### [Zero Dollar Drug Copay Programs for Diabetes: A Comparative Analysis of Adherence and Medication Patterns](./2026-03-17-zero-dollar-drug-copay-program-improves--en.md)
+### [Inflammatory Profile of Diabetic Ketoacidosis in Children with Type 1 Diabetes: A Parent’s & Caregiver’s Guide to Avoiding Common Pitfalls](./2026-03-17-inflammatory-profile-of-diabetic-ketoaci-en.md)
+### [feasibility and cost-effectiveness of at-home self-sampling screening for type 2 diabetes: a pilot s](./2026-03-17-feasibility-and-cost-effectiveness-of-at-en.md)
+### [Psyching Out Diabetes: Emotional Regulation Strategies During Active Treatment](./2026-03-15-psyching-out-diabetes-en.md)
 - [Emotion and Stress During Diabetes Treatment: Stop White-Knuckling Glucose Control](./stress-emotion-diabetes-treatment-en.md)
 - [Type 1 Diabetes: Turning Clinic Advice into a Daily Home Plan](./type1-diabetes-clinic-to-home-plan-en.md)
 - [Emotional Management During Diabetes Treatment: Turning Psychology in Diabetes Care into Daily Action](./psychology-in-diabetes-care-en.md)
