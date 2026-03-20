@@ -1,0 +1,86 @@
+[main 2a28147] Auto publish 4 posts - 2026-03-20
+ 32 files changed, 2261 insertions(+), 6 deletions(-)
+ create mode 100644 docs/_code/run.log
+ create mode 100644 docs/blog/treatment/diet/2026-03-20-african-immigrants-with-type-2-diabetes--en.md
+ create mode 100644 docs/blog/treatment/diet/2026-03-20-african-immigrants-with-type-2-diabetes-.md
+ create mode 100644 docs/blog/treatment/diet/2026-03-20-management-and-outcomes-of-people-presen-en.md
+ create mode 100644 docs/blog/treatment/diet/2026-03-20-management-and-outcomes-of-people-presen.md
+ create mode 100644 docs/blog/treatment/emotion/2026-03-20-age-and-sex-differences-in-diabetic-keto-en.md
+ create mode 100644 docs/blog/treatment/emotion/2026-03-20-age-and-sex-differences-in-diabetic-keto.md
+ create mode 100644 docs/blog/treatment/emotion/2026-03-20-association-of-glp-1-receptor-agonists-w-en.md
+ create mode 100644 docs/blog/treatment/emotion/2026-03-20-association-of-glp-1-receptor-agonists-w.md
+ create mode 100644 docs/blog/treatment/exercise/2026-03-20-disparities-in-diabetes-technology-utili-en.md
+ create mode 100644 docs/blog/treatment/exercise/2026-03-20-disparities-in-diabetes-technology-utili.md
+ create mode 100644 docs/blog/treatment/exercise/2026-03-20-effects-of-benfotiamine-treatment-over-1-en.md
+ create mode 100644 docs/blog/treatment/exercise/2026-03-20-effects-of-benfotiamine-treatment-over-1.md
+ create mode 100644 docs/blog/treatment/exercise/2026-03-20-enhancing-evidence-based-care-using-tria-en.md
+ create mode 100644 docs/blog/treatment/exercise/2026-03-20-enhancing-evidence-based-care-using-tria.md
+ create mode 100644 docs/blog/treatment/exercise/2026-03-20-everything-you-need-to-know-about-insuli-en.md
+ create mode 100644 docs/blog/treatment/exercise/2026-03-20-everything-you-need-to-know-about-insuli.md
+ create mode 100644 docs/blog/treatment/exercise/2026-03-20-understanding-type-2-diabetes-en.md
+ create mode 100644 docs/blog/treatment/exercise/2026-03-20-understanding-type-2-diabetes.md
+ create mode 100644 docs/blog/treatment/exercise/2026-03-20-what-is-type-1-diabetes?-en.md
+ create mode 100644 docs/blog/treatment/exercise/2026-03-20-what-is-type-1-diabetes?.md
+ create mode 100644 docs/blog/treatment/sleep/2026-03-20-national-access-to-renal-transplantation-en.md
+ create mode 100644 docs/blog/treatment/sleep/2026-03-20-national-access-to-renal-transplantation.md
+To https://github.com/jingchunzhang/jingchunzhang.github.io.git
+   b62d2da..2a28147  main -> main
+==================================================
+开始每日任务: 2026-03-20 09:49:10
+==================================================
+
+[1/6] 加载数据源...
+  [Ebook] 加载中...
+    - 获取 20 条选题
+  [RSS] 加载中...
+    - 获取 20 条选题
+    - 添加 220 个长尾词到待处理
+  [Spider] 加载中...
+  爬虫数据源: 2 个
+    正在抓取: Mayo Clinic Diabetes
+      获取 0 篇文章
+    正在抓取: Healthline Diabetes
+      获取 10 篇文章
+    - 获取 10 条选题
+    - 添加 110 个长尾词到待处理
+  总计: 50 条选题
+  - 加载了 50 条选题
+
+[2/6] 获取已存在文章...
+  - 已有 146 篇文章
+
+[3/6] 获取待生成选题...
+  - 待生成 9 篇
+  - 本次将生成 2 篇 (中英文各一篇)
+
+[4/6] 初始化服务...
+
+[5/6] 生成文章...
+
+  [1/2] 处理: Understanding Type 2 Diabetes...
+    - Using title (ZH): 搞懂2型糖尿病别瞎踩坑！10年老糖友亲测的科普/工具选购全指南
+    - Using title (EN): Type 2 Diabetes 101: What You Actually Need to Know to Prevent or Manage It
+Classification error: HTTPSConnectionPool(host='ark.cn-beijing.volces.com', port=443): Read timed out. (read timeout=30)
+    - 分类: treatment/exercise
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/exercise/2026-03-20-understanding-type-2-diabetes.md
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/exercise/2026-03-20-understanding-type-2-diabetes-en.md
+    - 已生成: 2026-03-20-understanding-type-2-diabetes (中文) + 2026-03-20-understanding-type-2-diabetes-en (英文)
+
+  [2/2] 处理: Everything You Need to Know About Insuli...
+    - Using title (ZH): 打了3年胰岛素，我总结了这份人人能懂的实用指南
+    - Using title (EN): A Beginner’s Complete Guide to Insulin: What It Does, How to Use It, and Safety Tips
+Classification error: HTTPSConnectionPool(host='ark.cn-beijing.volces.com', port=443): Read timed out. (read timeout=30)
+    - 分类: treatment/exercise
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/exercise/2026-03-20-everything-you-need-to-know-about-insuli.md
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/exercise/2026-03-20-everything-you-need-to-know-about-insuli-en.md
+    - 已生成: 2026-03-20-everything-you-need-to-know-about-insuli (中文) + 2026-03-20-everything-you-need-to-know-about-insuli-en (英文)
+
+[5.5/6] 更新索引...
+  - 已更新 index.md 和 index-en.md
+
+[6/6] Git提交推送...
+已推送到 GitHub
+
+==================================================
+任务完成: 生成了 4 篇文章
+==================================================
