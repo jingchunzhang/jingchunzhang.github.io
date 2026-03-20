@@ -24,13 +24,13 @@ title: 'A Complete Beginner’s Guide to Managing New Diabetes-Related Foot Infe
 
 # A Complete Beginner’s Guide to Managing New Diabetes-Related Foot Infections: What to Expect for Better Outcomes
 
-![Diabetic foot infection care guide showing a nurse checking a patient's foot with diabetes](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
+![Diabetic foot infection care guide showing a nurse checking a patient's foot with diabetes](https://images.unsplash.com/photo-1477949407212-8869af912174?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDA4Njl8MHwxfHNlYXJjaHwxfHxBJTIwQ29tcGxldGUlMjBCZWdpbm5lciVFMiU4MCU5OXMlMjBHdWlkZSUyMHRvJTIwTWFuYWdpbmclMjBOZXclMjBEaWFiZXRlcy1SZWxhdGVkJTIwRm9vdCUyMEluZmVjdGlvbnMlM0ElMjBXaGF0JTIwdG8lMjBFeHBlY3QlMjBmb3IlMjBCZXR0ZXIlMjBPdXRjb21lcyUyMFRyZWF0bWVudCUyMCVFNSU4MSVBNSVFNSVCQSVCNyUyMCVFNyVCMyU5NiVFNSVCMCVCRiVFNyU5NyU4NXxlbnwwfDB8fHwxNzczOTk5OTQwfDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 If you live with diabetes, you’ve probably heard warnings about foot health, but it can be easy to brush off a small blister, scrape, or patch of redness as no big deal. But data from long-term research on the management and outcomes of people presenting with new diabetes-related foot infections: a prospective cohort analysis shows that even minor, seemingly harmless foot issues can turn serious in as little as 72 hours if left untreated. Diabetes-related foot infections (DFIs) are one of the top causes of hospital admission and amputation for people with diabetes, but early, evidence-based care can reduce amputation risk by more than 80%.
 
 This guide breaks down everything you need to know about recognizing and managing new DFIs, based on the latest prospective clinical research, with simple, actionable steps for even first-time patients.
 
-![Blood sugar monitor and diabetic foot care supplies laid out on a table](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
+![Blood sugar monitor and diabetic foot care supplies laid out on a table](https://images.unsplash.com/photo-1477949407212-8869af912174?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDA4Njl8MHwxfHNlYXJjaHwxfHxBJTIwQ29tcGxldGUlMjBCZWdpbm5lciVFMiU4MCU5OXMlMjBHdWlkZSUyMHRvJTIwTWFuYWdpbmclMjBOZXclMjBEaWFiZXRlcy1SZWxhdGVkJTIwRm9vdCUyMEluZmVjdGlvbnMlM0ElMjBXaGF0JTIwdG8lMjBFeHBlY3QlMjBmb3IlMjBCZXR0ZXIlMjBPdXRjb21lcyUyMFRyZWF0bWVudCUyMCVFNSU4MSVBNSVFNSVCQSVCNyUyMCVFNyVCMyU5NiVFNSVCMCVCRiVFNyU5NyU4NXxlbnwwfDB8fHwxNzczOTk5OTQwfDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 ## First Things First: What Counts as a New Diabetes-Related Foot Infection?
 A new DFI is any active infection in the foot that develops in a person with type 1 or type 2 diabetes, triggered by even minor skin damage (cuts, blisters, cracked heels, ingrown toenails, or calluses that break open). Common signs to watch for include:

@@ -22,7 +22,7 @@ title: 'Type 2 Diabetes 101: What You Actually Need to Know to Prevent or Manage
 ---
 
 # Type 2 Diabetes 101: What You Actually Need to Know to Prevent or Manage It
-![Doctor explaining blood sugar test results to a middle-aged patient](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
+![Doctor explaining blood sugar test results to a middle-aged patient](https://images.unsplash.com/photo-1599814516324-66aa0bf16425?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDA4Njl8MHwxfHNlYXJjaHwzfHxUeXBlJTIwMiUyMERpYWJldGVzJTIwMTAxJTNBJTIwV2hhdCUyMFlvdSUyMEFjdHVhbGx5JTIwTmVlZCUyMHRvJTIwS25vdyUyMHRvJTIwUHJldmVudCUyMG9yJTIwTWFuYWdlJTIwSXQlMjBUcmVhdG1lbnQlMjAlRTUlODElQTUlRTUlQkElQjclMjBFeGVyY2lzZXxlbnwwfDB8fHwxNzczOTk5OTY5fDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 According to 2024 CDC data, more than 37 million people in the U.S. live with diabetes, and 90–95% of those cases are type 2 diabetes. Understanding type 2 diabetes is critical for both people who have been recently diagnosed, and the 96 million U.S. adults living with prediabetes, 80% of whom do not know they have it. Unlike type 1 diabetes, an autoimmune condition that cannot be prevented, type 2 diabetes is highly manageable, and in many cases reversible, when you have the right information. This guide breaks down key facts, common myths, and actionable steps to help you take control of your health.
 
@@ -109,7 +109,7 @@ If you are at high risk for type 2 diabetes or have just been diagnosed, follow 
 4. **Work with a specialist**: Schedule an appointment with a registered dietitian who specializes in diabetes care to create a personalized meal plan that fits your food preferences and budget.
 5. **Join a support group**: Peer support for type 2 diabetes management increases your chance of sticking to lifestyle changes by 32%, per 2023 ADA research.
 
-![Balanced diabetes-friendly meal with grilled chicken, roasted broccoli, quinoa and berries](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
+![Balanced diabetes-friendly meal with grilled chicken, roasted broccoli, quinoa and berries](https://images.unsplash.com/photo-1599814516324-66aa0bf16425?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDA4Njl8MHwxfHNlYXJjaHwzfHxUeXBlJTIwMiUyMERpYWJldGVzJTIwMTAxJTNBJTIwV2hhdCUyMFlvdSUyMEFjdHVhbGx5JTIwTmVlZCUyMHRvJTIwS25vdyUyMHRvJTIwUHJldmVudCUyMG9yJTIwTWFuYWdlJTIwSXQlMjBUcmVhdG1lbnQlMjAlRTUlODElQTUlRTUlQkElQjclMjBFeGVyY2lzZXxlbnwwfDB8fHwxNzczOTk5OTY5fDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 ---
 

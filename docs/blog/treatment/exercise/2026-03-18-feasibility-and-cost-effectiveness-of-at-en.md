@@ -25,7 +25,7 @@ title: Is At-Home Type 2 Diabetes Screening Actually Feasible? Let’s Break Dow
 # Is At-Home Type 2 Diabetes Screening Actually Feasible? Let’s Break Down the Costs and Myths
 
 
-![A person testing blood glucose at home with a meter and strips](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)  
+![A person testing blood glucose at home with a meter and strips](https://images.unsplash.com/photo-1633613287441-3f72304088ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDA4Njl8MHwxfHNlYXJjaHwyfHxJcyUyMEF0LUhvbWUlMjBUeXBlJTIwMiUyMERpYWJldGVzJTIwU2NyZWVuaW5nJTIwQWN0dWFsbHklMjBGZWFzaWJsZSUzRiUyMExldCVFMiU4MCU5OXMlMjBCcmVhayUyMERvd24lMjB0aGUlMjBDb3N0cyUyMGFuZCUyME15dGhzJTIwVHJlYXRtZW50JTIwJUU1JTgxJUE1JUU1JUJBJUI3JTIwRXhlcmNpc2V8ZW58MHwwfHx8MTc3Mzk5OTk3MHww&ixlib=rb-4.1.0&q=80&w=1080)  
 
 
 ## Introduction: Why Home T2D Screening Matters (But It’s Not All Good News)  

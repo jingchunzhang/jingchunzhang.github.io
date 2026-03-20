@@ -90,7 +90,7 @@ Before each visit, list 3–5 unclear terms and ask: “How does this change my 
 
 Translate technical language into family-friendly wording to reduce conflict and misunderstanding.
 
-![Medical records and glossary](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
+![Medical records and glossary](https://images.unsplash.com/photo-1626092806645-ae053131caff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDA4Njl8MHwxfHNlYXJjaHwxfHxEaWFiZXRlcyUyMFRlcm1zJTIwWW91JTIwU2hvdWxkJTIwS25vdyUyMCUyOFdpdGhvdXQlMjB0aGUlMjBDb25mdXNpb24lMjklMjBFbW90aW9uJTIwUmVjb3ZlcnklMjBDb21tdW5pY2F0aW9uJTIwUGF0aWVudCUyMEVkdWNhdGlvbnxlbnwwfDB8fHwxNzczOTk5ODk1fDA&ixlib=rb-4.1.0&q=80&w=1080)
 *Image 2: Turning terms into action language improves adherence. Source: Unsplash (National Cancer Institute)*
 
 ## Practical Glossary Checklist

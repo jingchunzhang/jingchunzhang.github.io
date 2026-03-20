@@ -24,7 +24,7 @@ title: What I Learned About GLP-1 Agonists and Self-Harm Risk As a 7-Year Type 2
 
 # What I Learned About GLP-1 Agonists and Self-Harm Risk As a 7-Year Type 2 Diabetes Patient
 
-![A person with type 2 diabetes reviewing their medication list with a trusted healthcare provider](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
+![A person with type 2 diabetes reviewing their medication list with a trusted healthcare provider](https://images.unsplash.com/photo-1590483200779-9348bfe3fbe7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDA4Njl8MHwxfHNlYXJjaHw1fHxXaGF0JTIwSSUyMExlYXJuZWQlMjBBYm91dCUyMEdMUC0xJTIwQWdvbmlzdHMlMjBhbmQlMjBTZWxmLUhhcm0lMjBSaXNrJTIwQXMlMjBhJTIwNy1ZZWFyJTIwVHlwZSUyMDIlMjBEaWFiZXRlcyUyMFBhdGllbnQlMjBFbW90aW9uJTIwVHJlYXRtZW50JTIwJUU1JTgxJUE1JUU1JUJBJUI3fGVufDB8MHx8fDE3NzQwMDAwMzF8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 Disclaimer: This article is AI-assisted for informational reference only, does not constitute medical advice. Please consult a professional physician before making any decisions.
 
@@ -61,7 +61,7 @@ I’ve talked to more than 30 other type 2 diabetes patients in my support group
 2. **Sarah’s story**: Sarah, a 38-year-old type 2 diabetes patient I met in the support group, had a history of postpartum depression 5 years before she started tirzepatide. She disclosed her history to her doctor before starting the medication, and they agreed to check in every 4 weeks to monitor her mood. When she started having mild self-harm urges 2 months in, she told her doctor immediately. They switched her to a shorter-acting GLP-1 (liraglutide) and connected her to weekly talk therapy. She’s now been on liraglutide for 10 months, has no mood symptoms, and her A1c is 6.1.
 3. **Mike’s dangerous mistake**: Mike, a 52-year-old with no prior mental health history, started having mood swings after upping his semaglutide dose to 1mg. He didn’t tell his doctor, and when he saw the same study I did, he stopped taking the medication cold turkey without talking to anyone. His blood sugar spiked to 380 two days later, and he ended up in the ER with hyperglycemia. He had to stay in the hospital for 2 days to get his levels back under control, and he’s now back on metformin and a sulfonylurea, which don’t control his A1c as well as semaglutide did.
 
-![A person tracking their mood and blood sugar levels in a digital journal](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
+![A person tracking their mood and blood sugar levels in a digital journal](https://images.unsplash.com/photo-1590483200779-9348bfe3fbe7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDA4Njl8MHwxfHNlYXJjaHw1fHxXaGF0JTIwSSUyMExlYXJuZWQlMjBBYm91dCUyMEdMUC0xJTIwQWdvbmlzdHMlMjBhbmQlMjBTZWxmLUhhcm0lMjBSaXNrJTIwQXMlMjBhJTIwNy1ZZWFyJTIwVHlwZSUyMDIlMjBEaWFiZXRlcyUyMFBhdGllbnQlMjBFbW90aW9uJTIwVHJlYXRtZW50JTIwJUU1JTgxJUE1JUU1JUJBJUI3fGVufDB8MHx8fDE3NzQwMDAwMzF8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 ## My Practical Steps To Stay Safe If You’re On GLP-1s
 After my experience and talking to dozens of other patients and providers, I’ve put together a list of 5 simple steps anyone taking or considering GLP-1s can follow to stay safe:

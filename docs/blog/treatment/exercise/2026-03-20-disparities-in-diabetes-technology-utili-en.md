@@ -23,7 +23,7 @@ title: A Step-by-Step Guide to Closing Diabetes Tech Access Gaps for Kids and Te
 ---
 
 # A Step-by-Step Guide to Closing Diabetes Tech Access Gaps for Kids and Teens With Diabetes
-![Teen with type 1 diabetes using a continuous glucose monitor during a checkup with their pediatric endocrinologist](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
+![Teen with type 1 diabetes using a continuous glucose monitor during a checkup with their pediatric endocrinologist](https://images.unsplash.com/photo-1685485276216-891cd7d62bb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDA4Njl8MHwxfHNlYXJjaHw0fHxBJTIwU3RlcC1ieS1TdGVwJTIwR3VpZGUlMjB0byUyMENsb3NpbmclMjBEaWFiZXRlcyUyMFRlY2glMjBBY2Nlc3MlMjBHYXBzJTIwZm9yJTIwS2lkcyUyMGFuZCUyMFRlZW5zJTIwV2l0aCUyMERpYWJldGVzJTIwVHJlYXRtZW50JTIwJUU1JTgxJUE1JUU1JUJBJUI3JTIwRXhlcmNpc2V8ZW58MHwwfHx8MTc3Mzk5OTk4OHww&ixlib=rb-4.1.0&q=80&w=1080)
 
 Modern diabetes tools including continuous glucose monitors (CGMs), insulin pumps, and closed-loop automated delivery systems have transformed care for youth with type 1 and type 2 diabetes: 2023 American Diabetes Association (ADA) data shows these tools cut average A1c levels by 0.8% and reduce severe hypoglycemia risk by 40% for pediatric patients. But disparities in diabetes technology utilization in youth with diabetes remain a pervasive, life-threatening issue across the U.S. and many high-income countries: marginalized youth are 2 to 3 times less likely to access and consistently use these life-saving tools, leading to drastically higher rates of diabetes complications, hospitalizations, and even premature death. This guide walks you through actionable, evidence-based steps to address these gaps in your local community, whether you are a family member, healthcare provider, advocate, or community leader.
 
@@ -76,7 +76,7 @@ In 2022, a local youth diabetes advocacy group in Cleveland, Ohio, followed this
 They first worked with the Ohio Department of Medicaid to eliminate prior authorization requirements for CGMs for all youth under 18. Next, they created free training sessions in Spanish, Somali, and Arabic for local families, led by bilingual peer mentors. They also partnered with Insulin for Life USA to distribute free CGM sensors and pump supplies to uninsured youth in the area.
 By 2024, CGM access for Black youth on Medicaid in Cuyahoga County jumped to 52%, and rates of severe diabetic ketoacidosis (DKA) for that group dropped by 34% in just 18 months.
 
-![Diverse group of teens with diabetes sharing tips about using CGMs and insulin pumps at a peer support event](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
+![Diverse group of teens with diabetes sharing tips about using CGMs and insulin pumps at a peer support event](https://images.unsplash.com/photo-1685485276216-891cd7d62bb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDA4Njl8MHwxfHNlYXJjaHw0fHxBJTIwU3RlcC1ieS1TdGVwJTIwR3VpZGUlMjB0byUyMENsb3NpbmclMjBEaWFiZXRlcyUyMFRlY2glMjBBY2Nlc3MlMjBHYXBzJTIwZm9yJTIwS2lkcyUyMGFuZCUyMFRlZW5zJTIwV2l0aCUyMERpYWJldGVzJTIwVHJlYXRtZW50JTIwJUU1JTgxJUE1JUU1JUJBJUI3JTIwRXhlcmNpc2V8ZW58MHwwfHx8MTc3Mzk5OTk4OHww&ixlib=rb-4.1.0&q=80&w=1080)
 
 ## Frequently Asked Questions (FAQ)
 ### Q1: What counts as diabetes technology for youth with diabetes?

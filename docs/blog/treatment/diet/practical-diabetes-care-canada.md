@@ -38,7 +38,7 @@ translation_key: practical-diabetes-care-canada
 
 《Practical diabetes care for Canadian professionals》强调的是“团队协作 + 长期随访 + 患者教育”。这对中文读者同样有启发：治疗期控糖不是靠某次就诊“被修好”，而是依靠稳定的家庭执行与专业随访协同。
 
-![医疗团队协作](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
+![医疗团队协作](/assets/images/generated/gen_1774000065_940.png)
 *图1：治疗期管理需要医护与家庭共建。来源：Unsplash。*
 
 ## 要点速览

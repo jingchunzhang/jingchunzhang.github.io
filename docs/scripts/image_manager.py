@@ -13,7 +13,7 @@ from pathlib import Path
 BLOG_DIR = 'blog'
 CONFIG_FILE = '_data/image_config.yml'
 HISTORY_FILE = '_data/image_history.yml'
-DEFAULT_IMAGE = 'https://images.unsplash.com/photo-1579684385127-1ef15d508118'
+DEFAULT_IMAGE = 'photo-1579684385127-1ef15d508118'
 
 class ImageManager:
     def __init__(self, config_path=CONFIG_FILE):
@@ -49,21 +49,20 @@ class ImageManager:
             match = re.match(r'^---\n(.*?)\n---\n(.*)', content, re.DOTALL)
             if match:
                 return yaml.safe_load(match.group(1)), match.group(2), match.group(1)
-            return None, None, None
+            return {}, content, ""
         except Exception as e:
             print(f"Error reading {filepath}: {e}")
-            return None, None, None
+            return {}, None, None
 
     def search_unsplash(self, query):
         if not self.unsplash_key:
-            print("Unsplash Access Key missing. Skipping Unsplash search.")
             return None
 
         url = "https://api.unsplash.com/search/photos"
         headers = {"Authorization": f"Client-ID {self.unsplash_key}"}
         params = {
             "query": query,
-            "per_page": 5, 
+            "per_page": 10, 
             "orientation": self.config.get('unsplash', {}).get('orientation', 'landscape')
         }
 
@@ -122,7 +121,7 @@ class ImageManager:
             if 'data' in data and len(data['data']) > 0:
                 image_url = data['data'][0]['url']
                 
-                filename = f"gen_{int(time.time())}.png"
+                filename = f"gen_{int(time.time())}_{hash(prompt) % 1000}.png"
                 local_path = os.path.join(self.download_dir, filename)
                 
                 img_data = requests.get(image_url).content
@@ -147,22 +146,28 @@ class ImageManager:
         return None
 
     def process_file(self, filepath, dry_run=False):
-        fm, body, raw_fm = self.get_frontmatter(filepath)
-        if not fm:
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                content = f.read()
+        except Exception as e:
+            print(f"Error reading {filepath}: {e}")
             return
 
-        current_image = fm.get('image')
-        if not current_image or DEFAULT_IMAGE not in str(current_image):
+        if DEFAULT_IMAGE not in content:
             return
 
         print(f"Processing {filepath}...")
         
+        fm, _, _ = self.get_frontmatter(filepath)
         title = fm.get('title', '')
         tags = fm.get('tags', [])
         if isinstance(tags, str): tags = [tags]
         
         keywords = f"{title} {' '.join(tags[:3])}"
-        
+        keywords = keywords.replace('"', '').replace("'", "").strip()
+        if not keywords:
+            keywords = "diabetes health lifestyle" 
+
         strategy = self.config.get('strategy', 'mixed')
         new_image = None
         
@@ -178,17 +183,13 @@ class ImageManager:
 
         if new_image:
             if dry_run:
-                print(f"[DRY RUN] Would replace image with: {new_image['url']}")
+                print(f"[DRY RUN] Would replace image in {filepath} with: {new_image['url']}")
             else:
                 if self.config.get('backup', True):
                     shutil.copy(filepath, f"{filepath}.bak")
                 
-                with open(filepath, 'r', encoding='utf-8') as f:
-                    content = f.read()
-                
-                new_content = content.replace(DEFAULT_IMAGE, new_image['url'])
-                
-                new_content = re.sub(r'(image:.*?)\?auto=format.*', r'\1', new_content)
+                new_content = content.replace('https://images.unsplash.com/' + DEFAULT_IMAGE + '?auto=format&fit=crop&w=1200&q=80', new_image['url'])
+                new_content = new_content.replace('https://images.unsplash.com/' + DEFAULT_IMAGE, new_image['url'])
                 
                 with open(filepath, 'w', encoding='utf-8') as f:
                     f.write(new_content)
@@ -196,12 +197,15 @@ class ImageManager:
                 print(f"Updated {filepath}")
                 self.save_history()
         else:
-            print("Could not find/generate replacement image.")
+            print(f"Skipping {filepath}: Could not find/generate replacement image.")
 
     def run(self, dry_run=False):
         files = glob.glob(f"{BLOG_DIR}/**/*.md", recursive=True)
+        print(f"Scanning {len(files)} files for duplicate images...")
+        count = 0
         for filepath in files:
             self.process_file(filepath, dry_run)
+            count += 1
 
 def main():
     parser = argparse.ArgumentParser(description='Smart Image Replacer')

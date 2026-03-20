@@ -42,7 +42,7 @@ One reason Canadian diabetes care guidance is valuable beyond Canada is its oper
 
 The treatment challenge is not “how to hear better advice.” It is “how to turn advice into repeatable family behavior.” This article translates that clinical logic into a home execution model.
 
-![Team-based diabetes care and patient education workflow](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
+![Team-based diabetes care and patient education workflow](https://images.unsplash.com/photo-1624454002429-40ed87a5ec04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDA4Njl8MHwxfHNlYXJjaHwxfHxEaWFiZXRlcyUyMFRyZWF0bWVudCUyMGluJTIwYSUyMENhbmFkaWFuJTIwQ2xpbmljYWwlMjBDb250ZXh0JTNBJTIwQSUyMEhvbWUtRXhlY3V0YWJsZSUyMENhcmUlMjBGcmFtZXdvcmslMjBTZWxmJTIwTW9uaXRvcmluZyUyMERpYWJldGVzJTIwVHJlYXRtZW50JTIwVHJlYXRtZW50fGVufDB8MHx8fDE3NzM5OTk4OTh8MA&ixlib=rb-4.1.0&q=80&w=1080)
 *Image 1: Team-based care works best when professional recommendations are translated into clear household tasks.*
 
 ## Quick takeaways

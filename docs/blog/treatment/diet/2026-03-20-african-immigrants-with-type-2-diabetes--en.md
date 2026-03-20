@@ -23,7 +23,7 @@ title: What The 3 Type 2 Diabetes Subtypes In African Immigrants Mean For Your D
 ---
 
 # What The 3 Type 2 Diabetes Subtypes In African Immigrants Mean For Your Daily Care & Diet Choices
-![African diaspora nutritionist reviewing a diabetes meal plan with a first-generation immigrant patient](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
+![African diaspora nutritionist reviewing a diabetes meal plan with a first-generation immigrant patient](/assets/images/generated/gen_1774000100_144.png)
 
 Recent groundbreaking research from the American Diabetes Association confirms what many African immigrant patients and their care providers have known for years: generic type 2 diabetes (T2D) management plans often fail to work for this community. The core reason? African immigrants with type 2 diabetes present with three physiologic subtypes: implications for screening, care, and diet advice that is tailored to their unique needs, rather than one-size-fits-all recommendations based on majority populations. This guide will break down what these subtypes mean for you, how to choose the right foods, tools, and care for your specific subtype, and where to find affordable, culturally appropriate products that fit your lifestyle.
 
@@ -49,7 +49,7 @@ The 2024 ADA study that identified these three subtypes analyzed health data fro
 2. **Subtype 2: Beta-Cell Deficient (35% of patients)**: Defined by low insulin production even with mild or no insulin resistance, often in patients with normal BMI. This subtype is frequently misdiagnosed as type 1 diabetes, and is most common in recent immigrants (less than 5 years in Western countries), linked to genetic predisposition and prior undernutrition in home countries.
 3. **Subtype 3: Mixed Dysglycemia (20% of patients)**: Defined by mild, fluctuating insulin resistance and mild beta cell dysfunction, with frequent unpredictable blood sugar spikes and drops. It is most common in young adult immigrants (18-35 years old) and linked to acculturation stress, inconsistent eating patterns from shift work, and high intake of processed fast foods.
 
-![Simple infographic outlining key markers of the 3 T2D subtypes for African immigrants](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
+![Simple infographic outlining key markers of the 3 T2D subtypes for African immigrants](/assets/images/generated/gen_1774000100_144.png)
 
 ## Key Purchasing & Care Selection Tips For Your Subtype
 All recommendations below prioritize culturally appropriate options, cost-effectiveness for immigrant household budgets, and clinical validation for use in African diaspora populations.

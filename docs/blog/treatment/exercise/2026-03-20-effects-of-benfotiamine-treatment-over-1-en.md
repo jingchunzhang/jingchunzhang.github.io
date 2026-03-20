@@ -23,7 +23,7 @@ title: Does 12 Months of Benfotiamine Actually Improve Nerve and Tissue Health f
 ---
 
 # Does 12 Months of Benfotiamine Actually Improve Nerve and Tissue Health for People With Diabetes? An Evidence-Based Breakdown
-![Benfotiamine supplement for supporting diabetic nerve and tissue health](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
+![Benfotiamine supplement for supporting diabetic nerve and tissue health](/assets/images/generated/gen_1774000160_124.png)
 
 For people living with diabetes or prediabetes, nerve and small blood vessel damage is one of the most common and disabling long-term complications, often starting with mild numbness or tingling in the feet long before it shows up on standard test results. Many over-the-counter supplements claim to support nerve health, but few have long-term data backing their effects. This guide breaks down peer-reviewed research on *effects of benfotiamine treatment over 12 months on morphometric, neurophysiological and clinical measures*, with practical, actionable insights tailored to at-risk groups.
 

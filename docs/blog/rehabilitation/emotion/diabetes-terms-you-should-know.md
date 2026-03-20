@@ -89,7 +89,7 @@ translation_key: diabetes-terms-you-should-know
 
 把常见词写成家庭可理解版本，减少误解和无效争论。
 
-![病历记录与关键术语](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
+![病历记录与关键术语](/assets/images/generated/gen_1774000046_812.png)
 *图2：把术语转成行动语言，可提升执行率。来源：Unsplash（National Cancer Institute）*
 
 ## 术语学习清单

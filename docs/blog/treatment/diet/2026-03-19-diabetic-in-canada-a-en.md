@@ -23,7 +23,7 @@ title: 'Managing Diabetes in Canada: A No-Fuss, Budget-Friendly Step-by-Step Gui
 ---
 
 # Managing Diabetes in Canada: A No-Fuss, Budget-Friendly Step-by-Step Guide for New Patients
-![Person checking blood glucose level with a Canadian health card and prescription on the kitchen table](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
+![Person checking blood glucose level with a Canadian health card and prescription on the kitchen table](https://images.unsplash.com/photo-1727372258153-1c4dd9585382?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDA4Njl8MHwxfHNlYXJjaHwxfHxNYW5hZ2luZyUyMERpYWJldGVzJTIwaW4lMjBDYW5hZGElM0ElMjBBJTIwTm8tRnVzcyUyQyUyMEJ1ZGdldC1GcmllbmRseSUyMFN0ZXAtYnktU3RlcCUyMEd1aWRlJTIwZm9yJTIwTmV3JTIwUGF0aWVudHMlMjBUcmVhdG1lbnQlMjAlRTUlODElQTUlRTUlQkElQjclMjAlRTclQjMlOTYlRTUlQjAlQkYlRTclOTclODV8ZW58MHwwfHx8MTc3Mzk5OTkxNHww&ixlib=rb-4.1.0&q=80&w=1080)
 
 *Disclaimer: This content is AI-assisted and for informational purposes only. It does not constitute medical advice. Always consult a licensed healthcare provider before making any changes to your diabetes management plan.*
 

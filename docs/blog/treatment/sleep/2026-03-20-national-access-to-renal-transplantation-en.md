@@ -23,7 +23,7 @@ title: 'Kidney Transplants for People With Diabetes: Your No-BS Guide to Access 
 ---
 
 # Kidney Transplants for People With Diabetes: Your No-BS Guide to Access and Long-Term Survival
-![Doctor explaining renal transplant eligibility to a patient with diabetes](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
+![Doctor explaining renal transplant eligibility to a patient with diabetes](https://images.unsplash.com/photo-1715527498501-4eb81f7ce451?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDA4Njl8MHwxfHNlYXJjaHwxfHxLaWRuZXklMjBUcmFuc3BsYW50cyUyMGZvciUyMFBlb3BsZSUyMFdpdGglMjBEaWFiZXRlcyUzQSUyMFlvdXIlMjBOby1CUyUyMEd1aWRlJTIwdG8lMjBBY2Nlc3MlMjBhbmQlMjBMb25nLVRlcm0lMjBTdXJ2aXZhbCUyMFRyZWF0bWVudCUyMCVFNSU4MSVBNSVFNSVCQSVCNyUyMCVFNyVCMyU5NiVFNSVCMCVCRiVFNyU5NyU4NXxlbnwwfDB8fHwxNzczOTk5OTY0fDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 Disclaimer: This content is AI-assisted and for informational purposes only. It does not constitute medical advice. Always consult a licensed healthcare provider or transplant specialist before making any care decisions.
 
@@ -49,7 +49,7 @@ Why it’s wrong: Many diabetic patients assume their blood sugar will make them
 Why it’s wrong: Some patients intentionally skip blood sugar checks or adjust their meds to avoid documentation of complications, but this backfires spectacularly. Uncontrolled A1c levels above 7% increase your risk of post-transplant cardiac events, infection, and organ rejection by 40%, per national research on renal transplant outcomes for diabetic patients. Most centers will also delist patients who have consistently elevated A1c for 6+ months while waiting for an organ.
 **Correct action:** Work with an endocrinologist who specializes in diabetic kidney disease to get your A1c to a stable range between 6.5% and 7.5% before your evaluation, and keep it in that range while you wait for a transplant.
 
-![Post-transplant patient with diabetes checking their blood sugar at home](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
+![Post-transplant patient with diabetes checking their blood sugar at home](https://images.unsplash.com/photo-1715527498501-4eb81f7ce451?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDA4Njl8MHwxfHNlYXJjaHwxfHxLaWRuZXklMjBUcmFuc3BsYW50cyUyMGZvciUyMFBlb3BsZSUyMFdpdGglMjBEaWFiZXRlcyUzQSUyMFlvdXIlMjBOby1CUyUyMEd1aWRlJTIwdG8lMjBBY2Nlc3MlMjBhbmQlMjBMb25nLVRlcm0lMjBTdXJ2aXZhbCUyMFRyZWF0bWVudCUyMCVFNSU4MSVBNSVFNSVCQSVCNyUyMCVFNyVCMyU5NiVFNSVCMCVCRiVFNyU5NyU4NXxlbnwwfDB8fHwxNzczOTk5OTY0fDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 ### Misconception 5: Post-transplant survival rates for diabetics are too low to be worth the effort
 Why it’s wrong: Outdated data from the 1990s claimed that diabetic transplant recipients only lived 5 years post-surgery, but modern numbers tell a very different story. National access to renal transplantation and post-transplant survival among patients with diabetes data from 2015-2020 shows that diabetic patients who receive a transplant before age 65 have a 78% 10-year survival rate, compared to just 32% for diabetic patients who remain on long-term dialysis. Even for patients over 65, transplant doubles average life expectancy compared to dialysis.

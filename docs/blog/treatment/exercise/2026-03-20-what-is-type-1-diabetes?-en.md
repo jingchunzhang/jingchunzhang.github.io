@@ -23,7 +23,7 @@ title: What Is Type 1 Diabetes? A 10-Year T1D Vet’s No-Jargon Guide for Newly 
 ---
 
 # What Is Type 1 Diabetes? A 10-Year T1D Vet’s No-Jargon Guide for Newly Diagnosed Folks & Caregivers
-![Warm photo of a young person with type 1 diabetes checking their continuous glucose monitor while laughing with a friend at a coffee shop](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80)
+![Warm photo of a young person with type 1 diabetes checking their continuous glucose monitor while laughing with a friend at a coffee shop](https://images.unsplash.com/photo-1685660477684-7a48c69c173a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDA4Njl8MHwxfHNlYXJjaHw1fHxXaGF0JTIwSXMlMjBUeXBlJTIwMSUyMERpYWJldGVzJTNGJTIwQSUyMDEwLVllYXIlMjBUMUQlMjBWZXQlRTIlODAlOTlzJTIwTm8tSmFyZ29uJTIwR3VpZGUlMjBmb3IlMjBOZXdseSUyMERpYWdub3NlZCUyMEZvbGtzJTIwJTI2JTIwQ2FyZWdpdmVycyUyMFRyZWF0bWVudCUyMCVFNSU4MSVBNSVFNSVCQSVCNyUyMEV4ZXJjaXNlfGVufDB8MHx8fDE3NzQwMDAwMDF8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 If you just found out you or a loved one has type 1 diabetes, I know exactly how overwhelming it feels. I was 22 when I got diagnosed, sitting in a hospital ER after 2 weeks of nonstop thirst, random 15-pound weight loss, and peeing so often I thought I had a chronic bladder infection. My doctor sat down and dumped a stack of dense medical pamphlets on me, and the first question I blurted out was: What is type 1 diabetes, and is this my fault?
 
