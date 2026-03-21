@@ -60,8 +60,10 @@ This section is organized into four dimensions for consistent navigation and int
   - [Type 1 Diabetes: Turning Clinic Advice into a Daily Home Plan](./emotion/type1-diabetes-clinic-to-home-plan-en.md)
   - [Emotional Management During Diabetes Treatment: Turning Psychology in Diabetes Care into Daily Action](./emotion/psychology-in-diabetes-care-en.md)
   - [How Negative Emotions Undermine Glucose Control: Practical Responses from Psyching Out Diabetes](./emotion/psyching-out-diabetes-en.md)
+5. [Research & Frontiers](./research/index-en.md)
+   - [Breakthrough: Regenerative Islet Transplantation Cures Type 1 Diabetes](./research/2026-03-21-regenerative-islet-transplantation-breakthrough-t1d-en.md)
 
-[Back to Blog](./../)
+[Back to Blog](./../index-en)
 
 ---
 
