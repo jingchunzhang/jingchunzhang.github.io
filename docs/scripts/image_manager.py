@@ -161,9 +161,9 @@ class ImageManager:
             print(f"Error reading {filepath}: {e}")
             return
 
-        if DEFAULT_IMAGE not in content:
+        if DEFAULT_IMAGE not in content and 'source.unsplash.com' not in content:
             return
-
+            
         print(f"Processing {filepath}...")
         
         fm, _, _ = self.get_frontmatter(filepath)
@@ -203,18 +203,21 @@ class ImageManager:
                     shutil.copy(filepath, f"{filepath}.bak")
                 
                 # Matches: https://images.unsplash.com/photo-ID... optionally followed by query params
-                pattern = r'https://images\.unsplash\.com/' + re.escape(DEFAULT_IMAGE) + r'(\?[^\s\)\"\']*)?'
+                # Also matches: https://source.unsplash.com/...
                 
-                new_content = re.sub(pattern, new_image['url'], content)
+                # 1. Replace standard Unsplash ID
+                pattern_id = r'https://images\.unsplash\.com/' + re.escape(DEFAULT_IMAGE) + r'(\?[^\s\)\"\']*)?'
+                content = re.sub(pattern_id, new_image['url'], content)
                 
-                if new_content != content:
-                    with open(filepath, 'w', encoding='utf-8') as f:
-                        f.write(new_content)
-                    
-                    print(f"Updated {filepath}")
-                    self.save_history()
-                else:
-                    print(f"Skipping {filepath}: Content matched check but regex replacement failed. Check pattern.")
+                # 2. Replace source.unsplash.com (legacy broken links)
+                pattern_source = r'https://source\.unsplash\.com/[^\s\)\"\']+'
+                content = re.sub(pattern_source, new_image['url'], content)
+                
+                with open(filepath, 'w', encoding='utf-8') as f:
+                    f.write(content)
+                
+                print(f"Updated {filepath}")
+                self.save_history()
         else:
             print(f"Skipping {filepath}: Could not find/generate replacement image.")
 
@@ -223,8 +226,18 @@ class ImageManager:
         print(f"Scanning {len(files)} files for duplicate images...")
         count = 0
         for filepath in files:
-            self.process_file(filepath, dry_run)
-            count += 1
+            # Check if file needs processing (contains default image OR broken source link)
+            try:
+                with open(filepath, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                
+                needs_update = (DEFAULT_IMAGE in content) or ('source.unsplash.com' in content)
+                
+                if needs_update:
+                    self.process_file(filepath, dry_run)
+                    count += 1
+            except Exception as e:
+                print(f"Error checking {filepath}: {e}")
 
 def main():
     parser = argparse.ArgumentParser(description='Smart Image Replacer')
