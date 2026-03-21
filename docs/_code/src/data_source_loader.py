@@ -68,7 +68,7 @@ def load_all_sources() -> List[Dict]:
 
 
 def load_manifest(manifest_file: str = None) -> List[Dict]:
-    """加载 ebook manifest CSV - 处理包含逗号的字段"""
+    """加载 ebook manifest CSV - 使用csv模块处理"""
     if manifest_file:
         manifest_path = Path(manifest_file)
     else:
@@ -79,36 +79,8 @@ def load_manifest(manifest_file: str = None) -> List[Dict]:
     
     results = []
     with open(manifest_path, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
-    lines = content.strip().split('\n')
-    if len(lines) < 2:
-        return []
-    
-    for line in lines[1:]:
-        if not line.strip():
-            continue
-        
-        parts = line.split(',')
-        
-        if len(parts) >= 14:
-            row = {
-                'source_path': ','.join(parts[0:2]),
-                'sanitized_basename': parts[2],
-                'public_url': parts[3],
-                'target_blog_slug': parts[4],
-                'target_blog_path': parts[5],
-                'target_search_intent': parts[6],
-                'author_id': parts[7],
-                'author_email': parts[8],
-                'author_role': parts[9],
-                'reviewer_id': parts[10],
-                'reviewer_email': parts[11],
-                'reviewer_role': parts[12],
-                'disclaimer_key': parts[13],
-                'status': parts[16] if len(parts) > 16 else parts[-1]
-            }
-            
+        reader = csv.DictReader(f)
+        for row in reader:
             if row.get('status') == 'ready':
                 results.append(row)
     

@@ -87,7 +87,10 @@ def run_daily_task():
             title_zh = parsed_zh.get('title', '') or keyword
             print(f"    - Using title (ZH): {title_zh}")
             
-            slug_zh = f"{date_str}-{keyword.lower().replace(' ', '-')[:40]}"
+            if topic.get('slug'):
+                slug_zh = topic['slug']
+            else:
+                slug_zh = f"{date_str}-{keyword.lower().replace(' ', '-')[:40]}"
             
             # Generate English content and extract title
             content_en = generator.generate_with_retry(keyword, lang="en")
