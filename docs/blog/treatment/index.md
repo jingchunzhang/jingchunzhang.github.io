@@ -54,7 +54,7 @@ translation_key: treatment-index-en
     - [治疗期情绪管理：把《Psychology in Diabetes Care》变成日常可执行工具](./emotion/psychology-in-diabetes-care.md)
     - [负面情绪如何拖累控糖：从《Psyching Out Diabetes》到可执行应对方案](./emotion/psyching-out-diabetes.md)
 5. [前沿研究与突破](./research/)
-   - [糖尿病治疗重大突破：再生胰岛移植实现1型糖尿病治愈](./research/regenerative-islet-transplantation-breakthrough-t1d.md)
+   - [糖尿病治疗重大突破：再生胰岛移植实现1型糖尿病治愈](./research/2026-03-21-regenerative-islet-transplantation-breakthrough-t1d.md)
 
 ---
 
