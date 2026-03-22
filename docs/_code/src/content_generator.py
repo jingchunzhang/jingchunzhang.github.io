@@ -75,6 +75,30 @@ class ContentGenerator:
         
         raise Exception(f"内容生成失败，已重试 {max_retries} 次")
     
+    def inject_image(self, content: str, used_images: set, keyword: str = "") -> str:
+        """Replace image placeholder with unique image from pool"""
+        from src.image_manager import image_manager
+        import re
+        
+        pattern = image_manager.get_placeholder_pattern()
+        
+        matches = re.findall(pattern, content)
+
+        def replace_match(match):
+            alt_text = match.group(1)
+            search_query = alt_text if len(alt_text) > 5 else keyword
+            
+            img_data = image_manager.get_image(search_query)
+            
+            if img_data:
+                img_url = img_data['url']
+                return f"![{alt_text}]({img_url})"
+            else:
+                return ""
+
+        new_content = re.sub(pattern, replace_match, content)
+        return new_content
+
     def _safe_check(self, content: str) -> bool:
         """YMYL 领域安全检查"""
         for blocked in config.BLOCKED_KEYWORDS:

@@ -113,9 +113,9 @@ def build_prompt(keyword: str, genre: str = None, persona: str = None, lang: str
    - 结构清晰，有明确的小标题 (H2, H3)
    - 包含 "实操步骤" 或 "真实案例" 章节
 3. **SEO优化**：包含关键词的自然分布
-4. **图片配置**：在文章开头或适当位置添加 1-2 张相关图片。
-    - 使用 Markdown 图片语法：`![描述性Alt文本](https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1600&q=80)`
-    - 注意：必须使用上述固定的占位图片URL（这是默认的待替换图片），不要使用 source.unsplash.com。后续程序会自动将其替换为真实图片。
+4. **图片配置**：在文章开头或适当位置添加 1 张相关图片。
+    - 使用 Markdown 图片语法：`![IMAGE_PLACEHOLDER](描述性Alt文本)`
+    - 注意：必须使用 `![IMAGE_PLACEHOLDER](...)` 这个格式，不要插入具体的 URL，也不要使用 Unsplash 的链接。后续程序会自动替换为真实图片。
 5. **互动部分**：**必须**包含一个 "常见问题 (FAQ)" 章节，回答 3-5 个用户最关心的问题。
 6. **结尾致谢**：结尾可以引导下载相关电子书（如果有）。
 """

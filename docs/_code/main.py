@@ -76,6 +76,8 @@ def run_daily_task():
     generated_count = 0
     generated_posts = []
     
+    used_images = set()
+    
     for i, topic in enumerate(topics_to_generate):
         keyword = topic.get('keyword', '')
         print(f"\n  [{i+1}/{len(topics_to_generate)}] 处理: {keyword[:40]}...")
@@ -91,6 +93,9 @@ def run_daily_task():
             
             print(f"    - 生成英文内容...")
             content_en = generator.generate_with_retry(keyword, lang="en")
+            
+            content_en = generator.inject_image(content_en, used_images, keyword=keyword)
+            
             parsed_en = parse_llm_output(content_en)
             title_en = parsed_en.get('title', '') or keyword
             print(f"    - Using title (EN): {title_en}")
@@ -113,6 +118,8 @@ def run_daily_task():
 
             print(f"    - 生成中文内容...")
             content_zh = generator.generate_with_retry(keyword, lang="zh")
+            content_zh = generator.inject_image(content_zh, used_images, keyword=keyword)
+            
             parsed_zh = parse_llm_output(content_zh)
             title_zh = parsed_zh.get('title', '') or keyword
             print(f"    - Using title (ZH): {title_zh}")
