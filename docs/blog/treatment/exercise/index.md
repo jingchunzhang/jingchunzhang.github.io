@@ -15,6 +15,12 @@ translation_key: treatment-exercise-index
 治疗期运动需要同时考虑 **降糖效果** 与 **低血糖风险、并发症与足部安全**，强调“可执行、可监测、可调整”。
 
 ## 核心文章
+### [体检查出前驱糖尿病别慌！我靠3个月调整逆转的亲身经历](./2026-03-22-wait-i-have-prediabetes-everything-you-need-to-kno.md) <span style="color:red">NEW (2026-03-22)</span>
+### [搞懂糖尿病的不同类型，少走10年控糖弯路！](./2026-03-22-i-learned-all-the-different-types-of-diabetes-the-.md) <span style="color:red">NEW (2026-03-22)</span>
+### [得了尿崩症别慌！10年资深糖友给你整理全流程应对指南](./2026-03-22-wait-this-isnt-regular-diabetes-everything-you-sho.md) <span style="color:red">NEW (2026-03-22)</span>
+### [怀孕糖耐没过别慌！妊娠糖尿病全流程应对新手教程](./2026-03-22-got-diagnosed-with-gestational-diabetes-dont-panic.md) <span style="color:red">NEW (2026-03-22)</span>
+### [常被误诊为2型糖病的LADA是什么？一文搞懂成人隐匿性自身免疫糖尿病](./2026-03-22-think-you-have-type-2-diabetes-it-might-be-lada-a-.md) <span style="color:red">NEW (2026-03-22)</span>
+### [1型糖尿病到底是什么？新手一看就懂的完整指南](./2026-03-22-what-is-type-1-diabetes-7-common-myths-you-need-to.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [1型糖尿病是什么？从发病常识到必备物资选购全指南](./2026-03-20-what-is-type-1-diabetes?.md) <span style="color:red">NEW (2026-03-20)</span>
 ### [糖友的诊疗方案更准了？聊聊电子病历模拟试验对循证护理的升级作用](./2026-03-20-enhancing-evidence-based-care-using-tria.md) <span style="color:red">NEW (2026-03-20)</span>
 ### [吃了12个月苯磷硫胺，我的神经病变真的好转了？亲测全记录](./2026-03-20-effects-of-benfotiamine-treatment-over-1.md) <span style="color:red">NEW (2026-03-20)</span>

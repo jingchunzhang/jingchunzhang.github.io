@@ -17,6 +17,7 @@ During treatment, diet is about **stable glucose, sustainable weight/metabolic i
 
 ## Featured
 
+### [I’ve Lived With Type 2 Diabetes for 10 Years: Here’s What Actually Works (Vs. What Wastes Your Time)](./type-2-diabetes-en.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [Does Intermittent Fasting Work for Diabetes? Real User Experiences + Evidence-Based Comparison](./intermittent-fasting-experience-share-en.md) <span style="color:red">NEW (2026-03-21)</span>
 ### [A Complete Beginner’s Guide to Managing New Diabetes-Related Foot Infections: What to Expect for Better Outcomes](./2026-03-20-management-and-outcomes-of-people-presen-en.md) <span style="color:red">NEW (2026-03-20)</span>
 ### [What The 3 Type 2 Diabetes Subtypes In African Immigrants Mean For Your Daily Care & Diet Choices](./2026-03-20-african-immigrants-with-type-2-diabetes--en.md) <span style="color:red">NEW (2026-03-20)</span>

@@ -6,6 +6,7 @@ Blog Content Automation System
 import sys
 from pathlib import Path
 from datetime import datetime
+import re
 import config
 
 # 添加项目路径
@@ -19,6 +20,14 @@ from src.publisher import Publisher
 from src.index_updater import add_new_post_links
 from src.content_classifier import classify_content, get_subdir
 
+def sanitize_slug(text: str) -> str:
+    """Sanitize slug to be English + Date + Hyphens only"""
+    text = re.sub(r'[^\x00-\x7F]+', '', text)
+    text = re.sub(r'[^a-zA-Z0-9\s-]', '', text)
+    text = text.strip().lower().replace(' ', '-')
+    text = re.sub(r'-+', '-', text)
+    text = text.strip('-')
+    return text[:50]
 
 def run_daily_task():
     print("=" * 50)
@@ -46,9 +55,8 @@ def run_daily_task():
         elif source in ['rss', 'spider']:
             keyword = topic.get('keyword', '')
             if keyword:
-                slug = keyword.lower().replace(' ', '-')[:50]
-                topic['slug'] = slug
-                if slug not in existing_slugs:
+                temp_slug = sanitize_slug(keyword)
+                if temp_slug and temp_slug not in existing_slugs:
                     pending_topics.append(topic)
     
     print(f"  - 待生成 {len(pending_topics)} 篇")
@@ -81,28 +89,37 @@ def run_daily_task():
         try:
             date_str = datetime.now().strftime('%Y-%m-%d')
             
-            # Generate Chinese content and extract title
-            content_zh = generator.generate_with_retry(keyword, lang="zh")
-            parsed_zh = parse_llm_output(content_zh)
-            title_zh = parsed_zh.get('title', '') or keyword
-            print(f"    - Using title (ZH): {title_zh}")
-            
-            if topic.get('slug'):
-                slug_zh = topic['slug']
-            else:
-                slug_zh = f"{date_str}-{keyword.lower().replace(' ', '-')[:40]}"
-            
-            # Generate English content and extract title
+            print(f"    - 生成英文内容...")
             content_en = generator.generate_with_retry(keyword, lang="en")
             parsed_en = parse_llm_output(content_en)
             title_en = parsed_en.get('title', '') or keyword
             print(f"    - Using title (EN): {title_en}")
             
-            slug_en = f"{slug_zh}-en"
+            base_slug = sanitize_slug(title_en)
+            if not base_slug or len(base_slug) < 3:
+                 base_slug = sanitize_slug(keyword)
             
-            # Use extracted titles instead of keyword
+            if not base_slug:
+                 print(f"    - 错误: 无法生成有效 Slug, 跳过")
+                 continue
+                 
+            slug_zh = f"{date_str}-{base_slug}"
+            slug_en = f"{slug_zh}-en"
+            print(f"    - Slug: {slug_zh}")
+            
+            if slug_zh in existing_slugs:
+                 print(f"    - 跳过: Slug 已存在 ({slug_zh})")
+                 continue
+
+            print(f"    - 生成中文内容...")
+            content_zh = generator.generate_with_retry(keyword, lang="zh")
+            parsed_zh = parse_llm_output(content_zh)
+            title_zh = parsed_zh.get('title', '') or keyword
+            print(f"    - Using title (ZH): {title_zh}")
+            
             topic['title_zh'] = title_zh
             topic['title_en'] = title_en
+            topic['slug'] = slug_zh
             
             classification = classify_content(keyword, content_zh)
             subdir = get_subdir(classification['stage'], classification['aspect'])
@@ -110,9 +127,7 @@ def run_daily_task():
             
             publish_date = datetime.now()
             
-            # Pass custom_title for Chinese content
             front_matter_zh = generate_front_matter(topic, publish_date, custom_title=title_zh)
-            # Pass custom_title for English content
             front_matter_en = generate_front_matter(topic, publish_date, custom_title=title_en)
             
             publisher.create_blog_post(slug_zh, content_zh, front_matter_zh, subdir=subdir)
@@ -140,6 +155,8 @@ def run_daily_task():
             
         except Exception as e:
             print(f"    - 生成失败: {e}")
+            import traceback
+            traceback.print_exc()
     
     print("\n[5.5/6] 更新索引...")
     if generated_posts:

@@ -17,6 +17,12 @@ Exercise during treatment should balance **glucose-lowering benefits** with **hy
 
 ## Featured
 
+### [Wait, I Have Prediabetes? Everything You Need To Know About This Common Pre-Condition](./2026-03-22-wait-i-have-prediabetes-everything-you-need-to-kno-en.md) <span style="color:red">NEW (2026-03-22)</span>
+### [I Learned All the Different Types of Diabetes the Hard Way — Here’s What You Need to Know](./2026-03-22-i-learned-all-the-different-types-of-diabetes-the--en.md) <span style="color:red">NEW (2026-03-22)</span>
+### [Wait, This Isn’t Regular Diabetes? Everything You Should Know About Diabetes Insipidus (DI)](./2026-03-22-wait-this-isnt-regular-diabetes-everything-you-sho-en.md) <span style="color:red">NEW (2026-03-22)</span>
+### [Got Diagnosed With Gestational Diabetes? Don’t Panic — Here’s Your No-Fuss Guide to Staying Healthy for You and Baby](./2026-03-22-got-diagnosed-with-gestational-diabetes-dont-panic-en.md) <span style="color:red">NEW (2026-03-22)</span>
+### [Think You Have Type 2 Diabetes? It Might Be LADA: A Complete Guide for At-Risk Adults](./2026-03-22-think-you-have-type-2-diabetes-it-might-be-lada-a--en.md) <span style="color:red">NEW (2026-03-22)</span>
+### [What Is Type 1 Diabetes? 7 Common Myths You Need to Stop Believing Right Now](./2026-03-22-what-is-type-1-diabetes-7-common-myths-you-need-to-en.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [What Is Type 1 Diabetes? A 10-Year T1D Vet’s No-Jargon Guide for Newly Diagnosed Folks & Caregivers](./2026-03-20-what-is-type-1-diabetes?-en.md) <span style="color:red">NEW (2026-03-20)</span>
 ### [Type 2 Diabetes 101: What You Actually Need to Know to Prevent or Manage It](./2026-03-20-understanding-type-2-diabetes-en.md) <span style="color:red">NEW (2026-03-20)</span>
 ### [A Beginner’s Complete Guide to Insulin: What It Does, How to Use It, and Safety Tips](./2026-03-20-everything-you-need-to-know-about-insuli-en.md) <span style="color:red">NEW (2026-03-20)</span>

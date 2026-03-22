@@ -1,0 +1,111 @@
+==================================================
+开始每日任务: 2026-03-22 17:17:33
+==================================================
+
+[1/6] 加载数据源...
+  [RSS] 加载中...
+    - 获取 20 条选题
+    - 添加 220 个长尾词到待处理
+  [Spider] 加载中...
+  爬虫数据源: 2 个
+    正在抓取: Mayo Clinic Diabetes
+      获取 0 篇文章
+    正在抓取: Healthline Diabetes
+      获取 10 篇文章
+    - 获取 10 条选题
+    - 添加 110 个长尾词到待处理
+  总计: 30 条选题
+  - 加载了 30 条选题
+
+[2/6] 获取已存在文章...
+  - 已有 159 篇文章
+
+[3/6] 获取待生成选题...
+  - 待生成 8 篇
+  - 本次将生成 6 篇 (中英文各一篇)
+
+[4/6] 初始化服务...
+
+[5/6] 生成文章...
+
+  [1/6] 处理: What Is Type 1 Diabetes?...
+    - 生成英文内容...
+    - Using title (EN): What Is Type 1 Diabetes? 7 Common Myths You Need to Stop Believing Right Now
+    - Slug: 2026-03-22-what-is-type-1-diabetes-7-common-myths-you-need-to
+    - 生成中文内容...
+    - Using title (ZH): 1型糖尿病到底是什么？新手一看就懂的完整指南
+Classification error: HTTPSConnectionPool(host='ark.cn-beijing.volces.com', port=443): Read timed out. (read timeout=30)
+    - 分类: treatment/exercise
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/exercise/2026-03-22-what-is-type-1-diabetes-7-common-myths-you-need-to.md
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/exercise/2026-03-22-what-is-type-1-diabetes-7-common-myths-you-need-to-en.md
+    - 已生成: 2026-03-22-what-is-type-1-diabetes-7-common-myths-you-need-to (中文) + 2026-03-22-what-is-type-1-diabetes-7-common-myths-you-need-to-en (英文)
+
+  [2/6] 处理: What to Know About Latent Autoimmune Dia...
+    - 生成英文内容...
+    - Using title (EN): Think You Have Type 2 Diabetes? It Might Be LADA: A Complete Guide for At-Risk Adults
+    - Slug: 2026-03-22-think-you-have-type-2-diabetes-it-might-be-lada-a-
+    - 生成中文内容...
+    - Using title (ZH): 常被误诊为2型糖病的LADA是什么？一文搞懂成人隐匿性自身免疫糖尿病
+Classification error: HTTPSConnectionPool(host='ark.cn-beijing.volces.com', port=443): Read timed out. (read timeout=30)
+    - 分类: treatment/exercise
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/exercise/2026-03-22-think-you-have-type-2-diabetes-it-might-be-lada-a-.md
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/exercise/2026-03-22-think-you-have-type-2-diabetes-it-might-be-lada-a--en.md
+    - 已生成: 2026-03-22-think-you-have-type-2-diabetes-it-might-be-lada-a- (中文) + 2026-03-22-think-you-have-type-2-diabetes-it-might-be-lada-a--en (英文)
+
+  [3/6] 处理: Gestational Diabetes: Everything You Nee...
+    - 生成英文内容...
+    - Using title (EN): Got Diagnosed With Gestational Diabetes? Don’t Panic — Here’s Your No-Fuss Guide to Staying Healthy for You and Baby
+    - Slug: 2026-03-22-got-diagnosed-with-gestational-diabetes-dont-panic
+    - 生成中文内容...
+    - Using title (ZH): 怀孕糖耐没过别慌！妊娠糖尿病全流程应对新手教程
+Classification error: HTTPSConnectionPool(host='ark.cn-beijing.volces.com', port=443): Read timed out. (read timeout=30)
+    - 分类: treatment/exercise
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/exercise/2026-03-22-got-diagnosed-with-gestational-diabetes-dont-panic.md
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/exercise/2026-03-22-got-diagnosed-with-gestational-diabetes-dont-panic-en.md
+    - 已生成: 2026-03-22-got-diagnosed-with-gestational-diabetes-dont-panic (中文) + 2026-03-22-got-diagnosed-with-gestational-diabetes-dont-panic-en (英文)
+
+  [4/6] 处理: Everything You Should Know About Diabete...
+    - 生成英文内容...
+    - Using title (EN): Wait, This Isn’t Regular Diabetes? Everything You Should Know About Diabetes Insipidus (DI)
+    - Slug: 2026-03-22-wait-this-isnt-regular-diabetes-everything-you-sho
+    - 生成中文内容...
+    - Using title (ZH): 得了尿崩症别慌！10年资深糖友给你整理全流程应对指南
+Classification error: HTTPSConnectionPool(host='ark.cn-beijing.volces.com', port=443): Read timed out. (read timeout=30)
+    - 分类: treatment/exercise
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/exercise/2026-03-22-wait-this-isnt-regular-diabetes-everything-you-sho.md
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/exercise/2026-03-22-wait-this-isnt-regular-diabetes-everything-you-sho-en.md
+    - 已生成: 2026-03-22-wait-this-isnt-regular-diabetes-everything-you-sho (中文) + 2026-03-22-wait-this-isnt-regular-diabetes-everything-you-sho-en (英文)
+
+  [5/6] 处理: What Are the Different Types of Diabetes...
+    - 生成英文内容...
+    - Using title (EN): I Learned All the Different Types of Diabetes the Hard Way — Here’s What You Need to Know
+    - Slug: 2026-03-22-i-learned-all-the-different-types-of-diabetes-the-
+    - 生成中文内容...
+    - Using title (ZH): 搞懂糖尿病的不同类型，少走10年控糖弯路！
+Classification error: HTTPSConnectionPool(host='ark.cn-beijing.volces.com', port=443): Read timed out. (read timeout=30)
+    - 分类: treatment/exercise
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/exercise/2026-03-22-i-learned-all-the-different-types-of-diabetes-the-.md
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/exercise/2026-03-22-i-learned-all-the-different-types-of-diabetes-the--en.md
+    - 已生成: 2026-03-22-i-learned-all-the-different-types-of-diabetes-the- (中文) + 2026-03-22-i-learned-all-the-different-types-of-diabetes-the--en (英文)
+
+  [6/6] 处理: What Is Prediabetes?...
+    - 生成英文内容...
+    - Using title (EN): Wait, I Have Prediabetes? Everything You Need To Know About This Common Pre-Condition
+    - Slug: 2026-03-22-wait-i-have-prediabetes-everything-you-need-to-kno
+    - 生成中文内容...
+    - Using title (ZH): 体检查出前驱糖尿病别慌！我靠3个月调整逆转的亲身经历
+Classification error: HTTPSConnectionPool(host='ark.cn-beijing.volces.com', port=443): Read timed out. (read timeout=30)
+    - 分类: treatment/exercise
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/exercise/2026-03-22-wait-i-have-prediabetes-everything-you-need-to-kno.md
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/exercise/2026-03-22-wait-i-have-prediabetes-everything-you-need-to-kno-en.md
+    - 已生成: 2026-03-22-wait-i-have-prediabetes-everything-you-need-to-kno (中文) + 2026-03-22-wait-i-have-prediabetes-everything-you-need-to-kno-en (英文)
+
+[5.5/6] 更新索引...
+  - 已更新 index.md 和 index-en.md
+
+[6/6] Git提交推送...
+Skipping git push (Policy): Auto publish 12 posts - 2026-03-22
+
+==================================================
+任务完成: 生成了 12 篇文章
+==================================================

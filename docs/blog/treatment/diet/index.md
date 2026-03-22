@@ -15,6 +15,7 @@ translation_key: treatment-diet-index
 治疗期的饮食目标不再只是“少吃点”，而是围绕 **血糖稳定、体重与代谢改善、用药协同** 建立可持续的餐盘策略。
 
 ## 核心文章
+### [2型糖尿病患者怎么买对用品？这份不踩雷指南快收好](./type-2-diabetes.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [得糖10年亲测间歇断食：稳糖效果真的香，但这几个坑我踩惨了](./intermittent-fasting-experience-share.md) <span style="color:red">NEW (2026-03-21)</span>
 ### [控糖10年踩过足感染的坑！新发糖尿病足感染怎么管才能不截肢？](./2026-03-20-management-and-outcomes-of-people-presen.md) <span style="color:red">NEW (2026-03-20)</span>
 ### [非洲裔2型糖友移民分3种生理亚型？控糖食材选购看这篇就够了](./2026-03-20-african-immigrants-with-type-2-diabetes-.md) <span style="color:red">NEW (2026-03-20)</span>

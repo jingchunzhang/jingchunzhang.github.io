@@ -46,7 +46,7 @@ VOLCENGINE_LLM_MODEL = os.environ.get("VOLCENGINE_LLM_MODEL", "doubao-seed-2-0-p
 # 内容配置
 SIMILARITY_THRESHOLD = 0.8  # 相似度阈值，超过则拒绝
 MIN_SIMILARITY_FOR_LINK = 0.4  # 用于自动内链的相似度阈值
-DAILY_POST_LIMIT = 10  # 每日最大生成数量 (5-10篇)
+DAILY_POST_LIMIT = 6  # 每日最大生成数量 (5-10篇)
 
 # YMYL 领域配置
 YMYL_DISCLAIMER = "本文由AI辅助生成，仅供信息参考，不构成医疗建议。请咨询专业医生后再做决策。"
