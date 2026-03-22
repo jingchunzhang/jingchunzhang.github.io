@@ -15,6 +15,11 @@ translation_key: treatment-exercise-index
 治疗期运动需要同时考虑 **降糖效果** 与 **低血糖风险、并发症与足部安全**，强调“可执行、可监测、可调整”。
 
 ## 核心文章
+### [查出血糖偏高没到糖尿病？前驱糖尿病避坑指南，别等确诊才后悔](./2026-03-22-i-got-a-prediabetes-diagnosis-last-yearheres-what-.md) <span style="color:red">NEW (2026-03-22)</span>
+### [搞懂糖尿病的不同类型，选对护理产品少花冤枉钱](./2026-03-22-all-your-questions-about-diabetes-types-answered-a.md) <span style="color:red">NEW (2026-03-22)</span>
+### [尿崩症超全科普：别再把它当成糖尿病啦！从识别到护理一步到位](./2026-03-22-dont-mix-these-up-7-common-mistakes-people-make-wi.md) <span style="color:red">NEW (2026-03-22)</span>
+### [得了妊娠糖尿病就要饿肚子？一文理清所有核心问题](./2026-03-22-your-no-stress-guide-to-gestational-diabetes-avoid.md) <span style="color:red">NEW (2026-03-22)</span>
+### [得了1型糖尿病12年，我终于搞懂了它到底是啥，这些坑别再踩了](./2026-03-22-what-is-type-1-diabetes-7-common-myths-i-wish-id-u.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [体检查出前驱糖尿病别慌！我靠3个月调整逆转的亲身经历](./2026-03-22-wait-i-have-prediabetes-everything-you-need-to-kno.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [搞懂糖尿病的不同类型，少走10年控糖弯路！](./2026-03-22-i-learned-all-the-different-types-of-diabetes-the-.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [得了尿崩症别慌！10年资深糖友给你整理全流程应对指南](./2026-03-22-wait-this-isnt-regular-diabetes-everything-you-sho.md) <span style="color:red">NEW (2026-03-22)</span>

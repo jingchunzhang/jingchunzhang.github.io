@@ -17,6 +17,11 @@ Exercise during treatment should balance **glucose-lowering benefits** with **hy
 
 ## Featured
 
+### [I Got a Prediabetes Diagnosis Last Year—Here’s What No One Told Me About What Prediabetes Actually Is](./2026-03-22-i-got-a-prediabetes-diagnosis-last-yearheres-what--en.md) <span style="color:red">NEW (2026-03-22)</span>
+### [All Your Questions About Diabetes Types Answered: A Practical Guide for Patients and Caregivers](./2026-03-22-all-your-questions-about-diabetes-types-answered-a-en.md) <span style="color:red">NEW (2026-03-22)</span>
+### [Don’t Mix These Up! 7 Common Mistakes People Make With Diabetes Insipidus (DI)](./2026-03-22-dont-mix-these-up-7-common-mistakes-people-make-wi-en.md) <span style="color:red">NEW (2026-03-22)</span>
+### [Your No-Stress Guide to Gestational Diabetes: Avoid These 7 Common Mistakes for a Smooth Pregnancy](./2026-03-22-your-no-stress-guide-to-gestational-diabetes-avoid-en.md) <span style="color:red">NEW (2026-03-22)</span>
+### [What Is Type 1 Diabetes? 7 Common Myths I Wish I’d Unlearned 10 Years Ago](./2026-03-22-what-is-type-1-diabetes-7-common-myths-i-wish-id-u-en.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [Wait, I Have Prediabetes? Everything You Need To Know About This Common Pre-Condition](./2026-03-22-wait-i-have-prediabetes-everything-you-need-to-kno-en.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [I Learned All the Different Types of Diabetes the Hard Way — Here’s What You Need to Know](./2026-03-22-i-learned-all-the-different-types-of-diabetes-the--en.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [Wait, This Isn’t Regular Diabetes? Everything You Should Know About Diabetes Insipidus (DI)](./2026-03-22-wait-this-isnt-regular-diabetes-everything-you-sho-en.md) <span style="color:red">NEW (2026-03-22)</span>
