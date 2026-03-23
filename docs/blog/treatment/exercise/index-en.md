@@ -17,6 +17,9 @@ Exercise during treatment should balance **glucose-lowering benefits** with **hy
 
 ## Featured
 
+### [My 10 Years of Diabetes Lessons: The No-BS Beginner Treatment & Education Guide I Wish I Had When I Was Diagnosed](./2026-03-23-my-10-years-of-diabetes-lessons-the-no-bs-beginner-en.md) <span style="color:red">NEW (2026-03-23)</span>
+### [Newly Diagnosed with Diabetes? Your No-Stress Beginner’s Starter Guide to Taking Control](./2026-03-23-newly-diagnosed-with-diabetes-your-no-stress-begin-en.md) <span style="color:red">NEW (2026-03-23)</span>
+### [I Spent 3 Months Compiling 100 Common Diabetes Questions: Here’s What I Wish Everyone Knew](./2026-03-23-i-spent-3-months-compiling-100-common-diabetes-que-en.md) <span style="color:red">NEW (2026-03-23)</span>
 ### [I Got a Prediabetes Diagnosis Last Year—Here’s What No One Told Me About What Prediabetes Actually Is](./2026-03-22-i-got-a-prediabetes-diagnosis-last-yearheres-what--en.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [All Your Questions About Diabetes Types Answered: A Practical Guide for Patients and Caregivers](./2026-03-22-all-your-questions-about-diabetes-types-answered-a-en.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [Don’t Mix These Up! 7 Common Mistakes People Make With Diabetes Insipidus (DI)](./2026-03-22-dont-mix-these-up-7-common-mistakes-people-make-wi-en.md) <span style="color:red">NEW (2026-03-22)</span>

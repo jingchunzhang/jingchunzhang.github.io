@@ -1,26 +1,14 @@
 from typing import List, Dict
 import chromadb
 from chromadb.config import Settings
+from chromadb.utils.embedding_functions import ONNXMiniLM_L6_V2
 import config
-import requests
 
 
-def get_embedding(text: str) -> List[float]:
-    url = config.VOLCENGINE_EMBEDDING_ENDPOINT
-    headers = {
-        "Content-Type": "application/json",
-        "Authorization": f"Bearer {config.VOLCENGINE_EMBEDDING_API_KEY}"
-    }
-    data = {
-        "model": config.VOLCENGINE_EMBEDDING_MODEL,
-        "input": [{"type": "text", "text": text}]
-    }
-    
-    response = requests.post(url, headers=headers, json=data, timeout=30)
-    response.raise_for_status()
-    result = response.json()
-    
-    return result['data']['embedding']
+def get_local_embedding(texts: List[str]) -> List[List[float]]:
+    """使用本地 ONNXMiniLM_L6_V2 模型生成 embeddings"""
+    ef = ONNXMiniLM_L6_V2()
+    return ef(texts)
 
 
 class VectorStore:
@@ -35,35 +23,40 @@ class VectorStore:
             )
         )
         self.collection_name = config.CHROMA_COLLECTION
+        self.embedding_function = ONNXMiniLM_L6_V2()
         self._init_collection()
     
     def _init_collection(self):
         try:
-            self.collection = self.client.get_collection(name=self.collection_name)
-        except:
+            self.collection = self.client.get_collection(
+                name=self.collection_name,
+                embedding_function=self.embedding_function
+            )
+        except Exception:
+            # 如果 collection 已存在且 embedding function 不兼容，则删除重建
+            try:
+                self.client.delete_collection(name=self.collection_name)
+            except Exception:
+                pass
             self.collection = self.client.create_collection(
                 name=self.collection_name,
+                embedding_function=self.embedding_function,
                 metadata={"description": "Blog content vectors for deduplication"}
             )
     
     def _embed_text(self, texts: List[str]) -> List[List[float]]:
-        return [get_embedding(text) for text in texts]
+        return get_local_embedding(texts)
     
     def add_documents(self, ids: List[str], documents: List[str], metadatas: List[dict]):
-        embeddings = self._embed_text(documents)
-        
         self.collection.add(
             ids=ids,
             documents=documents,
-            metadatas=metadatas,
-            embeddings=embeddings
+            metadatas=metadatas
         )
     
     def search(self, query: str, n_results: int = 5):
-        query_embedding = get_embedding(query)
-        
         results = self.collection.query(
-            query_embeddings=[query_embedding],
+            query_texts=[query],
             n_results=n_results
         )
         return results
@@ -99,7 +92,7 @@ class VectorStore:
         try:
             result = self.collection.get(limit=limit)
             return result.get('metadatas', [])
-        except:
+        except Exception:
             return []
     
     def delete_collection(self):

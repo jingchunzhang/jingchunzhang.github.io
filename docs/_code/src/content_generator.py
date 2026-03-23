@@ -59,7 +59,8 @@ class ContentGenerator:
         response = model.generate_content(prompt)
         return response.text
     
-    def generate_with_retry(self, keyword: str, max_retries: int = 3, lang: str = "zh") -> str:
+    def generate_with_retry(self, keyword: str, max_retries: int = 5, lang: str = "zh") -> str:
+        import time
         for attempt in range(max_retries):
             try:
                 genre, persona = get_random_variant()
@@ -72,6 +73,10 @@ class ContentGenerator:
                     
             except Exception as e:
                 print(f"生成失败: {e}, 重试 {attempt + 1}/{max_retries}")
+                if attempt < max_retries - 1:
+                    wait = 2 ** attempt
+                    print(f"  等待 {wait} 秒后重试...")
+                    time.sleep(wait)
         
         raise Exception(f"内容生成失败，已重试 {max_retries} 次")
     
@@ -110,9 +115,17 @@ class ContentGenerator:
 
 def generate_front_matter(topic: Dict, publish_date, custom_title: Optional[str] = None) -> str:
      """生成 Jekyll Front Matter"""
-     from src.ebook_loader import get_author_for_date
+     from src.data_source_loader import get_author_for_date
      
-     author_info = get_author_for_date(publish_date)
+     if topic.get('author_id'):
+         author_id = topic.get('author_id', 'default')
+         author_email = topic.get('author_email', '')
+         author_role = topic.get('author_role', 'AI Writer')
+     else:
+         author_info = get_author_for_date(publish_date)
+         author_id = author_info.get('author_id', 'default')
+         author_email = author_info.get('author_email', '')
+         author_role = author_info.get('author_role', 'AI Writer')
      
      date_str = publish_date.strftime("%Y-%m-%dT%H:%M:%S+08:00")
      
@@ -126,11 +139,11 @@ categories: ["糖尿病预防"]
 tags: ["糖尿病", "健康", "饮食"]
 slug: {topic.get('slug', '')}
 
-author_id: "{author_info.get('author_id', 'default')}"
-author_email: "{author_info.get('author_email', '')}"
-author_role: "{author_info.get('author_role', 'AI Writer')}"
+author_id: "{author_id}"
+author_email: "{author_email}"
+author_role: "{author_role}"
 
-review_status: "draft"
+review_status: "published"
 disclaimer_key: "{topic.get('disclaimer_key', 'medical-information-only')}"
 
 download_url: "{topic.get('download_url', '')}"

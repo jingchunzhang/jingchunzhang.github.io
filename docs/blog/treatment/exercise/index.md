@@ -15,6 +15,9 @@ translation_key: treatment-exercise-index
 治疗期运动需要同时考虑 **降糖效果** 与 **低血糖风险、并发症与足部安全**，强调“可执行、可监测、可调整”。
 
 ## 核心文章
+### [刚确诊糖尿病别慌！新手糖友治疗指南对比，10年老糖友帮你避坑](./2026-03-23-my-10-years-of-diabetes-lessons-the-no-bs-beginner.md) <span style="color:red">NEW (2026-03-23)</span>
+### [刚确诊糖尿病慌到睡不着？新手入门全指南，看完少走3年弯路](./2026-03-23-newly-diagnosed-with-diabetes-your-no-stress-begin.md) <span style="color:red">NEW (2026-03-23)</span>
+### [控糖人必备！《糖尿病常见问题100问》选购+使用全攻略](./2026-03-23-i-spent-3-months-compiling-100-common-diabetes-que.md) <span style="color:red">NEW (2026-03-23)</span>
 ### [查出血糖偏高没到糖尿病？前驱糖尿病避坑指南，别等确诊才后悔](./2026-03-22-i-got-a-prediabetes-diagnosis-last-yearheres-what-.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [搞懂糖尿病的不同类型，选对护理产品少花冤枉钱](./2026-03-22-all-your-questions-about-diabetes-types-answered-a.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [尿崩症超全科普：别再把它当成糖尿病啦！从识别到护理一步到位](./2026-03-22-dont-mix-these-up-7-common-mistakes-people-make-wi.md) <span style="color:red">NEW (2026-03-22)</span>

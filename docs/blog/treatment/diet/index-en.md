@@ -17,6 +17,10 @@ During treatment, diet is about **stable glucose, sustainable weight/metabolic i
 
 ## Featured
 
+### [I Cared for My Dad’s Diabetic Foot Ulcer for 8 Months: What Actually Works (And All the Mistakes I Made)](./2026-03-23-i-cared-for-my-dads-diabetic-foot-ulcer-for-8-mont-en.md) <span style="color:red">NEW (2026-03-23)</span>
+### [I Tried Betty Crocker Diabetic Recipes for 3 Months: They’re Tasty, Easy, and Perfect for My Daily Diet](./2026-03-23-i-tried-betty-crocker-diabetic-recipes-for-3-month-en.md) <span style="color:red">NEW (2026-03-23)</span>
+### [Your No-Fuss Guide to Betty Crocker Diabetes-Friendly Recipes: Tasty, Easy Meals for Everyday Eating](./2026-03-23-your-no-fuss-guide-to-betty-crocker-diabetes-frien-en.md) <span style="color:red">NEW (2026-03-23)</span>
+### [100 Common Diabetes Questions: The No-Jargon Full Guide You Need For Daily Management](./2026-03-23-100-common-diabetes-questions-the-no-jargon-full-g-en.md) <span style="color:red">NEW (2026-03-23)</span>
 ### [LADA 101: Everything You Need to Know About the "Slow-Onset" Diabetes Adults Often Misdiagnose](./2026-03-22-lada-101-everything-you-need-to-know-about-the-slo-en.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [I’ve Lived With Type 2 Diabetes for 10 Years: Here’s What Actually Works (Vs. What Wastes Your Time)](./type-2-diabetes-en.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [Does Intermittent Fasting Work for Diabetes? Real User Experiences + Evidence-Based Comparison](./intermittent-fasting-experience-share-en.md) <span style="color:red">NEW (2026-03-21)</span>

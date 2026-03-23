@@ -16,10 +16,13 @@ CHROMA_COLLECTION = "blog_content"
 USE_LOCAL_EMBEDDING = os.environ.get("USE_LOCAL_EMBEDDING", "true").lower() == "true"
 
 # 火山引擎Embedding配置 (替代本地模型)
-VOLCENGINE_EMBEDDING_API_BASE = os.environ.get("VOLCENGINE_API_BASE", "https://ark.cn-beijing.volces.com/api/v3")
-VOLCENGINE_EMBEDDING_API_KEY = os.environ.get("VOLCENGINE_API_KEY", "54bf396f-61d1-4ef9-95d2-1da543cbd838")
-VOLCENGINE_EMBEDDING_MODEL = os.environ.get("VOLCENGINE_EMBEDDING_MODEL", "doubao-embedding-vision-251215")
-VOLCENGINE_EMBEDDING_ENDPOINT = os.environ.get("VOLCENGINE_EMBEDDING_ENDPOINT", "https://ark.cn-beijing.volces.com/api/v3/embeddings/multimodal")
+VOLC_BASE_URL = os.environ.get("VOLC_BASE_URL", os.environ.get("VOLCENGINE_API_BASE", "https://ark.cn-beijing.volces.com/api/v3"))
+VOLC_API_KEY = os.environ.get("VOLC_API_KEY", os.environ.get("VOLCENGINE_API_KEY", "54bf396f-61d1-4ef9-95d2-1da543cbd838"))
+EMBEDDING_MODEL = os.environ.get("EMBEDDING_MODEL", os.environ.get("VOLCENGINE_EMBEDDING_MODEL", "doubao-embedding-vision-251215"))
+VOLCENGINE_EMBEDDING_API_BASE = VOLC_BASE_URL
+VOLCENGINE_EMBEDDING_API_KEY = VOLC_API_KEY
+VOLCENGINE_EMBEDDING_MODEL = EMBEDDING_MODEL
+VOLCENGINE_EMBEDDING_ENDPOINT = os.environ.get("VOLCENGINE_EMBEDDING_ENDPOINT", f"{VOLC_BASE_URL.rstrip('/')}/embeddings/multimodal")
 
 # ebook 资源路径
 EBOOK_MANIFEST_DIR = PROJECT_ROOT / "_book" / "manifests"
@@ -40,13 +43,13 @@ GEMINI_MODEL = "gemini-2.0-flash"
 # 火山引擎LLM配置 (替代Gemini)
 USE_VOLCENGINE_LLM = os.environ.get("USE_VOLCENGINE_LLM", "true").lower() == "true"
 VOLCENGINE_LLM_API_BASE = os.environ.get("VOLCENGINE_LLM_API_BASE", "https://ark.cn-beijing.volces.com/api/v3")
-VOLCENGINE_LLM_API_KEY = os.environ.get("VOLCENGINE_LLM_API_KEY", "54bf396f-61d1-4ef9-95d2-1da543cbd838")
+VOLCENGINE_LLM_API_KEY = os.environ.get("VOLCENGINE_LLM_API_KEY", VOLC_API_KEY)
 VOLCENGINE_LLM_MODEL = os.environ.get("VOLCENGINE_LLM_MODEL", "doubao-seed-2-0-pro-260215")
 
 # 内容配置
 SIMILARITY_THRESHOLD = 0.8  # 相似度阈值，超过则拒绝
 MIN_SIMILARITY_FOR_LINK = 0.4  # 用于自动内链的相似度阈值
-DAILY_POST_LIMIT = 6  # 每日最大生成数量 (5-10篇)
+DAILY_POST_LIMIT = 10  # 每日最大生成数量 (10对中英文)
 
 # YMYL 领域配置
 YMYL_DISCLAIMER = "本文由AI辅助生成，仅供信息参考，不构成医疗建议。请咨询专业医生后再做决策。"

@@ -19,6 +19,8 @@ translation_key: prevention/diet/index
 ---
 
 ## 核心文章
+### [想控糖防糖尿病？250道低GI食谱选购攻略，吃对比啥都靠谱](./2026-03-23-i-tested-250-low-glycemic-recipes-for-diabetes-pre.md) <span style="color:red">NEW (2026-03-23)</span>
+### [怕得糖尿病？250道低血糖指数食谱防糖靠谱吗？超全对比清单](./2026-03-23-tired-of-guessing-what-to-eat-for-diabetes-prevent.md) <span style="color:red">NEW (2026-03-23)</span>
 ### [如何吃碳水化合物而不引起血糖飙升：科学选购与搭配指南](./2026-03-17-how-to-eat-carbs-without-causing-a-blood.md)
 
 ### [食疗知慧：通过均衡饮食科学预防糖尿病](./balanced-diet-diabetes-prevention.md)

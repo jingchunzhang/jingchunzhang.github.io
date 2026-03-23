@@ -17,6 +17,7 @@ Stress and negative emotions can raise glucose via cortisol-related pathways and
 
 ## Featured
 
+### [7 Mistakes That Slowed My Diabetic Foot Ulcer Healing (And What Actually Works)](./2026-03-23-7-mistakes-that-slowed-my-diabetic-foot-ulcer-heal-en.md) <span style="color:red">NEW (2026-03-23)</span>
 ### [What I Learned About GLP-1 Agonists and Self-Harm Risk As a 7-Year Type 2 Diabetes Patient](./2026-03-20-association-of-glp-1-receptor-agonists-w-en.md) <span style="color:red">NEW (2026-03-20)</span>
 ### [I’m a 10-Year Type 1 Diabetic: Here’s What That National Study On Age & Sex Differences In DKA Outcomes Actually Means For You](./2026-03-20-age-and-sex-differences-in-diabetic-keto-en.md) <span style="color:red">NEW (2026-03-20)</span>
 ### [Zero Dollar Drug Copay Programs for Diabetes: A Comparative Analysis of Adherence and Medication Patterns](./2026-03-17-zero-dollar-drug-copay-program-improves--en.md)

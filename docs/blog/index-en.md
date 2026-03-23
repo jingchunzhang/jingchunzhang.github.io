@@ -24,16 +24,16 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 *   **[Mainstream Global Diabetes Diagnostic Criteria Reference](./diabetes-diagnostic-criteria-en)**
 
 ## Living with Diabetes (Latest Updates)
-*   **[What Is Type 1 Diabetes? 7 Common Myths I Wish I’d Unlearned 10 Years Ago](./treatment/exercise/2026-03-22-what-is-type-1-diabetes-7-common-myths-i-wish-id-u-en)**
-*   **[LADA 101: Everything You Need to Know About the "Slow-Onset" Diabetes Adults Often Misdiagnose](./treatment/diet/2026-03-22-lada-101-everything-you-need-to-know-about-the-slo-en)**
-*   **[Your No-Stress Guide to Gestational Diabetes: Avoid These 7 Common Mistakes for a Smooth Pregnancy](./treatment/exercise/2026-03-22-your-no-stress-guide-to-gestational-diabetes-avoid-en)**
-*   **[Don’t Mix These Up! 7 Common Mistakes People Make With Diabetes Insipidus (DI)](./treatment/exercise/2026-03-22-dont-mix-these-up-7-common-mistakes-people-make-wi-en)**
-*   **[All Your Questions About Diabetes Types Answered: A Practical Guide for Patients and Caregivers](./treatment/exercise/2026-03-22-all-your-questions-about-diabetes-types-answered-a-en)**
-*   **[I Got a Prediabetes Diagnosis Last Year—Here’s What No One Told Me About What Prediabetes Actually Is](./treatment/exercise/2026-03-22-i-got-a-prediabetes-diagnosis-last-yearheres-what--en)**
-*   **[What Is Type 1 Diabetes? 7 Common Myths You Need to Stop Believing Right Now](./treatment/exercise/2026-03-22-what-is-type-1-diabetes-7-common-myths-you-need-to-en)**
-*   **[Think You Have Type 2 Diabetes? It Might Be LADA: A Complete Guide for At-Risk Adults](./treatment/exercise/2026-03-22-think-you-have-type-2-diabetes-it-might-be-lada-a--en)**
-*   **[Got Diagnosed With Gestational Diabetes? Don’t Panic — Here’s Your No-Fuss Guide to Staying Healthy for You and Baby](./treatment/exercise/2026-03-22-got-diagnosed-with-gestational-diabetes-dont-panic-en)**
-*   **[Wait, This Isn’t Regular Diabetes? Everything You Should Know About Diabetes Insipidus (DI)](./treatment/exercise/2026-03-22-wait-this-isnt-regular-diabetes-everything-you-sho-en)**
+*   **[I Spent 3 Months Compiling 100 Common Diabetes Questions: Here’s What I Wish Everyone Knew](./treatment/exercise/2026-03-23-i-spent-3-months-compiling-100-common-diabetes-que-en)**
+*   **[I Tried Betty Crocker Diabetic Recipes for 3 Months: They’re Tasty, Easy, and Perfect for My Daily Diet](./treatment/diet/2026-03-23-i-tried-betty-crocker-diabetic-recipes-for-3-month-en)**
+*   **[Newly Diagnosed with Diabetes? Your No-Stress Beginner’s Starter Guide to Taking Control](./treatment/exercise/2026-03-23-newly-diagnosed-with-diabetes-your-no-stress-begin-en)**
+*   **[My 10 Years of Diabetes Lessons: The No-BS Beginner Treatment & Education Guide I Wish I Had When I Was Diagnosed](./treatment/exercise/2026-03-23-my-10-years-of-diabetes-lessons-the-no-bs-beginner-en)**
+*   **[Tired of Guessing What to Eat for Diabetes Prevention? Your Go-To Guide for Picking the Perfect 250 Low Glycemic Index Recipe Collection](./prevention/diet/2026-03-23-tired-of-guessing-what-to-eat-for-diabetes-prevent-en)**
+*   **[I Tested 250 Low Glycemic Recipes for Diabetes Prevention — Here’s What Actually Works (And What Wasted My Time)](./prevention/diet/2026-03-23-i-tested-250-low-glycemic-recipes-for-diabetes-pre-en)**
+*   **[I Cared for My Dad’s Diabetic Foot Ulcer for 8 Months: What Actually Works (And All the Mistakes I Made)](./treatment/diet/2026-03-23-i-cared-for-my-dads-diabetic-foot-ulcer-for-8-mont-en)**
+*   **[7 Mistakes That Slowed My Diabetic Foot Ulcer Healing (And What Actually Works)](./treatment/emotion/2026-03-23-7-mistakes-that-slowed-my-diabetic-foot-ulcer-heal-en)**
+*   **[100 Common Diabetes Questions: The No-Jargon Full Guide You Need For Daily Management](./treatment/diet/2026-03-23-100-common-diabetes-questions-the-no-jargon-full-g-en)**
+*   **[Your No-Fuss Guide to Betty Crocker Diabetes-Friendly Recipes: Tasty, Easy Meals for Everyday Eating](./treatment/diet/2026-03-23-your-no-fuss-guide-to-betty-crocker-diabetes-frien-en)**
 ## Core Focus: Three Pillars of Diabetes Management
 
 ### 1. Prevention

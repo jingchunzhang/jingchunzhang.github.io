@@ -15,6 +15,10 @@ translation_key: treatment-diet-index
 治疗期的饮食目标不再只是“少吃点”，而是围绕 **血糖稳定、体重与代谢改善、用药协同** 建立可持续的餐盘策略。
 
 ## 核心文章
+### [糖尿病足溃疡护理别踩雷！这7个误区很多人都中过](./2026-03-23-i-cared-for-my-dads-diabetic-foot-ulcer-for-8-mont.md) <span style="color:red">NEW (2026-03-23)</span>
+### [贝蒂妙厨糖尿病友好食谱怎么做才好吃？0基础也能上手的日常饮食指南](./2026-03-23-i-tried-betty-crocker-diabetic-recipes-for-3-month.md) <span style="color:red">NEW (2026-03-23)</span>
+### [控糖10年挖到宝！贝蒂妙厨的糖尿病食谱居然好吃还不升糖？](./2026-03-23-your-no-fuss-guide-to-betty-crocker-diabetes-frien.md) <span style="color:red">NEW (2026-03-23)</span>
+### [糖友必看！糖尿病常见问题100问核心干货整理，看完少走90%弯路](./2026-03-23-100-common-diabetes-questions-the-no-jargon-full-g.md) <span style="color:red">NEW (2026-03-23)</span>
 ### [成人隐匿性自身免疫糖尿病（LADA）控糖好物选购指南，避坑不花冤枉钱](./2026-03-22-lada-101-everything-you-need-to-know-about-the-slo.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [2型糖尿病患者怎么买对用品？这份不踩雷指南快收好](./type-2-diabetes.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [得糖10年亲测间歇断食：稳糖效果真的香，但这几个坑我踩惨了](./intermittent-fasting-experience-share.md) <span style="color:red">NEW (2026-03-21)</span>

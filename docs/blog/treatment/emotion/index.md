@@ -15,6 +15,7 @@ translation_key: treatment-emotion-index
 压力与负面情绪会通过皮质醇等通路推高血糖，并影响依从性。治疗期需要一套可操作的情绪管理工具箱。
 
 ## 核心文章
+### [糖友必看！糖尿病足溃疡康复护理用品选购全指南，少踩坑好得快](./2026-03-23-7-mistakes-that-slowed-my-diabetic-foot-ulcer-heal.md) <span style="color:red">NEW (2026-03-23)</span>
 ### [打GLP-1控糖怕出情绪问题？10年老糖友的实用避坑指南](./2026-03-20-association-of-glp-1-receptor-agonists-w.md) <span style="color:red">NEW (2026-03-20)</span>
 ### [1型糖友必看！酮症酸中毒风险竟和年龄性别有关？最新研究解读+防控好物选购指南](./2026-03-20-age-and-sex-differences-in-diabetic-keto.md) <span style="color:red">NEW (2026-03-20)</span>
 ### [Psyching Out Diabetes：治疗期如何把情绪压力变成可执行的日常行动](./2026-03-15-psyching-out-diabetes.md)

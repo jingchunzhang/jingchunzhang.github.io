@@ -82,9 +82,14 @@ Use these role identities for bylines and narrative perspective:
 - Do not leave same-day quota posts as short drafts; expand them to target range before considering the day complete.
 
 ## Media guidance
-- Prefer **2+ images per article** when relevant and available.
-- Use stable, reusable image sources and include meaningful alt text in both ZH and EN pages.
-- Image placement should help readers scan the article: usually one near the introduction and one in a practical framework/checklist section.
+- **Mandatory**: Use 2+ images per article.
+- **Source Policy**: 
+  - **NEVER** use `source.unsplash.com` (service is deprecated/broken).
+  - Use the specific placeholder URL `https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1600&q=80` in generated drafts.
+  - The project's `image_manager.py` script will automatically replace this placeholder with a relevant image from a valid source (Unsplash API or Volcengine generation).
+  - Do not try to generate other Unsplash URLs manually; they will likely fail or break over time.
+  - **Alt Text**: Include meaningful, descriptive alt text in both ZH and EN pages.
+  - **Placement**: One image near the introduction, one in a practical framework/checklist section.
 
 ## Required front matter fields for persona publishing
 - `author_id`: one of `zzh|kelvin|yyh|gwx|zyn|zhl|wep`

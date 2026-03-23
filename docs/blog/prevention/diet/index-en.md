@@ -20,6 +20,8 @@ Among the various diabetes prevention methods, **a reasonable diet structure** i
 ---
 
 ## Core Articles
+### [I Tested 250 Low Glycemic Recipes for Diabetes Prevention — Here’s What Actually Works (And What Wasted My Time)](./2026-03-23-i-tested-250-low-glycemic-recipes-for-diabetes-pre-en.md) <span style="color:red">NEW (2026-03-23)</span>
+### [Tired of Guessing What to Eat for Diabetes Prevention? Your Go-To Guide for Picking the Perfect 250 Low Glycemic Index Recipe Collection](./2026-03-23-tired-of-guessing-what-to-eat-for-diabetes-prevent-en.md) <span style="color:red">NEW (2026-03-23)</span>
 
 ### [How to Eat Carbs Without Causing a Blood Sugar Spike: A Practical Comparison Guide](./2026-03-17-how-to-eat-carbs-without-causing-a-blood-en.md)
 ### [Nutritional Wisdom: Scientific Diabetes Prevention Through Balanced Diet](./balanced-diet-diabetes-prevention-en.md)
