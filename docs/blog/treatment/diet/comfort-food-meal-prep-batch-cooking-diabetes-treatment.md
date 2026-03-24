@@ -9,7 +9,7 @@ automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
 date: 2026-03-10 00:00:00 +0800
 sort_date: "2026-03-10 00:00:00 +0800"
-description: 用一周批量备餐策略，把治疗期舒适食物做成可持续系统，减少外卖依赖和临时失控。
+description: 批量备餐实战：用周末2小时备好一周的舒适食物，治疗期再也不怕外卖诱惑
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub
 ebook_id: 20260310-diabetes-comfort-food-cookbook

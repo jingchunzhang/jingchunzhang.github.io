@@ -9,7 +9,7 @@ automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
 date: 2026-03-10 00:00:00 +0800
 sort_date: "2026-03-10 00:00:00 +0800"
-description: 为治疗期设计的加餐决策流程：先判断、再替代、再复盘，减少高糖零食连锁反应。
+description: 治疗期馋了怎么办？3步法控制零食渴望：用健康替代品满足嘴馋又不升糖
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub
 ebook_id: 20260310-diabetes-comfort-food-cookbook

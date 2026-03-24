@@ -25,7 +25,7 @@ During treatment, diet is about **stable glucose, sustainable weight/metabolic i
 
 ### [I Cared for My Dad’s Diabetic Foot Ulcer for 8 Months: What Actually Works (And All the Mistakes I Made)](./2026-03-23-i-cared-for-my-dads-diabetic-foot-ulcer-for-8-mont-en.md) <span style="color:red">NEW (2026-03-23)</span>
 ### [I Tried Betty Crocker Diabetic Recipes for 3 Months: They’re Tasty, Easy, and Perfect for My Daily Diet](./2026-03-23-i-tried-betty-crocker-diabetic-recipes-for-3-month-en.md) <span style="color:red">NEW (2026-03-23)</span>
-### [Your No-Fuss Guide to Betty Crocker Diabetes-Friendly Recipes: Tasty, Easy Meals for Everyday Eating](./2026-03-23-your-no-fuss-guide-to-betty-crocker-diabetes-frien-en.md) <span style="color:red">NEW (2026-03-23)</span>
+### [My Top 10 Betty Crocker Recipes: Tasty, Easy, and Perfect for Daily Diabetes Diet](./2026-03-23-no-bland-bites-my-favorite-easy-tasty-betty-crocke-en.md) <span style="color:red">NEW (2026-03-23)</span>
 ### [100 Common Diabetes Questions: The No-Jargon Full Guide You Need For Daily Management](./2026-03-23-100-common-diabetes-questions-the-no-jargon-full-g-en.md) <span style="color:red">NEW (2026-03-23)</span>
 ### [LADA 101: Everything You Need to Know About the "Slow-Onset" Diabetes Adults Often Misdiagnose](./2026-03-22-lada-101-everything-you-need-to-know-about-the-slo-en.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [I’ve Lived With Type 2 Diabetes for 10 Years: Here’s What Actually Works (Vs. What Wastes Your Time)](./type-2-diabetes-en.md) <span style="color:red">NEW (2026-03-22)</span>
@@ -48,14 +48,8 @@ During treatment, diet is about **stable glucose, sustainable weight/metabolic i
 - [Gestational Diabetes Home Care: How to Coordinate Glucose Checks, Snacks, and Prenatal Follow-Up](./gestational-diabetes-home-care-pregnancy-en.md)
 - [Comfort Food During Diabetes Treatment: Keep the Satisfaction Without Losing Glucose Stability](./comfort-food-diabetes-treatment-en.md)
 - [Comfort-Food Breakfast Template for Diabetes Treatment: Start Stable, Stay Stable](./comfort-food-breakfast-template-diabetes-treatment-en.md)
-- [Rebuilding Comfort Soup Noodles During Diabetes Treatment](./comfort-food-soup-noodle-rebuild-diabetes-treatment-en.md)
-- [Balancing Casseroles and Rice Bakes in Diabetes Treatment](./comfort-food-casserole-rice-balance-diabetes-treatment-en.md)
-- [Dessert Portion Strategy for Diabetes Treatment](./comfort-food-dessert-portion-strategy-diabetes-treatment-en.md)
 - [Snack and Craving Control in Diabetes Treatment](./comfort-food-snack-craving-control-diabetes-treatment-en.md)
 - [Batch Cooking Comfort Food for Diabetes Treatment](./comfort-food-meal-prep-batch-cooking-diabetes-treatment-en.md)
-- [Family Dinner Rotation for Diabetes Treatment Comfort Meals](./comfort-food-family-dinner-rotation-diabetes-treatment-en.md)
-- [Eating-Out Swap Guide for Comfort Food in Diabetes Treatment](./comfort-food-eating-out-swap-diabetes-treatment-en.md)
-- [Late-Night Hunger Plan for Comfort Food in Diabetes Treatment](./comfort-food-late-night-hunger-plan-diabetes-treatment-en.md)
 - [How to Apply The Diabetes Code in Treatment: A Safety-First Framework](./the-diabetes-code-en.md)
 - [American Diabetes Association Complete Guide: What Should You Actually Eat During Diabetes Treatment to Reduce Post-Meal Spikes?](./2026-03-15-american-diabetes-association-complete-guide-en.md)
 - [Diabetes A to Z: A Practical Diet Guide for the Treatment Stage](./2026-03-15-diabetes-a-to-z-en.md)

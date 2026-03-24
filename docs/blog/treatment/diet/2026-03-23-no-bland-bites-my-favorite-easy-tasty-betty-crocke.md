@@ -2,7 +2,7 @@
 
 title: "贝蒂妙厨糖尿病食谱VS家常控糖餐：哪个更适合糖友日常吃？超全对比清单"
 date: 2026-03-23T09:30:59+08:00
-description: "贝蒂妙厨糖尿病食谱VS家常控糖餐：哪个更适合糖友日常吃？超全对比清单 - 糖尿病知识全面解读"
+description: "贝蒂妙厨糖尿病食谱精选推荐：我最喜欢的10道美味不升糖食谱，简单易做适合日常"
 categories: ["糖尿病预防"]
 tags: ["糖尿病", "健康", "饮食"]
 slug: 2026-03-23-no-bland-bites-my-favorite-easy-tasty-betty-crocke

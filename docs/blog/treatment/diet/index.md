@@ -22,7 +22,7 @@ translation_key: treatment-diet-index
 ### [Yates协议：五个步骤逆转2型糖尿病](./yates-protocol-blood-sugar-treatment.md) <span style="color:red">NEW (2026-03-24)</span>
 ### [糖尿病足溃疡护理别踩雷！这7个误区很多人都中过](./2026-03-23-i-cared-for-my-dads-diabetic-foot-ulcer-for-8-mont.md) <span style="color:red">NEW (2026-03-23)</span>
 ### [贝蒂妙厨糖尿病友好食谱怎么做才好吃？0基础也能上手的日常饮食指南](./2026-03-23-i-tried-betty-crocker-diabetic-recipes-for-3-month.md) <span style="color:red">NEW (2026-03-23)</span>
-### [控糖10年挖到宝！贝蒂妙厨的糖尿病食谱居然好吃还不升糖？](./2026-03-23-your-no-fuss-guide-to-betty-crocker-diabetes-frien.md) <span style="color:red">NEW (2026-03-23)</span>
+### [贝蒂妙厨食谱精选推荐：我最喜爱的10道美味不升糖食谱](./2026-03-23-no-bland-bites-my-favorite-easy-tasty-betty-crocke.md) <span style="color:red">NEW (2026-03-23)</span>
 ### [糖友必看！糖尿病常见问题100问核心干货整理，看完少走90%弯路](./2026-03-23-100-common-diabetes-questions-the-no-jargon-full-g.md) <span style="color:red">NEW (2026-03-23)</span>
 ### [成人隐匿性自身免疫糖尿病（LADA）控糖好物选购指南，避坑不花冤枉钱](./2026-03-22-lada-101-everything-you-need-to-know-about-the-slo.md) <span style="color:red">NEW (2026-03-22)</span>
 ### [2型糖尿病患者怎么买对用品？这份不踩雷指南快收好](./type-2-diabetes.md) <span style="color:red">NEW (2026-03-22)</span>
@@ -43,9 +43,6 @@ translation_key: treatment-diet-index
 - [妊娠糖尿病家庭护理：血糖监测、加餐安排与产检协同怎么做](./gestational-diabetes-home-care-pregnancy.md)
 - [糖尿病治疗期的舒适食物改造法：吃得满足，也把血糖守住](./comfort-food-diabetes-treatment.md)
 - [治疗期舒适早餐模板：早上吃得稳，全天更好控糖](./comfort-food-breakfast-template-diabetes-treatment.md)
-- [治疗期汤面重建：保留热汤满足感，降低餐后冲高](./comfort-food-soup-noodle-rebuild-diabetes-treatment.md)
-- [焗饭与炖饭的治疗期平衡法：少一点精制主食，多一点稳定](./comfort-food-casserole-rice-balance-diabetes-treatment.md)
-- [治疗期甜食份量策略：不是绝对禁止，而是有边界地吃](./comfort-food-dessert-portion-strategy-diabetes-treatment.md)
 - [治疗期加餐与馋意控制：把冲动进食变成可管理流程](./comfort-food-snack-craving-control-diabetes-treatment.md)
 - [治疗期舒适食物批量备餐：忙碌日也能守住饮食结构](./comfort-food-meal-prep-batch-cooking-diabetes-treatment.md)
 - [治疗期家庭晚餐轮换：用舒适食物模板减少全家执行阻力](./comfort-food-family-dinner-rotation-diabetes-treatment.md)
