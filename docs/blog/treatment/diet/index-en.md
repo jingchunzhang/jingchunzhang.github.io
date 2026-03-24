@@ -17,6 +17,12 @@ During treatment, diet is about **stable glucose, sustainable weight/metabolic i
 
 ## Featured
 
+### [The Diabetes Code: Dr. Jason Fung's Intermittent Fasting Protocol for Reversal](./the-diabetes-code-treatment-en.md) <span style="color:red">NEW (2026-03-24)</span>
+### [Practical Diabetes Care: The Complete Clinical Management Guide](./practical-diabetes-care-treatment-en.md) <span style="color:red">NEW (2026-03-24)</span>
+### [Pregnancy Diabetes and Birth: A Complete Management Guide](./pregnancy-diabetes-birth-guide-treatment-en.md) <span style="color:red">NEW (2026-03-24)</span>
+### [Diabetes in Pregnancy: Clinical Management Key Points](./diabetes-in-pregnancy-treatment-en.md) <span style="color:red">NEW (2026-03-24)</span>
+### [The Yates Protocol: Five Simple Steps to Reverse Type 2 Diabetes](./yates-protocol-blood-sugar-treatment-en.md) <span style="color:red">NEW (2026-03-24)</span>
+
 ### [I Cared for My Dad’s Diabetic Foot Ulcer for 8 Months: What Actually Works (And All the Mistakes I Made)](./2026-03-23-i-cared-for-my-dads-diabetic-foot-ulcer-for-8-mont-en.md) <span style="color:red">NEW (2026-03-23)</span>
 ### [I Tried Betty Crocker Diabetic Recipes for 3 Months: They’re Tasty, Easy, and Perfect for My Daily Diet](./2026-03-23-i-tried-betty-crocker-diabetic-recipes-for-3-month-en.md) <span style="color:red">NEW (2026-03-23)</span>
 ### [Your No-Fuss Guide to Betty Crocker Diabetes-Friendly Recipes: Tasty, Easy Meals for Everyday Eating](./2026-03-23-your-no-fuss-guide-to-betty-crocker-diabetes-frien-en.md) <span style="color:red">NEW (2026-03-23)</span>

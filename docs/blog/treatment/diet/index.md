@@ -15,6 +15,11 @@ translation_key: treatment-diet-index
 治疗期的饮食目标不再只是“少吃点”，而是围绕 **血糖稳定、体重与代谢改善、用药协同** 建立可持续的餐盘策略。
 
 ## 核心文章
+### [《糖尿病密码》：Jason Fung博士的间歇性断食逆转方案](./the-diabetes-code-treatment.md) <span style="color:red">NEW (2026-03-24)</span>
+### [实用糖尿病护理：临床管理完全指南](./practical-diabetes-care-treatment.md) <span style="color:red">NEW (2026-03-24)</span>
+### [妊娠糖尿病分娩指南：完整管理方案](./pregnancy-diabetes-birth-guide-treatment.md) <span style="color:red">NEW (2026-03-24)</span>
+### [糖尿病与妊娠：临床管理要点](./diabetes-in-pregnancy-treatment.md) <span style="color:red">NEW (2026-03-24)</span>
+### [Yates协议：五个步骤逆转2型糖尿病](./yates-protocol-blood-sugar-treatment.md) <span style="color:red">NEW (2026-03-24)</span>
 ### [糖尿病足溃疡护理别踩雷！这7个误区很多人都中过](./2026-03-23-i-cared-for-my-dads-diabetic-foot-ulcer-for-8-mont.md) <span style="color:red">NEW (2026-03-23)</span>
 ### [贝蒂妙厨糖尿病友好食谱怎么做才好吃？0基础也能上手的日常饮食指南](./2026-03-23-i-tried-betty-crocker-diabetic-recipes-for-3-month.md) <span style="color:red">NEW (2026-03-23)</span>
 ### [控糖10年挖到宝！贝蒂妙厨的糖尿病食谱居然好吃还不升糖？](./2026-03-23-your-no-fuss-guide-to-betty-crocker-diabetes-frien.md) <span style="color:red">NEW (2026-03-23)</span>
