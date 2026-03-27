@@ -24,6 +24,13 @@ Before starting, it is helpful to understand the diagnostic criteria for diabete
 
 ---
 
+## Latest Articles
+
+- **[Is Frequent Urination a Symptom of Diabetes? Expert Answer](./2026-03-27-frequent-urination-diabetes-symptom-en.md)** - Understanding the relationship between frequent urination and diabetes
+- **[Diabetes Management for Outdoor Physical Workers in Spring](./2026-03-27-outdoor-workers-diabetes-spring-care-en.md)** - Practical guide for farmers, construction workers and haulers
+
+---
+
 ## Four Pillars of Diabetes Prevention
 
 ### 1. [Healthy Diet](./diet/)

@@ -24,6 +24,13 @@ translation_key: prevention/index
 
 ---
 
+## 最新文章
+
+- **[频繁尿尿是糖尿病的症状吗？专家详细解答](./2026-03-27-frequent-urination-diabetes-symptom.md)** - 了解尿频与糖尿病的关系，识别早期症状信号
+- **[户外体力劳动者的糖尿病春季管理](./2026-03-27-outdoor-workers-diabetes-spring-care.md)** - 农民、建筑工人、搬运工的实用指南
+
+---
+
 ## 预防糖尿病的四大基石
 
 ### 1. [健康饮食 (Diet)](./diet/)
