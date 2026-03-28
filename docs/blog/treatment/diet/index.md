@@ -15,6 +15,12 @@ translation_key: treatment-diet-index
 治疗期的饮食目标不再只是“少吃点”，而是围绕 **血糖稳定、体重与代谢改善、用药协同** 建立可持续的餐盘策略。
 
 ## 核心文章
+### [老年糖尿病护理完整指南：医疗实践手册](./elderly-diabetes-care-guide-treatment.md) <span style="color:red">NEW (2026-03-28)</span>
+### [糖尿病患者入门指南：新手指南与基础科普](./diabetic-patients-primer-treatment.md) <span style="color:red">NEW (2026-03-28)</span>
+### [糖尿病心理护理：心理健康与血糖控制的密切关系](./psychology-diabetes-care-treatment.md) <span style="color:red">NEW (2026-03-28)</span>
+### [碳水化合物计算：糖尿病饮食管理的实用指南](./carbohydrate-counting-diabetes-treatment.md) <span style="color:red">NEW (2026-03-28)</span>
+### [1型糖尿病医学管理：临床实践权威指南](./type-1-diabetes-medical-management-treatment.md) <span style="color:red">NEW (2026-03-28)</span>
+### [2型糖尿病方法与方案：临床protocol完整解读](./type-2-diabetes-methods-protocols-treatment.md) <span style="color:red">NEW (2026-03-28)</span>
 ### [《糖尿病密码》：Jason Fung博士的间歇性断食逆转方案](./the-diabetes-code-treatment.md) <span style="color:red">NEW (2026-03-24)</span>
 ### [实用糖尿病护理：临床管理完全指南](./practical-diabetes-care-treatment.md) <span style="color:red">NEW (2026-03-24)</span>
 ### [妊娠糖尿病分娩指南：完整管理方案](./pregnancy-diabetes-birth-guide-treatment.md) <span style="color:red">NEW (2026-03-24)</span>

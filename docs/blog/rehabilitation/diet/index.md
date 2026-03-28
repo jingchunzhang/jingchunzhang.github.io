@@ -16,7 +16,8 @@ translation_key: rehab-diet-index
 
 ## 核心文章
 
-- [康复期长期饮食策略：从“控得住”到“吃得久”](./long-term-diet-diabetes-recovery.md)
+- [糖尿病心理调适：正面应对负面情绪的完整指南](./psychology-negative-emotions-diabetes-rehabilitation.md) <span style="color:red">NEW (2026-03-28)</span>
+- [康复期长期饮食策略：从"控得住"到"吃得久"](./long-term-diet-diabetes-recovery.md)
 - [康复期坚果与种子怎么吃：脂肪质量、份量与心血管风险](./nuts-seeds-diabetes-rehab.md)
 - [糖尿病预防与治疗路线图：一步一步做对](./diabetes-prevention-treatment-roadmap.md)
 - [哺乳期与产后血糖恢复：吃得够、奶量稳，也把代谢慢慢带回正轨](./postpartum-lactation-glucose-recovery.md)

@@ -17,6 +17,7 @@ Recovery is about long-term sustainability: staying structured through social ev
 
 ## Featured
 
+- [Psychological Adjustment for Diabetes: A Complete Guide to Positively Coping with Negative Emotions](./psychology-negative-emotions-diabetes-rehabilitation-en.md) <span style="color:red">NEW (2026-03-28)</span>
 - [Diet in Diabetes Recovery: Long-Term Structure That Works in Real Life](./long-term-diet-diabetes-recovery-en.md)
 - [Nuts & Seeds: Easy Daily Habits for Diabetes Recovery](./nuts-seeds-diabetes-rehab-en.md)
 - [Diabetes Prevention and Treatment Roadmap: A Step-by-Step Path](./diabetes-prevention-treatment-roadmap-en.md)

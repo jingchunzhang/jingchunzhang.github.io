@@ -20,6 +20,9 @@ Among the various diabetes prevention methods, **a reasonable diet structure** i
 ---
 
 ## Core Articles
+### [The pH Miracle: A Complete Guide to Alkaline Diet for Diabetes Prevention](./ph-miracle-diabetes-prevention-en.md) <span style="color:red">NEW (2026-03-28)</span>
+### [Nutraceuticals in Diabetes Management and Prevention: A Complete Guide](./nutraceuticals-diabetes-prevention-en.md) <span style="color:red">NEW (2026-03-28)</span>
+### [The Diabetes Dictionary: ADA Authoritative Terminology Explained](./diabetes-dictionary-prevention-en.md) <span style="color:red">NEW (2026-03-28)</span>
 ### [American Diabetes Association Complete Guide: Authoritative Recommendations for Diabetes Prevention](./ada-complete-guide-diabetes-prevention-en.md) <span style="color:red">NEW (2026-03-24)</span>
 ### [Diabetes A to Z: Simply Put - Comprehensive Answers to All Your Questions](./diabetes-a-to-z-prevention-en.md) <span style="color:red">NEW (2026-03-24)</span>
 ### [355 Diabetes Recipes: Gluten-Free, Low-Cholesterol, Whole Food Healthy Plan](./diabetic-cookbook-355-recipes-prevention-en.md) <span style="color:red">NEW (2026-03-24)</span>

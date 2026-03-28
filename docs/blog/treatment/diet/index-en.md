@@ -17,6 +17,12 @@ During treatment, diet is about **stable glucose, sustainable weight/metabolic i
 
 ## Featured
 
+### [Complete Guide to Elderly Diabetes Care: Healthcare Practice Manual](./elderly-diabetes-care-guide-treatment-en.md) <span style="color:red">NEW (2026-03-28)</span>
+### [A Primer for Diabetic Patients: Beginner's Guide and Basic Knowledge](./diabetic-patients-primer-treatment-en.md) <span style="color:red">NEW (2026-03-28)</span>
+### [Psychology in Diabetes Care: The Close Relationship Between Mental Health and Blood Sugar Control](./psychology-diabetes-care-treatment-en.md) <span style="color:red">NEW (2026-03-28)</span>
+### [Carbohydrate Counting: A Practical Guide for Diabetes Diet Management](./carbohydrate-counting-diabetes-treatment-en.md) <span style="color:red">NEW (2026-03-28)</span>
+### [Medical Management of Type 1 Diabetes: Authoritative Clinical Practice Guide](./type-1-diabetes-medical-management-treatment-en.md) <span style="color:red">NEW (2026-03-28)</span>
+### [Type 2 Diabetes Methods and Protocols: Complete Clinical Protocol Interpretation](./type-2-diabetes-methods-protocols-treatment-en.md) <span style="color:red">NEW (2026-03-28)</span>
 ### [The Diabetes Code: Dr. Jason Fung's Intermittent Fasting Protocol for Reversal](./the-diabetes-code-treatment-en.md) <span style="color:red">NEW (2026-03-24)</span>
 ### [Practical Diabetes Care: The Complete Clinical Management Guide](./practical-diabetes-care-treatment-en.md) <span style="color:red">NEW (2026-03-24)</span>
 ### [Pregnancy Diabetes and Birth: A Complete Management Guide](./pregnancy-diabetes-birth-guide-treatment-en.md) <span style="color:red">NEW (2026-03-24)</span>

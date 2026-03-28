@@ -347,3 +347,36 @@ Perform a final content quality check on the generated English long-form article
 
 ### Next step
 如需上传电子书到下载服务器或继续其他工作，可继续下发具体需求。
+
+---
+
+## 2026-03-28 10:00 (Asia/Shanghai)
+
+### User
+请完成今日博客生成工作。
+
+### Assistant
+- 检查了 20260327-20260328 的 manifest（均不存在），确认今日为 2026-03-28，应生成新一批 10 组双语博客。
+- 根据 `author-role-rotation.csv`，今日为周六（day_index=3），使用 yyh（糖尿病治疗医生）为作者、kelvin（糖尿病研究人员）为审阅者。
+- 创建今日 manifest：`docs/_book/manifests/20260328-ebook-funnel-manifest.csv`，包含 10 本电子书（pH奇迹、老年糖尿病护理、营养保健品、糖尿病患者入门、心理护理、负面情绪调适、碳水化合物计算、糖尿病词典、1型糖尿病医学管理、2型糖尿病方法与协议）。
+- 在 `docs/blog/prevention/diet/` 新增 3 组中英双语文章（6 个 md 文件）：
+  - ph-miracle-diabetes-prevention.md / -en.md
+  - nutraceuticals-diabetes-prevention.md / -en.md
+  - diabetes-dictionary-prevention.md / -en.md
+- 在 `docs/blog/treatment/diet/` 新增 5 组中英双语文章（10 个 md 文件）：
+  - elderly-diabetes-care-guide-treatment.md / -en.md
+  - diabetic-patients-primer-treatment.md / -en.md
+  - psychology-diabetes-care-treatment.md / -en.md
+  - carbohydrate-counting-diabetes-treatment.md / -en.md
+  - type-1-diabetes-medical-management-treatment.md / -en.md
+  - type-2-diabetes-methods-protocols-treatment.md / -en.md
+- 在 `docs/blog/rehabilitation/diet/` 新增 1 组中英双语文章（2 个 md 文件）：
+  - psychology-negative-emotions-diabetes-rehabilitation.md / -en.md
+- 已同步更新四层索引入口：
+  - `docs/blog/prevention/diet/index.md` / `index-en.md`
+  - `docs/blog/treatment/diet/index.md` / `index-en.md`
+  - `docs/blog/rehabilitation/diet/index.md` / `index-en.md`
+- 今日博客已完成，共 10 组双语（20 个文件），符合每日 10 篇中文 + 10 篇英文的配额要求。
+
+### Next step
+如需上传电子书到下载服务器或继续其他工作，可继续下发具体需求。

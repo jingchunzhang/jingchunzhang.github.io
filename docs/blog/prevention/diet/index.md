@@ -19,6 +19,9 @@ translation_key: prevention/diet/index
 ---
 
 ## 核心文章
+### [pH奇迹：酸碱饮食法预防糖尿病的全面指南](./ph-miracle-diabetes-prevention.md) <span style="color:red">NEW (2026-03-28)</span>
+### [营养保健品在糖尿病管理与预防中的应用指南](./nutraceuticals-diabetes-prevention.md) <span style="color:red">NEW (2026-03-28)</span>
+### [糖尿病词典：ADA权威术语解释与完整指南](./diabetes-dictionary-prevention.md) <span style="color:red">NEW (2026-03-28)</span>
 ### [美国糖尿病协会完整指南：糖尿病预防权威建议](./ada-complete-guide-diabetes-prevention.md) <span style="color:red">NEW (2026-03-24)</span>
 ### [糖尿病A到Z：简单明了全面解答](./diabetes-a-to-z-prevention.md) <span style="color:red">NEW (2026-03-24)</span>
 ### [355道糖尿病食谱：无麸质、低胆固醇、全食物健康方案](./diabetic-cookbook-355-recipes-prevention.md) <span style="color:red">NEW (2026-03-24)</span>
