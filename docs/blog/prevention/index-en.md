@@ -26,6 +26,16 @@ Before starting, it is helpful to understand the diagnostic criteria for diabete
 
 ## Latest Articles
 
+- **[Diabetes Meal Prep for Beginners: Your Complete Guide to Healthy Weekday Eating](./diet/2026-03-29-diabetes-meal-prep-beginners-en.md)** <span style="color:red">NEW</span>
+- **[30 Day Diabetes Prevention Meal Plan: A Scientific Approach to Easy Blood Sugar Control](./diet/2026-03-29-30-day-diabetes-meal-plan-en.md)** <span style="color:red">NEW</span>
+- **[Diabetes Prevention Breakfast Meal Prep: Sleep 30 More Minutes Every Morning](./diet/2026-03-29-diabetes-prevention-breakfast-meal-prep-en.md)** <span style="color:red">NEW</span>
+- **[Diabetes Prevention Lunch Box: The Complete Guide for Office Workers](./diet/2026-03-29-diabetes-prevention-lunch-box-en.md)** <span style="color:red">NEW</span>
+- **[Protein Batch Cooking Guide: Prep a Week's Worth of Protein in One Weekend](./diet/2026-03-29-protein-batch-cooking-diabetes-prevention-en.md)** <span style="color:red">NEW</span>
+- **[Vegetable Prep Shortcuts: Secrets to Make Cooking 10x Faster](./diet/2026-03-29-vegetable-prep-shortcuts-diabetes-prevention-en.md)** <span style="color:red">NEW</span>
+- **[Freezer Friendly Dinner Prep: Cook Once, Eat for a Month](./diet/2026-03-29-freezer-friendly-dinners-diabetes-prevention-en.md)** <span style="color:red">NEW</span>
+- **[Diabetes Meal Prep Grocery List: Shop Smart, Save Money](./diet/2026-03-29-grocery-list-diabetes-meal-prep-en.md)** <span style="color:red">NEW</span>
+- **[Snack Box Strategy: Control Cravings, Stabilize Blood Sugar](./diet/2026-03-29-snack-box-diabetes-craving-control-en.md)** <span style="color:red">NEW</span>
+- **[Dessert Portion Plan: Enjoy Sweet Treats with Diabetes](./diet/2026-03-29-dessert-portion-diabetes-prevention-en.md)** <span style="color:red">NEW</span>
 - **[Is Frequent Urination a Symptom of Diabetes? Expert Answer](./2026-03-27-frequent-urination-diabetes-symptom-en.md)** - Understanding the relationship between frequent urination and diabetes
 - **[Diabetes Management for Outdoor Physical Workers in Spring](./2026-03-27-outdoor-workers-diabetes-spring-care-en.md)** - Practical guide for farmers, construction workers and haulers
 

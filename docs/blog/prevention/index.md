@@ -26,6 +26,16 @@ translation_key: prevention/index
 
 ## 最新文章
 
+- **[糖尿病预防备餐新手入门：一一步步教你轻松搞定一周健康餐](./diet/2026-03-29-diabetes-meal-prep-beginners.md)** <span style="color:red">NEW</span>
+- **[30天糖尿病预防备餐计划：科学安排轻松控糖](./diet/2026-03-29-30-day-diabetes-meal-plan.md)** <span style="color:red">NEW</span>
+- **[糖尿病预防早餐备餐攻略：每天多睡半小时的秘诀](./diet/2026-03-29-diabetes-prevention-breakfast-meal-prep.md)** <span style="color:red">NEW</span>
+- **[糖尿病预防午餐便当：上班族的健康便当指南](./diet/2026-03-29-diabetes-prevention-lunch-box.md)** <span style="color:red">NEW</span>
+- **[蛋白质批量备餐攻略：一周蛋白质的周末一次性搞定](./diet/2026-03-29-protein-batch-cooking-diabetes-prevention.md)** <span style="color:red">NEW</span>
+- **[蔬菜预处理捷径：让做菜快10倍的秘诀](./diet/2026-03-29-vegetable-prep-shortcuts-diabetes-prevention.md)** <span style="color:red">NEW</span>
+- **[冷冻晚餐备餐攻略：一次做好，吃一个月](./diet/2026-03-29-freezer-friendly-dinners-diabetes-prevention.md)** <span style="color:red">NEW</span>
+- **[糖尿病预防备餐采购清单：照着买不花冤枉钱](./diet/2026-03-29-grocery-list-diabetes-meal-prep.md)** <span style="color:red">NEW</span>
+- **[零食盒攻略：轻松控制嘴馋，拒绝血糖波动](./diet/2026-03-29-snack-box-diabetes-craving-control.md)** <span style="color:red">NEW</span>
+- **[甜点份量预案：糖尿病患者也能享受甜蜜](./diet/2026-03-29-dessert-portion-diabetes-prevention.md)** <span style="color:red">NEW</span>
 - **[频繁尿尿是糖尿病的症状吗？专家详细解答](./2026-03-27-frequent-urination-diabetes-symptom.md)** - 了解尿频与糖尿病的关系，识别早期症状信号
 - **[户外体力劳动者的糖尿病春季管理](./2026-03-27-outdoor-workers-diabetes-spring-care.md)** - 农民、建筑工人、搬运工的实用指南
 
