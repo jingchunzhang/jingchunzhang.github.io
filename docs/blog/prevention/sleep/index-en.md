@@ -44,6 +44,10 @@ A structured A-to-Z knowledge framework for the newly diagnosed and family suppo
 
 A practical night-routine guide for pregnancy, covering sleep timing consistency, night-waking decisions, and structured evening snack boundaries.
 
+#### [Diabetes Sleep Management: Practical Sleep Strategies That Lower Blood Sugar](./2026-03-30-diabetes-sleep-management-en.md)
+
+Turn sleep into a controllable blood sugar tool, covering three major scenarios: pre-sleep routine optimization, nighttime blood sugar stabilization, and morning blood sugar management.
+
 **Main Content**:
 - Connection between global sleep crisis and diabetes epidemic
 - Scientific principles of blood sugar 24-hour rhythm and cortisol secretion

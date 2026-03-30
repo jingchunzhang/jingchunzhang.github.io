@@ -38,6 +38,8 @@ Before starting, it is helpful to understand the diagnostic criteria for diabete
 - **[Dessert Portion Plan: Enjoy Sweet Treats with Diabetes](./diet/2026-03-29-dessert-portion-diabetes-prevention-en.md)** <span style="color:red">NEW</span>
 - **[Is Frequent Urination a Symptom of Diabetes? Expert Answer](./2026-03-27-frequent-urination-diabetes-symptom-en.md)** - Understanding the relationship between frequent urination and diabetes
 - **[Diabetes Management for Outdoor Physical Workers in Spring](./2026-03-27-outdoor-workers-diabetes-spring-care-en.md)** - Practical guide for farmers, construction workers and haulers
+- **[Diabetes Eye Care: Practical Guide to Preventing Diabetic Retinopathy](./2026-03-30-diabetes-eye-care-en.md)** <span style="color:red">NEW</span>
+- **[Diabetes Kidney Disease Prevention: Early Intervention Strategies to Protect Kidney Function](./2026-03-30-diabetes-kidney-disease-prevention-en.md)** <span style="color:red">NEW</span>
 
 ---
 

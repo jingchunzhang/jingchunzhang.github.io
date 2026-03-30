@@ -22,9 +22,16 @@ This section is organized into four dimensions for consistent navigation and int
 ## Four Dimensions
 
 1. [Diet](./diet/)
+   - [Diabetes Quit Smoking: Smoking Cessation Intervention and Blood Sugar Stability Guide During Treatment](./2026-03-30-diabetes-quit-smoking-en.md) <span style="color:red">NEW</span>
+   - [Diabetes Regular Check-ups: Complete Guide for Treatment Period Follow-up and Complications Screening](./2026-03-30-diabetes-regular-check-ups-en.md) <span style="color:red">NEW</span>
 2. [Exercise](./exercise/)
-3. [Sleep](./sleep/)
-4. [Emotion & Stress](./emotion/)
+3. [Cardiovascular & Blood Pressure Management](./)
+   - [Diabetes Blood Pressure Control: Monitoring and Hypertension Management Guide During Treatment](./2026-03-30-diabetes-blood-pressure-control-en.md) <span style="color:red">NEW</span>
+   - [Diabetes Cardiovascular Health: Heart Protection and Cardiovascular Risk Reduction Guide During Treatment](./2026-03-30-diabetes-cardiovascular-health-en.md) <span style="color:red">NEW</span>
+4. [Foot Care](./)
+   - [Diabetes Foot Care: Complete Guide for Foot Examination and Care During Treatment](./2026-03-30-diabetes-foot-care-en.md) <span style="color:red">NEW</span>
+5. [Sleep](./sleep/)
+6. [Emotion & Stress](./emotion/)
 
 ## Quick links
 
@@ -59,8 +66,8 @@ This section is organized into four dimensions for consistent navigation and int
   - [Emotion and Stress During Diabetes Treatment: Stop White-Knuckling Glucose Control](./emotion/stress-emotion-diabetes-treatment-en.md)
   - [Type 1 Diabetes: Turning Clinic Advice into a Daily Home Plan](./emotion/type1-diabetes-clinic-to-home-plan-en.md)
   - [Emotional Management During Diabetes Treatment: Turning Psychology in Diabetes Care into Daily Action](./emotion/psychology-in-diabetes-care-en.md)
-  - [How Negative Emotions Undermine Glucose Control: Practical Responses from Psyching Out Diabetes](./emotion/psyching-out-diabetes-en.md)
-5. [Research & Frontiers](./research/index-en.md)
+   - [How Negative Emotions Undermine Glucose Control: Practical Responses from Psyching Out Diabetes](./emotion/psyching-out-diabetes-en.md)
+7. [Research & Frontiers](./research/index-en.md)
    - [Breakthrough: Regenerative Islet Transplantation Cures Type 1 Diabetes](./research/2026-03-21-regenerative-islet-transplantation-breakthrough-t1d-en.md)
 
 [Back to Blog](./../index-en)

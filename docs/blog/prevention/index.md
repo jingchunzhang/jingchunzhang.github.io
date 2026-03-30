@@ -38,6 +38,8 @@ translation_key: prevention/index
 - **[甜点份量预案：糖尿病患者也能享受甜蜜](./diet/2026-03-29-dessert-portion-diabetes-prevention.md)** <span style="color:red">NEW</span>
 - **[频繁尿尿是糖尿病的症状吗？专家详细解答](./2026-03-27-frequent-urination-diabetes-symptom.md)** - 了解尿频与糖尿病的关系，识别早期症状信号
 - **[户外体力劳动者的糖尿病春季管理](./2026-03-27-outdoor-workers-diabetes-spring-care.md)** - 农民、建筑工人、搬运工的实用指南
+- **[糖尿病眼部护理：预防糖尿病视网膜病变的实用指南](./2026-03-30-diabetes-eye-care.md)** <span style="color:red">NEW</span>
+- **[糖尿病肾病预防：保护肾脏功能的早期干预策略](./2026-03-30-diabetes-kidney-disease-prevention.md)** <span style="color:red">NEW</span>
 
 ---
 

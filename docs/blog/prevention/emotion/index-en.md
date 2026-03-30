@@ -40,6 +40,10 @@ Breathing, body scan, short movement, and quick journaling—small tools to crea
 #### [Diabetes FAQs Answered: A Knowledge Guide to Relieve Anxiety](./diabetes-common-questions-answered-en.md)
 
 Collects the most common questions about diabetes from patients and families, covering emotional regulation, dietary misconceptions, and daily monitoring, with a management checklist and ebook download.
+
+#### [Diabetes Emotion Management: Turn Your Mindset Into a Controllable Blood Sugar Tool](./2026-03-30-diabetes-emotion-management-en.md)
+
+Transform emotion management into an actionable daily blood sugar strategy, covering three dimensions: emotion recognition, stress coping, and long-term mindset building.
 **Main Content**:
 - Connection between global mental health crisis and diabetes epidemic
 - Scientific principles of hypothalamic-pituitary-adrenal (HPA) axis and cortisol secretion
