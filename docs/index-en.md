@@ -1,33 +1,59 @@
 ---
 layout: default
-title: Tangyou Space
+title: Welcome to Tangyou Space
+description: "Hello, welcome to **Tangyou Space**. This site is the official content hub for diabetes management."
+author: "Dane Zhang (张杨)"
+author_title: "Health Tech Researcher"
 lang: en
-translation_key: home
+translation_key: blog
 ---
+# Welcome to Tangyou Space
 
-# Tangyou Space
+> **[中文版](./)** | **[Chinese Version](./)**
 
-We serve both individuals and businesses with two product lines:
+Hello, welcome to **[Tangyou Space](https://dm.tangyou.space/)**. This site is the official content hub focused entirely on diabetes management, education, and resources.
 
-## For Individuals (B2C): Diabetes Knowledge & Digital Materials
-
-- Structured content across **Prevention / Treatment / Recovery**
-- Digital materials, tools, and services (subject to actual offerings)
-- Content hub: **[Blog](/blog/index-en.html)**
-  - [Mastering Your Morning Numbers: The Power of Tracking](/blog/fasting_blood_sugar_tracking-en.html)
-
-## For Businesses (B2B): E-commerce Apps, Affiliate, and SEO
-
-- Shopify / WordPress app & plugin development
-- Affiliate capabilities (tracking, attribution, payouts, program management)
-- SEO tools & consulting (technical SEO, content systems, growth experiments)
+Our core mission is to share knowledge related to diabetes, covering every key stage from **prevention** to **treatment** to **recovery**.
 
 ---
 
-## Quick Links
+## Core Focus: Three Pillars of Diabetes Management
 
-- **[Products & Services](/products/index-en.html)**
-- **[Solutions](/solutions/index-en.html)**
-- **[Blog](/blog/index-en.html)**
-- **[About](/about/index-en.html)**
-- **[Contact](/contact/index-en.html)**
+### 1. Prevention
+*   [Enter **Prevention** Category](./prevention/)
+
+### 2. Treatment
+*   [Enter **Treatment** Category](./treatment/)
+
+### 3. Recovery
+*   [Enter **Recovery** Category](./rehabilitation/)
+
+## Complications Management
+*   **[Diabetes Complications](./complications/)**: Understanding and Prevention
+    *   **[Diabetic Foot](./complications/diabetic-foot/)**: Foot care and ulcer prevention
+    *   **[Diabetic Nephropathy](./complications/diabetic-nephropathy/)**: Kidney protection and management
+    *   **[Diabetic Eye Disease](./complications/diabetic-eye-disease/)**: Vision protection and regular check-ups
+
+## Resources & Devices
+*   **[E-Books](./ebooks/)**: Professional materials and guides for diabetes
+*   **[Electronic Devices](./electronic-devices/)**: Reviews and recommendations for glucose monitors, insulin pumps, and related devices
+
+---
+
+## Diabetes Basics (Must Read)
+*   **[The Best Gifts for People with Diabetes](./2026-03-14-the-best-gifts-for-people-with-diabetes-en)**
+*   **[Beware of the "Sweet Killer": A Panoramic Overview of Diabetes Complications](./diabetes-complications-overview-en)**
+*   **[Mainstream Global Diabetes Diagnostic Criteria Reference](./diabetes-diagnostic-criteria-en)**
+
+---
+
+## Personal Records and Thoughts
+
+*   **[About Me](./aboutme-en)**
+*   **[Personal Health Log](./health-log/)**
+
+---
+
+## Related Articles
+
+{% include related-articles.html %}

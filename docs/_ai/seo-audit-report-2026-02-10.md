@@ -129,7 +129,7 @@
 | robots.txt | ✅ | 正确指向sitemap |
 | jekyll-sitemap插件 | ✅ | 已启用 |
 | Canonical URL | ✅ | layout中实现 |
-| HTTPS | ✅ | https://www.tangyou.space |
+| HTTPS | ✅ | https://dm.tangyou.space |
 | 响应式设计 | ✅ | viewport已配置 |
 | 面包屑导航 | ✅ | _includes/breadcrumb.html |
 | 语言切换 | ✅ | 中英文切换功能 |
@@ -313,7 +313,7 @@ organization: "广州一诺张杨人工智能科技有限责任公司"
   "publisher": {
     "@type": "Organization",
     "name": "糖友空间 Tangyou Space",
-    "url": "https://www.tangyou.space"
+    "url": "https://dm.tangyou.space"
   },
   "datePublished": "{{ page.date | date_to_xmlschema }}",
   "dateModified": "{{ page.last_modified | default: page.date | date_to_xmlschema }}",

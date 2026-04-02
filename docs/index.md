@@ -1,102 +1,51 @@
 ---
 layout: default
-title: Tangyou Space｜糖友空间
+title: 欢迎来到糖友空间
+description: "您好, 欢迎访问 **糖友空间**。本站是专注于糖尿病管理的官方内容中心, 致力于成为您在糖尿病管理路上的可靠伙伴。"
+author: "张杨 (Dane Zhang)"
+author_title: "健康科技研究员"
 lang: zh
-translation_key: home
+translation_key: blog
 ---
+# 欢迎来到糖友空间
 
-# Tangyou Space｜糖友空间
+> **[English Version](./index-en)** | **[英文版入口](./index-en)**
 
-> **[About Us / 关于我们](/about/)** | **[English Version](./index-en)**
-
-我们致力于构建糖尿病全周期管理的内容生态与数字服务。
-
----
-
-## 👨‍👩‍👧‍👦 面向个人 (For Individuals)
-
-我们的核心内容覆盖糖尿病管理的三个关键阶段：
-
-<div class="features-grid">
-  <div class="feature-card">
-    <h3>🛡️ 预防阶段 (Prevention)</h3>
-    <p>早期筛查、饮食干预与生活方式调整，降低发病风险。</p>
-    <a href="./blog/prevention/" class="btn">浏览预防指南 &rarr;</a>
-  </div>
-  <div class="feature-card">
-    <h3>💊 治疗阶段 (Treatment)</h3>
-    <p>科学用药、饮食处方与运动疗法，实现平稳控糖。</p>
-    <a href="./blog/treatment/" class="btn">浏览治疗方案 &rarr;</a>
-  </div>
-  <div class="feature-card">
-    <h3>🌱 康复阶段 (Rehabilitation)</h3>
-    <p>并发症管理、长期健康维护与逆转可能探索。</p>
-    <a href="./blog/rehabilitation/" class="btn">浏览康复策略 &rarr;</a>
-  </div>
-</div>
+您好, 欢迎访问 **[糖友空间](https://dm.tangyou.space)**。本站是专注于糖尿病知识科普、电子资料与医疗设备推荐的官方内容中心, 致力于成为您在糖尿病管理路上的可靠伙伴。
 
 ---
 
-## 🏢 面向企业 (For Business)
+## 核心专题 (Hubs)
 
-我们为健康科技企业与开发者提供专业服务：
+我们按疾病管理阶段及相关内容为您整理了核心专题：
 
-*   **[独立站应用开发](/products/)**：Shopify / WordPress 插件定制
-*   **[广告联盟技术](/solutions/)**：追踪、归因与结算系统搭建
-*   **[SEO 增长咨询](/seo/)**：垂直领域的流量获取与转化优化
+*   **[预防阶段 (Prevention)](./prevention/)**：早期干预与生活方式调整
+*   **[治疗阶段 (Treatment)](./treatment/)**：药物、饮食与运动的综合管理
+*   **[康复阶段 (Rehabilitation)](./rehabilitation/)**：逆转可能与长期健康维护
+
+## 并发症管理 (Complications)
+
+*   **[糖尿病相关并发症 (Diabetes Complications)](./complications/)**：全面了解与预防
+    *   **[糖尿病足 (Diabetic Foot)](./complications/diabetic-foot/)**：足部护理与病变预防
+    *   **[糖尿病肾病 (Diabetic Nephropathy)](./complications/diabetic-nephropathy/)**：肾脏保护与管理
+    *   **[糖尿病眼病 (Diabetic Eye Disease)](./complications/diabetic-eye-disease/)**：视力保护与定期检查
+
+## 资源与设备推荐 (Resources & Devices)
+
+*   **[电子书库 (E-Books)](./ebooks/)**：糖尿病相关的专业电子资料与指南
+*   **[电子仪器 (Electronic Devices)](./electronic-devices/)**：血糖仪、胰岛素泵等糖尿病相关电子仪器评测与推荐
 
 ---
 
-## 📰 最新文章 (Latest from Blog)
+## 所有文章 (All Posts)
 
-{% include post-list.html limit=3 show_tags=false %}
+使用下方标签筛选感兴趣的内容，或使用右上角的搜索功能。
 
-<p style="text-align: center; margin-top: 2rem;">
-  <a href="./blog/" class="btn btn-outline">浏览全部文章 (View All) &rarr;</a>
-</p>
+{% include post-list.html %}
 
-<style>
-.features-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1.5rem;
-  margin: 2rem 0;
-}
-.feature-card {
-  padding: 1.5rem;
-  border: 1px solid #e0e0e0;
-  border-radius: 8px;
-  background: #f9f9f9;
-  text-align: center;
-}
-.feature-card h3 {
-  margin-top: 0;
-  color: #159957;
-}
-.feature-card .btn {
-  display: inline-block;
-  margin-top: 1rem;
-  padding: 0.5rem 1rem;
-  background: #159957;
-  color: white;
-  border-radius: 4px;
-  text-decoration: none;
-  font-size: 0.9em;
-}
-.feature-card .btn:hover {
-  background: #1e7e34;
-}
-.btn-outline {
-  border: 2px solid #159957;
-  color: #159957;
-  background: transparent;
-  padding: 0.6rem 1.2rem;
-  border-radius: 4px;
-  text-decoration: none;
-  font-weight: bold;
-}
-.btn-outline:hover {
-  background: #159957;
-  color: white;
-}
-</style>
+---
+
+## 个人记录与思考
+
+*   **[关于我](./aboutme)**
+*   **[个人健康日志](./health-log/)**

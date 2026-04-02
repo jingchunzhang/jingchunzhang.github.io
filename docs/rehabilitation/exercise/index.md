@@ -1,0 +1,34 @@
+---
+author: 张杨 (Dane Zhang)
+author_title: 健康科技研究员
+description: 了解恢复期锻炼：从“达标”到“体能提升”，以及其与糖尿病管理和预防的关系。
+lang: zh
+layout: default
+tags:
+- Rehabilitation
+- Exercise
+title: 恢复期锻炼：从“达标”到“体能提升”
+translation_key: rehab-exercise-index
+---
+# 恢复期锻炼：从“达标”到“体能提升”
+
+康复期运动目标从控糖延伸到体能、心肺、肌力与柔韧性，重点是长期坚持与避免损伤。
+
+## 核心文章
+
+- [康复期锻炼：从“控糖达标”到“体能复苏”](./recovery-exercise-diabetes.md)
+- [糖尿病并发症后的康复锻炼：从安全评估到功能恢复](./physical-medicine-rehabilitation-diabetic.md)
+
+## 你可能也需要
+
+- [康复期：长期饮食策略](./../diet/)
+- [康复期：睡眠修复](./../sleep/)
+- [康复期：心理康复](./../emotion/)
+
+[返回康复首页](./../)
+
+---
+
+## 相关阅读
+
+{% include related-articles.html %}

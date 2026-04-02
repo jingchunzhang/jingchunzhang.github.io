@@ -20,7 +20,7 @@
 - 一个基于 **GitHub Pages / Jekyll** 的静态博客站点。
 - 站点域名：`blog.tangyou.space`（见 `docs/CNAME`）。
 - 站点定位（见 `docs/index.md`）：
-  - `shop.tangyou.space` 的配套博客；
+  - `dm.tangyou.space` 的配套博客；
   - 主题为糖尿病管理（预防/治疗/康复），以及作者的个人健康日志与技术思考。
 
 ### 1.2 当前内容组织
