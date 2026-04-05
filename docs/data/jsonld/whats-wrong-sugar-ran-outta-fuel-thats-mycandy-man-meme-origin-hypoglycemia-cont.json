@@ -1,0 +1,100 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "What's Wrong Sugar, Ran Outta Fuel? That's My『Candy Man』: Meme Origin, Hypoglycemia Context & Low Blood Sugar Tips",
+    "description": "Decoding the viral 'What's wrong sugar, Ran outta fuel? That's my『Candy Man』. After all, the sweetest things in life always come with a bitter aftertaste, don't they sugar?' meme: origin, hypoglycemia context, and actionable low blood sugar tips for diabetics and caregivers.",
+    "datePublished": "2026-04-05T07:31:17+00:00",
+    "dateModified": "2026-04-05T07:31:17+00:00",
+    "wordCount": 2622,
+    "inLanguage": "en",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://dm.tangyou.space/whats-wrong-sugar-ran-outta-fuel-thats-mycandy-man-meme-origin-hypoglycemia-cont/"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Health Blogger",
+      "jobTitle": "Health Content Creator"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "关于糖尿病",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://dm.tangyou.space/images/logo.png"
+      }
+    },
+    "keywords": "\"What's wrong sugar, Ran outta fuel? That's my『Candy Man』. After all, the sweetest things in life always come with a bitter aftertaste, don't they sugar?."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Where did the 'What's wrong sugar, ran outta fuel? That's my Candy Man' quote originate?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The original quote comes from a 2023 Genshin Impact fan edit referencing the character Tartaglia, before being adopted by the diabetes community in late 2023 to describe hypoglycemia episodes and fast-acting sugar treatments."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does the Candy Man meme refer to low or high blood sugar episodes?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The meme specifically refers to low blood sugar (hypoglycemia) episodes. The line \"ran outta fuel\" references dropping glucose levels, while the \"Candy Man\" refers to the fast-acting sugar used to treat lows."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the best candies to keep on hand for diabetes low blood sugar events?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The best candies for low blood sugar are fast-acting, fat-free options like Skittles, Smarties, Sour Patch Kids, or glucose tabs. Avoid chocolate or candies with fat, as they slow sugar absorption and delay symptom relief."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is the Candy Man meme appropriate to share with people living with diabetes?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The meme is considered inoffensive by most of the diabetes community, but it is always best to check personal preferences first. Many people use it to joke about their own lows and educate loved ones about their condition needs."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I respond if a friend with diabetes sends me the Candy Man meme?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "If a friend sends you the meme, they are likely letting you know they are experiencing a low blood sugar episode. Offer to get them water, stay with them until their levels recover, and ask if they need any additional support or medical help."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "关于糖尿病",
+        "item": "https://dm.tangyou.space"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://dm.tangyou.space/posts/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "What's Wrong Sugar, Ran Outta Fuel? That's My『Candy Man』: Meme Origin, Hypoglycemia Context & Low Blood Sugar Tips",
+        "item": "https://dm.tangyou.space/whats-wrong-sugar-ran-outta-fuel-thats-mycandy-man-meme-origin-hypoglycemia-cont/"
+      }
+    ]
+  }
+]
