@@ -185,7 +185,7 @@ A: Absolutely! I prep 4–5 days of meals at once. This saves me 15+ minutes dai
 
 If you’re new to batch cooking, grab my free **5-Day Protein Batch Cooking Plan for Beginners**—it includes recipes, prep lists, and a shopping guide to make the process easier.  
 
-[Download Now: 5-Day Protein Batch Cooking Plan](https://example.com/ebook) (Free, no sign-up required!)  
+[Download Now: 5-Day Protein Batch Cooking Plan](/ebooks/) (Free, no sign-up required!)  
 
 
 ## Final Thoughts  

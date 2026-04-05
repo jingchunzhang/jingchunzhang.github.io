@@ -30,7 +30,7 @@ title: 'associations of body weight and covid-19 with autoimmunity in pediatric 
 Childhood-onset type 1 diabetes (T1D) is a chronic autoimmune disease characterized by progressive destruction of pancreatic β-cells, leading to insulin deficiency. Over the past decade, global T1D incidence has risen by 3–5% annually, with obesity rates in children also increasing—creating a critical intersection of weight, infection, and autoimmunity. The COVID-19 pandemic further complicated this landscape, sparking questions about how weight status and SARS-CoV-2 exposure influence autoimmunity in newly diagnosed T1D. This article compares key findings to guide clinical decisions for pediatric T1D patients and their caregivers.  
 
 
-![儿童1型糖尿病患者体重与新冠感染关联示意图](https://example.com/weight-covid-diabetes.png)  
+![儿童1型糖尿病患者体重与新冠感染关联示意图](/assets/images/generated/weight-covid-diabetes.png)  
 *Figure 1: Schematic illustrating the interplay between body weight, COVID-19 infection, and autoimmunity in pediatric new-onset T1D. Key pathways include chronic inflammation (obesity), viral-induced immune dysregulation (COVID-19), and their combined effects on pancreatic β-cell destruction.*  
 
 
@@ -102,7 +102,7 @@ BMI stratification helps identify high-risk groups:
 Body weight and COVID-19 are critical factors in pediatric new-onset T1D autoimmunity. Obesity amplifies risk, while COVID-19 accelerates progression. By addressing weight and optimizing COVID-19 prevention, clinicians can mitigate progression.  
 
 
-**Download the Free Guide**: *"Pediatric T1D: Weight, COVID-19, and Autoimmunity"* for personalized management plans, research summaries, and caregiver FAQs. [Click here](https://example.com/guide) to access the guide.  
+**Download the Free Guide**: *"Pediatric T1D: Weight, COVID-19, and Autoimmunity"* for personalized management plans, research summaries, and caregiver FAQs. [Click here](/ebooks/) to access the guide.  
 
 
 *本文由AI辅助生成，仅供信息参考，不构成医疗建议。请咨询专业医生后再做决策。*  

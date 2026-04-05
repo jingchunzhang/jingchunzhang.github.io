@@ -112,4 +112,4 @@ By following these strategies, you’ll stabilize blood sugar, reduce cravings, 
 *Disclaimer: This guide is for informational purposes only. Always consult a healthcare provider before changing your diet.*  
 
 
-**Download the free ebook** → [Click here to get your copy](https://example.com/carb-guide) (link placeholder).
+**Download the free ebook** → [Click here to get your copy](/ebooks/) (link placeholder).

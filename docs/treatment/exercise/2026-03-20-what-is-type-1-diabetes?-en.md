@@ -86,7 +86,7 @@ I get asked these questions almost every week by newly diagnosed T1Ds and their 
 
 Thank you so much for reading this guide. I remember how scary it was to first ask what is type 1 diabetes, and I hope this guide made you feel a little less alone and a little more prepared.
 
-If you’re newly diagnosed, I put together a free 15-page *New T1D Starter Checklist* that covers everything you need to ask your doctor at your first appointment, simple carb counting tips for beginners, and scripts to explain T1D to your friends, coworkers, or school staff. You can download it for free here: [Download Free T1D Starter Checklist](https://example.com/t1d-starter-checklist) (just enter your email, no spam, I promise).
+If you’re newly diagnosed, I put together a free 15-page *New T1D Starter Checklist* that covers everything you need to ask your doctor at your first appointment, simple carb counting tips for beginners, and scripts to explain T1D to your friends, coworkers, or school staff. You can download it for free here: [Download Free T1D Starter Checklist](/ebooks/) (just enter your email, no spam, I promise).
 
 If you have any questions that I didn’t answer, drop them in the comments below, I reply to every single one.
 

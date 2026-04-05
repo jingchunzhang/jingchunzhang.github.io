@@ -97,7 +97,7 @@ Attending events with diabetes shouldn’t mean sacrificing your health or facin
 
 **Download Your Free Guide:**  
 *“Diabetes at Events: A Complete Checklist for Stress-Free Entry”*  
-[Click here to get instant access](https://example.com/guide-diabetes-events) (no email required).  
+[Click here to get instant access](/ebooks/) (no email required).  
 
 
 *This guide is for informational purposes only. Always consult a healthcare provider before changing your diabetes management plan.*  

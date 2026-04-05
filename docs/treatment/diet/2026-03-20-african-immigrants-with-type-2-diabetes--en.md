@@ -92,6 +92,6 @@ On average, subtype-specific care only costs $10-$25 extra per month for food an
 ## Final Notes & Free Resource Download
 Disclaimer: This content is AI-assisted and for informational purposes only. It does not constitute medical advice. Always consult a licensed healthcare provider before making changes to your diabetes management plan, diet, or medication regimen.
 
-To help you get started with subtype-specific care, we have created a free *African Immigrant T2D Subtype Meal Plan Guide*, which includes 30 days of traditional, subtype-specific recipes, grocery lists, and a checklist of questions to ask your doctor at your next appointment. Enter your email [here](https://example.com/african-diabetes-guide) to get instant free access.
+To help you get started with subtype-specific care, we have created a free *African Immigrant T2D Subtype Meal Plan Guide*, which includes 30 days of traditional, subtype-specific recipes, grocery lists, and a checklist of questions to ask your doctor at your next appointment. Enter your email [here](/ebooks/) to get instant free access.
 Thank you for taking the time to learn about evidence-based, culturally responsive care for African immigrants with T2D. We hope this guide helps you find affordable, practical tools to manage your blood sugar while staying connected to your cultural food traditions.
 (Word count: 1927)

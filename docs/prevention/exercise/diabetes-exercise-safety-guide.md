@@ -37,7 +37,7 @@ translation_key: diabetes-exercise-safety-guide
 
 
 ### 🌟 一张图看懂运动对糖友的核心价值
-![糖尿病患者科学运动场景：一位糖友在清晨公园进行温和的太极练习，阳光洒在身上，背景是绿树和鸟鸣，体现运动的轻松与安全](https://example.com/taiji-sugar-friend.jpg)  
+![糖尿病患者科学运动场景：一位糖友在清晨公园进行温和的太极练习，阳光洒在身上，背景是绿树和鸟鸣，体现运动的轻松与安全](/assets/images/generated/taiji-sugar-friend.png)  
 *（图片说明：图中糖友通过太极运动调节呼吸与肢体，既锻炼了平衡能力，又避免了剧烈运动风险，适合中老年糖友参考）*
 
 

@@ -124,7 +124,7 @@ After years of trial and error, I created a free "Prediabetes Reversal Playbook"
 - **15-minute daily exercise routine**: No gym needed—just bodyweight moves.  
 - **Blood sugar tracking log**: A template to log your numbers, meals, and energy levels.  
 
-**Download your copy here**: [Click to get the Prediabetes Reversal Playbook](https://example.com/prediabetes-playbook) (free, no email required!).  
+**Download your copy here**: [Click to get the Prediabetes Reversal Playbook](/ebooks/) (free, no email required!).  
 
 
 ## FAQ: Your Prediabetes Questions Answered  
@@ -154,7 +154,7 @@ You don’t have to "fix" yourself overnight. Start small: swap one snack for a 
 *Ready to start your journey? Download the Prediabetes Reversal Playbook now and take the first step toward feeling energized and in control.*  
 
 
-**[Download the Free Prediabetes Reversal Playbook](https://example.com/prediabetes-playbook)**  
+**[Download the Free Prediabetes Reversal Playbook](/ebooks/)**  
 
 
 *P.S. If you have questions, leave a comment—I’m here to help!*

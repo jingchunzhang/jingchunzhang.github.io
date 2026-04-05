@@ -20,7 +20,7 @@ download_url: ""
 # Inflammatory Profile of Diabetic Ketoacidosis in Children with Type 1 Diabetes: A Comprehensive Guide  
 
 
-**[Image 1: Illustration of the inflammatory cascade in pediatric DKA. A child with type 1 diabetes experiences insulin deficiency, triggering hyperglycemia, ketogenesis, and a surge in inflammatory markers (CRP, IL-6, TNF-α) that contribute to DKA pathophysiology.](https://example.com/pediatric-dka-inflammation-diagram.jpg)**  
+**[Image 1: Illustration of the inflammatory cascade in pediatric DKA. A child with type 1 diabetes experiences insulin deficiency, triggering hyperglycemia, ketogenesis, and a surge in inflammatory markers (CRP, IL-6, TNF-α) that contribute to DKA pathophysiology.](/assets/images/generated/pediatric-dka-inflammation-diagram.png)**  
 
 
 ## 1. Introduction: Why Inflammatory Profile Matters in Pediatric DKA  
@@ -108,7 +108,7 @@ Apps like **Dario** or **GlucoTrack** allow families to log glucose, ketones, an
 ## 6. Practical Resources for Families  
 
 
-**[Image 2: Infographic: "5 Signs of DKA Inflammation in Kids" showing fever, abdominal pain, rapid breathing, persistent vomiting, and confusion.](https://example.com/dka-inflammation-signs.jpg)**  
+**[Image 2: Infographic: "5 Signs of DKA Inflammation in Kids" showing fever, abdominal pain, rapid breathing, persistent vomiting, and confusion.](/assets/images/generated/dka-inflammation-signs.png)**  
 
 
 - **American Diabetes Association (ADA)**: Free T1D Family Resources (https://www.diabetes.org/children-young-adults/type-1-diabetes).  

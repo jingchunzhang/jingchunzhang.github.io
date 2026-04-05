@@ -101,7 +101,7 @@ While research is early, studies suggest lifestyle changes or immune therapies m
 
 Get personalized tips on detecting EAA, interpreting results, and actionable steps to reduce risk. Click below to download your copy today!  
 
-[Download the "T1D Early Warning Guide" (PDF)](https://example.com/t1d-epigenetic-guide)  
+[Download the "T1D Early Warning Guide" (PDF)](/ebooks/)  
 
 
 *Disclaimer: This content is for informational purposes only. Always consult your healthcare team before making decisions about EAA tracking or interventions.*  

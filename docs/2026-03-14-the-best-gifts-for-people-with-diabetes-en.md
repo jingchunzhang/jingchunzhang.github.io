@@ -124,7 +124,7 @@ At the end of the day, the most precious gift is your time and attention. Even a
 
 
 **Download Our Free Ebook: *"Diabetes-Friendly Living: 101 Gift Ideas & Recipes"***  
-Get personalized tips, exclusive discount codes, and 50+ diabetes-friendly recipes (e.g., sugar-free lemon bars, savory chicken stir-fry). [Click here to download](https://example.com/diabetes-gift-guide-ebook) (no email required!).  
+Get personalized tips, exclusive discount codes, and 50+ diabetes-friendly recipes (e.g., sugar-free lemon bars, savory chicken stir-fry). [Click here to download](/ebooks/) (no email required!).  
 
 
 *Disclaimer: This guide is for informational purposes only. Always consult a healthcare provider before making decisions about diabetes management or gifts. Medical advice should come from a licensed professional.*  

@@ -221,7 +221,7 @@ Sulfonylureas are effective for lowering blood sugar, but their safety varies. *
 
 ### Thank You for Reading!  
 
-If you want to learn more about diabetes medication safety, download our free guide: *“Navigating Diabetes Drugs: A Patient’s Handbook”* [here](https://example.com/guide).  
+If you want to learn more about diabetes medication safety, download our free guide: *“Navigating Diabetes Drugs: A Patient’s Handbook”* [here](/ebooks/).  
 
 *Disclaimer: This article is for informational purposes only. Always consult your healthcare provider before changing diabetes medications.*  
 

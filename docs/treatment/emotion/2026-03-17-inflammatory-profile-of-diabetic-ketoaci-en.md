@@ -25,7 +25,7 @@ title: 'Inflammatory Profile of Diabetic Ketoacidosis in Children with Type 1 Di
 # Inflammatory Profile of Diabetic Ketoacidosis in Children with Type 1 Diabetes: A Parent’s & Caregiver’s Guide to Avoiding Common Pitfalls  
 
 
-![Diagram illustrating the interplay between metabolic and inflammatory pathways in pediatric DKA. The image shows insulin deficiency triggering ketogenesis, elevated free fatty acids, and subsequent activation of the innate immune system, with markers like IL-6 and CRP rising as inflammation intensifies.](https://example.com/dka-inflammation-diagram.jpg)  
+![Diagram illustrating the interplay between metabolic and inflammatory pathways in pediatric DKA. The image shows insulin deficiency triggering ketogenesis, elevated free fatty acids, and subsequent activation of the innate immune system, with markers like IL-6 and CRP rising as inflammation intensifies.](/assets/images/generated/dka-inflammation-diagram.png)  
 *Figure 1: Metabolic and inflammatory pathways in pediatric DKA. Insulin deficiency drives ketone production, while inflammation amplifies metabolic stress through cytokine release.*  
 
 
