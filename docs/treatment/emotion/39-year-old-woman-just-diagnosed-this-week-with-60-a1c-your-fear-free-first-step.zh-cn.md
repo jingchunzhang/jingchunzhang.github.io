@@ -1,6 +1,7 @@
 ---
 title: 39岁女性本周刚确诊A1c为6.0：无需焦虑的糖尿病前期逆转入门步骤
 date: '2026-04-12T04:23:43+00:00'
+sort_date: '2026-04-12T12:23:43+08:00'
 draft: false
 description: 如果你是39岁女性，本周刚查出A1c值为6.0？遵循我们的低负担指南即可逆转糖尿病前期，长期避免患上2型糖尿病。
 slug: 39-year-old-woman-just-diagnosed-this-week-with-60-a1c-your-fear-free-first-step

@@ -1,6 +1,7 @@
 ---
 title: 5.9降至5.5：助你将A1c降到糖尿病前期范围之外的安全分步指南
 date: '2026-04-12T04:38:24+00:00'
+sort_date: '2026-04-12T12:38:24+08:00'
 draft: false
 description: 通过这份经专家背书的可操作指南，了解将A1c从5.9降到5.5、逆转糖尿病前期、避开常见错误的安全可持续方法
 slug: 59-down-to-55-a-safe-step-by-step-guide-to-lowering-your-a1c-out-of-prediabetes

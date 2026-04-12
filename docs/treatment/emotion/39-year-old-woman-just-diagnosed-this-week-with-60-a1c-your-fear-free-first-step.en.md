@@ -2,6 +2,7 @@
 title: '39 Year Old Woman Just Diagnosed This Week With 6.0 A1c: Your Fear-Free First
   Steps to Reverse Prediabetes'
 date: '2026-04-12T04:23:43+00:00'
+sort_date: '2026-04-12T12:23:43+08:00'
 draft: false
 description: Got a 6.0 A1c diagnosis this week as a 39 year old woman? Follow our
   low-overwhelm guide to reverse prediabetes and avoid Type 2 diabetes long-term.

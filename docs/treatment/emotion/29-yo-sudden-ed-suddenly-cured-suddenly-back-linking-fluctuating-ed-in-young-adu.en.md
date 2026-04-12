@@ -2,6 +2,7 @@
 title: '29 y/o: Sudden ED, Suddenly Cured, Suddenly Back? Linking Fluctuating ED in
   Young Adults to Prediabetes & Diabetes'
 date: '2026-04-12T03:55:21+00:00'
+sort_date: '2026-04-12T11:55:21+08:00'
 draft: false
 description: Experiencing the 29 y/o. sudden ED, suddenly cured and suddenly back
   pattern? Learn how prediabetes, blood sugar spikes, and reversible triggers cause

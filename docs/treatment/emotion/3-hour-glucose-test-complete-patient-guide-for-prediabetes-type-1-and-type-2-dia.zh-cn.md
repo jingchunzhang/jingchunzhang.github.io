@@ -1,6 +1,7 @@
 ---
 title: 3小时葡萄糖测试：糖尿病前期、1型及2型糖尿病患者完整指南
 date: '2026-04-12T04:11:09+00:00'
+sort_date: '2026-04-12T12:11:09+08:00'
 draft: false
 description: 我们这份以患者为中心的3小时测试指南涵盖了准备建议、测试注意事项、结果解读，以及糖尿病前期、1型和2型糖尿病管理的后续步骤。
 slug: 3-hour-glucose-test-complete-patient-guide-for-prediabetes-type-1-and-type-2-dia

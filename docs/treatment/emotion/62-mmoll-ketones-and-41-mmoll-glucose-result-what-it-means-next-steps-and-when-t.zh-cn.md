@@ -1,6 +1,7 @@
 ---
 title: 6.2毫摩尔/升酮体与4.1毫摩尔/升血糖检测结果：含义、后续措施及就医时机
 date: '2026-04-12T04:51:06+00:00'
+sort_date: '2026-04-12T12:51:06+08:00'
 draft: false
 description: 拿到酮体6.2毫摩尔/升、血糖4.1毫摩尔/升的检测结果？本文将为你讲解该读数的含义、正常血糖性糖尿病酮症酸中毒风险、居家应对步骤，以及糖尿病患者何时需要寻求急诊救治。
 slug: 62-mmoll-ketones-and-41-mmoll-glucose-result-what-it-means-next-steps-and-when-t

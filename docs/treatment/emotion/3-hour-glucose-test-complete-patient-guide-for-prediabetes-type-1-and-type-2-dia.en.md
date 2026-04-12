@@ -2,6 +2,7 @@
 title: '3 Hour Glucose Test: Complete Patient Guide for Prediabetes, Type 1, and Type
   2 Diabetes'
 date: '2026-04-12T04:11:09+00:00'
+sort_date: '2026-04-12T12:11:09+08:00'
 draft: false
 description: Our patient-focused 3 hour test guide covers prep tips, what to expect,
   result interpretation, and next steps for prediabetes, Type 1, and Type 2 diabetes

@@ -1,6 +1,7 @@
 ---
 title: 29岁：突发勃起功能障碍，痊愈后又突然复发？年轻人波动性勃起功能障碍与糖尿病前期及糖尿病的关联
 date: '2026-04-12T03:55:21+00:00'
+sort_date: '2026-04-12T11:55:21+08:00'
 draft: false
 description: 你是否遇到过29岁左右突发勃起功能障碍、痊愈后又突然复发的情况？了解糖尿病前期、血糖骤升以及可逆性诱因是如何导致20多岁后期男性出现波动性勃起功能障碍的。
 slug: 29-yo-sudden-ed-suddenly-cured-suddenly-back-linking-fluctuating-ed-in-young-adu
