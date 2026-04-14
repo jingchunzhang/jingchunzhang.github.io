@@ -41,9 +41,9 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 ---
 
 ## Diabetes Basics (Must Read)
-*   **[The Best Gifts for People with Diabetes](./2026-03-14-the-best-gifts-for-people-with-diabetes-en)**
-*   **[Beware of the "Sweet Killer": A Panoramic Overview of Diabetes Complications](./diabetes-complications-overview-en)**
-*   **[Mainstream Global Diabetes Diagnostic Criteria Reference](./diabetes-diagnostic-criteria-en)**
+*   **[The Best Gifts for People with Diabetes](./blog/diabetes/rehabilitation/2026-03/2026-03-14-the-best-gifts-for-people-with-diabetes-en)**
+*   **[Beware of the "Sweet Killer": A Panoramic Overview of Diabetes Complications](./blog/diabetes/complications/diabetes-complications-overview-en)**
+*   **[Mainstream Global Diabetes Diagnostic Criteria Reference](./blog/diabetes/basics/diabetes-diagnostic-criteria-en)**
 
 ---
 

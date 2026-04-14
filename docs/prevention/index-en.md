@@ -20,7 +20,7 @@ Welcome to the Diabetes Prevention Section.
 Diabetes, especially Type 2 diabetes, can largely be prevented or delayed through active lifestyle interventions. Prevention is not just about avoiding a disease, but about investing in long-term health and quality of life. This section will provide scientific and practical prevention strategies from four core dimensions: **diet, exercise, sleep, and emotional health**.
 
 Before starting, it is helpful to understand the diagnostic criteria for diabetes. You can refer to the authoritative materials we have compiled for you:
-*   **[View: Global Major Diabetes Diagnostic Criteria](./../diabetes-diagnostic-criteria-en.md)**
+*   **[View: Global Major Diabetes Diagnostic Criteria](./../basics/diabetes-diagnostic-criteria-en.md)**
 
 ---
 
