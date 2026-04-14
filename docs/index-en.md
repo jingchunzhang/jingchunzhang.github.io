@@ -20,19 +20,19 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 ## Core Focus: Three Pillars of Diabetes Management
 
 ### 1. Prevention
-*   [Enter **Prevention** Category](./prevention/)
+*   [Enter **Prevention** Category](./blog/diabetes/prevention/index-en)
 
 ### 2. Treatment
-*   [Enter **Treatment** Category](./treatment/)
+*   [Enter **Treatment** Category](./blog/diabetes/treatment/index-en)
 
 ### 3. Recovery
-*   [Enter **Recovery** Category](./rehabilitation/)
+*   [Enter **Recovery** Category](./blog/diabetes/rehabilitation/index-en)
 
 ## Complications Management
-*   **[Diabetes Complications](./complications/)**: Understanding and Prevention
-    *   **[Diabetic Foot](./complications/diabetic-foot/)**: Foot care and ulcer prevention
-    *   **[Diabetic Nephropathy](./complications/diabetic-nephropathy/)**: Kidney protection and management
-    *   **[Diabetic Eye Disease](./complications/diabetic-eye-disease/)**: Vision protection and regular check-ups
+*   **[Diabetes Complications](./blog/diabetes/complications/index-en)**: Understanding and Prevention
+    *   **[Diabetic Foot](./blog/diabetes/complications/2026-03/2026-03-30-diabetes-foot-care-en)**: Foot care and ulcer prevention
+    *   **[Diabetic Nephropathy](./blog/diabetes/complications/2026-03/2026-03-30-diabetes-kidney-disease-prevention-en)**: Kidney protection and management
+    *   **[Diabetic Eye Disease](./blog/diabetes/complications/2026-03/2026-03-30-diabetes-eye-care-en)**: Vision protection and regular check-ups
 
 ## Resources & Devices
 *   **[E-Books](./ebooks/)**: Professional materials and guides for diabetes

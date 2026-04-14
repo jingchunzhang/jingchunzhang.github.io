@@ -19,16 +19,16 @@ translation_key: blog
 
 我们按疾病管理阶段及相关内容为您整理了核心专题：
 
-*   **[预防阶段 (Prevention)](./prevention/)**：早期干预与生活方式调整
-*   **[治疗阶段 (Treatment)](./treatment/)**：药物、饮食与运动的综合管理
-*   **[康复阶段 (Rehabilitation)](./rehabilitation/)**：逆转可能与长期健康维护
+*   **[预防阶段 (Prevention)](./blog/diabetes/prevention/)**：早期干预与生活方式调整
+*   **[治疗阶段 (Treatment)](./blog/diabetes/treatment/)**：药物、饮食与运动的综合管理
+*   **[康复阶段 (Rehabilitation)](./blog/diabetes/rehabilitation/)**：逆转可能与长期健康维护
 
 ## 并发症管理 (Complications)
 
-*   **[糖尿病相关并发症 (Diabetes Complications)](./complications/)**：全面了解与预防
-    *   **[糖尿病足 (Diabetic Foot)](./complications/diabetic-foot/)**：足部护理与病变预防
-    *   **[糖尿病肾病 (Diabetic Nephropathy)](./complications/diabetic-nephropathy/)**：肾脏保护与管理
-    *   **[糖尿病眼病 (Diabetic Eye Disease)](./complications/diabetic-eye-disease/)**：视力保护与定期检查
+*   **[糖尿病相关并发症 (Diabetes Complications)](./blog/diabetes/complications/index.md)**：全面了解与预防
+    *   **[糖尿病足 (Diabetic Foot)](./blog/diabetes/complications/2026-03/2026-03-30-diabetes-foot-care-en.md)**：足部护理与病变预防
+    *   **[糖尿病肾病 (Diabetic Nephropathy)](./blog/diabetes/complications/2026-03/2026-03-30-diabetes-kidney-disease-prevention-en.md)**：肾脏保护与管理
+    *   **[糖尿病眼病 (Diabetic Eye Disease)](./blog/diabetes/complications/2026-03/2026-03-30-diabetes-eye-care-en.md)**：视力保护与定期检查
 
 ## 资源与设备推荐 (Resources & Devices)
 
