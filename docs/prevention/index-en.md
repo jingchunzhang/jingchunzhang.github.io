@@ -36,10 +36,10 @@ Before starting, it is helpful to understand the diagnostic criteria for diabete
 - **[Diabetes Meal Prep Grocery List: Shop Smart, Save Money](./diet/2026-03-29-grocery-list-diabetes-meal-prep-en.md)** <span style="color:red">NEW</span>
 - **[Snack Box Strategy: Control Cravings, Stabilize Blood Sugar](./diet/2026-03-29-snack-box-diabetes-craving-control-en.md)** <span style="color:red">NEW</span>
 - **[Dessert Portion Plan: Enjoy Sweet Treats with Diabetes](./diet/2026-03-29-dessert-portion-diabetes-prevention-en.md)** <span style="color:red">NEW</span>
-- **[Is Frequent Urination a Symptom of Diabetes? Expert Answer](./2026-03-27-frequent-urination-diabetes-symptom-en.md)** - Understanding the relationship between frequent urination and diabetes
-- **[Diabetes Management for Outdoor Physical Workers in Spring](./2026-03-27-outdoor-workers-diabetes-spring-care-en.md)** - Practical guide for farmers, construction workers and haulers
-- **[Diabetes Eye Care: Practical Guide to Preventing Diabetic Retinopathy](./2026-03-30-diabetes-eye-care-en.md)** <span style="color:red">NEW</span>
-- **[Diabetes Kidney Disease Prevention: Early Intervention Strategies to Protect Kidney Function](./2026-03-30-diabetes-kidney-disease-prevention-en.md)** <span style="color:red">NEW</span>
+- **[Is Frequent Urination a Symptom of Diabetes? Expert Answer](./2026-03/frequent-urination-diabetes-symptom-en.md)** - Understanding the relationship between frequent urination and diabetes
+- **[Diabetes Management for Outdoor Physical Workers in Spring](./2026-03/outdoor-workers-diabetes-spring-care-en.md)** - Practical guide for farmers, construction workers and haulers
+- **[Diabetes Eye Care: Practical Guide to Preventing Diabetic Retinopathy](./2026-03/diabetes-eye-care-en.md)** <span style="color:red">NEW</span>
+- **[Diabetes Kidney Disease Prevention: Early Intervention Strategies to Protect Kidney Function](./2026-03/diabetes-kidney-disease-prevention-en.md)** <span style="color:red">NEW</span>
 
 ---
 

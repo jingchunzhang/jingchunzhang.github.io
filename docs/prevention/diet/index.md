@@ -19,23 +19,23 @@ translation_key: prevention/diet/index
 ---
 
 ## 核心文章
-### [糖尿病预防备餐新手入门：一一步步教你轻松搞定一周健康餐](./2026-03-29-diabetes-meal-prep-beginners.md) <span style="color:red">NEW (2026-03-29)</span>
-### [30天糖尿病预防备餐计划：科学安排轻松控糖](./2026-03-29-30-day-diabetes-meal-plan.md) <span style="color:red">NEW (2026-03-29)</span>
-### [糖尿病预防早餐备餐攻略：每天多睡半小时的秘诀](./2026-03-29-diabetes-prevention-breakfast-meal-prep.md) <span style="color:red">NEW (2026-03-29)</span>
-### [糖尿病预防午餐便当：上班族的健康便当指南](./2026-03-29-diabetes-prevention-lunch-box.md) <span style="color:red">NEW (2026-03-29)</span>
-### [蛋白质批量备餐攻略：一周蛋白质的周末一次性搞定](./2026-03-29-protein-batch-cooking-diabetes-prevention.md) <span style="color:red">NEW (2026-03-29)</span>
-### [蔬菜预处理捷径：让做菜快10倍的秘诀](./2026-03-29-vegetable-prep-shortcuts-diabetes-prevention.md) <span style="color:red">NEW (2026-03-29)</span>
-### [冷冻晚餐备餐攻略：一次做好，吃一个月](./2026-03-29-freezer-friendly-dinners-diabetes-prevention.md) <span style="color:red">NEW (2026-03-29)</span>
-### [糖尿病预防备餐采购清单：照着买不花冤枉钱](./2026-03-29-grocery-list-diabetes-meal-prep.md) <span style="color:red">NEW (2026-03-29)</span>
-### [零食盒攻略：轻松控制嘴馋，拒绝血糖波动](./2026-03-29-snack-box-diabetes-craving-control.md) <span style="color:red">NEW (2026-03-29)</span>
-### [甜点份量预案：糖尿病患者也能享受甜蜜](./2026-03-29-dessert-portion-diabetes-prevention.md) <span style="color:red">NEW (2026-03-29)</span>
+### [糖尿病预防备餐新手入门：一一步步教你轻松搞定一周健康餐](./2026-03/diabetes-meal-prep-beginners.md) <span style="color:red">NEW (2026-03-29)</span>
+### [30天糖尿病预防备餐计划：科学安排轻松控糖](./2026-03/30-day-diabetes-meal-plan.md) <span style="color:red">NEW (2026-03-29)</span>
+### [糖尿病预防早餐备餐攻略：每天多睡半小时的秘诀](./2026-03/diabetes-prevention-breakfast-meal-prep.md) <span style="color:red">NEW (2026-03-29)</span>
+### [糖尿病预防午餐便当：上班族的健康便当指南](./2026-03/diabetes-prevention-lunch-box.md) <span style="color:red">NEW (2026-03-29)</span>
+### [蛋白质批量备餐攻略：一周蛋白质的周末一次性搞定](./2026-03/protein-batch-cooking-diabetes-prevention.md) <span style="color:red">NEW (2026-03-29)</span>
+### [蔬菜预处理捷径：让做菜快10倍的秘诀](./2026-03/vegetable-prep-shortcuts-diabetes-prevention.md) <span style="color:red">NEW (2026-03-29)</span>
+### [冷冻晚餐备餐攻略：一次做好，吃一个月](./2026-03/freezer-friendly-dinners-diabetes-prevention.md) <span style="color:red">NEW (2026-03-29)</span>
+### [糖尿病预防备餐采购清单：照着买不花冤枉钱](./2026-03/grocery-list-diabetes-meal-prep.md) <span style="color:red">NEW (2026-03-29)</span>
+### [零食盒攻略：轻松控制嘴馋，拒绝血糖波动](./2026-03/snack-box-diabetes-craving-control.md) <span style="color:red">NEW (2026-03-29)</span>
+### [甜点份量预案：糖尿病患者也能享受甜蜜](./2026-03/dessert-portion-diabetes-prevention.md) <span style="color:red">NEW (2026-03-29)</span>
 ### [pH奇迹：酸碱饮食法预防糖尿病的全面指南](./ph-miracle-diabetes-prevention.md) <span style="color:red">NEW (2026-03-28)</span>
 ### [营养保健品在糖尿病管理与预防中的应用指南](./nutraceuticals-diabetes-prevention.md) <span style="color:red">NEW (2026-03-28)</span>
 ### [糖尿病词典：ADA权威术语解释与完整指南](./diabetes-dictionary-prevention.md) <span style="color:red">NEW (2026-03-28)</span>
 ### [美国糖尿病协会完整指南：糖尿病预防权威建议](./ada-complete-guide-diabetes-prevention.md) <span style="color:red">NEW (2026-03-24)</span>
 ### [糖尿病A到Z：简单明了全面解答](./diabetes-a-to-z-prevention.md) <span style="color:red">NEW (2026-03-24)</span>
 ### [355道糖尿病食谱：无麸质、低胆固醇、全食物健康方案](./diabetic-cookbook-355-recipes-prevention.md) <span style="color:red">NEW (2026-03-24)</span>
-### [如何吃碳水化合物而不引起血糖飙升：科学选购与搭配指南](./2026-03-17-how-to-eat-carbs-without-causing-a-blood.md)
+### [如何吃碳水化合物而不引起血糖飙升：科学选购与搭配指南](./2026-03/2026-03-17-how-to-eat-carbs-without-causing-a-blood.md)
 
 ### [食疗知慧：通过均衡饮食科学预防糖尿病](./balanced-diet-diabetes-prevention.md)
 

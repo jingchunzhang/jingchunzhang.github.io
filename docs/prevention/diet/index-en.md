@@ -20,16 +20,16 @@ Among the various diabetes prevention methods, **a reasonable diet structure** i
 ---
 
 ## Core Articles
-### [Diabetes Meal Prep for Beginners: Your Complete Guide to Healthy Weekday Eating](./2026-03-29-diabetes-meal-prep-beginners-en.md) <span style="color:red">NEW (2026-03-29)</span>
-### [30 Day Diabetes Prevention Meal Plan: A Scientific Approach to Easy Blood Sugar Control](./2026-03-29-30-day-diabetes-meal-plan-en.md) <span style="color:red">NEW (2026-03-29)</span>
-### [Diabetes Prevention Breakfast Meal Prep: Sleep 30 More Minutes Every Morning](./2026-03-29-diabetes-prevention-breakfast-meal-prep-en.md) <span style="color:red">NEW (2026-03-29)</span>
-### [Diabetes Prevention Lunch Box: The Complete Guide for Office Workers](./2026-03-29-diabetes-prevention-lunch-box-en.md) <span style="color:red">NEW (2026-03-29)</span>
-### [Protein Batch Cooking Guide: Prep a Week's Worth of Protein in One Weekend](./2026-03-29-protein-batch-cooking-diabetes-prevention-en.md) <span style="color:red">NEW (2026-03-29)</span>
-### [Vegetable Prep Shortcuts: Secrets to Make Cooking 10x Faster](./2026-03-29-vegetable-prep-shortcuts-diabetes-prevention-en.md) <span style="color:red">NEW (2026-03-29)</span>
-### [Freezer Friendly Dinner Prep: Cook Once, Eat for a Month](./2026-03-29-freezer-friendly-dinners-diabetes-prevention-en.md) <span style="color:red">NEW (2026-03-29)</span>
-### [Diabetes Meal Prep Grocery List: Shop Smart, Save Money](./2026-03-29-grocery-list-diabetes-meal-prep-en.md) <span style="color:red">NEW (2026-03-29)</span>
-### [Snack Box Strategy: Control Cravings, Stabilize Blood Sugar](./2026-03-29-snack-box-diabetes-craving-control-en.md) <span style="color:red">NEW (2026-03-29)</span>
-### [Dessert Portion Plan: Enjoy Sweet Treats with Diabetes](./2026-03-29-dessert-portion-diabetes-prevention-en.md) <span style="color:red">NEW (2026-03-29)</span>
+### [Diabetes Meal Prep for Beginners: Your Complete Guide to Healthy Weekday Eating](./2026-03/diabetes-meal-prep-beginners-en.md) <span style="color:red">NEW (2026-03-29)</span>
+### [30 Day Diabetes Prevention Meal Plan: A Scientific Approach to Easy Blood Sugar Control](./2026-03/30-day-diabetes-meal-plan-en.md) <span style="color:red">NEW (2026-03-29)</span>
+### [Diabetes Prevention Breakfast Meal Prep: Sleep 30 More Minutes Every Morning](./2026-03/diabetes-prevention-breakfast-meal-prep-en.md) <span style="color:red">NEW (2026-03-29)</span>
+### [Diabetes Prevention Lunch Box: The Complete Guide for Office Workers](./2026-03/diabetes-prevention-lunch-box-en.md) <span style="color:red">NEW (2026-03-29)</span>
+### [Protein Batch Cooking Guide: Prep a Week's Worth of Protein in One Weekend](./2026-03/protein-batch-cooking-diabetes-prevention-en.md) <span style="color:red">NEW (2026-03-29)</span>
+### [Vegetable Prep Shortcuts: Secrets to Make Cooking 10x Faster](./2026-03/vegetable-prep-shortcuts-diabetes-prevention-en.md) <span style="color:red">NEW (2026-03-29)</span>
+### [Freezer Friendly Dinner Prep: Cook Once, Eat for a Month](./2026-03/freezer-friendly-dinners-diabetes-prevention-en.md) <span style="color:red">NEW (2026-03-29)</span>
+### [Diabetes Meal Prep Grocery List: Shop Smart, Save Money](./2026-03/grocery-list-diabetes-meal-prep-en.md) <span style="color:red">NEW (2026-03-29)</span>
+### [Snack Box Strategy: Control Cravings, Stabilize Blood Sugar](./2026-03/snack-box-diabetes-craving-control-en.md) <span style="color:red">NEW (2026-03-29)</span>
+### [Dessert Portion Plan: Enjoy Sweet Treats with Diabetes](./2026-03/dessert-portion-diabetes-prevention-en.md) <span style="color:red">NEW (2026-03-29)</span>
 ### [The pH Miracle: A Complete Guide to Alkaline Diet for Diabetes Prevention](./ph-miracle-diabetes-prevention-en.md) <span style="color:red">NEW (2026-03-28)</span>
 ### [Nutraceuticals in Diabetes Management and Prevention: A Complete Guide](./nutraceuticals-diabetes-prevention-en.md) <span style="color:red">NEW (2026-03-28)</span>
 ### [The Diabetes Dictionary: ADA Authoritative Terminology Explained](./diabetes-dictionary-prevention-en.md) <span style="color:red">NEW (2026-03-28)</span>
@@ -37,7 +37,7 @@ Among the various diabetes prevention methods, **a reasonable diet structure** i
 ### [Diabetes A to Z: Simply Put - Comprehensive Answers to All Your Questions](./diabetes-a-to-z-prevention-en.md) <span style="color:red">NEW (2026-03-24)</span>
 ### [355 Diabetes Recipes: Gluten-Free, Low-Cholesterol, Whole Food Healthy Plan](./diabetic-cookbook-355-recipes-prevention-en.md) <span style="color:red">NEW (2026-03-24)</span>
 
-### [How to Eat Carbs Without Causing a Blood Sugar Spike: A Practical Comparison Guide](./2026-03-17-how-to-eat-carbs-without-causing-a-blood-en.md)
+### [How to Eat Carbs Without Causing a Blood Sugar Spike: A Practical Comparison Guide](./2026-03/2026-03-17-how-to-eat-carbs-without-causing-a-blood-en.md)
 ### [Nutritional Wisdom: Scientific Diabetes Prevention Through Balanced Diet](./balanced-diet-diabetes-prevention-en.md)
 
 An in-depth article systematically explaining how to prevent diabetes through balanced diet from three dimensions: problem presentation, physiological principles, and dietary choices. Includes practical daily meal examples, shopping suggestions, solutions to common challenges, and personalized advice for special populations.

@@ -22,14 +22,14 @@ This section is organized into four dimensions for consistent navigation and int
 ## Four Dimensions
 
 1. [Diet](./diet/)
-   - [Diabetes Quit Smoking: Smoking Cessation Intervention and Blood Sugar Stability Guide During Treatment](./2026-03-30-diabetes-quit-smoking-en.md) <span style="color:red">NEW</span>
-   - [Diabetes Regular Check-ups: Complete Guide for Treatment Period Follow-up and Complications Screening](./2026-03-30-diabetes-regular-check-ups-en.md) <span style="color:red">NEW</span>
+   - [Diabetes Quit Smoking: Smoking Cessation Intervention and Blood Sugar Stability Guide During Treatment](./2026-03/diabetes-quit-smoking-en.md) <span style="color:red">NEW</span>
+   - [Diabetes Regular Check-ups: Complete Guide for Treatment Period Follow-up and Complications Screening](./2026-03/diabetes-regular-check-ups-en.md) <span style="color:red">NEW</span>
 2. [Exercise](./exercise/)
 3. [Cardiovascular & Blood Pressure Management](./)
-   - [Diabetes Blood Pressure Control: Monitoring and Hypertension Management Guide During Treatment](./2026-03-30-diabetes-blood-pressure-control-en.md) <span style="color:red">NEW</span>
-   - [Diabetes Cardiovascular Health: Heart Protection and Cardiovascular Risk Reduction Guide During Treatment](./2026-03-30-diabetes-cardiovascular-health-en.md) <span style="color:red">NEW</span>
+   - [Diabetes Blood Pressure Control: Monitoring and Hypertension Management Guide During Treatment](./2026-03/diabetes-blood-pressure-control-en.md) <span style="color:red">NEW</span>
+   - [Diabetes Cardiovascular Health: Heart Protection and Cardiovascular Risk Reduction Guide During Treatment](./2026-03/diabetes-cardiovascular-health-en.md) <span style="color:red">NEW</span>
 4. [Foot Care](./)
-   - [Diabetes Foot Care: Complete Guide for Foot Examination and Care During Treatment](./2026-03-30-diabetes-foot-care-en.md) <span style="color:red">NEW</span>
+   - [Diabetes Foot Care: Complete Guide for Foot Examination and Care During Treatment](./2026-03/diabetes-foot-care-en.md) <span style="color:red">NEW</span>
 5. [Sleep](./sleep/)
 6. [Emotion & Stress](./emotion/)
 

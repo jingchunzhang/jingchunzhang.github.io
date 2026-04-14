@@ -40,7 +40,7 @@ translation_key: prevention/emotion/index
 
 整理患者和家属最常问的糖尿病问题，涵盖情绪调节、饮食误区与日常监测，附管理核心清单与电子书下载。
 
-#### [糖尿病情绪管理：把“心态”变成可控的降糖工具](./2026-03-30-diabetes-emotion-management.md)
+#### [糖尿病情绪管理：把“心态”变成可控的降糖工具](./2026-03/diabetes-emotion-management.md)
 
 把情绪管理变成日常可执行的降糖策略，覆盖情绪识别、压力应对和长期心态建设三大维度。
 

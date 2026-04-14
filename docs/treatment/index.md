@@ -22,8 +22,8 @@ translation_key: treatment-index-en
 ## 四个维度
 
 1. [饮食管理](./diet/)
-   - [糖尿病戒烟：治疗期戒烟干预与血糖稳定指南](./2026-03-30-diabetes-quit-smoking.md) <span style="color:red">NEW</span>
-   - [糖尿病定期检查：治疗期随访与并发症筛查完整清单](./2026-03-30-diabetes-regular-check-ups.md) <span style="color:red">NEW</span>
+   - [糖尿病戒烟：治疗期戒烟干预与血糖稳定指南](./2026-03/diabetes-quit-smoking.md) <span style="color:red">NEW</span>
+   - [糖尿病定期检查：治疗期随访与并发症筛查完整清单](./2026-03/diabetes-regular-check-ups.md) <span style="color:red">NEW</span>
    - [治疗期饮食管理：把"控糖"落到每一餐](./diet/therapeutic-diet-diabetes-treatment.md)
    - [治疗期饮食底层逻辑：营养密度（ANDI）与"为生而食"](./diet/nutrient-density-andi-eat-for-life-diabetes-treatment.md)
    - [治疗期控糖的关键能力：掌控饥饿（毒性饥饿 vs 真实饥饿）](./diet/hunger-control-toxic-hunger-diabetes-treatment.md)
@@ -47,10 +47,10 @@ translation_key: treatment-index-en
    - [治疗期运动处方：安全、有效、可坚持的控糖训练](./exercise/exercise-prescription-diabetes-treatment.md)
    - [2型糖尿病监测协议：家庭可执行版本](./exercise/type2-diabetes-monitoring-protocols.md)
 3. [心血管与血压管理](./)
-   - [糖尿病血压控制：治疗期血压监测与降压策略指南](./2026-03-30-diabetes-blood-pressure-control.md) <span style="color:red">NEW</span>
-   - [糖尿病心血管健康：治疗期心脏保护与心血管风险降低指南](./2026-03-30-diabetes-cardiovascular-health.md) <span style="color:red">NEW</span>
+   - [糖尿病血压控制：治疗期血压监测与降压策略指南](./2026-03/diabetes-blood-pressure-control.md) <span style="color:red">NEW</span>
+   - [糖尿病心血管健康：治疗期心脏保护与心血管风险降低指南](./2026-03/diabetes-cardiovascular-health.md) <span style="color:red">NEW</span>
 4. [足部护理](./)
-   - [糖尿病足部护理：治疗期足部检查与护理完整指南](./2026-03-30-diabetes-foot-care.md) <span style="color:red">NEW</span>
+   - [糖尿病足部护理：治疗期足部检查与护理完整指南](./2026-03/diabetes-foot-care.md) <span style="color:red">NEW</span>
 5. [睡眠与代谢](./sleep/)
     - [治疗期睡眠与代谢：把血糖变稳的"夜间工程"](./sleep/sleep-metabolism-diabetes-treatment.md)
     - [糖尿病随访中的内分泌检查：重点看什么](./sleep/endocrinology-tests-for-diabetes-followup.md)
