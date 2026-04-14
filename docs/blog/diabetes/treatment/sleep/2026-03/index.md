@@ -11,6 +11,3 @@ lang: zh
 *   [妊娠糖尿病夜间血糖稳定策略：晚餐、夜醒与次日空腹的衔接](gestational-diabetes-night-glucose-routine)
 *   [糖尿病随访中的内分泌检查：重点看什么](endocrinology-tests-for-diabetes-followup)
 
----
-
-{% include post-list.html %}

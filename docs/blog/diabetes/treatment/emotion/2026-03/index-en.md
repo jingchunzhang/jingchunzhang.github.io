@@ -17,6 +17,3 @@ lang: en
 *   [3 Hour Glucose Test: Complete Patient Guide for Prediabetes, Type 1, and Type](3-hour-glucose-test-complete-patient-guide-for-prediabetes-type-1-and-type-2-dia.en)
 *   [29 y/o: Sudden ED, Suddenly Cured, Suddenly Back? Linking Fluctuating ED in](29-yo-sudden-ed-suddenly-cured-suddenly-back-linking-fluctuating-ed-in-young-adu.en)
 
----
-
-{% include post-list.html %}

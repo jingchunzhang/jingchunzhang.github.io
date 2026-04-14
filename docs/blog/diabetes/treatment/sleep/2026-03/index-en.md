@@ -11,6 +11,3 @@ lang: en
 *   [Gestational Diabetes Night Glucose Routine: Align Dinner, Night Wakings, and](gestational-diabetes-night-glucose-routine-en)
 *   [Endocrinology Tests for Diabetes Follow-Up: What Matters Most](endocrinology-tests-for-diabetes-followup-en)
 
----
-
-{% include post-list.html %}

@@ -13,6 +13,3 @@ lang: en
 *   [Is Frequent Urination a Symptom of Diabetes? Expert Answer](2026-03-27-frequent-urination-diabetes-symptom-en)
 *   [Longitudinal Changes in Epigenetic Age Acceleration Before Type 1 Diabetes](2026-03-17-longitudinal-changes-in-epigenetic-age-a-en)
 
----
-
-{% include post-list.html %}

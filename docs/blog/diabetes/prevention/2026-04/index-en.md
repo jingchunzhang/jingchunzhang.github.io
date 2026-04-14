@@ -6,7 +6,3 @@ lang: en
 
 # 2026-04
 
-
----
-
-{% include post-list.html %}

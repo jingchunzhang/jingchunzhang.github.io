@@ -9,6 +9,3 @@ lang: en
 ## Latest Articles
 *   [Breakthrough: Regenerative Islet Transplantation Cures Type 1 Diabetes](2026-03-21-regenerative-islet-transplantation-breakthrough-t1d-en)
 
----
-
-{% include post-list.html %}

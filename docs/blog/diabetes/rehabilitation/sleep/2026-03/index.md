@@ -17,6 +17,3 @@ lang: zh
 *   [糖友换肾到底难不难？可及性+术后生存情况全对比，10年糖友帮你踩过坑了](2026-03-20-national-access-to-renal-transplantation)
 *   [携带糖尿病用品进入体育场、音乐会及其他场馆的合法指南：从法律保障到实操步骤](2026-03-17-your-right-to-bring-diabetes-supplies-in)
 
----
-
-{% include post-list.html %}

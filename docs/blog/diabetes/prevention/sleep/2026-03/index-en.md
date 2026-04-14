@@ -14,6 +14,3 @@ lang: en
 *   [Caffeine, Sleep, and Glucose: Put Stimulation at the Right Time](caffeine-sleep-glucose-en)
 *   [Diabetes Sleep Management: How to Improve Sleep Quality and Control Blood Sugar](2026-03-30-diabetes-sleep-management-en)
 
----
-
-{% include post-list.html %}

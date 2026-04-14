@@ -13,6 +13,3 @@ lang: zh
 *   [糖尿病心血管健康：保护心脏的全面指南](2026-03-30-diabetes-cardiovascular-health)
 *   [糖尿病血压控制：控制血压降低心血管风险](2026-03-30-diabetes-blood-pressure-control)
 
----
-
-{% include post-list.html %}

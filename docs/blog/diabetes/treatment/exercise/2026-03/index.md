@@ -12,6 +12,3 @@ lang: zh
 *   [治疗期运动处方：安全、有效、可坚持的控糖训练](exercise-prescription-diabetes-treatment)
 *   [得了糖尿病别慌！新手也能照着做的全流程控糖指南](diabetes)
 
----
-
-{% include post-list.html %}

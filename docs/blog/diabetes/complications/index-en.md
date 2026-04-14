@@ -9,6 +9,3 @@ lang: en
 ## Latest Articles
 *   [Beware of the “Sweet Killer”: A Panoramic Overview of Diabetes Complications](diabetes-complications-overview-en)
 
----
-
-{% include post-list.html %}

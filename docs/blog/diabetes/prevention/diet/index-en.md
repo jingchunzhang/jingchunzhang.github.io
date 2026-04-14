@@ -12,6 +12,3 @@ lang: en
 ## Latest Articles
 *   [Beyond Weight Loss: Understanding the Biological Link Between Obesity and](obesity_diabetes_link-en)
 
----
-
-{% include post-list.html %}

@@ -14,6 +14,3 @@ lang: zh
 *   [运动是良医：如何通过科学锻炼有效预防糖尿病](how-daily-exercise-prevents-diabetes)
 *   [糖尿病患者运动指南：如何安全有效](diabetes-exercise-safety-guide)
 
----
-
-{% include post-list.html %}

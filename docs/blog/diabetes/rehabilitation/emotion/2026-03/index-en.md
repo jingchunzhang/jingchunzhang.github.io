@@ -18,6 +18,8 @@ lang: en
 *   [I’m a 10-Year Type 1 Diabetic: Here’s What That National Study On Age & Sex](2026-03-20-age-and-sex-differences-in-diabetic-keto-en)
 *   [Zero Dollar Drug Copay Programs for Diabetes: A Comparative Analysis of Adherence](2026-03-17-zero-dollar-drug-copay-program-improves--en)
 
----
+## All Articles
+*   [Inflammatory Profile of Diabetic Ketoacidosis in Children with Type 1 Diabetes:](2026-03-17-inflammatory-profile-of-diabetic-ketoaci-en)
+*   [feasibility and cost-effectiveness of at-home self-sampling screening for](2026-03-17-feasibility-and-cost-effectiveness-of-at-en)
+*   [Psyching Out Diabetes: Emotional Regulation Strategies During Active Treatment](2026-03-15-psyching-out-diabetes-en)
 
-{% include post-list.html %}

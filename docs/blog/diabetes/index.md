@@ -18,7 +18,3 @@ lang: zh
 *   [专题](topics/)
 *   [治疗](treatment/)
 
-
----
-
-{% include post-list.html %}

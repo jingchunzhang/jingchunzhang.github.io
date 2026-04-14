@@ -13,6 +13,3 @@ lang: zh
 *   [糖尿病高频问题实用解答：缓解焦虑的知识指南](diabetes-common-questions-answered)
 *   [糖尿病情绪管理：如何调节情绪控制血糖](2026-03-30-diabetes-emotion-management)
 
----
-
-{% include post-list.html %}

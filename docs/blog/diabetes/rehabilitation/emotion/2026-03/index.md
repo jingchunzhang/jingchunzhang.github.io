@@ -18,6 +18,8 @@ lang: zh
 *   [1型糖友必看！酮症酸中毒风险竟和年龄性别有关？最新研究解读+防控好物选购指南](2026-03-20-age-and-sex-differences-in-diabetic-keto)
 *   [Zero Dollar Drug Copay Program: Step-by-Step Guide to Improving Diabetes Medication](2026-03-17-zero-dollar-drug-copay-program-improves-)
 
----
+## 所有文章
+*   [儿童1型糖尿病患者糖尿病酮症酸中毒的炎症特征对比清单](2026-03-17-inflammatory-profile-of-diabetic-ketoaci)
+*   [居家自检 vs. 传统筛查：2型糖尿病筛查的可行性与成本效益对比分析](2026-03-17-feasibility-and-cost-effectiveness-of-at)
+*   [Psyching Out Diabetes：治疗期如何把情绪压力变成可执行的日常行动](2026-03-15-psyching-out-diabetes)
 
-{% include post-list.html %}

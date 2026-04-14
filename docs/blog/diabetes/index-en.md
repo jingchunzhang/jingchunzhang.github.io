@@ -18,7 +18,3 @@ lang: en
 *   [Topics](topics/index-en)
 *   [Treatment](treatment/index-en)
 
-
----
-
-{% include post-list.html %}

@@ -65,14 +65,31 @@ def generate_index_content(dir_path, subdirs, files, lang='zh'):
         relevant_files = [f for f in files if '-en' in f or '.en' in f]
     
     if relevant_files:
-        content += "## 最新文章\n" if lang == 'zh' else "## Latest Articles\n"
         # Sort by filename descending (assuming it starts with YYYY-MM-DD)
-        for f in sorted(relevant_files, reverse=True)[:10]:
-            file_path = os.path.join(dir_path, f)
-            file_title = get_file_title(file_path)
-            content += f"*   [{file_title}]({f.replace('.md', '')})\n"
+        sorted_files = sorted(relevant_files, reverse=True)
+        
+        latest_files = sorted_files[:10]
+        remaining_files = sorted_files[10:]
+        
+        if latest_files:
+            content += "## 最新文章\n" if lang == 'zh' else "## Latest Articles\n"
+            for f in latest_files:
+                file_path = os.path.join(dir_path, f)
+                file_title = get_file_title(file_path)
+                content += f"*   [{file_title}]({f.replace('.md', '')})\n"
+            content += "\n"
             
-    content += "\n---\n\n{% include post-list.html %}\n"
+        if remaining_files:
+            content += "## 所有文章\n" if lang == 'zh' else "## All Articles\n"
+            for f in remaining_files:
+                file_path = os.path.join(dir_path, f)
+                file_title = get_file_title(file_path)
+                content += f"*   [{file_title}]({f.replace('.md', '')})\n"
+            content += "\n"
+            
+    # Include post-list at the bottom for filtering/styling if needed, 
+    # but the user wanted the links in the index itself.
+    # content += "\n---\n\n{% include post-list.html %}\n"
     return content
 
 def main():

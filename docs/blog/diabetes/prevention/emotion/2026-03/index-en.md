@@ -13,6 +13,3 @@ lang: en
 *   [Diabetes Common Questions Answered: A Practical FAQ for Everyday Decisions](diabetes-common-questions-answered-en)
 *   [Diabetes Emotion Management: How to Regulate Emotions and Control Blood Sugar](2026-03-30-diabetes-emotion-management-en)
 
----
-
-{% include post-list.html %}

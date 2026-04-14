@@ -10,6 +10,3 @@ lang: zh
 *   [驾驭护理成本：2026年糖尿病费用管理实用建议](managing_diabetes_costs)
 *   [全球主流糖尿病诊断标准参考](diabetes-diagnostic-criteria)
 
----
-
-{% include post-list.html %}

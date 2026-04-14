@@ -13,6 +13,3 @@ lang: zh
 *   [频繁尿尿是糖尿病的症状吗？专家详细解答](2026-03-27-frequent-urination-diabetes-symptom)
 *   [T1DM发病前表观遗传年龄加速的纵向变化对比指南](2026-03-17-longitudinal-changes-in-epigenetic-age-a)
 
----
-
-{% include post-list.html %}

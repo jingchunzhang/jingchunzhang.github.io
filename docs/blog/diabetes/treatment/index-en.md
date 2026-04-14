@@ -13,7 +13,3 @@ lang: en
 *   [Exercise](exercise/index-en)
 *   [Sleep](sleep/index-en)
 
-
----
-
-{% include post-list.html %}

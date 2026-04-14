@@ -14,6 +14,3 @@ lang: en
 *   [Exercise as Medicine: How Scientific Training Effectively Prevents Diabetes](how-daily-exercise-prevents-diabetes-en)
 *   [Diabetes Exercise Guide: Safe And Effective Workouts](diabetes-exercise-safety-guide-en)
 
----
-
-{% include post-list.html %}

@@ -13,7 +13,3 @@ lang: zh
 *   [运动](exercise/)
 *   [睡眠](sleep/)
 
-
----
-
-{% include post-list.html %}

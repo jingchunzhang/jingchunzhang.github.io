@@ -12,6 +12,3 @@ lang: zh
 ## 最新文章
 *   [超越减肥：理解肥胖与2型糖尿病之间的生物学联系](obesity_diabetes_link)
 
----
-
-{% include post-list.html %}

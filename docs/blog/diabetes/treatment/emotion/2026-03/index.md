@@ -12,6 +12,3 @@ lang: zh
 *   [治疗期情绪管理：把《Psychology in Diabetes Care》变成日常可执行工具](psychology-in-diabetes-care)
 *   [糖尿病心理健康：应对焦虑和抑郁](diabetes-mental-health-anxiety)
 
----
-
-{% include post-list.html %}

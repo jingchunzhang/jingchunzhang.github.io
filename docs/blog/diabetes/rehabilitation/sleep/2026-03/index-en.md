@@ -17,6 +17,3 @@ lang: en
 *   [Kidney Transplants for People With Diabetes: Your No-BS Guide to Access and](2026-03-20-national-access-to-renal-transplantation-en)
 *   [your right to bring diabetes supplies into stadiums, concerts & other venues](2026-03-17-your-right-to-bring-diabetes-supplies-in-en)
 
----
-
-{% include post-list.html %}

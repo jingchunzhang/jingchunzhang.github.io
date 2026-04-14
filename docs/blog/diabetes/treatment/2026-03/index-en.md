@@ -13,6 +13,3 @@ lang: en
 *   [Diabetes and Cardiovascular Health: A Comprehensive Guide to Protecting Your Heart](2026-03-30-diabetes-cardiovascular-health-en)
 *   [Diabetes Blood Pressure Control: Managing Blood Pressure to Reduce Cardiovascular Risk](2026-03-30-diabetes-blood-pressure-control-en)
 
----
-
-{% include post-list.html %}

@@ -12,6 +12,3 @@ lang: en
 *   [Exercise During Diabetes Treatment: A Safe, Effective Prescription You Can](exercise-prescription-diabetes-treatment-en)
 *   [My 10-Year Go-To Guide for Managing Diabetes Smoothly as a Newbie](diabetes-en)
 
----
-
-{% include post-list.html %}
