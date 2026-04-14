@@ -125,9 +125,9 @@ If you want a practical low-glycemic reference for building steadier pregnancy-f
 
 ## Recommended Reading
 
-- [Gestational Diabetes Home Care: How to Coordinate Glucose Checks, Snacks, and Prenatal Follow-Up](../../treatment/diet/gestational-diabetes-home-care-pregnancy-en)
-- [Postpartum and Lactation Glucose Recovery: Eat Enough, Support Milk Production, and Rebuild Metabolic Stability](../../rehabilitation/diet/postpartum-lactation-glucose-recovery-en)
-- [Prediabetes Early Warning Signs: What to Track This Month](../exercise/prediabetes-early-warning-signs-en)
+- Gestational Diabetes Home Care: How to Coordinate Glucose Checks, Snacks, and Prenatal Follow-Up
+- Postpartum and Lactation Glucose Recovery: Eat Enough, Support Milk Production, and Rebuild Metabolic Stability
+- Prediabetes Early Warning Signs: What to Track This Month
 
 ## Medical Disclaimer
 

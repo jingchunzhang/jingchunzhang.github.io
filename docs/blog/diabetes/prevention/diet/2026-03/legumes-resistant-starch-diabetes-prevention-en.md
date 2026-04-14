@@ -88,7 +88,7 @@ The key is to give your gut time to adapt.
 ## Related reading (internal links)
 
 - [Prevention diet: understand GI/GL and manage spikes](./glycemic-index-load-diabetes-prevention-en.md)
-- [Diabetes diagnostic criteria](/diabetes-diagnostic-criteria-en.html)
+- Diabetes diagnostic criteria
 - [Back: Prevention / Healthy Diet](./)
 - [Back: Prevention Home](./../)
 

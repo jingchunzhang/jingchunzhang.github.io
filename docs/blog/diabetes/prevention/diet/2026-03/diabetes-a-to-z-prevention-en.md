@@ -106,9 +106,8 @@ No. Insulin is a hormone essential for the body—the reason diabetes patients u
 
 ## Related Recommendations
 
-- [American Diabetes Association Complete Guide](/prevention/diet/ada-complete-guide-diabetes-prevention-en) - ADA authoritative prevention recommendations
-- [Low Glycemic Index Recipes](/prevention/diet/low-glycemic-recipes-diabetes-prevention-en) - 250 healthy recipes
-- [Diabetes History and Evolution](/treatment/diet/diabetes-history-evolution-metabolic-disease-treatment-en) - In-depth understanding of diabetes
+- [American Diabetes Association Complete Guide](/blog/diabetes/prevention/diet/2026-03/ada-complete-guide-diabetes-prevention-en) - ADA authoritative prevention recommendations
+- Low Glycemic Index Recipes - In-depth understanding of diabetes
 
 ---
 

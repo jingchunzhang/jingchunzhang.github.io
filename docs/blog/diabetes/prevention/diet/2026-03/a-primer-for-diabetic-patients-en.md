@@ -40,7 +40,7 @@ translation_key: a-primer-for-diabetic-patients
 
 Many people hear “your glucose is trending high” and immediately translate that into fear: *I guess I can’t eat anything anymore.* In prevention-stage care, that mindset usually fails. What works better is structure. Inspired by **A Primer for Diabetic Patients**, this guide turns patient education principles into a realistic system you can run in ordinary life.
 
-![Healthy plate structure](https://upload.wikimedia.org/wikipedia/commons/6/6f/MyPlate.svg)
+!Healthy plate structure
 *Image 1: Start with structure before complexity. Source: Wikimedia Commons.*
 
 ## Fast answer / key takeaways
@@ -122,7 +122,7 @@ Pick one anchor behavior today: stable breakfast, sugary drink replacement, or p
 
 - [Diabetes Meal Prep for Beginners](./meal-prep-diabetes-beginners-prevention-en)
 - [30-Day Diabetes-Friendly Meal Plan](./30-day-diabetes-meal-plan-prevention-en)
-- [Prevention: Exercise](./../exercise/)
+- Prevention: Exercise
 
 ## Practical framework: what to do when real life gets messy
 
@@ -228,7 +228,7 @@ If you only remember one line from this article, make it this: **design your env
 
 Click the button below to get the full PDF guide:
 
-[Download this guide (PDF)]({{ page.download_url }})
+Download this guide (PDF)
 
 ---
 

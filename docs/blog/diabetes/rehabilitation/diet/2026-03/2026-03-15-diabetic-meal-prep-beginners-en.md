@@ -109,7 +109,7 @@ If building spreadsheets from scratch feels overwhelming, use our prepared PDF t
 - Container labeling examples for carbs/protein/vegetables
 - Caregiver review sheet (meal log + glucose trend notes)
 
-👉 [Download the Diabetic Meal Prep PDF](https://download.tangyou.space/20260315/Diabetic-Meal-Prep.pdf)
+👉 Download the Diabetic Meal Prep PDF
 
 ## The portion strategy beginners can maintain
 
@@ -184,13 +184,13 @@ Use recommendations only if they fit your routine:
 
 - **Compartment meal prep containers** (affiliate-friendly anchor): “reusable portion-control meal prep boxes”
 - **Kitchen scale** (affiliate-friendly anchor): “digital kitchen scale for carb portioning”
-- **Independent-site support hub**: for deeper planning templates and caregiver workflows, visit the [Tangyou Meal Prep Toolkit](https://dm.tangyou.space/meal-prep-toolkit)
+- **Independent-site support hub**: for deeper planning templates and caregiver workflows, visit the Tangyou Meal Prep Toolkit
 
 ## Suggested internal reads
 
-- [How to Eat Carbs Without Causing a Blood Sugar Spike](/treatment/diet/2026-03-14-how-to-eat-carbs-without-causing-a-blood-en)
-- [Therapeutic Diet for Diabetes Treatment](/treatment/diet/therapeutic-diet-diabetes-treatment-en)
-- [Home Diabetes Management Framework](/treatment/diet/home-diabetes-management-framework-en)
+- [How to Eat Carbs Without Causing a Blood Sugar Spike](
+- [Therapeutic Diet for Diabetes Treatment](/blog/diabetes/treatment/diet/2026-03/therapeutic-diet-diabetes-treatment-en)
+- [Home Diabetes Management Framework](/blog/diabetes/treatment/diet/2026-03/home-diabetes-management-framework-en)
 
 ## Final CTA
 

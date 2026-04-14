@@ -28,7 +28,7 @@ translation_key: transgender-diabetes-hormone-therapy
 
 # 跨性别者与糖尿病：激素治疗、代谢风险与健康管理全指南
 
-> **[English Version](./transgender-diabetes-hormone-therapy-en)**
+> **English Version**
 
 跨性别者在激素治疗过程中，代谢变化是一个需要密切关注的话题。无论是准备进行激素替代疗法（HRT）的跨性别朋友，还是已经是糖友的跨性别者，了解激素治疗对血糖的影响都至关重要。
 

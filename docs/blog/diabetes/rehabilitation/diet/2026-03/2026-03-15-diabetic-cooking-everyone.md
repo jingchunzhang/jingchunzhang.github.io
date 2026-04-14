@@ -61,7 +61,7 @@ translation_key: diabetic-cooking-everyone
 - 保持食物风味
 - 关键是油量控制（1餐1茶匙）
 
-![糖尿病患者推荐烹饪方式对比](https://via.placeholder.com/600x400?text=Cooking+Methods+for+Diabetics)
+!糖尿病患者推荐烹饪方式对比
 *不同烹饪方式对血糖的影响对比*
 
 ### ❌ 应该避免的方式
@@ -126,7 +126,7 @@ translation_key: diabetic-cooking-everyone
 **错误4**：烹饪时放蜂蜜或果酱"更健康"  
 ✅ 纠正：蜂蜜和果酱的血糖指数和普通糖一样高
 
-![烹饪常见误区速查表](https://via.placeholder.com/600x350?text=Cooking+Mistakes+Chart)
+!烹饪常见误区速查表
 *糖尿病饮食中常见的烹饪误区*
 
 ---

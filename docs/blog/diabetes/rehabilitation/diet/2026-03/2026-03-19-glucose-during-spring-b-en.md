@@ -78,21 +78,21 @@ Ideal for people who only need periodic testing and don’t want to invest in a 
 - **Key benefits for spring use**: Weighs only 1.2 ounces, fits in a picnic bag or hiking waist pack, has a backlit screen for easy reading in bright sunlight, and test strips are available at 98% of U.S. pharmacies for $17 per 50-count pack. It delivers results in 7 seconds, so you can test quickly between holiday meal courses or before a hike.
 - **Pros**: FDA approved with 97% accuracy rate, requires only a 0.5 microliter blood sample for minimal pain, has a strip ejector to avoid touching used strips when you’re out in public.
 - **Cons**: Requires finger pricks, no continuous monitoring, the base model does not sync to a mobile app.
-- **Purchase link**: [Accu-Chek Guide Me Glucose Monitor on Amazon](https://www.amazon.com/Accu-Chek-Guide-Blood-Glucose-Monitor/dp/B07V3XZ7XZ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=yourhealthsite08-20&linkId=abc123def456ghi789jkl012mno345pqr)
+- **Purchase link**: Accu-Chek Guide Me Glucose Monitor on Amazon
 
 ### Mid-Range Pick ($50-$150 Upfront, Prescription Required): Freestyle Libre 2 Continuous Glucose Monitor
 This is our top pick for most people monitoring glucose during Spring, with a perfect balance of cost and convenience:
 - **Key benefits for spring use**: 14-day wear time, no routine finger pricks required, water resistant for up to 30 minutes in shallow water (perfect for spring pool parties or getting caught in rain), and sends real-time high/low glucose alerts to your phone so you don’t have to remember to test manually during busy gatherings. The connected app lets you log seasonal foods and see exactly how they impact your glucose levels over 24 hours.
 - **Pros**: 96% accuracy rate, widely covered by most U.S. insurance plans, works with both Android and iOS devices, adhesive stays in place even during heavy sweating from outdoor exercise.
 - **Cons**: Requires a prescription, you have to scan the sensor with your phone to see readings (it does not send automatic readings to your watch unless you pay for the premium connected plan), scanning can be inconsistent if you’re wearing thick spring jackets.
-- **Purchase link**: [Freestyle Libre 2 CGM on Official Brand Site](https://www.freestylelibre.us/products/libre-2.html?affiliate_id=springglucose2024)
+- **Purchase link**: Freestyle Libre 2 CGM on Official Brand Site
 
 ### Premium Pick ($30-$60/Month Subscription, Prescription Required): Dexcom G7 CGM
 Ideal for people who travel frequently or do long outdoor activities during spring, this is the most reliable CGM on the market for variable conditions:
 - **Key benefits for spring use**: 10-day wear time, 30-minute warmup time (faster than any other CGM), works in temperatures between 32°F and 104°F for accurate readings even on unseasonably cold or warm spring days. It sends automatic glucose readings directly to your smart watch, so you don’t have to pull out your phone to check levels mid-hike, and can share real-time data with caregivers if you’re traveling alone.
 - **Pros**: No finger pricks required, 98% accuracy rate, adhesive is designed to stay in place for up to 10 days even with frequent sweating or swimming.
 - **Cons**: More expensive than other CGMs, adhesive can irritate sensitive skin if worn for long periods in humid spring weather, requires a prescription.
-- **Purchase link**: [Dexcom G7 CGM on Official Brand Site](https://www.dexcom.com/g7-cgm?utm_source=affiliate&utm_medium=healthguide&utm_campaign=springglucose2024)
+- **Purchase link**: Dexcom G7 CGM on Official Brand Site
 
 ### Bonus Pick (Under $30, No Prescription Needed): Thrive Market Spring Glucose-Friendly Snack Bundle
 Perfect for picnics, hikes, and holiday gatherings, this bundle includes low-glycemic spring snacks like unsweetened dried mango, mixed nuts, protein bars, and sugar-free lemonade mix to help you avoid glucose spikes when you’re eating away from home.

@@ -9,7 +9,7 @@ lang: en
 translation_key: fasting_blood_sugar_tracking
 
 ---
-[中文 (Chinese)](./fasting_blood_sugar_tracking.html) | [English](./fasting_blood_sugar_tracking-en.html)
+中文 (Chinese) | English
 
 # Mastering Your Morning Numbers: The Power of Tracking Food, Activity, and Fasting Blood Sugar
 

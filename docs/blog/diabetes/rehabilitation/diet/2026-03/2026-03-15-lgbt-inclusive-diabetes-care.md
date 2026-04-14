@@ -28,7 +28,7 @@ translation_key: lgbt-inclusive-diabetes-care
 
 # 为LGBT+群体提供包容性糖尿病护理：挑战与机遇
 
-> **[English Version](./lgbt-inclusive-diabetes-care-en)**
+> **English Version**
 
 随着社会对多样性认知的提升，医疗保健领域也正在经历变革。对于糖尿病护理领域来说，如何为LGBT+群体提供更加包容、专业的服务，是一个重要且紧迫的议题。
 

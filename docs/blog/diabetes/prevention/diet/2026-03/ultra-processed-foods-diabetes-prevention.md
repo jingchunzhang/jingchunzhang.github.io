@@ -28,7 +28,7 @@ translation_key: prevention-diet-upf
 2. 说清楚：为什么 UPF 可能与体重、胰岛素抵抗、血糖波动有关；
 3. 给你一套能落地的做法：**如何读配料表 + 怎么替换**。
 
-![超市货架上的包装食品](https://upload.wikimedia.org/wikipedia/commons/4/4b/Grocery_store_aisle.jpg)
+!超市货架上的包装食品
 
 *图片来源：Wikimedia Commons（包装食品货架示意）*
 
@@ -91,7 +91,7 @@ UPF 往往：
 - 如果你能用 5 种以内的“厨房常见食材”讲清楚它是什么 → 更像“食物”；
 - 如果你需要一堆“功能性成分”才能描述它 → 更像 UPF。
 
-![食品配料表](https://upload.wikimedia.org/wikipedia/commons/0/09/Ingredients_label.jpg)
+!食品配料表
 
 *图片来源：Wikimedia Commons（配料表示意）*
 
@@ -130,12 +130,12 @@ UPF 往往：
 
 ## 相关阅读（内链）
 
-- [预防：健康饮食专区](./index.md)
+- 预防：健康饮食专区
 - [预防：读懂 GI/GL，把“升糖速度”管起来](./glycemic-index-load-diabetes-prevention.md)
 - [预防：豆类、纤维与抗性淀粉](./legumes-resistant-starch-diabetes-prevention.md)
-- [预防：规律运动](../exercise/)
-- [预防：充足睡眠](../sleep/)
-- [预防：情绪管理](../emotion/)
+- 预防：规律运动
+- 预防：充足睡眠
+- 预防：情绪管理
 
 ---
 

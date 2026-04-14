@@ -83,7 +83,7 @@ Set phone alarms for 5 minutes before. Take your medication when you sit down to
 
 **Pro tip:** Place your medication bottle next to your glucose meter and logbook. Visual reminders work better than good intentions.
 
-![Daily diabetes care routine chart showing morning, midday, and evening checkpoints](/assets/images/daily-routine-chart.jpg)
+!Daily diabetes care routine chart showing morning, midday, and evening checkpoints
 
 ---
 
@@ -186,7 +186,7 @@ The best time to establish a daily routine is right now. **Start with just one c
 
 **Download our Daily Diabetes Care Log Template** to get structured forms for tracking blood sugar, medications, meals, and activity:
 
-**[Get Your Free Care Log](https://tangyou.space/subscribe)** — Start tracking and identifying your personal patterns today.
+**Get Your Free Care Log** — Start tracking and identifying your personal patterns today.
 
 ---
 
@@ -267,7 +267,7 @@ Based on last week's observations, adjust:
 - Which meal times need tweaking
 - Whether to screenshot data for your doctor before the next appointment
 
-![Weekly blood glucose management review chart: displaying three daily checkpoints' data trends and related dietary records](https://images.unsplash.com/photo-1579154204601-01d3f2ae4b75?auto=format&fit=crop&w=1400&q=80)
+!Weekly blood glucose management review chart: displaying three daily checkpoints' data trends and related dietary records
 
 ### 4) Common Execution Barriers and Solutions
 
@@ -328,16 +328,11 @@ The daily care framework above is just an introduction. If you want:
 
 **Download the complete ebook "Practical Diabetes Daily Care: A Family's Three-Dimensional Coordination System,"** and get this entire framework's toolkit, real family cases, common-mistake correction checklists.
 
-👉 [Get the eBook & Join the Community](https://forms.tangyou.space/ebook-signup)
+👉 Get the eBook & Join the Community
 
 ---
 
 ## Recommended Related Articles
 
-- [American Diabetes Association Complete Guide: How to Eat in the Treatment Period to Stabilize Post-Meal Blood Sugar](/treatment/diet/american-diabetes-association-complete-guide-en)
-- [Safe Meal Timing During Diabetes Treatment: Synchronizing Insulin Dosing and Food Combinations](/treatment/diet/)
-- [Home Blood Glucose Monitoring Myths: Why More Data Doesn't Always Mean Better Control](/treatment/diet/)
-
----
-
-*This article was written by a diabetes patient's family member (wep) and reviewed by a clinical diabetes physician (yyh). Our community welcomes dialogue and collaboration between patients' families and healthcare professionals.*
+- American Diabetes Association Complete Guide: How to Eat in the Treatment Period to Stabilize Post-Meal Blood Sugar
+- Safe Meal Timing During Diabetes Treatment: Synchronizing Insulin Dosing and Food Combinations and reviewed by a clinical diabetes physician (yyh). Our community welcomes dialogue and collaboration between patients' families and healthcare professionals.*

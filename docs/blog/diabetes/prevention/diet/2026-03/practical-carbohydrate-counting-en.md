@@ -78,7 +78,7 @@ This protects flexibility while preserving glucose stability.
 
 Need the professional teaching framework behind carb counting?
 
-**[Download Practical carbohydrate counting](https://download.tangyou.space/20260313/Practical-carbohydrate-counting.pdf)**
+**Download Practical carbohydrate counting**
 
 Subscribe for a **common Chinese meal carb estimation cheat sheet**.
 
@@ -112,7 +112,7 @@ Your prevention plan succeeds when it survives busy days. Choose one repeat meal
 
 - [Low-Glycemic Cooking Practical Guide](./low-glycemic-cooking-practical-guide-en)
 - [Steadier Breakfast Template](./breakfast-structure-diabetes-prevention-en)
-- [Prevention: Emotion](./../emotion/)
+- Prevention: Emotion
 
 ## 30-day implementation roadmap
 
@@ -320,7 +320,7 @@ This reflection method protects momentum and keeps your plan adaptive.
 
 Click the button below to get the full PDF guide:
 
-[Download this guide (PDF)]({{ page.download_url }})
+Download this guide (PDF)
 
 ---
 

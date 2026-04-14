@@ -129,11 +129,11 @@ Take the guesswork out of diabetes meal prep with our **“Beginner’s Guide to
 *This article is for informational purposes only and does not constitute medical advice. Please consult your doctor before making any health decisions.*  
 
 
-![Weekly meal prep setup with organized containers and fresh ingredients](https://via.placeholder.com/800x450?text=Weekly+meal+prep+setup+with+containers+and+fresh+ingredients)  
+!Weekly meal prep setup with organized containers and fresh ingredients  
 *Alt text: “Weekly meal prep setup with organized glass containers, fresh veggies, and pre-cooked proteins.”*  
 
 
-![Balanced diabetes-friendly meal with protein, veggies, whole grains](https://via.placeholder.com/800x450?text=Balanced+diabetes+meal+with+protein+veggies+whole+grains)  
+!Balanced diabetes-friendly meal with protein, veggies, whole grains  
 *Alt text: “Balanced diabetes-friendly plate with grilled chicken, roasted broccoli, and quinoa.”*  
 
 

@@ -126,9 +126,9 @@ The main side effects of insulin are hypoglycemia and weight gain. Correct insul
 
 ## Related Recommended Reading
 
-- [Diabetic Patients Primer Guide](/treatment/diet/diabetic-patients-primer-treatment-en) - Must-read for beginners
-- [Type 1 Diabetes Medical Management](/treatment/diet/type-1-diabetes-medical-management-treatment-en) - Professional guide
-- [Type 2 Diabetes Methods and Protocols](/treatment/diet/type-2-diabetes-methods-protocols-treatment-en) - Clinical protocols
+- [Diabetic Patients Primer Guide](/blog/diabetes/treatment/diet/2026-03/diabetic-patients-primer-treatment-en) - Must-read for beginners
+- [Type 1 Diabetes Medical Management](/blog/diabetes/treatment/diet/2026-03/type-1-diabetes-medical-management-treatment-en) - Professional guide
+- [Type 2 Diabetes Methods and Protocols](/blog/diabetes/treatment/diet/2026-03/type-2-diabetes-methods-protocols-treatment-en) - Clinical protocols
 
 ---
 

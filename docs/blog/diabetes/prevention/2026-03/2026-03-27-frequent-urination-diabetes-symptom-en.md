@@ -173,5 +173,5 @@ Frequent urination is indeed one of the common symptoms of diabetes, but it need
 ---
 
 **Disclaimer**: This article provides health education information only and cannot replace professional medical diagnosis. Please consult a healthcare professional for any health concerns.
-![Is Frequent Urination a Symptom of Diabetes? Expert Answer](/assets/images/generated/gen_3456789013.png)
+!Is Frequent Urination a Symptom of Diabetes? Expert Answer
 *Image description: Is Frequent Urination a Symptom of Diabetes? Expert Answer*

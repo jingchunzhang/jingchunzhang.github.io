@@ -25,7 +25,7 @@ title: Avoiding Common Pitfalls in Studying the Association of Genetic Variation
 # Avoiding Common Pitfalls in Studying the Association of Genetic Variation with Age at Diagnosis in Type 1 Diabetes  
 
 
-![A conceptual diagram illustrating the interplay between genetic variations, age at diagnosis, and confounding factors in Type 1 Diabetes research. It shows a pathway from genetic markers to age groups, with arrows highlighting potential biases and controls.](https://images.unsplash.com/photo-1506784983877-be9c29b29330?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)  
+!A conceptual diagram illustrating the interplay between genetic variations, age at diagnosis, and confounding factors in Type 1 Diabetes research. It shows a pathway from genetic markers to age groups, with arrows highlighting potential biases and controls.  
 *Figure 1: The relationship between genetic factors, age at diagnosis, and confounding variables in Type 1 Diabetes (T1D).*  
 
 

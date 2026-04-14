@@ -28,7 +28,7 @@ translation_key: how-to-eat-carbs-without-spike
 
 # 治疗期如何科学吃碳水不升糖：进餐顺序与搭配技巧全攻略
 
-> **[English Version](./how-to-eat-carbs-without-spike-en)**
+> **English Version**
 
 碳水化合物是人体能量的主要来源，但对于糖尿病治疗期的患者来说，如何科学摄入碳水而不引起血糖剧烈波动，是一个需要精心规划的问题。作为家属，我见证了治疗期家人在碳水摄入上的困惑——既不能完全不吃（导致能量不足），也不能随意吃（血糖失控）。本文将从治疗期视角，分享一套安全、可执行的碳水摄入策略。
 

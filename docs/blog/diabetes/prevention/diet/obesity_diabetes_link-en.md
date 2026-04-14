@@ -53,7 +53,7 @@ Communities like r/type2diabetes are seeing more stories of people finding succe
 >
 > *"My A1C was down to 5.9% and my weight was 235lbs which was the lowest weight I've had since I was a kid... I am still struggling with my diet... but I am walking more, eating less, and my A1C is down."*
 >
-> This highlights how medical tools can help bridge the gap, making lifestyle changes like walking and portion control more effective. [Read the full story on Reddit](https://www.reddit.com/r/type2diabetes/comments/1qluezc/finally_taking_control_of_my_diabetes/).
+> This highlights how medical tools can help bridge the gap, making lifestyle changes like walking and portion control more effective. Read the full story on Reddit.
 
 ## Moving Forward
 
@@ -63,8 +63,8 @@ If you or a loved one is navigating the intersection of obesity and diabetes, kn
 
 ---
 **Recommended Reading:**
-*   **[5 Myths About Diabetic Meal Planning](./meal_planning_myths-en)** - Understand why "just eat less" is often wrong and how to fuel your body correctly.
-*   **[Beware of the "Sweet Killer": Diabetes Complications Overview](./diabetes-complications-overview-en)**
+*   **5 Myths About Diabetic Meal Planning** - Understand why "just eat less" is often wrong and how to fuel your body correctly.
+*   **Beware of the "Sweet Killer": Diabetes Complications Overview**
 
 ---
 

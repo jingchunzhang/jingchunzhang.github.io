@@ -76,7 +76,7 @@ This guide covers the essentials—not everything you'll eventually learn, but t
 - At bedtime
 - Occasionally 2 hours after meals
 
-![Blood glucose monitoring with meter and logbook](/assets/images/monitoring-basics.jpg)
+!Blood glucose monitoring with meter and logbook
 
 ---
 
@@ -260,7 +260,7 @@ Diabetes education is ongoing—you'll keep learning as you live with this condi
 
 **Download our Diabetes Self-Management Starter Kit** to get templates for tracking, meal planning guides, and key information to discuss with your healthcare team:
 
-**[Get Your Starter Kit](https://tangyou.space/subscribe)** — Begin your diabetes education journey today.
+**Get Your Starter Kit** — Begin your diabetes education journey today.
 
 ---
 
@@ -454,11 +454,11 @@ We've created a comprehensive *Diabetes Self-Management Handbook* that includes:
 
 Want to dive deeper? Check out our other articles:
 
-- [Best Breakfast Choices for Diabetes Patients](../../treatment/diet/)
-- [How Exercise Affects Blood Sugar: The Science Behind It](../../treatment/exercise/)
-- [The Connection Between Stress and Blood Glucose](../../treatment/emotion/)
+- Best Breakfast Choices for Diabetes Patients
+- How Exercise Affects Blood Sugar: The Science Behind It
+- The Connection Between Stress and Blood Glucose
 
-**Looking for professional guidance?** Visit our [independent resource center](https://tangyou.space) to explore one-on-one consultations and personalized management plans.
+**Looking for professional guidance?** Visit our independent resource center to explore one-on-one consultations and personalized management plans.
 
 ---
 

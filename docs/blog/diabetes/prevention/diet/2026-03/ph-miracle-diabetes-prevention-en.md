@@ -118,9 +118,8 @@ If implemented correctly, an alkaline diet is actually very nutritious. Vegetabl
 
 ## Related Recommended Reading
 
-- [Diabetes A to Z Prevention Guide](/prevention/diet/diabetes-a-to-z-prevention) - Comprehensive diabetes understanding from A to Z
-- [Low Glycemic Index Recipes](/prevention/diet/low-glycemic-recipes-diabetes-prevention) - 250 healthy recipe recommendations
-- [American Diabetes Association Complete Guide](/prevention/diet/ada-complete-guide-diabetes-prevention) - ADA authoritative recommendations
+- [Diabetes A to Z Prevention Guide](/blog/diabetes/prevention/diet/2026-03/diabetes-a-to-z-prevention) - Comprehensive diabetes understanding from A to Z
+- Low Glycemic Index Recipes - ADA authoritative recommendations
 
 ---
 

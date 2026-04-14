@@ -27,7 +27,7 @@ translation_key: prevention/diet/intermittent-fasting-diabetes-prevention
 
 对预防阶段的人来说，最重要的是：它会不会让你的饮食结构更稳、更可持续；以及它有没有引入不必要的风险。
 
-![间歇性禁食示意图](https://upload.wikimedia.org/wikipedia/commons/b/b6/Intermittent_fasting.png)
+!间歇性禁食示意图
 
 *图片来源：Wikimedia Commons（Intermittent fasting illustration）*
 
@@ -105,8 +105,8 @@ translation_key: prevention/diet/intermittent-fasting-diabetes-prevention
 
 - [蛋白质：稳糖与控饥饿的杠杆](./protein-strategy-glucose-stability.md)
 - [早餐怎么吃更稳：早餐模板](./breakfast-structure-diabetes-prevention.md)
-- [预防：充足睡眠](../sleep/)
-- [预防：情绪管理](../emotion/)
+- 预防：充足睡眠
+- 预防：情绪管理
 
 ## 外部参考
 

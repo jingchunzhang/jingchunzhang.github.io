@@ -23,22 +23,22 @@ translation_key: topic-cluster-diet
 1. **抗炎饮食**
    - 重点：减少慢性炎症，改善胰岛素敏感性
    - 关键食物：深色蔬菜、浆果、坚果、深海鱼、橄榄油
-   - [阅读详细指南 →](./prevention/diet/anti-inflammatory-diet-diabetes-prevention)
+   - 阅读详细指南 →
 
 2. **均衡营养**
    - 重点：确保营养密度，避免营养不良
    - 关键原则：原型食物优先、多样化摄入、控制加工食品
-   - [阅读详细指南 →](./prevention/diet/balanced-diet-diabetes-prevention)
+   - 阅读详细指南 →
 
 3. **理解GI/GL**
    - 重点：管理升糖速度，减少血糖波动
    - 实用技巧：选择低GI主食、搭配蛋白质和健康脂肪
-   - [阅读详细指南 →](./prevention/diet/glycemic-index-load-diabetes-prevention)
+   - 阅读详细指南 →
 
 4. **豆类与抗性淀粉**
    - 重点：提升膳食纤维，改善肠道健康
    - 推荐：鹰嘴豆、扁豆、黑豆、燕麦
-   - [阅读详细指南 →](./prevention/diet/legumes-resistant-starch-diabetes-prevention)
+   - 阅读详细指南 →
 
 ---
 
@@ -51,22 +51,22 @@ translation_key: topic-cluster-diet
 1. **治疗期饮食管理**
    - 重点：建立血糖友好型饮食系统
    - 方法：餐盘法 + 进食顺序 + 食物搭配
-   - [阅读详细指南 →](./treatment/diet/therapeutic-diet-diabetes-treatment)
+   - 阅读详细指南 →
 
 2. **营养密度（ANDI）**
    - 重点：最大化每卡路里的营养价值
    - 公式：健康 = 营养素 / 卡路里
-   - [阅读详细指南 →](./treatment/diet/nutrient-density-andi-eat-for-life-diabetes-treatment)
+   - 阅读详细指南 →
 
 3. **掌控饥饿**
    - 重点：区分"毒性饥饿"和"真实饥饿"
    - 技巧：增加蛋白质、优化进食时间、管理压力
-   - [阅读详细指南 →](./treatment/diet/hunger-control-toxic-hunger-diabetes-treatment)
+   - 阅读详细指南 →
 
 4. **天然补充剂**
    - 重点：桑叶茶等天然辅助控糖
    - 注意：作为膳食补充，不能替代药物
-   - [阅读详细指南 →](./treatment/diet/mulberry-leaf-diabetes-cn)
+   - 阅读详细指南 →
 
 ---
 
@@ -79,13 +79,13 @@ translation_key: topic-cluster-diet
 1. **长期饮食策略**
    - 重点：从"控得住"到"吃得久"
    - 原则：地中海饮食模式、适量坚果种子、优质脂肪
-   - [阅读详细指南 →](./rehabilitation/diet/long-term-diet-diabetes-recovery)
+   - 阅读详细指南 →
 
 2. **坚果与种子**
    - 重点：脂肪质量比数量更重要
    - 推荐：核桃、杏仁、亚麻籽、奇亚籽
    - 份量：每天一小把（约25-30g）
-   - [阅读详细指南 →](./rehabilitation/diet/nuts-seeds-diabetes-rehab)
+   - 阅读详细指南 →
 
 ---
 
@@ -159,14 +159,14 @@ translation_key: topic-cluster-diet
 ## 延伸阅读
 
 ### 饮食之外的重要因素
-- [运动处方：治疗期安全有效的运动方案](./treatment/exercise/)
-- [睡眠与代谢：治疗期的恢复力基础](./treatment/sleep/)
-- [情绪与压力管理：治疗期的"隐形用药"](./treatment/emotion/)
+- 运动处方：治疗期安全有效的运动方案
+- 睡眠与代谢：治疗期的恢复力基础
+- 情绪与压力管理：治疗期的"隐形用药"
 
 ### 重要参考
-- [糖尿病诊断标准参考](./diabetes-diagnostic-criteria)
-- [糖尿病并发症全景概述](./diabetes-complications-overview)
-- [肥胖与2型糖尿病的生物学联系](./obesity_diabetes_link)
+- 糖尿病诊断标准参考
+- 糖尿病并发症全景概述
+- 肥胖与2型糖尿病的生物学联系
 
 ---
 

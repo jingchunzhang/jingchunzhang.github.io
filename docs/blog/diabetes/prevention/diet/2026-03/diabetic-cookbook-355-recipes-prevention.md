@@ -88,9 +88,9 @@ automation_id: "ebook-download-automation"
 
 ## 相关推荐
 
-- [DK糖尿病烹饪书](/prevention/diet/diabetes-cookbook-dk-publishing-prevention) - 简单易做食谱
-- [低GI值食谱](/prevention/diet/low-glycemic-recipes-diabetes-prevention) - 250道精选
-- [高纤维饮食方案](/prevention/diet/high-fiber-recipes-diabetes-prevention) - 500道健康食谱
+- [DK糖尿病烹饪书]( - 简单易做食谱
+- [低GI值食谱]( - 250道精选
+- [高纤维饮食方案]( - 500道健康食谱
 
 ---
 

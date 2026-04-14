@@ -132,9 +132,9 @@ DASH 不要求完全放弃主食，也不强调“神奇食物”。它更像一
 
 ## 关联资源与延伸阅读
 
-- [治疗期饮食管理：把控糖落实到每一餐](/treatment/diet/therapeutic-diet-diabetes-treatment.md)
-- [家庭糖尿病管理框架：能长期坚持的版本](/treatment/diet/home-diabetes-management-framework.md)
-- [治疗期睡眠与代谢：为什么晚睡会影响第二天血糖](/treatment/sleep/)
+- [治疗期饮食管理：把控糖落实到每一餐](/blog/diabetes/treatment/diet/2026-03/therapeutic-diet-diabetes-treatment)
+- [家庭糖尿病管理框架：能长期坚持的版本](/blog/diabetes/treatment/diet/2026-03/home-diabetes-management-framework)
+- [治疗期睡眠与代谢：为什么晚睡会影响第二天血糖](
 
 ## 结尾 CTA：下一步这样做
 

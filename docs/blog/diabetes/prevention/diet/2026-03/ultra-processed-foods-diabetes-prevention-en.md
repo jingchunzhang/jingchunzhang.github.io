@@ -23,7 +23,7 @@ This article does three things:
 2. Explains why UPFs can push weight gain, insulin resistance, and glucose variability.
 3. Gives you a simple method: **how to read the ingredient list + what to swap**.
 
-![Packaged food aisle](https://upload.wikimedia.org/wikipedia/commons/4/4b/Grocery_store_aisle.jpg)
+!Packaged food aisle
 
 *Source: Wikimedia Commons (packaged food aisle example)*
 
@@ -80,7 +80,7 @@ Rule of thumb:
 - If you can explain it with ~5 common kitchen ingredients, it’s more “food‑like.”
 - If it needs a long chain of functional components, it’s more “UPF‑like.”
 
-![Ingredient label example](https://upload.wikimedia.org/wikipedia/commons/0/09/Ingredients_label.jpg)
+!Ingredient label example
 
 *Source: Wikimedia Commons (ingredient label example)*
 
@@ -121,12 +121,12 @@ If you start with one step, make it this:
 
 ## Related reading (internal)
 
-- [Prevention: Diet section](./index.md)
+- Prevention: Diet section
 - [Prevention: GI/GL basics](./glycemic-index-load-diabetes-prevention.md)
 - [Prevention: legumes + fiber + resistant starch](./legumes-resistant-starch-diabetes-prevention.md)
-- [Prevention: Exercise](../exercise/)
-- [Prevention: Sleep](../sleep/)
-- [Prevention: Emotion](../emotion/)
+- Prevention: Exercise
+- Prevention: Sleep
+- Prevention: Emotion
 
 ---
 

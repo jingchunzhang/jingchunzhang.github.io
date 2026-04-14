@@ -235,13 +235,13 @@ If you use affiliate-recommended resources (meal planners, grocery systems, hydr
 
 - [Ultra‑Processed Foods (UPFs) and Type 2 Diabetes Risk](./ultra-processed-foods-diabetes-prevention-en)
 - [Low-Glycemic Cooking Practical Guide for Busy Families](./low-glycemic-cooking-practical-guide-en)
-- [Prevention: Sleep](./../sleep/)
+- Prevention: Sleep
 
 ## 📥 Download the Free Guide
 
 Click the button below to get the full PDF guide:
 
-[Download this guide (PDF)]({{ page.download_url }})
+Download this guide (PDF)
 
 ---
 

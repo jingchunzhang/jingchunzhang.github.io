@@ -108,7 +108,7 @@ A：看能否稳定执行 4 周且指标/体感有改善。
 
 - [超加工食品（UPF）与2型糖尿病风险](./ultra-processed-foods-diabetes-prevention)
 - [低GI烹饪实战](./low-glycemic-cooking-practical-guide)
-- [预防：充足睡眠](./../sleep/)
+- 预防：充足睡眠
 
 ## 进阶：如何评估“热门饮食法”是否值得执行
 
@@ -175,7 +175,7 @@ A：看能否稳定执行 4 周且指标/体感有改善。
 
 点击下方按钮，获取本指南的完整PDF版本：
 
-[下载本指南（PDF）]({{ page.download_url }})
+下载本指南（PDF）
 
 ---
 

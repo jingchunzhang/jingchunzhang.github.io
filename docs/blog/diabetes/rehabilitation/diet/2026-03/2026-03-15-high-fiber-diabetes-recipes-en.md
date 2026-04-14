@@ -75,7 +75,7 @@ High-fiber foods slow glucose release and keep your loved one feeling satisfied 
 
 **Nutritional highlight:** One serving contains 12g fiber and 18g protein. **Serves 6.**
 
-![Warm lentil soup in a bowl with herbs and vegetables visible](/assets/images/lentil-soup.jpg)
+!Warm lentil soup in a bowl with herbs and vegetables visible
 
 ---
 
@@ -193,7 +193,7 @@ High-fiber meal planning is one of the most practical ways you can actively part
 - Shopping list templates
 - Blood sugar tracking notes for meal correlations
 
-**[Get Your Free Meal Planner](https://tangyou.space/subscribe)** — Plus exclusive updates on family-centered diabetes care.
+**Get Your Free Meal Planner** — Plus exclusive updates on family-centered diabetes care.
 
 ---
 
@@ -320,8 +320,8 @@ Subscribe below for instant download access. **Bonus materials include**:
 2. **Do one meal-prep session this weekend**: Even washing and chopping vegetables, cooking rice into three containers—this single step cuts weekday friction by half.
 
 3. **Keep learning**:
-   - Read next: [Complete Therapeutic Diet Guide for Diabetes Treatment](/treatment/diet/therapeutic-diet-diabetes-treatment.md)
-   - Build your system: [Home Diabetes Management Framework](/treatment/diet/home-diabetes-management-framework.md)
+   - Read next: [Complete Therapeutic Diet Guide for Diabetes Treatment](/blog/diabetes/treatment/diet/2026-03/therapeutic-diet-diabetes-treatment)
+   - Build your system: [Home Diabetes Management Framework](/blog/diabetes/treatment/diet/2026-03/home-diabetes-management-framework)
 
 **For advanced tools, consultation access, and deeper protocols, visit our independent site's treatment hub—we offer personalized meal templates, weekly check-in tools, and direct access to diabetes educators.**
 

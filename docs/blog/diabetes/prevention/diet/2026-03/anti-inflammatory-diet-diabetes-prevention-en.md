@@ -844,10 +844,10 @@ Every anti-inflammatory food choice is an investment in your future body's healt
 ## Reference Resources
 
 - [International Association for Research on Anti-Inflammatory Diets](https://www.inflammationresearchfoundation.org/)
-- [Harvard School of Public Health - Anti-Inflammatory Diet Guide](https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/)
+- Harvard School of Public Health - Anti-Inflammatory Diet Guide
 - [American Diabetes Association (ADA) - Dietary Advice](https://www.diabetes.org/healthy-living/recipes-nutrition)
-- [Chinese Nutrition Society - Dietary Guidelines](http://www.cnsoc.org/)
-- [Frontiers in Inflammation and Metabolic Disease Research](https://www.nature.com/subjects/inflammation-metabolic-disease)
+- Chinese Nutrition Society - Dietary Guidelines
+- Frontiers in Inflammation and Metabolic Disease Research
 
 ---
 

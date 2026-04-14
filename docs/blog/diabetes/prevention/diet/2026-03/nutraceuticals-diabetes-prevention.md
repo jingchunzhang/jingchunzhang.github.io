@@ -128,9 +128,9 @@ omega-3 脂肪酸主要存在于鱼类油中，包括 EPA 和 DHA。研究表明
 
 ## 相关推荐阅读
 
-- [糖尿病饮食预防指南](/prevention/diet/diabetes-a-to-z-prevention) - 从A到Z全面了解糖尿病
-- [pH奇迹糖尿病预防](/prevention/diet/ph-miracle-diabetes-prevention) - 碱性饮食方案
-- [低血糖指数食谱](/prevention/diet/low-glycemic-recipes-diabetes-prevention) - 健康食谱推荐
+- [糖尿病饮食预防指南](/blog/diabetes/prevention/diet/2026-03/diabetes-a-to-z-prevention) - 从A到Z全面了解糖尿病
+- [pH奇迹糖尿病预防](/blog/diabetes/prevention/diet/2026-03/ph-miracle-diabetes-prevention) - 碱性饮食方案
+- [低血糖指数食谱]( - 健康食谱推荐
 
 ---
 

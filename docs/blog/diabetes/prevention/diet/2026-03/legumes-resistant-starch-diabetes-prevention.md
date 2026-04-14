@@ -89,7 +89,7 @@ translation_key: prevention-diet-legumes-resistant-starch
 - [预防饮食：读懂GI/GL，把“升糖速度”管起来](./glycemic-index-load-diabetes-prevention.md)
 - [返回：预防-健康饮食栏目](./)
 - [返回：预防首页](./../)
-- [糖尿病诊断标准参考](/diabetes-diagnostic-criteria)
+- 糖尿病诊断标准参考
 
 ---
 

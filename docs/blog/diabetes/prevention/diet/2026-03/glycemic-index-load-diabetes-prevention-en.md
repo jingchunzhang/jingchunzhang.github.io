@@ -82,7 +82,7 @@ You can use simple feedback signals:
 
 For diagnostic thresholds, see:
 
-- [Diabetes diagnostic criteria](/diabetes-diagnostic-criteria-en.html)
+- Diabetes diagnostic criteria
 
 ---
 
@@ -91,7 +91,7 @@ For diagnostic thresholds, see:
 - [Prevention diet: legumes + resistant starch for steadier carbs](./legumes-resistant-starch-diabetes-prevention-en.md)
 - [Back: Prevention / Healthy Diet](./)
 - [Back: Prevention Home](./../)
-- [Treatment diet (if you’re already diagnosed)](./../../treatment/diet/)
+- Treatment diet (if you’re already diagnosed)
 
 ---
 

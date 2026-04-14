@@ -78,7 +78,7 @@ This is the combined result of neuropathy (loss of sensation) and vascular disea
 Although complications sound scary, they are **preventable and delayable**. The key lies in comprehensive management:
 
 1.  **ABC Control Targets**:
-    *   **A (A1c)**: Control glycosylated hemoglobin within the target range (usually < 7%). Reference: [Mainstream Global Diabetes Diagnostic Criteria](./diabetes-diagnostic-criteria-en) to understand your blood sugar status.
+    *   **A (A1c)**: Control glycosylated hemoglobin within the target range (usually < 7%). Reference: Mainstream Global Diabetes Diagnostic Criteria to understand your blood sugar status.
     *   **B (Blood pressure)**: Control blood pressure below 130/80 mmHg.
     *   **C (Cholesterol)**: LDL (bad cholesterol) up to standard.
 2.  **Regular Screening**: Do not wait for symptoms to go to the hospital. Regular annual screenings for eyes, kidneys, and nerves are crucial.
@@ -87,13 +87,13 @@ Although complications sound scary, they are **preventable and delayable**. The 
 ---
 
 **Recommended Reading:**
-*   If you are unsure if your blood sugar is up to standard, please check: [Mainstream Global Diabetes Diagnostic Criteria Reference](./diabetes-diagnostic-criteria-en)
+*   If you are unsure if your blood sugar is up to standard, please check: Mainstream Global Diabetes Diagnostic Criteria Reference
 *   *(Coming Soon)* Diabetes Diet Guide and Recipe Recommendations
 *   *(Coming Soon)* Type 1 and Type 2 Diabetes Self-Management Manual Download
 
 ---
 
-[Back to Blog Home](./index-en)
+Back to Blog Home
 
 ---
 

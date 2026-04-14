@@ -108,9 +108,9 @@ Yes. Diabetes is not only related to weight. Although overweight and obesity are
 
 ## Related Recommended Reading
 
-- [Diabetes A to Z Prevention](/prevention/diet/diabetes-a-to-z-prevention-en) - Comprehensive diabetes guide from A to Z
-- [Low Glycemic Index Recipes](/prevention/diet/low-glycemic-recipes-diabetes-prevention-en) - 250 healthy recipe recommendations
-- [High Fiber Diet Plan](/prevention/diet/high-fiber-recipes-diabetes-prevention-en) - 500 high-fiber recipes
+- [Diabetes A to Z Prevention](/blog/diabetes/prevention/diet/2026-03/diabetes-a-to-z-prevention-en) - Comprehensive diabetes guide from A to Z
+- [Low Glycemic Index Recipes]( - 250 healthy recipe recommendations
+- [High Fiber Diet Plan]( - 500 high-fiber recipes
 
 ---
 

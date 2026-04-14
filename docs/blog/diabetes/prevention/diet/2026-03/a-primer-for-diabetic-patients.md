@@ -38,7 +38,7 @@ translation_key: a-primer-for-diabetic-patients
 
 很多人刚被提示“血糖偏高”时，第一反应是“以后是不是很多东西都不能吃”。实际上，预防阶段更重要的不是极端忌口，而是建立一套能长期执行的饮食与作息系统。根据《A Primer for Diabetic Patients》的患者教育思路，本文给你一份可落地的起步方案。
 
-![健康餐盘示意图](https://upload.wikimedia.org/wikipedia/commons/6/6f/MyPlate.svg)
+!健康餐盘示意图
 *图1：先有结构，再谈细节。来源：Wikimedia Commons。*
 
 ## 要点速览
@@ -111,7 +111,7 @@ A：通常 2–4 周可感受到餐后困倦、暴食冲动等改善；指标变
 
 - [给新手的糖尿病预防备餐入门：先搭框架，再谈食谱](./meal-prep-diabetes-beginners-prevention)
 - [30天控糖友好餐计划：把预防做成能执行的日程](./30-day-diabetes-meal-plan-prevention)
-- [预防：规律运动](./../exercise/)
+- 预防：规律运动
 
 ## 进阶执行框架（第2-8周）
 
@@ -152,7 +152,7 @@ A：通常 2–4 周可感受到餐后困倦、暴食冲动等改善；指标变
 
 点击下方按钮，获取本指南的完整PDF版本：
 
-[下载本指南（PDF）]({{ page.download_url }})
+下载本指南（PDF）
 
 ---
 

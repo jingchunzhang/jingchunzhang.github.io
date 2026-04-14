@@ -21,7 +21,7 @@ Intermittent fasting (IF) is often sold as a shortcut: skip a meal, lose fat, st
 
 For prevention, the key question is: does it make your overall pattern **more stable and sustainable**, without adding risk?
 
-![Intermittent fasting illustration](https://upload.wikimedia.org/wikipedia/commons/b/b6/Intermittent_fasting.png)
+!Intermittent fasting illustration
 
 *Source: Wikimedia Commons (intermittent fasting illustration)*
 
@@ -89,8 +89,8 @@ Within your eating window, prioritize:
 
 - [Protein strategy](./protein-strategy-glucose-stability-en.md)
 - [Breakfast template](./breakfast-structure-diabetes-prevention-en.md)
-- [Prevention: Sleep](../sleep/)
-- [Prevention: Emotion](../emotion/)
+- Prevention: Sleep
+- Prevention: Emotion
 
 ## External references
 

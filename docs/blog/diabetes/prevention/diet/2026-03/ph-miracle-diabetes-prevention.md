@@ -118,9 +118,8 @@ pH 奇迹饮食是一种整体健康方法，对大多数人来说是安全的�
 
 ## 相关推荐阅读
 
-- [糖尿病饮食预防指南](/prevention/diet/diabetes-a-to-z-prevention) - 从A到Z全面了解糖尿病
-- [低血糖指数食谱](/prevention/diet/low-glycemic-recipes-diabetes-prevention) - 250道健康食谱推荐
-- [美国糖尿病协会完整指南](/prevention/diet/ada-complete-guide-diabetes-prevention) - ADA权威建议
+- [糖尿病饮食预防指南](/blog/diabetes/prevention/diet/2026-03/diabetes-a-to-z-prevention) - 从A到Z全面了解糖尿病
+- 低血糖指数食谱 - ADA权威建议
 
 ---
 

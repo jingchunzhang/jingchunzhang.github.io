@@ -23,22 +23,22 @@ In prediabetes or healthy populations, the goal is **prevention** — reducing d
 1. **Anti-Inflammatory Diet**
    - Focus: Reduce chronic inflammation, improve insulin sensitivity
    - Key foods: Dark leafy greens, berries, nuts, fatty fish, olive oil
-   - [Read detailed guide →](./prevention/diet/anti-inflammatory-diet-diabetes-prevention-en)
+   - Read detailed guide →
 
 2. **Balanced Nutrition**
    - Focus: Ensure nutrient density, avoid malnutrition
    - Key principles: Whole foods priority, diverse intake, limit processed foods
-   - [Read detailed guide →](./prevention/diet/balanced-diet-diabetes-prevention-en)
+   - Read detailed guide →
 
 3. **Understanding GI/GL**
    - Focus: Manage glucose rise speed, reduce blood sugar fluctuations
    - Practical tips: Choose low-GI staples, pair with protein and healthy fats
-   - [Read detailed guide →](./prevention/diet/glycemic-index-load-diabetes-prevention-en)
+   - Read detailed guide →
 
 4. **Legumes and Resistant Starch**
    - Focus: Increase dietary fiber, improve gut health
    - Recommendations: Chickpeas, lentils, black beans, oats
-   - [Read detailed guide →](./prevention/diet/legumes-resistant-starch-diabetes-prevention-en)
+   - Read detailed guide →
 
 ---
 
@@ -51,22 +51,22 @@ After diabetes diagnosis, the core goal is **stabilizing blood sugar, coordinati
 1. **Treatment Phase Diet Management**
    - Focus: Build a glucose-friendly eating system
    - Methods: Plate method + eating order + food pairing
-   - [Read detailed guide →](./treatment/diet/therapeutic-diet-diabetes-treatment-en)
+   - Read detailed guide →
 
 2. **Nutrient Density (ANDI)**
    - Focus: Maximize nutritional value per calorie
    - Formula: Health = Nutrients / Calories
-   - [Read detailed guide →](./treatment/diet/nutrient-density-andi-eat-for-life-diabetes-treatment-en)
+   - Read detailed guide →
 
 3. **Hunger Control**
    - Focus: Distinguish "toxic hunger" from "true hunger"
    - Tips: Increase protein, optimize meal timing, manage stress
-   - [Read detailed guide →](./treatment/diet/hunger-control-toxic-hunger-diabetes-treatment-en)
+   - Read detailed guide →
 
 4. **Natural Supplements**
    - Focus: Mulberry leaf tea and other natural glucose aids
    - Note: As dietary supplements, not medication substitutes
-   - [Read detailed guide →](./treatment/diet/mulberry-leaf-tea-diabetes-management-en)
+   - Read detailed guide →
 
 ---
 
@@ -79,13 +79,13 @@ After blood sugar stabilization, the goal is **long-term adherence, complication
 1. **Long-term Diet Strategy**
    - Focus: From "controlled" to "sustainable"
    - Principles: Mediterranean diet pattern, moderate nuts and seeds, quality fats
-   - [Read detailed guide →](./rehabilitation/diet/long-term-diet-diabetes-recovery-en)
+   - Read detailed guide →
 
 2. **Nuts and Seeds**
    - Focus: Fat quality matters more than quantity
    - Recommendations: Walnuts, almonds, flaxseeds, chia seeds
    - Portion: One small handful daily (about 25-30g)
-   - [Read detailed guide →](./rehabilitation/diet/nuts-seeds-diabetes-rehab-en)
+   - Read detailed guide →
 
 ---
 
@@ -159,14 +159,14 @@ Don't start with calorie-counting anxiety. First establish the correct plate str
 ## Further Reading
 
 ### Beyond Diet
-- [Exercise Prescription: Safe and Effective Exercise During Treatment](./treatment/exercise/)
-- [Sleep and Metabolism: Recovery Foundation During Treatment](./treatment/sleep/)
-- [Emotion and Stress Management: The "Invisible Medication" of Treatment](./treatment/emotion/)
+- Exercise Prescription: Safe and Effective Exercise During Treatment
+- Sleep and Metabolism: Recovery Foundation During Treatment
+- Emotion and Stress Management: The "Invisible Medication" of Treatment
 
 ### Important References
-- [Diabetes Diagnostic Criteria Reference](./diabetes-diagnostic-criteria-en)
-- [Overview of Diabetes Complications](./diabetes-complications-overview-en)
-- [Biological Link Between Obesity and Type 2 Diabetes](./obesity_diabetes_link-en)
+- Diabetes Diagnostic Criteria Reference
+- Overview of Diabetes Complications
+- Biological Link Between Obesity and Type 2 Diabetes
 
 ---
 

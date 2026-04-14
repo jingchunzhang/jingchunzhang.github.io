@@ -28,7 +28,7 @@ translation_key: prevention/diet/breakfast-structure-diabetes-prevention
 
 下面这套模板不强调“完美”，只强调“结构更稳”。
 
-![早餐示意](https://upload.wikimedia.org/wikipedia/commons/8/88/Breakfast_plate.jpg)
+!早餐示意
 
 *图片来源：Wikimedia Commons（Breakfast plate）*
 
@@ -118,7 +118,7 @@ translation_key: prevention/diet/breakfast-structure-diabetes-prevention
 
 ## 延伸阅读与站内跳转
 
-- [预防：健康饮食专区](./index.md)
+- 预防：健康饮食专区
 - [读懂 GI/GL，把“升糖速度”管起来](./glycemic-index-load-diabetes-prevention.md)
 - [豆类、纤维与抗性淀粉：预防胰岛素抵抗的“底盘”](./legumes-resistant-starch-diabetes-prevention.md)
 - [超加工食品（UPF）与2型糖尿病风险：看懂标签，做出更稳的选择](./ultra-processed-foods-diabetes-prevention.md)

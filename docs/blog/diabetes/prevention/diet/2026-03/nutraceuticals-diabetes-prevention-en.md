@@ -126,9 +126,9 @@ Yes, some nutraceuticals may have side effects or interact with medications. Con
 
 ## Related Recommended Reading
 
-- [Diabetes A to Z Prevention Guide](/prevention/diet/diabetes-a-to-z-prevention) - Comprehensive diabetes understanding
-- [pH Miracle Diabetes Prevention](/prevention/diet/ph-miracle-diabetes-prevention-en) - Alkaline diet plan
-- [Low Glycemic Index Recipes](/prevention/diet/low-glycemic-recipes-diabetes-prevention-en) - Healthy recipe recommendations
+- [Diabetes A to Z Prevention Guide](/blog/diabetes/prevention/diet/2026-03/diabetes-a-to-z-prevention) - Comprehensive diabetes understanding
+- [pH Miracle Diabetes Prevention](/blog/diabetes/prevention/diet/2026-03/ph-miracle-diabetes-prevention-en) - Alkaline diet plan
+- [Low Glycemic Index Recipes]( - Healthy recipe recommendations
 
 ---
 

@@ -108,9 +108,9 @@ ADA的立场是，没有足够的证据支持任何保健品可以预防糖尿�
 
 ## 相关推荐阅读
 
-- [糖尿病饮食预防指南](/prevention/diet/diabetes-a-to-z-prevention) - 从A到Z全面了解糖尿病
-- [低血糖指数食谱](/prevention/diet/low-glycemic-recipes-diabetes-prevention) - 250道健康食谱推荐
-- [高纤维饮食方案](/prevention/diet/high-fiber-recipes-diabetes-prevention) - 500道高纤维食谱
+- [糖尿病饮食预防指南](/blog/diabetes/prevention/diet/2026-03/diabetes-a-to-z-prevention) - 从A到Z全面了解糖尿病
+- [低血糖指数食谱]( - 250道健康食谱推荐
+- [高纤维饮食方案]( - 500道高纤维食谱
 
 ---
 

@@ -51,15 +51,15 @@ You don't need a sad plate of steamed broccoli to manage your blood sugar. Users
 > *   Baby dill pickles & hot peppers (Flavor/Crunch)
 > *   Baby carrots & hummus (Fiber/Carbs)
 >
-> This is a perfect example of a high-protein, fiber-rich snack that keeps blood sugar steady without sacrificing flavor. [See the post on Reddit](https://www.reddit.com/r/type2diabetes/comments/1qerl26/my_diabetic_snack_bowl/).
+> This is a perfect example of a high-protein, fiber-rich snack that keeps blood sugar steady without sacrificing flavor. See the post on Reddit.
 
 ## The Takeaway
 Food is not just medicine; it's culture, comfort, and joy. Don't let myths rob you of that. Work with a Registered Dietitian Nutritionist (RDN) or a Certified Diabetes Care and Education Specialist (CDCES) to build a plan that fits *your* life.
 
 ---
 **Recommended Reading:**
-*   **[Beyond Weight Loss: The Biological Link Between Obesity and Diabetes](./obesity_diabetes_link-en)** - Understand the biological mechanisms behind diet and weight.
-*   **[Beware of the "Sweet Killer": Diabetes Complications Overview](./diabetes-complications-overview-en)** - Healthy eating is the first line of defense against complications.
+*   **Beyond Weight Loss: The Biological Link Between Obesity and Diabetes** - Understand the biological mechanisms behind diet and weight.
+*   **Beware of the "Sweet Killer": Diabetes Complications Overview** - Healthy eating is the first line of defense against complications.
 
 ---
 

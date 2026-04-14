@@ -88,9 +88,9 @@ Of course. These recipes have reasonable calorie design, moderate carbohydrate c
 
 ## Related Recommendations
 
-- [DK Diabetes Cookbook](/prevention/diet/diabetes-cookbook-dk-publishing-prevention-en) - Simple and easy recipes
-- [Low GI Recipes](/prevention/diet/low-glycemic-recipes-diabetes-prevention-en) - 250 selected recipes
-- [High Fiber Diet Plan](/prevention/diet/high-fiber-recipes-diabetes-prevention-en) - 500 healthy recipes
+- [DK Diabetes Cookbook]( - Simple and easy recipes
+- [Low GI Recipes]( - 250 selected recipes
+- [High Fiber Diet Plan]( - 500 healthy recipes
 
 ---
 

@@ -104,8 +104,8 @@ A: 不是。低GI饮食允许摄入适量的优质碳水化合物，而生酮饮
 **[立即下载《全民糖尿病烹饪指南》](https://download.tangyou.space/20260309/Diabetes-Cooking-for-Everyone-250-All-Natural,-Low-Glycemic-Recipes-to-Nourish-and-Rejuvenate.pdf)**
 
 ## 推荐阅读
-- [糖尿病A到Z基础入门](../../prevention/sleep/diabetes-a-to-z-basics)
-- [糖尿病前期预警信号](../../prevention/exercise/prediabetes-early-warning-signs)
+- 糖尿病A到Z基础入门
+- 糖尿病前期预警信号
 
 ## 医疗免责声明
 本文提供的饮食建议仅供参考。由于每个人的代谢情况不同，建议在重大饮食调整前咨询营养师或医生，并结合血糖监测观察身体反应。

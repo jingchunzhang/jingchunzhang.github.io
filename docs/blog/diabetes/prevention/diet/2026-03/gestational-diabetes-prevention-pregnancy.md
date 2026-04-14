@@ -129,9 +129,9 @@ A：越是检查还正常，越适合提前做。预防的价值就在于趁指�
 
 ## 推荐阅读
 
-- [妊娠糖尿病家庭护理：血糖监测、加餐安排与产检协同怎么做](../../treatment/diet/gestational-diabetes-home-care-pregnancy)
-- [哺乳期与产后血糖恢复：吃得够、奶量稳，也把代谢慢慢带回正轨](../../rehabilitation/diet/postpartum-lactation-glucose-recovery)
-- [糖尿病前期预警信号：这个月先盯住哪些指标](../exercise/prediabetes-early-warning-signs)
+- 妊娠糖尿病家庭护理：血糖监测、加餐安排与产检协同怎么做
+- 哺乳期与产后血糖恢复：吃得够、奶量稳，也把代谢慢慢带回正轨
+- 糖尿病前期预警信号：这个月先盯住哪些指标
 
 ## 医疗免责声明
 

@@ -169,8 +169,8 @@ Many families notice post-meal improvement within 1-2 weeks after standardizing 
 1. **Subscribe and get the ebook** through `ebook-signup` for automated delivery and follow-up prompts.
 2. **Visit the independent resource hub** for deeper templates and family workflow tools: <https://dm.tangyou.space>.
 3. **Read related internal guides**:
-   - [Diet During Diabetes Treatment: Turn “Glucose Control” Into Every Meal](/treatment/diet/therapeutic-diet-diabetes-treatment-en.md)
-   - [A Home Diabetes Management Framework You Can Actually Maintain](/treatment/diet/home-diabetes-management-framework-en.md)
-   - [Sleep and Metabolism in Treatment](/treatment/sleep/)
+   - [Diet During Diabetes Treatment: Turn “Glucose Control” Into Every Meal](/blog/diabetes/treatment/diet/2026-03/therapeutic-diet-diabetes-treatment-en)
+   - [A Home Diabetes Management Framework You Can Actually Maintain](/blog/diabetes/treatment/diet/2026-03/home-diabetes-management-framework-en)
+   - [Sleep and Metabolism in Treatment](
 
 > Medical disclaimer: This article is for health education and family self-management reference only. It does not replace diagnosis, individualized nutrition prescription, or medication decisions. If you use glucose-lowering medication (especially insulin), consult your treating clinician or registered dietitian before major dietary changes.

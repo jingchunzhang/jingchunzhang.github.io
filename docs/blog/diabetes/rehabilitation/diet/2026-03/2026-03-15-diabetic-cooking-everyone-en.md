@@ -129,7 +129,7 @@ The same ingredient prepared differently can have dramatically different effects
 
 ## Protein: Essential for Every Meal
 
-![Lean protein options for diabetic cooking](/assets/images/protein-cooking.jpg)
+!Lean protein options for diabetic cooking
 
 ### Best Protein Choices
 
@@ -268,7 +268,7 @@ Mastering basic cooking techniques puts you in control of your loved one's diabe
 - Spice and herb substitution chart
 - Dining-out decision guide
 
-**[Get Your Cooking Guide](https://tangyou.space/subscribe)** — Start building confidence in your kitchen today.
+**Get Your Cooking Guide** — Start building confidence in your kitchen today.
 
 ---
 
@@ -289,7 +289,7 @@ Mastering basic cooking techniques puts you in control of your loved one's diabe
 - Maintains food flavor
 - Key is limiting oil to 1 teaspoon per meal
 
-![Recommended Cooking Methods for Diabetics](https://via.placeholder.com/600x400?text=Cooking+Methods+for+Diabetics)
+!Recommended Cooking Methods for Diabetics
 *Comparison of how different cooking methods affect blood sugar*
 
 ### ❌ Cooking Methods to Avoid
@@ -354,7 +354,7 @@ Before cooking, ask yourself these questions:
 **Mistake 4**: Adding honey or jam while cooking is "healthier"  
 ✅ Correction: Honey and jam have the same glycemic impact as regular sugar
 
-![Common Cooking Mistakes Quick Reference](https://via.placeholder.com/600x350?text=Cooking+Mistakes+Guide)
+!Common Cooking Mistakes Quick Reference
 *Quick reference for common mistakes in diabetic cooking*
 
 ---

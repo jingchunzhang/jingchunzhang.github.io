@@ -95,7 +95,7 @@ translation_key: prevention-diet-gi-gl
 
 想快速了解诊断标准，可看：
 
-- [糖尿病诊断标准参考](/diabetes-diagnostic-criteria)
+- 糖尿病诊断标准参考
 
 ---
 
@@ -104,7 +104,7 @@ translation_key: prevention-diet-gi-gl
 - [预防饮食：豆类与抗性淀粉——更稳的“主食替代”](./legumes-resistant-starch-diabetes-prevention.md)
 - [返回：预防-健康饮食栏目](./)
 - [返回：预防首页](./../)
-- [治疗期：饮食管理（如果你已确诊）](./../../treatment/diet/)
+- 治疗期：饮食管理（如果你已确诊）
 
 ---
 

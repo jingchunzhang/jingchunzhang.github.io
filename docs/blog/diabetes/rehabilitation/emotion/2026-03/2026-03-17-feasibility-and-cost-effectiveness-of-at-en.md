@@ -26,7 +26,7 @@ title: 'feasibility and cost-effectiveness of at-home self-sampling screening fo
 ### **At-Home Self-Sampling for Type 2 Diabetes Screening: 8 Common Pitfalls to Avoid (Pilot Study Insights)**  
 
 
-![Woman using a home glucose testing kit with digital meter and lancet](https://images.unsplash.com/photo-1579684385734-30316c18907c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80)  
+!Woman using a home glucose testing kit with digital meter and lancet  
 *Alt text: A person performing a home glucose self-test with a digital meter and lancet, illustrating at-home diabetes screening.*  
 
 

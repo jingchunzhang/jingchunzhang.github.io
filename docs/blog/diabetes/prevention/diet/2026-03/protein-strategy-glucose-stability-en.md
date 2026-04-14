@@ -17,7 +17,7 @@ tags: [Diet, Protein, Prevention, Insulin Resistance]
 
 In metabolic health, people often obsess over carbs and forget a simpler lever: **protein**. For many everyday patterns (mid‑morning hunger, afternoon cravings, “snack spirals”), improving protein is one of the most effective, least extreme changes.
 
-![Protein-rich foods](https://upload.wikimedia.org/wikipedia/commons/e/e8/Protein-rich_Foods.jpg)
+!Protein-rich foods
 
 *Source: Wikimedia Commons (protein-rich foods)*
 
@@ -83,10 +83,10 @@ Pick one:
 
 ## Internal links
 
-- [Prevention: Healthy Diet](./index-en.md)
+- Prevention: Healthy Diet
 - [Steadier Breakfast Template](./breakfast-structure-diabetes-prevention-en.md)
 - [UPFs and Type 2 Diabetes Risk](./ultra-processed-foods-diabetes-prevention-en.md)
-- [Prevention: Exercise](../exercise/)
+- Prevention: Exercise
 
 ## External references
 

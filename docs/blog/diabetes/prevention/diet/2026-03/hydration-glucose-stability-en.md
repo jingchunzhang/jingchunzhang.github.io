@@ -20,7 +20,7 @@ tags: [Diet, Hydration, Prevention, Weight]
 - **Thirst can be misread as hunger** (leading to unnecessary snacking).
 - **Sugary drinks accumulate calories fast** (often without feeling “full”).
 
-![Pouring water into a glass](https://upload.wikimedia.org/wikipedia/commons/b/bc/Pouring_Water_Into_Glass_%2855963794%29.jpeg)
+!Pouring water into a glass
 
 *Source: Wikimedia Commons (pouring water into a glass)*
 
@@ -75,7 +75,7 @@ Persistent excessive thirst or frequent urination can be a warning sign — cons
 
 ## Internal links
 
-- [Prevention: Healthy Diet](./index-en.md)
+- Prevention: Healthy Diet
 - [UPFs and Type 2 Diabetes Risk](./ultra-processed-foods-diabetes-prevention-en.md)
 
 ## External references

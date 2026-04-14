@@ -80,11 +80,11 @@ They work for daily at-home testing, on-the-go tracking when you eat out, and sh
 ### My Top Recommendations
 1. **Budget Pick (Best for New Users)**: Contour Next One Glucometer Kit
 This is the meter I recommend to every new person in my support group. It’s 99% accurate, only needs a 0.5 microliter blood sample, syncs automatically to the Contour app to track your trends, and test strips only cost $0.22 each when you buy in bulk. The kit comes with 50 test strips, 100 lancets, and a carrying case for travel.
-> Buy it here: [Contour Next One Glucometer Kit on Amazon](https://www.amazon.com/dp/B01N65U9Y2?tag=prediabetesguide-20) (I earn a small commission at no extra cost to you if you purchase through this link, which supports the free resources I share for the diabetes community.)
+> Buy it here: Contour Next One Glucometer Kit on Amazon (I earn a small commission at no extra cost to you if you purchase through this link, which supports the free resources I share for the diabetes community.)
 
 2. **Premium Pick (Best for Detailed Tracking)**: Freestyle Libre 2 CGM Starter Kit
 If you want to see exactly how every food, workout, and night of sleep affects your blood sugar, the Freestyle Libre 2 is the best CGM on the market for prediabetes. It doesn’t require any finger pricks, scans your blood sugar every minute, and sends you alerts if your levels spike too high or drop too low. It’s covered by most insurance plans for prediabetes if your doctor writes a prescription, and you can get 10% off your first out-of-pocket order with the code below.
-> Buy it here: [Freestyle Libre 2 Starter Kit](https://www.freestylelibre.us/products/libre-2.html?aff=prediabetes101) — use code PREDIA10 for 10% off your first order.
+> Buy it here: Freestyle Libre 2 Starter Kit — use code PREDIA10 for 10% off your first order.
 
 3. **Free Tool Pick (Best for Tracking Meals)**: MyFitnessPal
 The free version of MyFitnessPal is perfect for tracking your carb intake and logging your blood sugar readings. It syncs with most popular glucometers, has a barcode scanner for packaged foods, and lets you export 3 months of data to share with your doctor at follow-up appointments.
@@ -110,6 +110,6 @@ If you are at high risk (family history of diabetes, BMI over 25, over 45, histo
 ## Final Note & Free Resource
 Thank you so much for taking the time to learn about prediabetes — catching it early is the best thing you can do to avoid type 2 diabetes and the long-term health complications that come with it.
 
-To help you get started, I put together a free 20-page 30-Day Prediabetes Reversal Playbook, with sample low-sugar meal plans, 10-minute post-meal workout ideas, and a printable blood sugar tracking template. You can download it for free here: [Free 30-Day Prediabetes Reversal Playbook](https://prediabetesguide.com/free-ebook) — no email required, just click and download.
+To help you get started, I put together a free 20-page 30-Day Prediabetes Reversal Playbook, with sample low-sugar meal plans, 10-minute post-meal workout ideas, and a printable blood sugar tracking template. You can download it for free here: Free 30-Day Prediabetes Reversal Playbook — no email required, just click and download.
 
 If you have any questions, drop them in the comments below, I reply to every single one!

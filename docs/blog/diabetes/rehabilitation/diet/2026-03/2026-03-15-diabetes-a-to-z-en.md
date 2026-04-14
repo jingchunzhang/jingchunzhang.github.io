@@ -102,7 +102,7 @@ Avoid very late and oversized meals. If nighttime low-glucose events occur, disc
 
 If you want this A-to-Z framework in a printable household format (meal log templates + medication-meal checklist), download:
 
-**[Diabetes A to Z (PDF)](https://download.tangyou.space/20260315/Diabetes-A-to-Z.pdf)**
+**Diabetes A to Z (PDF)**
 
 You can also subscribe through the `ebook-signup` form to receive updated versions and practical tracking sheets.
 
@@ -149,6 +149,6 @@ Families do not need a perfect script for every event. They need a default safet
 3. Start with one achievable target: record dinner composition and 2-hour post-meal glucose for 7 consecutive days.
 
 👉 **Download link:**  
-**[https://download.tangyou.space/20260315/Diabetes-A-to-Z.pdf](https://download.tangyou.space/20260315/Diabetes-A-to-Z.pdf)**
+**https://download.tangyou.space/20260315/Diabetes-A-to-Z.pdf**
 
 Medical disclaimer: This article is for health education and caregiver support only. It does not provide individualized diagnosis or treatment. For medication changes, persistent hyperglycemia, suspected hypoglycemia, or acute symptoms, consult a qualified clinician promptly.

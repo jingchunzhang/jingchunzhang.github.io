@@ -24,7 +24,7 @@ title: 沐浴与洗澡如何影响糖尿病患者的血糖：科学指南与管�
 # 沐浴与洗澡如何影响糖尿病患者的血糖：科学指南与管理建议
 
 
-![Diabetic person taking a shower with proper temperature control, managing blood sugar levels](https://images.unsplash.com/photo-1576091160550-217391516166?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80)  
+!Diabetic person taking a shower with proper temperature control, managing blood sugar levels  
 *图：糖尿病患者在适宜水温下淋浴，科学管理血糖波动*
 
 

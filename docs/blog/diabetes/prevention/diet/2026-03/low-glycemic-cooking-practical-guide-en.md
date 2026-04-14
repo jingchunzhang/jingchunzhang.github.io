@@ -106,8 +106,8 @@ Want access to 250 all-natural, low-glycemic recipes?
 **[Download "Diabetes Cooking for Everyone" Now](https://download.tangyou.space/20260309/Diabetes-Cooking-for-Everyone-250-All-Natural,-Low-Glycemic-Recipes-to-Nourish-and-Rejuvenate.pdf)**
 
 ## Recommended Reading
-- [Diabetes A-to-Z Basics](../../prevention/sleep/diabetes-a-to-z-basics-en)
-- [Prediabetes Early Warning Signs](../../prevention/exercise/prediabetes-early-warning-signs-en)
+- Diabetes A-to-Z Basics
+- Prediabetes Early Warning Signs
 
 ## Medical Disclaimer
 The dietary suggestions provided here are for educational purposes. Because metabolic responses vary, it is recommended to consult a dietitian or doctor before making major changes and to use blood sugar monitoring to see how your body responds.

@@ -18,9 +18,9 @@ translation_key: topic-cluster-pregnancy-lactation
 
 ## 一、先看这 3 篇主线文章（建议起步）
 
-1. [孕期如何预防妊娠糖尿病：从三餐、体重增长到日常活动的实用框架](./prevention/diet/gestational-diabetes-prevention-pregnancy)
-2. [妊娠糖尿病家庭护理：血糖监测、加餐安排与产检协同怎么做](./treatment/diet/gestational-diabetes-home-care-pregnancy)
-3. [哺乳期与产后血糖恢复：吃得够、奶量稳，也把代谢慢慢带回正轨](./rehabilitation/diet/postpartum-lactation-glucose-recovery)
+1. 孕期如何预防妊娠糖尿病：从三餐、体重增长到日常活动的实用框架
+2. 妊娠糖尿病家庭护理：血糖监测、加餐安排与产检协同怎么做
+3. 哺乳期与产后血糖恢复：吃得够、奶量稳，也把代谢慢慢带回正轨
 
 ---
 
@@ -31,48 +31,48 @@ translation_key: topic-cluster-pregnancy-lactation
 目标：在血糖筛查前，把高风险生活模式拆解掉。
 
 - 饮食基础
-  - [孕期如何预防妊娠糖尿病：从三餐、体重增长到日常活动的实用框架](./prevention/diet/gestational-diabetes-prevention-pregnancy)
+  - 孕期如何预防妊娠糖尿病：从三餐、体重增长到日常活动的实用框架
 - 运动执行
-  - [孕期安全运动与妊娠糖尿病预防：把餐后活动变成每日稳定器](./prevention/exercise/pregnancy-safe-exercise-gestational-diabetes-prevention)
+  - 孕期安全运动与妊娠糖尿病预防：把餐后活动变成每日稳定器
 - 睡眠与作息
-  - [孕期睡眠规律与妊娠糖尿病预防：先把夜晚稳定下来](./prevention/sleep/pregnancy-sleep-routine-gestational-diabetes-prevention)
+  - 孕期睡眠规律与妊娠糖尿病预防：先把夜晚稳定下来
 
 ### B. 治疗阶段（已确诊妊娠糖尿病）
 
 目标：把血糖监测、正餐加餐、夜间管理和复诊协同成流程。
 
 - 家庭护理主线
-  - [妊娠糖尿病家庭护理：血糖监测、加餐安排与产检协同怎么做](./treatment/diet/gestational-diabetes-home-care-pregnancy)
+  - 妊娠糖尿病家庭护理：血糖监测、加餐安排与产检协同怎么做
 - 夜间稳定策略
-  - [妊娠糖尿病夜间血糖稳定策略：晚餐、夜醒与次日空腹的衔接](./treatment/sleep/gestational-diabetes-night-glucose-routine)
+  - 妊娠糖尿病夜间血糖稳定策略：晚餐、夜醒与次日空腹的衔接
 
 ### C. 康复阶段（产后与哺乳期）
 
 目标：在照护宝宝的高压力环境里，守住代谢恢复节奏。
 
 - 饮食与恢复
-  - [哺乳期与产后血糖恢复：吃得够、奶量稳，也把代谢慢慢带回正轨](./rehabilitation/diet/postpartum-lactation-glucose-recovery)
+  - 哺乳期与产后血糖恢复：吃得够、奶量稳，也把代谢慢慢带回正轨
 - 情绪与压力
-  - [产后与哺乳期压力管理：避免“压力-进食-血糖”循环](./rehabilitation/emotion/postpartum-lactation-stress-glucose-recovery)
+  - 产后与哺乳期压力管理：避免“压力-进食-血糖”循环
 
 ---
 
 ## 三、按问题阅读（你现在最困扰哪一项）
 
 ### 1）吃什么、怎么吃
-- [孕期预防主线：三餐与体重增长](./prevention/diet/gestational-diabetes-prevention-pregnancy)
-- [治疗期家庭护理：正餐+加餐协同](./treatment/diet/gestational-diabetes-home-care-pregnancy)
-- [哺乳期恢复：吃得够也要吃得稳](./rehabilitation/diet/postpartum-lactation-glucose-recovery)
+- 孕期预防主线：三餐与体重增长
+- 治疗期家庭护理：正餐+加餐协同
+- 哺乳期恢复：吃得够也要吃得稳
 
 ### 2）怎么动更安全、更有效
-- [孕期安全运动：餐后活动日常化](./prevention/exercise/pregnancy-safe-exercise-gestational-diabetes-prevention)
+- 孕期安全运动：餐后活动日常化
 
 ### 3）晚上总是乱，第二天空腹不稳
-- [孕期睡眠规律策略](./prevention/sleep/pregnancy-sleep-routine-gestational-diabetes-prevention)
-- [治疗期夜间血糖流程](./treatment/sleep/gestational-diabetes-night-glucose-routine)
+- 孕期睡眠规律策略
+- 治疗期夜间血糖流程
 
 ### 4）情绪压力大，容易冲动进食
-- [产后哺乳期压力管理实操](./rehabilitation/emotion/postpartum-lactation-stress-glucose-recovery)
+- 产后哺乳期压力管理实操
 
 ---
 

@@ -21,7 +21,7 @@ download_url: ''
 
 # Diabetes Foot Care: Preventing Diabetic Foot Complications
 
-![Diabetes Foot Care](https://images.unsplash.com/photo-1576094081266-9479c5c0f19a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+!Diabetes Foot Care
 *Image description: Diabetic foot is one of the most serious complications of diabetes - daily care and prevention are crucial*
 
 Diabetic foot is one of the most serious and costly complications of diabetes. Statistics show that about 15% of diabetes patients will develop foot ulcers in their lifetime, and once a foot ulcer occurs, the risk of amputation greatly increases. The development of diabetic foot is mainly related to neuropathy (reduced sensation), vascular disease (poor blood circulation), and infection. Fortunately, most diabetic foot cases can be prevented through daily foot care and early intervention. This article will provide detailed information on preventing and caring for diabetic foot.

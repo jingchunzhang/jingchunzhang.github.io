@@ -97,7 +97,7 @@ translation_key: diabetic-meal-prep-beginners
 - 分餐标签示例（主食/蛋白/蔬菜）
 - 家属可执行的复盘页（血糖记录 + 下周调整）
 
-👉 [立即下载备餐手册（PDF）](https://download.tangyou.space/20260315/Diabetic-Meal-Prep.pdf)
+👉 立即下载备餐手册（PDF）
 
 ## 新手最常见的 4 个误区
 
@@ -131,13 +131,13 @@ translation_key: diabetic-meal-prep-beginners
 
 - **可复用分格餐盒**：帮助主食、蛋白、蔬菜分区，减少超量。
 - **厨房电子秤**：新手阶段用于建立份量感。
-- **独立站深度工具包**：需要更细化的“治疗期饮食 + 监测复盘”模板，可访问 [糖友资源中心](https://dm.tangyou.space/meal-prep-toolkit) 查看进阶版。
+- **独立站深度工具包**：需要更细化的“治疗期饮食 + 监测复盘”模板，可访问 糖友资源中心 查看进阶版。
 
 ## 相关文章（建议继续阅读）
 
-- [如何吃碳水又不引发明显血糖波动](/treatment/diet/2026-03-14-how-to-eat-carbs-without-causing-a-blood)
-- [糖尿病治疗期饮食策略](/treatment/diet/therapeutic-diet-diabetes-treatment)
-- [家庭糖尿病管理框架](/treatment/diet/home-diabetes-management-framework)
+- [如何吃碳水又不引发明显血糖波动](
+- [糖尿病治疗期饮食策略](/blog/diabetes/treatment/diet/2026-03/therapeutic-diet-diabetes-treatment)
+- [家庭糖尿病管理框架](/blog/diabetes/treatment/diet/2026-03/home-diabetes-management-framework)
 
 ## 结尾 CTA
 

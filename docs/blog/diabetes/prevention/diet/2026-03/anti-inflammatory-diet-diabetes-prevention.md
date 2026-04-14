@@ -841,10 +841,10 @@ translation_key: prevention/diet/anti-inflammatory-diet-diabetes-prevention
 ## 参考资源
 
 - [国际抗炎饮食研究协会](https://www.inflammationresearchfoundation.org/)
-- [哈佛大学公共卫生学院 - 抗炎饮食指南](https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/)
+- 哈佛大学公共卫生学院 - 抗炎饮食指南
 - [美国糖尿病协会(ADA) - 饮食建议](https://www.diabetes.org/healthy-living/recipes-nutrition)
-- [中国营养学会 - 膳食指南](http://www.cnsoc.org/)
-- [炎症与代谢疾病研究前沿](https://www.nature.com/subjects/inflammation-metabolic-disease)
+- 中国营养学会 - 膳食指南
+- 炎症与代谢疾病研究前沿
 
 ---
 

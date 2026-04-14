@@ -7,7 +7,7 @@ author_title: "健康科技研究员"
 lang: zh
 translation_key: fasting_blood_sugar_tracking
 ---
-[中文 (Chinese)](./fasting_blood_sugar_tracking.html) | [English](./fasting_blood_sugar_tracking-en.html)
+中文 (Chinese) | English
 
 # 掌控清晨血糖：记录饮食与运动的力量
 

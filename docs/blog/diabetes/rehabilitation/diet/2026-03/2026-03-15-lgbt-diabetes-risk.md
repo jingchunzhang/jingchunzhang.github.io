@@ -28,7 +28,7 @@ translation_key: lgbt-diabetes-risk
 
 # LGBTQ群体糖尿病风险更高？数据揭示的真相与应对策略
 
-> **[English Version](./lgbt-diabetes-risk-en)**
+> **English Version**
 
 根据美国疾病控制与预防中心（CDC）的较新数据，女同性恋、男同性恋、双性恋和跨性别者（LGBTQ）群体面临着比一般人群更高的2型糖尿病风险。作为家属，我们或许会好奇：为什么会有这种差异？治疗期的糖友又该如何应对？
 

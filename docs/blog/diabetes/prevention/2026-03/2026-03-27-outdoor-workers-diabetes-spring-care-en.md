@@ -265,5 +265,5 @@ Wish all outdoor workers stay healthy this spring and complete their work smooth
 ---
 
 **Disclaimer**: This article provides health education information only and cannot replace professional medical advice. Please follow your doctor's guidance for diabetes management.
-![Diabetes Management for Outdoor Physical Workers in Spring](/assets/images/generated/gen_5678901235.png)
+!Diabetes Management for Outdoor Physical Workers in Spring
 *Image description: Diabetes management guide for outdoor physical workers in spring*

@@ -71,7 +71,7 @@ translation_key: practical-carbohydrate-counting
 
 想系统学习医护教育场景中的碳水计数方法：
 
-**[下载《Practical carbohydrate counting》](https://download.tangyou.space/20260313/Practical-carbohydrate-counting.pdf)**
+**下载《Practical carbohydrate counting》**
 
 订阅后可获取“常见中餐碳水估算速查表”。
 
@@ -110,7 +110,7 @@ A：先执行“半份主食 + 先蛋白蔬菜 + 不喝甜饮”的三件套。
 
 - [低GI烹饪实战：忙碌家庭也能坚持的控糖餐](./low-glycemic-cooking-practical-guide)
 - [早餐怎么吃更稳：一份可复制的模板](./breakfast-structure-diabetes-prevention)
-- [预防：情绪管理](./../emotion/)
+- 预防：情绪管理
 
 ## 进阶：把碳水计数变成长期能力
 
@@ -168,7 +168,7 @@ A：先执行“半份主食 + 先蛋白蔬菜 + 不喝甜饮”的三件套。
 
 点击下方按钮，获取本指南的完整PDF版本：
 
-[下载本指南（PDF）]({{ page.download_url }})
+下载本指南（PDF）
 
 ---
 

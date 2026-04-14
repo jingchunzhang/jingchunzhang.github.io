@@ -22,7 +22,7 @@ Many people want breakfast to be one thing: **fast and effortless**. That often 
 
 This template doesn’t chase “perfect.” It aims for **a steadier structure you can repeat**.
 
-![Breakfast plate](https://upload.wikimedia.org/wikipedia/commons/8/88/Breakfast_plate.jpg)
+!Breakfast plate
 
 *Source: Wikimedia Commons (Breakfast plate)*
 
@@ -112,7 +112,7 @@ If you use a glucometer/CGM, watch the **2–3 hour** post‑breakfast pattern o
 
 ## Internal links
 
-- [Prevention: Healthy Diet](./index-en.md)
+- Prevention: Healthy Diet
 - [GI/GL: Practical Tools for Diabetes Prevention](./glycemic-index-load-diabetes-prevention-en.md)
 - [Legumes & Resistant Starch](./legumes-resistant-starch-diabetes-prevention-en.md)
 - [UPFs and Type 2 Diabetes Risk](./ultra-processed-foods-diabetes-prevention-en.md)

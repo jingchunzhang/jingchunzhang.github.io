@@ -106,9 +106,8 @@ ADA明确了糖尿病的诊断标准，满足以下任意一项即可诊断为�
 
 ## 相关推荐
 
-- [美国糖尿病协会完整指南](/prevention/diet/ada-complete-guide-diabetes-prevention) - ADA权威预防建议
-- [低血糖指数食谱](/prevention/diet/low-glycemic-recipes-diabetes-prevention) - 250道健康食谱
-- [糖尿病历史演变](/treatment/diet/diabetes-history-evolution-metabolic-disease-treatment) - 深入了解糖尿病
+- [美国糖尿病协会完整指南](/blog/diabetes/prevention/diet/2026-03/ada-complete-guide-diabetes-prevention) - ADA权威预防建议
+- 低血糖指数食谱 - 深入了解糖尿病
 
 ---
 

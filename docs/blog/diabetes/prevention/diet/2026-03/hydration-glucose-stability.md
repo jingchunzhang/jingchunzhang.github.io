@@ -28,7 +28,7 @@ translation_key: prevention/diet/hydration-glucose-stability
 - **口渴常被误当成饥饿**（于是你更容易加餐）；
 - **饮料比你想象的更容易累积能量**（尤其是含糖饮品）。
 
-![倒水入杯](https://upload.wikimedia.org/wikipedia/commons/b/bc/Pouring_Water_Into_Glass_%2855963794%29.jpeg)
+!倒水入杯
 
 *图片来源：Wikimedia Commons（Pouring water into glass）*
 
@@ -85,7 +85,7 @@ translation_key: prevention/diet/hydration-glucose-stability
 
 ## 站内跳转
 
-- [预防：健康饮食专区](./index.md)
+- 预防：健康饮食专区
 - [超加工食品（UPF）与2型糖尿病风险](./ultra-processed-foods-diabetes-prevention.md)
 
 ## 外部参考

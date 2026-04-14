@@ -18,9 +18,9 @@ translation_key: topic-cluster-pregnancy-lactation
 
 ## 1) Start with these 3 core articles
 
-1. [How to Prevent Gestational Diabetes During Pregnancy: A Practical Framework for Meals, Weight Gain, and Daily Activity](./prevention/diet/gestational-diabetes-prevention-pregnancy-en)
-2. [Gestational Diabetes Home Care: How to Coordinate Glucose Checks, Snacks, and Prenatal Follow-Up](./treatment/diet/gestational-diabetes-home-care-pregnancy-en)
-3. [Postpartum and Lactation Glucose Recovery: Eat Enough, Support Milk Production, and Rebuild Metabolic Stability](./rehabilitation/diet/postpartum-lactation-glucose-recovery-en)
+1. How to Prevent Gestational Diabetes During Pregnancy: A Practical Framework for Meals, Weight Gain, and Daily Activity
+2. Gestational Diabetes Home Care: How to Coordinate Glucose Checks, Snacks, and Prenatal Follow-Up
+3. Postpartum and Lactation Glucose Recovery: Eat Enough, Support Milk Production, and Rebuild Metabolic Stability
 
 ---
 
@@ -31,48 +31,48 @@ translation_key: topic-cluster-pregnancy-lactation
 Goal: reduce high-risk patterns before screening becomes abnormal.
 
 - Diet foundation
-  - [How to Prevent Gestational Diabetes During Pregnancy](./prevention/diet/gestational-diabetes-prevention-pregnancy-en)
+  - How to Prevent Gestational Diabetes During Pregnancy
 - Exercise execution
-  - [Pregnancy-Safe Exercise for Gestational Diabetes Prevention](./prevention/exercise/pregnancy-safe-exercise-gestational-diabetes-prevention-en)
+  - Pregnancy-Safe Exercise for Gestational Diabetes Prevention
 - Sleep regularity
-  - [Pregnancy Sleep Routine for Gestational Diabetes Prevention](./prevention/sleep/pregnancy-sleep-routine-gestational-diabetes-prevention-en)
+  - Pregnancy Sleep Routine for Gestational Diabetes Prevention
 
 ### B. Treatment Stage (diagnosed gestational diabetes)
 
 Goal: turn monitoring, meals/snacks, nighttime behavior, and follow-up into one household workflow.
 
 - Home-care backbone
-  - [Gestational Diabetes Home Care](./treatment/diet/gestational-diabetes-home-care-pregnancy-en)
+  - Gestational Diabetes Home Care
 - Night routine
-  - [Gestational Diabetes Night Glucose Routine](./treatment/sleep/gestational-diabetes-night-glucose-routine-en)
+  - Gestational Diabetes Night Glucose Routine
 
 ### C. Recovery Stage (postpartum and lactation)
 
 Goal: protect metabolic recovery while managing real postpartum stress.
 
 - Diet and recovery
-  - [Postpartum and Lactation Glucose Recovery](./rehabilitation/diet/postpartum-lactation-glucose-recovery-en)
+  - Postpartum and Lactation Glucose Recovery
 - Emotional load and stress-eating control
-  - [Postpartum and Lactation Stress Management](./rehabilitation/emotion/postpartum-lactation-stress-glucose-recovery-en)
+  - Postpartum and Lactation Stress Management
 
 ---
 
 ## 3) Read by current problem
 
 ### “What should I eat right now?”
-- [Pregnancy prevention diet framework](./prevention/diet/gestational-diabetes-prevention-pregnancy-en)
-- [Treatment-stage meal/snack coordination](./treatment/diet/gestational-diabetes-home-care-pregnancy-en)
-- [Postpartum/lactation recovery diet rhythm](./rehabilitation/diet/postpartum-lactation-glucose-recovery-en)
+- Pregnancy prevention diet framework
+- Treatment-stage meal/snack coordination
+- Postpartum/lactation recovery diet rhythm
 
 ### “How can I move safely?”
-- [Pregnancy-safe exercise practical guide](./prevention/exercise/pregnancy-safe-exercise-gestational-diabetes-prevention-en)
+- Pregnancy-safe exercise practical guide
 
 ### “Nights are chaotic, fasting is unstable”
-- [Pregnancy sleep routine guide](./prevention/sleep/pregnancy-sleep-routine-gestational-diabetes-prevention-en)
-- [Treatment-stage night glucose routine](./treatment/sleep/gestational-diabetes-night-glucose-routine-en)
+- Pregnancy sleep routine guide
+- Treatment-stage night glucose routine
 
 ### “Stress is driving my eating patterns”
-- [Postpartum/lactation stress management guide](./rehabilitation/emotion/postpartum-lactation-stress-glucose-recovery-en)
+- Postpartum/lactation stress management guide
 
 ---
 

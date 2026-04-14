@@ -163,8 +163,8 @@ translation_key: high-fiber-diabetes-recipes
 2. **本周末完成一次备餐**：哪怕只是把蔬菜清洗切好放冷藏，把糙米煮成3份，也能大幅降低执行难度。
 
 3. **继续深化你的知识**：
-   - 阅读相关文章：[糖尿病治疗期饮食完整指南](/treatment/diet/therapeutic-diet-diabetes-treatment.md)
-   - 了解家庭管理框架：[家庭糖尿病管理系统](/treatment/diet/home-diabetes-management-framework.md)
+   - 阅读相关文章：[糖尿病治疗期饮食完整指南](/blog/diabetes/treatment/diet/2026-03/therapeutic-diet-diabetes-treatment)
+   - 了解家庭管理框架：[家庭糖尿病管理系统](/blog/diabetes/treatment/diet/2026-03/home-diabetes-management-framework)
 
 **如果你需要更系统的工具包、独立站有"家庭稳糖餐盘模板"、"每周复盘清单"、专业营养师咨询服务。访问独立站可了解更多进阶方案。**
 

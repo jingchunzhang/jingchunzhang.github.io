@@ -25,7 +25,7 @@ translation_key: prevention/diet/protein-strategy-glucose-stability
 
 简单说：当你不知道从哪里开始优化饮食，**先把每餐的蛋白补齐**，通常会带来最稳定、最不痛苦的收益。
 
-![蛋白丰富的食物示意](https://upload.wikimedia.org/wikipedia/commons/e/e8/Protein-rich_Foods.jpg)
+!蛋白丰富的食物示意
 
 *图片来源：Wikimedia Commons（Protein-rich foods）*
 
@@ -90,10 +90,10 @@ translation_key: prevention/diet/protein-strategy-glucose-stability
 
 ## 站内跳转
 
-- [预防：健康饮食专区](./index.md)
+- 预防：健康饮食专区
 - [早餐怎么吃更稳：早餐模板](./breakfast-structure-diabetes-prevention.md)
 - [超加工食品（UPF）与2型糖尿病风险](./ultra-processed-foods-diabetes-prevention.md)
-- [预防：规律运动](../exercise/)
+- 预防：规律运动
 
 ## 外部参考
 

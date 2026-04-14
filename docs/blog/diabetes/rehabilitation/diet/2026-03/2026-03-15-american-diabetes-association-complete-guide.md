@@ -140,8 +140,8 @@ translation_key: american-diabetes-association-complete-guide
 1. **先订阅领取电子书**：使用 `ebook-signup` 获取下载与后续7天饮食提醒；  
 2. **访问独立站资源页**：查看更完整的家庭控糖工具包与随访模板：<https://dm.tangyou.space>;  
 3. **继续阅读站内内容**：
-   - [治疗期饮食管理：把“控糖”落到每一餐](/treatment/diet/therapeutic-diet-diabetes-treatment.md)
-   - [家庭糖尿病管理框架：能长期坚持的实用版本](/treatment/diet/home-diabetes-management-framework.md)
-   - [治疗期：睡眠与代谢](/treatment/sleep/)
+   - [治疗期饮食管理：把“控糖”落到每一餐](/blog/diabetes/treatment/diet/2026-03/therapeutic-diet-diabetes-treatment)
+   - [家庭糖尿病管理框架：能长期坚持的实用版本](/blog/diabetes/treatment/diet/2026-03/home-diabetes-management-framework)
+   - [治疗期：睡眠与代谢](
 
 > 医疗免责声明：本文用于健康教育与家庭管理参考，不构成诊断或治疗建议。正在接受降糖药、胰岛素或合并其他疾病者，请与主治医生或注册营养师共同制定个体化方案。

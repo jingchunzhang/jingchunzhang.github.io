@@ -186,9 +186,9 @@ Build a supportive food environment: shopping lists, meal prep rhythm, repeatabl
 
 ## Suggested internal reading
 
-- [Therapeutic Diet for Diabetes Treatment: Make Every Meal More Predictable](/treatment/diet/therapeutic-diet-diabetes-treatment-en.md)
-- [Home Diabetes Management Framework for Families](/treatment/diet/home-diabetes-management-framework-en.md)
-- [Treatment Stage Sleep and Metabolism: Why Late Nights Affect Next-Day Glucose](/treatment/sleep/)
+- [Therapeutic Diet for Diabetes Treatment: Make Every Meal More Predictable](/blog/diabetes/treatment/diet/2026-03/therapeutic-diet-diabetes-treatment-en)
+- [Home Diabetes Management Framework for Families](/blog/diabetes/treatment/diet/2026-03/home-diabetes-management-framework-en)
+- [Treatment Stage Sleep and Metabolism: Why Late Nights Affect Next-Day Glucose](
 
 ## Final CTA: your next three actions
 

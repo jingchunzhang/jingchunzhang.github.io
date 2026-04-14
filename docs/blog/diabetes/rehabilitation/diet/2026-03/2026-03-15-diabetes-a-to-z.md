@@ -100,7 +100,7 @@ A1c 反映近 2-3 个月平均血糖趋势。它不是“当天成绩”，但�
 ## 📘 中段领取：Diabetes A to Z 电子书
 
 想把这套 A-Z 概念变成可打印的家庭执行表？可下载本期电子书：  
-**[立即下载《Diabetes A to Z》PDF](https://download.tangyou.space/20260315/Diabetes-A-to-Z.pdf)**  
+**立即下载《Diabetes A to Z》PDF**  
 填写订阅表单（`ebook-signup`）后，可自动收到后续更新版本与饮食记录模板。
 
 ---
@@ -130,6 +130,6 @@ A1c 反映近 2-3 个月平均血糖趋势。它不是“当天成绩”，但�
 - 从本周开始，先完成一个小目标：连续 7 天记录晚餐后血糖与食物组成。
 
 👉 **领取电子书与后续饮食模板**：  
-**[https://download.tangyou.space/20260315/Diabetes-A-to-Z.pdf](https://download.tangyou.space/20260315/Diabetes-A-to-Z.pdf)**
+**https://download.tangyou.space/20260315/Diabetes-A-to-Z.pdf**
 
 > 医疗免责声明：本文用于健康信息与家庭照护教育，不构成个体化诊断或治疗建议。任何药物调整、饮食治疗变更或异常血糖处理，请及时咨询专业医生。

@@ -22,7 +22,7 @@ download_url: ''
 
 # Diabetes Quit Smoking Guide: Protecting Your Health Starts with Quitting Smoking
 
-![Diabetes Quit Smoking](https://images.unsplash.com/photo-1576616696179-7c7c4a80c7d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+!Diabetes Quit Smoking
 *Image description: Smoking significantly increases the risk of diabetes complications, quitting smoking is an important step in protecting health*
 
 For diabetes patients, smoking is not just a general health issue but a serious disease management problem. Scientific research has clearly confirmed that smoking accelerates the occurrence and development of diabetes complications, including cardiovascular disease, kidney disease, retinopathy, and neuropathy. Diabetes patients who smoke face several times higher health risks than diabetes patients who don't smoke. Quitting smoking is one of the most important things diabetes patients can do for their health. However, quitting smoking is not easy, especially for those who have developed long-term smoking habits. This article provides a comprehensive guide on the dangers of smoking for diabetes, health benefits of quitting, quitting methods, and ongoing support strategies to help diabetes patients successfully quit smoking and protect their health.

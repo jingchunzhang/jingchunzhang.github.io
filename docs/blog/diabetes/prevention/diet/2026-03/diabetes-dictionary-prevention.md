@@ -126,9 +126,9 @@ automation_id: "ebook-download-automation"
 
 ## 相关推荐阅读
 
-- [糖尿病患者入门指南](/treatment/diet/diabetic-patients-primer-treatment) - 新手必读
-- [1型糖尿病医学管理](/treatment/diet/type-1-diabetes-medical-management-treatment) - 专业指南
-- [2型糖尿病方法与方案](/treatment/diet/type-2-diabetes-methods-protocols-treatment) - 临床方案
+- [糖尿病患者入门指南](/blog/diabetes/treatment/diet/2026-03/diabetic-patients-primer-treatment) - 新手必读
+- [1型糖尿病医学管理](/blog/diabetes/treatment/diet/2026-03/type-1-diabetes-medical-management-treatment) - 专业指南
+- [2型糖尿病方法与方案](/blog/diabetes/treatment/diet/2026-03/type-2-diabetes-methods-protocols-treatment) - 临床方案
 
 ---
 
