@@ -1,21 +1,15 @@
 ---
-author: 张杨 (Dane Zhang)
-author_title: 健康科技研究员
-description: 糖尿病治疗 - 饮食管理
-lang: zh
 layout: default
-tags:
-- Treatment
-- Diet
-title: 糖尿病治疗 - 饮食管理
+title: 饮食
+lang: zh
 ---
 
-# 糖尿病治疗 - 饮食管理
+# 饮食
 
-欢迎来到糖尿病治疗饮食专区。
+## 子分类
+*   [2026-03](2026-03/)
 
-## 最新文章
 
-{% include post-list.html path="/blog/diabetes/treatment/2026-03/" %}
+---
 
-[返回治疗首页](../)
+{% include post-list.html %}

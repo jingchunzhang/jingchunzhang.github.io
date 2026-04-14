@@ -1,25 +1,17 @@
 ---
-author: 张杨 (Dane Zhang)
-author_title: 健康科技研究员
-description: 糖尿病预防 - 饮食管理
-lang: zh
 layout: default
-tags:
-- Prevention
-- Diet
-title: 糖尿病预防 - 饮食管理
+title: 饮食
+lang: zh
 ---
 
-# 糖尿病预防 - 饮食管理
+# 饮食
 
-欢迎来到糖尿病预防饮食专区。
-
-## 子目录
-
-- [饮食备餐](./2026-03/) - 糖尿病预防备餐指南
+## 子分类
+*   [2026-03](2026-03/)
 
 ## 最新文章
+*   [超越减肥：理解肥胖与2型糖尿病之间的生物学联系](obesity_diabetes_link)
 
-{% include post-list.html path="/blog/diabetes/prevention/diet/2026-03/" %}
+---
 
-[返回预防首页](../)
+{% include post-list.html %}

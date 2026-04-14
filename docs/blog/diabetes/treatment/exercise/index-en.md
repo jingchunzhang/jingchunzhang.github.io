@@ -1,21 +1,15 @@
 ---
-author: Dane Zhang (张杨)
-author_title: Health Tech Researcher
-description: Diabetes Treatment - Exercise Management
-lang: en
 layout: default
-tags:
-- Treatment
-- Exercise
-title: Diabetes Treatment - Exercise Management
+title: Exercise
+lang: en
 ---
 
-# Diabetes Treatment - Exercise Management
+# Exercise
 
-Welcome to the diabetes treatment exercise section.
+## Subcategories
+*   [2026-03](2026-03/index-en)
 
-## Subdirectories
 
-- [Exercise Prescription](./2026-03/)
+---
 
-[Back to Treatment](../)
+{% include post-list.html %}

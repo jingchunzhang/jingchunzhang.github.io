@@ -1,20 +1,19 @@
 ---
 layout: default
-title: 糖尿病治疗 (Treatment)
+title: 治疗
 lang: zh
 ---
-# 糖尿病治疗 (Treatment)
 
-本专题专注于糖尿病的药物、饮食与运动的综合管理。
+# 治疗
 
-## 治疗分类
-*   [饮食治疗 (Diet)](./diet/)
-*   [情绪治疗 (Emotion)](./emotion/)
-*   [运动治疗 (Exercise)](./exercise/)
-*   [睡眠治疗 (Sleep)](./sleep/)
+## 子分类
+*   [2026-03](2026-03/)
+*   [饮食](diet/)
+*   [情绪与压力](emotion/)
+*   [运动](exercise/)
+*   [睡眠](sleep/)
+
 
 ---
-
-## 治疗相关文章
 
 {% include post-list.html %}

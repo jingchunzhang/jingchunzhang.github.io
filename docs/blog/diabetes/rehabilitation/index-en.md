@@ -1,20 +1,18 @@
 ---
 layout: default
-title: Diabetes Rehabilitation
+title: Rehabilitation
 lang: en
 ---
-# Diabetes Rehabilitation
 
-This category focuses on reversal possibilities and long-term health maintenance for diabetes.
+# Rehabilitation
 
-## Rehabilitation Subcategories
-*   [Long-term Diet Strategy](./diet/index-en)
-*   [Psychological Rehabilitation](./emotion/index-en)
-*   [Recovery-phase Exercise](./exercise/index-en)
-*   [Sleep & Restoration](./sleep/index-en)
+## Subcategories
+*   [Diet](diet/index-en)
+*   [Emotion & Stress](emotion/index-en)
+*   [Exercise](exercise/index-en)
+*   [Sleep](sleep/index-en)
+
 
 ---
-
-## Rehabilitation Related Articles
 
 {% include post-list.html %}

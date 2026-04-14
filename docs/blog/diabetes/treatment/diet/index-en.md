@@ -1,21 +1,15 @@
 ---
-author: Dane Zhang (张杨)
-author_title: Health Tech Researcher
-description: Diabetes Treatment - Diet Management
-lang: en
 layout: default
-tags:
-- Treatment
-- Diet
-title: Diabetes Treatment - Diet Management
+title: Diet
+lang: en
 ---
 
-# Diabetes Treatment - Diet Management
+# Diet
 
-Welcome to the diabetes treatment diet section.
+## Subcategories
+*   [2026-03](2026-03/index-en)
 
-## Latest Articles
 
-{% include post-list.html path="/blog/diabetes/treatment/2026-03/" %}
+---
 
-[Back to Treatment](../)
+{% include post-list.html %}

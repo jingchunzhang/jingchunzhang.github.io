@@ -1,21 +1,15 @@
 ---
-author: 张杨 (Dane Zhang)
-author_title: 健康科技研究员
-description: 糖尿病治疗 - 情绪管理
-lang: zh
 layout: default
-tags:
-- Treatment
-- Emotion
-title: 糖尿病治疗 - 情绪管理
+title: 情绪与压力
+lang: zh
 ---
 
-# 糖尿病治疗 - 情绪管理
+# 情绪与压力
 
-欢迎来到糖尿病治疗情绪管理专区。
+## 子分类
+*   [2026-03](2026-03/)
 
-## 子目录
 
-- [心理健康](./2026-03/)
+---
 
-[返回治疗首页](../)
+{% include post-list.html %}

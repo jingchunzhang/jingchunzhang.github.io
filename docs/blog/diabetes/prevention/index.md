@@ -1,20 +1,20 @@
 ---
 layout: default
-title: 糖尿病预防 (Prevention)
+title: 预防
 lang: zh
 ---
-# 糖尿病预防 (Prevention)
 
-本专题专注于糖尿病的早期干预与生活方式调整。
+# 预防
 
-## 预防分类
-*   [饮食预防 (Diet)](./diet/)
-*   [情绪与压力管理 (Emotion)](./emotion/)
-*   [运动预防 (Exercise)](./exercise/)
-*   [睡眠修复 (Sleep)](./sleep/)
+## 子分类
+*   [2026-03](2026-03/)
+*   [2026-04](2026-04/)
+*   [饮食](diet/)
+*   [情绪与压力](emotion/)
+*   [运动](exercise/)
+*   [睡眠](sleep/)
+
 
 ---
-
-## 预防相关文章
 
 {% include post-list.html %}

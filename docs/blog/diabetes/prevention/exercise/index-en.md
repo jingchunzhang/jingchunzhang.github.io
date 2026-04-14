@@ -1,21 +1,15 @@
 ---
-author: Dane Zhang (张杨)
-author_title: Health Tech Researcher
-description: Diabetes Prevention - Exercise Management
-lang: en
 layout: default
-tags:
-- Prevention
-- Exercise
-title: Diabetes Prevention - Exercise Management
+title: Exercise
+lang: en
 ---
 
-# Diabetes Prevention - Exercise Management
+# Exercise
 
-Welcome to the diabetes prevention exercise management section.
+## Subcategories
+*   [2026-03](2026-03/index-en)
 
-## Subdirectories
 
-- [Exercise Prescription](./2026-03/)
+---
 
-[Back to Prevention](../)
+{% include post-list.html %}

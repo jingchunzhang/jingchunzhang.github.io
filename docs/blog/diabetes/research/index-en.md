@@ -1,20 +1,15 @@
 ---
-author: Dane Zhang (张杨)
-author_title: Health Tech Researcher
-description: Diabetes Research - Latest Advances
-lang: en
 layout: default
-tags:
-- Research
-title: Diabetes Research - Latest Advances
+title: Research
+lang: en
 ---
 
-# Diabetes Research - Latest Advances
+# Research
 
-Welcome to the diabetes research section.
+## Subcategories
+*   [2026-03](2026-03/index-en)
 
-## Latest Research
 
-{% include post-list.html path="/blog/diabetes/research/2026-03/" %}
+---
 
-[Back to Diabetes](../)
+{% include post-list.html %}

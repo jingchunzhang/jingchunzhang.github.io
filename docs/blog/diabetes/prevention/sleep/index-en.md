@@ -1,21 +1,15 @@
 ---
-author: Dane Zhang (张杨)
-author_title: Health Tech Researcher
-description: Diabetes Prevention - Sleep Management
-lang: en
 layout: default
-tags:
-- Prevention
-- Sleep
-title: Diabetes Prevention - Sleep Management
+title: Sleep
+lang: en
 ---
 
-# Diabetes Prevention - Sleep Management
+# Sleep
 
-Welcome to the diabetes prevention sleep management section.
+## Subcategories
+*   [2026-03](2026-03/index-en)
 
-## Latest Articles
 
-{% include post-list.html path="/blog/diabetes/prevention/sleep/2026-03/" %}
+---
 
-[Back to Prevention](../)
+{% include post-list.html %}

@@ -1,21 +1,15 @@
 ---
-author: Dane Zhang (张杨)
-author_title: Health Tech Researcher
-description: Diabetes Treatment - Emotion Management
-lang: en
 layout: default
-tags:
-- Treatment
-- Emotion
-title: Diabetes Treatment - Emotion Management
+title: Emotion & Stress
+lang: en
 ---
 
-# Diabetes Treatment - Emotion Management
+# Emotion & Stress
 
-Welcome to the diabetes treatment emotion section.
+## Subcategories
+*   [2026-03](2026-03/index-en)
 
-## Subdirectories
 
-- [Mental Health](./2026-03/)
+---
 
-[Back to Treatment](../)
+{% include post-list.html %}

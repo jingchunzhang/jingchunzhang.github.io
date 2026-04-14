@@ -1,20 +1,19 @@
 ---
 layout: default
-title: Diabetes Treatment
+title: Treatment
 lang: en
 ---
-# Diabetes Treatment
 
-This category focuses on the comprehensive management of medication, diet, and exercise for diabetes treatment.
+# Treatment
 
-## Treatment Subcategories
-*   [Diet Therapy](./diet/index-en)
-*   [Emotion & Stress Therapy](./emotion/index-en)
-*   [Exercise Prescription](./exercise/index-en)
-*   [Sleep & Metabolism](./sleep/index-en)
+## Subcategories
+*   [2026-03](2026-03/index-en)
+*   [Diet](diet/index-en)
+*   [Emotion & Stress](emotion/index-en)
+*   [Exercise](exercise/index-en)
+*   [Sleep](sleep/index-en)
+
 
 ---
-
-## Treatment Related Articles
 
 {% include post-list.html %}
