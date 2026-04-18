@@ -1,0 +1,100 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "What Should a Pregnant Woman With Gestational Diabetes Eat?",
+    "description": "Wondering what should a pregnant woman with gestational diabetes eat? Get dietitian-approved meal plans, carb counting tips, safe snacks, and foods to avoid for stable blood sugar during pregnancy.",
+    "datePublished": "2026-04-18T03:24:31+00:00",
+    "dateModified": "2026-04-18T03:24:31+00:00",
+    "wordCount": 2749,
+    "inLanguage": "en",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://dm.tangyou.space/what-should-a-pregnant-woman-with-gestational-diabetes-eat-dietitian-approved-gu/"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Health Blogger",
+      "jobTitle": "Health Content Creator"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "关于糖尿病",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://dm.tangyou.space/images/logo.png"
+      }
+    },
+    "keywords": "what should a pregnant woman with gestational diabetes eat"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Can I eat fruit if I have gestational diabetes?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, you can eat low-glycemic fruits in ½ to 1 cup portions paired with protein or fat to prevent blood sugar spikes. Avoid high-sugar fruits like mangoes, pineapple, and dried fruit in large quantities, and skip canned fruit with added syrup entirely."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How many carbs should I eat per meal with GD?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Most people with gestational diabetes are advised to eat 30-45g of carbs per main meal and 15-20g per snack, but your exact target will depend on your weight, activity level, and individual blood sugar response. Always follow personalized guidance from your dietitian or care team."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Are there foods that lower blood sugar for gestational diabetes?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No single food actively lowers blood sugar, but high-fiber foods, lean proteins, and healthy fats slow carb absorption to prevent sudden spikes. Drinking water and staying lightly active after meals can also help keep blood sugar levels within your target range."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I eat sweets occasionally if I have gestational diabetes?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "You can enjoy small portions of low-sugar sweets on rare occasions, as long as you pair them with protein and fiber, count the carbs toward your meal limit, and monitor your blood sugar afterward. Avoid large servings of cake, cookies, or candy that will cause extreme blood sugar spikes."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I need to follow a GD diet after I give birth?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Most people’s blood sugar returns to normal immediately after delivery, but following a balanced, low-sugar diet long-term can reduce your risk of developing type 2 diabetes later in life. Your care team will test your blood sugar 6-12 weeks postpartum to confirm it has returned to normal."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "关于糖尿病",
+        "item": "https://dm.tangyou.space"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://dm.tangyou.space/posts/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "What Should a Pregnant Woman With Gestational Diabetes Eat?",
+        "item": "https://dm.tangyou.space/what-should-a-pregnant-woman-with-gestational-diabetes-eat-dietitian-approved-gu/"
+      }
+    ]
+  }
+]
