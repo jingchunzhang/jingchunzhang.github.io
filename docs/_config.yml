@@ -12,6 +12,8 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 
+google_analytics: G-E0HL31ZNWL
+
 exclude:
   - node_modules
   - _ai
