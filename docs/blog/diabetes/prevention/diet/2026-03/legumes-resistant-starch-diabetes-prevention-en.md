@@ -9,7 +9,7 @@ layout: default
 tags:
 - Diet
 - Prevention
-title: 'Prevent Diabetes: Legumes, Fiber, and Resistant Starch for Steadier Glucose'
+title: "'Prevent Diabetes: Legumes, Fiber, and Resistant Starch for Steadier Glucose'"
 translation_key: prevention-diet-legumes-resistant-starch
 ---
 # Prevent Diabetes: Legumes, Fiber, and Resistant Starch for Steadier Glucose

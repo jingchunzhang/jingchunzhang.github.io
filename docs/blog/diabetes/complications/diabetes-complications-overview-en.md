@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Beware of the “Sweet Killer”: A Panoramic Overview of Diabetes Complications'
+title: "'Beware of the “Sweet Killer”: A Panoramic Overview of Diabetes Complications'"
 description: "A comprehensive analysis of acute and chronic diabetes complications, including cardiovascular disease, retinopathy, nephropathy, and neuropathy, helping diabetics build awareness for prevention."
 keywords: "diabetes complications, diabetes cardiovascular disease, diabetic retinopathy, diabetic foot, ketoacidosis"
 lang: en

@@ -11,7 +11,7 @@ layout: default
 tags:
 - Diet
 - Prevention
-title: 'Inflammation-Free, Sugar-Stable: How Anti-Inflammatory Diet Scientifically
+title: "'Inflammation-Free, Sugar-Stable: How Anti-Inflammatory Diet Scientifically"
   Prevents Diabetes'
 translation_key: prevention/diet/anti-inflammatory-diet-diabetes-prevention
 ---

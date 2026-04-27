@@ -1,5 +1,5 @@
 ---
-title: Diabetes Eye Disease Prevention: How to Protect Your Eyes from Complications
+title: "Diabetes Eye Disease Prevention: How to Protect Your Eyes from Complications"
 date: '2026-03-26T22:00:00+08:00'
 sort_date: '2026-03-26T22:00:00+08:00'
 lang: en

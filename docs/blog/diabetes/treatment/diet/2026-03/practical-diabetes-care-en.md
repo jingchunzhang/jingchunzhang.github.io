@@ -30,7 +30,7 @@ tags:
 - Diet
 - Clinical Care
 - Diet Strategy
-title: 'How to Make Diabetes Treatment Care Stick: Turning Practical Diabetes Care
+title: "'How to Make Diabetes Treatment Care Stick: Turning Practical Diabetes Care"
   into a Home Execution System'
 translation_key: practical-diabetes-care
 ---

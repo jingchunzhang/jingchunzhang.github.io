@@ -25,7 +25,7 @@ tags:
 - 健康
 - 预防
 - 糖尿病
-title: 'Diabetes Mental Health: Coping With Anxiety And Depression'
+title: "'Diabetes Mental Health: Coping With Anxiety And Depression'"
 translation_key: diabetes-mental-health-anxiety
 ---
 

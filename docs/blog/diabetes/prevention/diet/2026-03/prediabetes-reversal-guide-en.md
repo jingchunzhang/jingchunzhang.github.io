@@ -24,7 +24,7 @@ tags:
 - Prevention
 - 糖尿病
 - Diet
-title: 'Prediabetes: What Is It And How To Reverse It'
+title: "'Prediabetes: What Is It And How To Reverse It'"
 translation_key: prediabetes-reversal-guide
 ---
 

@@ -7,7 +7,7 @@ layout: default
 tags:
 - Diet
 - Prevention
-title: 'Prevent Diabetes: Understand GI/GL and Manage Glucose Spikes'
+title: "'Prevent Diabetes: Understand GI/GL and Manage Glucose Spikes'"
 translation_key: prevention-diet-gi-gl
 ---
 # Prevent Diabetes: Understand GI/GL and Manage Glucose Spikes

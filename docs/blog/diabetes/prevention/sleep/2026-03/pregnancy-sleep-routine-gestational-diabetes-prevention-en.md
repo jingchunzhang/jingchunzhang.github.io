@@ -29,7 +29,7 @@ tags:
 - Sleep
 - Pregnancy Sleep
 - Sleep Routine
-title: 'Pregnancy Sleep Routine for Gestational Diabetes Prevention: Stabilize the
+title: "'Pregnancy Sleep Routine for Gestational Diabetes Prevention: Stabilize the"
   Night First'
 translation_key: pregnancy-sleep-routine-gestational-diabetes-prevention
 ---

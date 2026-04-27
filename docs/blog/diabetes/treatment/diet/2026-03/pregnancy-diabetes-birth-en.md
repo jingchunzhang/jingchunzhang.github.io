@@ -30,7 +30,7 @@ tags:
 - Diet
 - Pregnancy Nutrition
 - Birth Planning
-title: 'Pregnancy, Diabetes, and Birth: A Practical Treatment-Stage Care Path'
+title: "'Pregnancy, Diabetes, and Birth: A Practical Treatment-Stage Care Path'"
 translation_key: pregnancy-diabetes-birth
 ---
 

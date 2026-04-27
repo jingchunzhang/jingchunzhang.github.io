@@ -8,7 +8,7 @@ layout: default
 tags:
 - Emotion
 - Treatment
-title: 'Emotion and Stress During Diabetes Treatment: Stop White‑Knuckling Glucose
+title: "'Emotion and Stress During Diabetes Treatment: Stop White‑Knuckling Glucose"
   Control'
 translation_key: treatment-emotion-stress
 ---

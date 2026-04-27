@@ -28,7 +28,7 @@ tags:
 - Treatment
 - treatment emotion
 - positive mindset
-title: 'Psyching Out Diabetes: Emotional Regulation Strategies During Active Treatment'
+title: "'Psyching Out Diabetes: Emotional Regulation Strategies During Active Treatment'"
 translation_key: psyching-out-diabetes
 ---
 

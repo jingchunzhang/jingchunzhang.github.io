@@ -29,7 +29,7 @@ tags:
 - Prevention
 - Nutrition
 - Diet
-title: 'How to Prevent Gestational Diabetes During Pregnancy: A Practical Framework
+title: "'How to Prevent Gestational Diabetes During Pregnancy: A Practical Framework"
   for Meals, Weight Gain, and Daily Activity'
 translation_key: gestational-diabetes-prevention-pregnancy
 ---

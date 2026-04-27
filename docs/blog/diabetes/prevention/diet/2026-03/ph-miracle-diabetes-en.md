@@ -30,7 +30,7 @@ tags:
 - Diet
 - Evidence-Based Nutrition
 - Plate Structure
-title: 'The ‘pH Diet’ and Diabetes Prevention: How to Read *The pH Miracle for Diabetes*
+title: "'The ‘pH Diet’ and Diabetes Prevention: How to Read *The pH Miracle for Diabetes*"
   with Evidence-Based Judgment'
 translation_key: ph-miracle-diabetes
 ---

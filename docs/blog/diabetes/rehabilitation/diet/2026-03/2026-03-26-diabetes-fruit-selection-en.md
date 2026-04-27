@@ -1,5 +1,5 @@
 ---
-title: 'Diabetes Fruit Selection: Which Fruits Are Suitable for Diabetes Patients'
+title: "'Diabetes Fruit Selection: Which Fruits Are Suitable for Diabetes Patients'"
 date: '2026-03-26T17:00:00+08:00'
 sort_date: '2026-03-26T17:00:00+08:00'
 lang: en

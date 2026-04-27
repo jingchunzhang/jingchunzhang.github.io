@@ -9,7 +9,7 @@ layout: default
 tags:
 - Diet
 - Prevention
-title: 'Nutritional Wisdom: Scientific Diabetes Prevention Through Balanced Diet'
+title: "'Nutritional Wisdom: Scientific Diabetes Prevention Through Balanced Diet'"
 translation_key: prevention/diet/balanced-diet-diabetes-prevention
 ---
 ## Preface: The Diet Dilemma in the Era of Information Explosion

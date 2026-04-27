@@ -9,7 +9,7 @@ layout: default
 tags:
 - Rehabilitation
 - Sleep
-title: 'Sleep Repair in Recovery: Stabilize Rhythm and Deep Sleep to Support Glucose
+title: "'Sleep Repair in Recovery: Stabilize Rhythm and Deep Sleep to Support Glucose"
   Control'
 translation_key: rehab-sleep-repair
 ---

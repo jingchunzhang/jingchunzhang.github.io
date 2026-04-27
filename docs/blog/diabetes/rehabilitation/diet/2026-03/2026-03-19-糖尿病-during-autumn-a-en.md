@@ -18,7 +18,7 @@ tags:
 - 糖尿病
 - 饮食
 - Diet
-title: 'My 3 Years of Managing Diabetes During Autumn: What Actually Works (And What
+title: "'My 3 Years of Managing Diabetes During Autumn: What Actually Works (And What"
   Messed Up My Blood Sugar Badly)'
 ---
 

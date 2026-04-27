@@ -8,7 +8,7 @@ layout: default
 tags:
 - Emotion
 - Rehabilitation
-title: 'Recovery: A 6-Step Goal System to Make Habits Stick'
+title: "'Recovery: A 6-Step Goal System to Make Habits Stick'"
 translation_key: rehab-emotion-six-steps
 ---
 # Recovery: A 6-Step Goal System to Make Habits Stick

@@ -1,0 +1,100 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "3 Hour Glucose Test: Complete Patient Guide for Prediabetes, Type 1, and Type 2 Diabetes",
+    "description": "Our patient-focused 3 hour test guide covers prep tips, what to expect, result interpretation, and next steps for prediabetes, Type 1, and Type 2 diabetes management.",
+    "datePublished": "2026-04-12T04:11:09+00:00",
+    "dateModified": "2026-04-12T04:11:09+00:00",
+    "wordCount": 2274,
+    "inLanguage": "en",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://dm.tangyou.space/3-hour-glucose-test-complete-patient-guide-for-prediabetes-type-1-and-type-2-dia/"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Health Blogger",
+      "jobTitle": "Health Content Creator"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "关于糖尿病",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://dm.tangyou.space/images/logo.png"
+      }
+    },
+    "keywords": "3 hour Test"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How do I correctly prepare for a 3 hour glucose test for diabetes?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Start by eating 150-200g of carbohydrates daily for 3 days before the test, fast for 8-12 hours prior, and confirm medication adjustments with your doctor. Avoid heavy exercise 24 hours before your appointment to prevent skewed results."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I drink water or take my regular diabetes medications during the 3 hour test?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "You can drink small sips of plain water during the test, but avoid flavored water, coffee, or other drinks. Most diabetes medications should be held unless your doctor explicitly tells you to take them, as they can alter your test results."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What do abnormal 3 hour glucose test results mean for my diabetes diagnosis or management plan?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "For at-risk individuals, abnormal results may confirm a prediabetes or Type 2 diabetes diagnosis. For existing Type 1 or Type 2 diabetes patients, abnormal results indicate changes to insulin sensitivity that may require medication, meal plan, or activity adjustments with your care team."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How long does it take to get 3 hour glucose test results back?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Most patients receive their 3 hour glucose test results within 24 to 72 hours after their appointment, depending on their lab’s processing speed. Your doctor will reach out to discuss results and next steps if they fall outside normal ranges."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I take the 3 hour glucose test if I am sick?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "You should reschedule your 3 hour glucose test if you are sick, as infection, fever, and even mild cold symptoms can raise your blood sugar levels and lead to inaccurate results. Confirm rescheduling guidelines with your doctor’s office."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "关于糖尿病",
+        "item": "https://dm.tangyou.space"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://dm.tangyou.space/posts/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "3 Hour Glucose Test: Complete Patient Guide for Prediabetes, Type 1, and Type 2 Diabetes",
+        "item": "https://dm.tangyou.space/3-hour-glucose-test-complete-patient-guide-for-prediabetes-type-1-and-type-2-dia/"
+      }
+    ]
+  }
+]

@@ -1,5 +1,5 @@
 ---
-title: 'Diabetes Hotpot Guide: How to Enjoy Hotpot Healthily Without Raising Blood Sugar'
+title: "'Diabetes Hotpot Guide: How to Enjoy Hotpot Healthily Without Raising Blood Sugar'"
 date: '2026-03-26T15:00:00+08:00'
 sort_date: '2026-03-26T15:00:00+08:00'
 lang: en

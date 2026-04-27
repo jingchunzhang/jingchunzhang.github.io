@@ -1,5 +1,5 @@
 ---
-title: 'Diabetes Quit Smoking Guide: Protecting Your Health Starts with Quitting Smoking'
+title: "'Diabetes Quit Smoking Guide: Protecting Your Health Starts with Quitting Smoking'"
 date: '2026-03-30T10:00:00+08:00'
 sort_date: '2026-03-30T10:00:00+08:00'
 lang: en

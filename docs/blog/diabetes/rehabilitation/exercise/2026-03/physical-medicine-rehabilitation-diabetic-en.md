@@ -30,7 +30,7 @@ tags:
 - Rehabilitation
 - Exercise Therapy
 - Complications
-title: 'Rehabilitation Exercise After Diabetes-Related Complications: From Safety
+title: "'Rehabilitation Exercise After Diabetes-Related Complications: From Safety"
   Assessment to Functional Recovery'
 translation_key: physical-medicine-rehabilitation-diabetic
 ---

@@ -1,5 +1,5 @@
 ---
-title: '2025''s Best First Aid Kits for Vehicles: Expert Reviews & Top Recommendations
+title: "'2025''s Best First Aid Kits for Vehicles: Expert Reviews & Top Recommendations"
   for Diabetic Drivers'
 date: '2026-04-05T08:15:28+00:00'
 draft: false

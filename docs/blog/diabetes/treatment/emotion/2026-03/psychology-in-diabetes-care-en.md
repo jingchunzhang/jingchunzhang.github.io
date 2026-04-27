@@ -30,7 +30,7 @@ tags:
 - Stress Management
 - Behavior Change
 - Diabetes Psychology
-title: 'Emotional Management During Diabetes Treatment: Turning Psychology in Diabetes
+title: "'Emotional Management During Diabetes Treatment: Turning Psychology in Diabetes"
   Care into Daily Action'
 translation_key: psychology-in-diabetes-care
 ---

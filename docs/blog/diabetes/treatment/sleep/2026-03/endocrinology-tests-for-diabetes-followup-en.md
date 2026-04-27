@@ -30,7 +30,7 @@ tags:
 - Endocrinology
 - Lab Interpretation
 - Diabetes Follow-up
-title: 'Endocrinology Tests for Diabetes Follow-Up: What Matters Most'
+title: "'Endocrinology Tests for Diabetes Follow-Up: What Matters Most'"
 translation_key: endocrinology-tests-for-diabetes-followup
 ---
 

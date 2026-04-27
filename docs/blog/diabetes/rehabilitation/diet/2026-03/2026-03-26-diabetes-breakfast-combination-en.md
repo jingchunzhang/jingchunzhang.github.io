@@ -1,5 +1,5 @@
 ---
-title: Best Breakfast Combinations for Diabetics: How to Eat for Healthy Blood Sugar
+title: "Best Breakfast Combinations for Diabetics: How to Eat for Healthy Blood Sugar"
 date: '2026-03-26T16:00:00+08:00'
 sort_date: '2026-03-26T16:00:00+08:00'
 lang: en

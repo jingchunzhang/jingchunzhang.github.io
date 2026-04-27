@@ -23,7 +23,7 @@ tags:
 - meal sequencing
 - Diet
 - treatment diet
-title: 'How to Eat Carbs Without Causing a Blood Sugar Spike: A Complete Guide for
+title: "'How to Eat Carbs Without Causing a Blood Sugar Spike: A Complete Guide for"
   Diabetes Treatment'
 translation_key: how-to-eat-carbs-without-spike
 ---

@@ -28,7 +28,7 @@ tags:
 - Diabetes Breakfast
 - Comfort Food
 - Diet
-title: 'Comfort-Food Breakfast Template for Diabetes Treatment: Start Stable, Stay
+title: "'Comfort-Food Breakfast Template for Diabetes Treatment: Start Stable, Stay"
   Stable'
 translation_key: comfort-food-breakfast-template-diabetes-treatment
 ---

@@ -1,5 +1,5 @@
 ---
-title: Diabetes Exercise Plan: Scientific Exercise for Stable Blood Sugar
+title: "Diabetes Exercise Plan: Scientific Exercise for Stable Blood Sugar"
 date: '2026-03-25T11:00:00+08:00'
 sort_date: '2026-03-25T11:00:00+08:00'
 lang: en

@@ -1,5 +1,5 @@
 ---
-title: Diabetes Prevention for Sedentary Office Workers: Complete Guide to Blood Sugar Management During Work
+title: "Diabetes Prevention for Sedentary Office Workers: Complete Guide to Blood Sugar Management During Work"
 date: '2026-03-25T09:30:00+08:00'
 sort_date: '2026-03-25T09:30:00+08:00'
 lang: en

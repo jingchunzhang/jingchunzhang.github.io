@@ -1,5 +1,5 @@
 ---
-title: Dietary Recommendations for Elderly Diabetics: Scientific Pairing for Better Blood Sugar Control
+title: "Dietary Recommendations for Elderly Diabetics: Scientific Pairing for Better Blood Sugar Control"
 date: '2026-03-25T09:00:00+08:00'
 sort_date: '2026-03-25T09:00:00+08:00'
 lang: en

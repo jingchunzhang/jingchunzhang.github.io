@@ -29,7 +29,7 @@ tags:
 - Type 2 Diabetes
 - Monitoring Protocol
 - Home Care
-title: 'Type 2 Diabetes Monitoring Protocols: A Practical Home Version'
+title: "'Type 2 Diabetes Monitoring Protocols: A Practical Home Version'"
 translation_key: type2-diabetes-monitoring-protocols
 ---
 

@@ -29,7 +29,7 @@ tags:
 - Self Management
 - Prevention
 - Sleep
-title: 'Diabetes A-to-Z Basics: A Practical Starting Point'
+title: "'Diabetes A-to-Z Basics: A Practical Starting Point'"
 translation_key: diabetes-a-to-z-basics
 ---
 

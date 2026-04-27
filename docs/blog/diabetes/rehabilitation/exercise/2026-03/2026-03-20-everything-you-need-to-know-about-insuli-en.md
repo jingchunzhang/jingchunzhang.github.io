@@ -18,7 +18,7 @@ tags:
 - Exercise
 - 糖尿病
 - 饮食
-title: 'A Beginner’s Complete Guide to Insulin: What It Does, How to Use It, and Safety
+title: "'A Beginner’s Complete Guide to Insulin: What It Does, How to Use It, and Safety"
   Tips'
 ---
 

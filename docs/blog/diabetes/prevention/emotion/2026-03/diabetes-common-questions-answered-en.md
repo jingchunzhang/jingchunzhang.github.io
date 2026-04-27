@@ -30,7 +30,7 @@ tags:
 - Family Support
 - Prevention
 - Emotional Health
-title: 'Diabetes Common Questions Answered: A Practical FAQ for Everyday Decisions'
+title: "'Diabetes Common Questions Answered: A Practical FAQ for Everyday Decisions'"
 translation_key: diabetes-common-questions-answered
 ---
 

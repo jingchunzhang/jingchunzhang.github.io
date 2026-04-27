@@ -8,7 +8,7 @@ layout: default
 tags:
 - Diet
 - Rehabilitation
-title: 'Recovery Diet: Nuts and Seeds — Why Fat Quality Matters More Than Quantity'
+title: "'Recovery Diet: Nuts and Seeds — Why Fat Quality Matters More Than Quantity'"
 translation_key: rehab-diet-nuts-seeds
 ---
 # Recovery Diet: Nuts and Seeds — Why Fat Quality Matters More Than Quantity

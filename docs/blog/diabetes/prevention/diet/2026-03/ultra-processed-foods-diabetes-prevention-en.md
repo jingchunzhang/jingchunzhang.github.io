@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Ultra‑Processed Foods (UPFs) and Type 2 Diabetes Risk: Read Labels, Make Steadier Choices'
+title: "'Ultra‑Processed Foods (UPFs) and Type 2 Diabetes Risk: Read Labels, Make Steadier Choices'"
 description: 'UPFs are not the same as “all processed foods.” This guide explains what UPFs typically look like, why they can make glucose stability harder, and a practical label‑reading + swap checklist you can actually follow.'
 author: "Dane Zhang (张杨)"
 author_title: "Health Tech Researcher"

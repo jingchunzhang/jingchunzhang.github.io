@@ -1,5 +1,5 @@
 ---
-title: '6.2 mmol/L Ketones and 4.1 mmol/L Glucose Result: What It Means, Next Steps,
+title: "'6.2 mmol/L Ketones and 4.1 mmol/L Glucose Result: What It Means, Next Steps,"
   and When to Seek Care'
 date: '2026-04-12T04:51:06+00:00'
 sort_date: '2026-04-12T12:51:06+08:00'

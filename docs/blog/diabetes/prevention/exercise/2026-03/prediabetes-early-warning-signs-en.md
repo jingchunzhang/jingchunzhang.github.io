@@ -30,7 +30,7 @@ tags:
 - Prediabetes
 - Prevention
 - Blood Sugar Tracking
-title: 'Prediabetes Early Warning Signs: What to Track This Month'
+title: "'Prediabetes Early Warning Signs: What to Track This Month'"
 translation_key: prediabetes-early-warning-signs
 ---
 

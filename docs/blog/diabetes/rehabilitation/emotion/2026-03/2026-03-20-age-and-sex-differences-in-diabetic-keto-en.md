@@ -18,7 +18,7 @@ tags:
 - 健康
 - 糖尿病
 - 饮食
-title: 'I’m a 10-Year Type 1 Diabetic: Here’s What That National Study On Age & Sex
+title: "'I’m a 10-Year Type 1 Diabetic: Here’s What That National Study On Age & Sex"
   Differences In DKA Outcomes Actually Means For You'
 ---
 

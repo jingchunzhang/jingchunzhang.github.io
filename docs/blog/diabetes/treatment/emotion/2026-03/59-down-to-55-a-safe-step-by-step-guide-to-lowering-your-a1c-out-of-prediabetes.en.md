@@ -1,5 +1,5 @@
 ---
-title: '5.9 Down to 5.5: A Safe, Step-by-Step Guide to Lowering Your A1c Out of Prediabetes
+title: "'5.9 Down to 5.5: A Safe, Step-by-Step Guide to Lowering Your A1c Out of Prediabetes"
   Range'
 date: '2026-04-12T04:38:24+00:00'
 sort_date: '2026-04-12T12:38:24+08:00'

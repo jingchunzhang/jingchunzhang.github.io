@@ -1,5 +1,5 @@
 ---
-title: Spring Health Care for Diabetics: Adapting to the Season with Scientific Tuning
+title: "Spring Health Care for Diabetics: Adapting to the Season with Scientific Tuning"
 date: '2026-03-25T12:00:00+08:00'
 sort_date: '2026-03-25T12:00:00+08:00'
 lang: en

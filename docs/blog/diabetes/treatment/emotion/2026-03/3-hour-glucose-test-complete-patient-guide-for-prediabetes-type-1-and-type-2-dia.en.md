@@ -1,5 +1,5 @@
 ---
-title: '3 Hour Glucose Test: Complete Patient Guide for Prediabetes, Type 1, and Type
+title: "'3 Hour Glucose Test: Complete Patient Guide for Prediabetes, Type 1, and Type"
   2 Diabetes'
 date: '2026-04-12T04:11:09+00:00'
 sort_date: '2026-04-12T12:11:09+08:00'

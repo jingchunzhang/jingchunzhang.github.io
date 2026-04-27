@@ -23,7 +23,7 @@ stage: treatment
 tags:
 - Diet
 - Treatment
-title: 'Diabetic-Friendly Home Cooking: Simple Techniques to Control Blood Sugar'
+title: "'Diabetic-Friendly Home Cooking: Simple Techniques to Control Blood Sugar'"
 translation_key: diabetic-cooking-everyone
 ---
 

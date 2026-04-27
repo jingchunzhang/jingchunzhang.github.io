@@ -8,7 +8,7 @@ layout: default
 tags:
 - Emotion
 - Rehabilitation
-title: 'Psychological Recovery in Diabetes: Make Healthy Choices Feel Easier'
+title: "'Psychological Recovery in Diabetes: Make Healthy Choices Feel Easier'"
 translation_key: rehab-emotion-psych
 ---
 # Psychological Recovery in Diabetes: Make Healthy Choices Feel Easier

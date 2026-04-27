@@ -1,5 +1,5 @@
 ---
-title: Gestational Diabetes Meal Plan: Scientific Diet for Mother and Baby Health
+title: "Gestational Diabetes Meal Plan: Scientific Diet for Mother and Baby Health"
 date: '2026-03-25T10:00:00+08:00'
 sort_date: '2026-03-25T10:00:00+08:00'
 lang: en

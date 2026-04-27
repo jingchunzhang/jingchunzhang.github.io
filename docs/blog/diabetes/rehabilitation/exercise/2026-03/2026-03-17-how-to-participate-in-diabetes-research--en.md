@@ -19,7 +19,7 @@ tags:
 - Exercise
 - 糖尿病
 - 饮食
-title: 'How to Participate in Diabetes Research Panels and Studies: Paid vs Unpaid
+title: "'How to Participate in Diabetes Research Panels and Studies: Paid vs Unpaid"
   Options Compared'
 ---
 ![Diabetes research panel discussion with diverse participants](https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80) *Alt text: A diverse group of individuals in a diabetes research panel discussion, illustrating inclusive participation in medical research.*  

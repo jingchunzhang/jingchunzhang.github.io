@@ -9,7 +9,7 @@ layout: default
 tags:
 - Prevention
 - Exercise
-title: 'Exercise as Medicine: How Scientific Training Effectively Prevents Diabetes'
+title: "'Exercise as Medicine: How Scientific Training Effectively Prevents Diabetes'"
 translation_key: prevention/exercise/how-daily-exercise-prevents-diabetes
 ---
 ## Preface: Why Do We Need to Pay Attention to Diabetes?

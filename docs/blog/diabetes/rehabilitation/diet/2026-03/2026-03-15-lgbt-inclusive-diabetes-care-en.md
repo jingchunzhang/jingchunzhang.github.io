@@ -24,7 +24,7 @@ tags:
 - Diet
 - treatment diet
 - healthcare equity
-title: 'Providing Inclusive Diabetes Care for LGBT+ Patients: Challenges and Opportunities'
+title: "'Providing Inclusive Diabetes Care for LGBT+ Patients: Challenges and Opportunities'"
 translation_key: lgbt-inclusive-diabetes-care
 ---
 

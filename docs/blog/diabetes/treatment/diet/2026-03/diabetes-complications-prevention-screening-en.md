@@ -25,7 +25,7 @@ tags:
 - 预防
 - 糖尿病
 - Diet
-title: 'Diabetes Complications Prevention: Early Signs And Screening'
+title: "'Diabetes Complications Prevention: Early Signs And Screening'"
 translation_key: diabetes-complications-prevention-screening
 ---
 

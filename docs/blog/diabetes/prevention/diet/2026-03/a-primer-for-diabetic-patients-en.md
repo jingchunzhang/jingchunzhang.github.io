@@ -30,7 +30,7 @@ tags:
 - Glucose Stability
 - Diet
 - Habit Design
-title: 'Diabetes Beginner Nutrition Plan: A Practical First-4-Week Framework'
+title: "'Diabetes Beginner Nutrition Plan: A Practical First-4-Week Framework'"
 translation_key: a-primer-for-diabetic-patients
 ---
 

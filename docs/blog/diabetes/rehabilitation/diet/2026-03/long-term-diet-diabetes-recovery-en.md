@@ -8,7 +8,7 @@ layout: default
 tags:
 - Diet
 - Rehabilitation
-title: 'Diet in Diabetes Recovery: From “Controlled” to “Sustainable”'
+title: "'Diet in Diabetes Recovery: From “Controlled” to “Sustainable”'"
 translation_key: rehab-diet-longterm
 ---
 # Diet in Diabetes Recovery: From “Controlled” to “Sustainable”

@@ -1,5 +1,5 @@
 ---
-title: '29 y/o: Sudden ED, Suddenly Cured, Suddenly Back? Linking Fluctuating ED in
+title: "'29 y/o: Sudden ED, Suddenly Cured, Suddenly Back? Linking Fluctuating ED in"
   Young Adults to Prediabetes & Diabetes'
 date: '2026-04-12T03:55:21+00:00'
 sort_date: '2026-04-12T11:55:21+08:00'

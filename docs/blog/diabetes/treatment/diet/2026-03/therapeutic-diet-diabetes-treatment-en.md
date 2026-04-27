@@ -9,7 +9,7 @@ layout: default
 tags:
 - Diet
 - Treatment
-title: 'Diet During Diabetes Treatment: Turn “Glucose Control” Into Every Meal'
+title: "'Diet During Diabetes Treatment: Turn “Glucose Control” Into Every Meal'"
 translation_key: treatment-diet-therapeutic
 ---
 

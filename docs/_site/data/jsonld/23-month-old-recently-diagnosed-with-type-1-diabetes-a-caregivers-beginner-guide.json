@@ -1,0 +1,100 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "23 Month Old Recently Diagnosed With Type 1 Diabetes: A Caregiver’s Beginner Guide to Coping & First Steps",
+    "description": "If your 23 month old has been recently diagnosed with Type 1 diabetes, get jargon-free, pediatrician-approved care tips, emotional support, and age-specific hacks to reduce overwhelm and navigate the first month confidently.",
+    "datePublished": "2026-04-05T08:29:29+00:00",
+    "dateModified": "2026-04-05T08:29:29+00:00",
+    "wordCount": 2793,
+    "inLanguage": "en",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://dm.tangyou.space/23-month-old-recently-diagnosed-with-type-1-diabetes-a-caregivers-beginner-guide/"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Health Blogger",
+      "jobTitle": "Health Content Creator"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "关于糖尿病",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://dm.tangyou.space/images/logo.png"
+      }
+    },
+    "keywords": "23 month old recently diagnosed"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Is Type 1 diabetes in my 23 month old caused by anything I did?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, Type 1 diabetes is an autoimmune condition with no link to diet, parenting choices, or lifestyle factors for toddlers. It occurs when the body’s immune system mistakenly attacks insulin-producing cells in the pancreas, and there is currently no way to prevent it."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the most urgent first steps I need to take right after my toddler’s diabetes diagnosis?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "First, schedule your first home care follow-up with your pediatric endocrinology team within 3 business days. Next, stock 3 separate supply kits (home, diaper bag, childcare provider) with insulin, test strips, glucagon, and fast-acting carbs. Finally, share a written emergency plan with all adults who care for your child."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I safely give insulin shots to a wiggly 23 month old?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Use distraction tools like a favorite video, bubble machine, or snack to keep your toddler occupied during shots. Numb the injection site (thigh or upper arm) with an ice cube for 2 minutes first, use a short 31-gauge needle, and offer a small, non-food reward like a sticker immediately after administration. Always double-check your dose with another caregiver if possible."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can my 23 month old still eat their favorite foods after a diabetes diagnosis?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, your toddler can still eat nearly all their favorite foods with proper carb counting and insulin dose adjustment. Work with your pediatric dietitian to learn how to match fast-acting insulin doses to the number of carbs in each meal or snack, and avoid unnecessary food restrictions that can lead to mealtime battles."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How often do I need to check my 23 month old’s blood sugar after diagnosis?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Most endocrinology teams recommend checking blood sugar 4 to 6 times per day for newly diagnosed toddlers, including before meals, before bed, and if your child shows signs of low or high blood sugar (fussiness, lethargy, excessive thirst). Your team may adjust this frequency as you get more comfortable with management."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "关于糖尿病",
+        "item": "https://dm.tangyou.space"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://dm.tangyou.space/posts/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "23 Month Old Recently Diagnosed With Type 1 Diabetes: A Caregiver’s Beginner Guide to Coping & First Steps",
+        "item": "https://dm.tangyou.space/23-month-old-recently-diagnosed-with-type-1-diabetes-a-caregivers-beginner-guide/"
+      }
+    ]
+  }
+]

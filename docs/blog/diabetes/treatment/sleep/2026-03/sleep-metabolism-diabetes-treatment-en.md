@@ -8,7 +8,7 @@ layout: default
 tags:
 - Treatment
 - Sleep
-title: 'Sleep and Metabolism in Diabetes Treatment: The “Night Shift” That Stabilizes
+title: "'Sleep and Metabolism in Diabetes Treatment: The “Night Shift” That Stabilizes"
   Glucose'
 translation_key: treatment-sleep-metabolism
 ---

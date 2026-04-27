@@ -1,0 +1,62 @@
+==================================================
+Start Special Task: 2026-03-19 09:18:51
+==================================================
+Base keywords: ['diabetes', 'diabetic', 'blood sugar', 'glucose', 'insulin', '糖尿病', '血糖']
+Generated 70 dimensional keywords.
+Selected keywords: ['糖尿病 during Autumn', 'glucose during Spring', 'diabetic in Canada', '糖尿病 in Australia']
+Plan to generate 5 posts.
+
+Processing [1/5]: 糖尿病 during Autumn (Variant A)
+  Generating ZH...
+  Generating EN...
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/diet/2026-03-19-糖尿病-during-autumn-a.md
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/diet/2026-03-19-糖尿病-during-autumn-a-en.md
+  Saved: 2026-03-19-糖尿病-during-autumn-a & 2026-03-19-糖尿病-during-autumn-a-en
+
+Processing [2/5]: 糖尿病 during Autumn (Variant B)
+  Generating ZH...
+  Generating EN...
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/diet/2026-03-19-糖尿病-during-autumn-b.md
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/diet/2026-03-19-糖尿病-during-autumn-b-en.md
+  Saved: 2026-03-19-糖尿病-during-autumn-b & 2026-03-19-糖尿病-during-autumn-b-en
+
+Processing [3/5]: glucose during Spring (Variant A)
+  Generating ZH...
+  Generating EN...
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/diet/2026-03-19-glucose-during-spring-a.md
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/diet/2026-03-19-glucose-during-spring-a-en.md
+  Saved: 2026-03-19-glucose-during-spring-a & 2026-03-19-glucose-during-spring-a-en
+
+Processing [4/5]: glucose during Spring (Variant B)
+  Generating ZH...
+  Generating EN...
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/['prevention', 'treatment']/diet/2026-03-19-glucose-during-spring-b.md
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/['prevention', 'treatment']/diet/2026-03-19-glucose-during-spring-b-en.md
+  Saved: 2026-03-19-glucose-during-spring-b & 2026-03-19-glucose-during-spring-b-en
+
+Processing [5/5]: diabetic in Canada (Variant A)
+  Generating ZH...
+  Generating EN...
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/diet/2026-03-19-diabetic-in-canada-a.md
+已创建文章: /home/danezhang/dev/blog/jingchunzhang.github.io/docs/blog/treatment/diet/2026-03-19-diabetic-in-canada-a-en.md
+  Saved: 2026-03-19-diabetic-in-canada-a & 2026-03-19-diabetic-in-canada-a-en
+
+Updating index...
+
+Pushing to Git...
+[main 4b8fced] Auto publish 5 posts (Special Task) - 2026-03-19
+ 15 files changed, 1004 insertions(+), 14 deletions(-)
+ create mode 100644 _code/fix_titles.py
+ create mode 100644 docs/blog/['prevention', 'treatment']/diet/2026-03-19-glucose-during-spring-b-en.md
+ create mode 100644 docs/blog/['prevention', 'treatment']/diet/2026-03-19-glucose-during-spring-b.md
+ create mode 100644 docs/blog/treatment/diet/2026-03-19-diabetic-in-canada-a-en.md
+ create mode 100644 docs/blog/treatment/diet/2026-03-19-diabetic-in-canada-a.md
+ create mode 100644 docs/blog/treatment/diet/2026-03-19-glucose-during-spring-a-en.md
+ create mode 100644 docs/blog/treatment/diet/2026-03-19-glucose-during-spring-a.md
+ create mode 100644 "docs/blog/treatment/diet/2026-03-19-\347\263\226\345\260\277\347\227\205-during-autumn-b-en.md"
+ create mode 100644 "docs/blog/treatment/diet/2026-03-19-\347\263\226\345\260\277\347\227\205-during-autumn-b.md"
+To https://github.com/jingchunzhang/jingchunzhang.github.io.git
+   2f849bb..4b8fced  main -> main
+已推送到 GitHub
+
+Task Complete.

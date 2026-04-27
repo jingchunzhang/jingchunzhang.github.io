@@ -1,0 +1,122 @@
+/* 面包屑导航样式 */
+
+.breadcrumb {
+  margin: 1.5rem 0 2rem 0;
+  padding: 1rem;
+  background-color: #f6f8fa;
+  border-radius: 6px;
+  border-left: 4px solid #157878;
+}
+
+.breadcrumb-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  font-size: 0.9rem;
+}
+
+.breadcrumb-item {
+  display: flex;
+  align-items: center;
+  margin: 0;
+}
+
+.breadcrumb-item:not(:last-child)::after {
+  content: " >";
+  margin: 0 0.5rem;
+  color: #666;
+  font-weight: 300;
+}
+
+.breadcrumb-link {
+  color: #157878;
+  text-decoration: none;
+  transition: color 0.2s ease;
+  font-weight: 500;
+}
+
+.breadcrumb-link:hover {
+  color: #0d5a6e;
+  text-decoration: underline;
+}
+
+.breadcrumb-link:active {
+  color: #0d5a6e;
+}
+
+.breadcrumb-current {
+  color: #333;
+  font-weight: 600;
+}
+
+.breadcrumb-item--active .breadcrumb-current {
+  color: #666;
+  font-weight: 500;
+}
+
+/* 响应式设计：移动端 */
+@media screen and (max-width: 640px) {
+  .breadcrumb {
+    margin: 1rem 0 1.5rem 0;
+    padding: 0.75rem;
+    border-left-width: 3px;
+  }
+
+  .breadcrumb-list {
+    font-size: 0.8rem;
+  }
+
+  .breadcrumb-item:not(:last-child)::after {
+    margin: 0 0.3rem;
+  }
+}
+
+/* 语言切换按钮样式 */
+.language-switch {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  z-index: 100;
+}
+
+.language-switch a {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #157878;
+  background-color: #f6f8fa;
+  border: 1px solid #157878;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.language-switch a:hover {
+  color: #fff;
+  background-color: #157878;
+  text-decoration: none;
+}
+
+/* 响应式设计：移动端 */
+@media screen and (max-width: 640px) {
+  .language-switch {
+    top: 0.5rem;
+    right: 0.5rem;
+  }
+
+  .language-switch a {
+    padding: 0.3rem 0.6rem;
+    font-size: 0.75rem;
+  }
+}
+
+/* 打印样式 */
+@media print {
+  .language-switch {
+    display: none;
+  }
+}

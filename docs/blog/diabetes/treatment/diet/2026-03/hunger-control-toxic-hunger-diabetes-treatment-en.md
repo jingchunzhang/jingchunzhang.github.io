@@ -8,7 +8,7 @@ layout: default
 tags:
 - Diet
 - Treatment
-title: 'A Core Treatment Skill: Hunger Control (Toxic Hunger vs True Hunger)'
+title: "'A Core Treatment Skill: Hunger Control (Toxic Hunger vs True Hunger)'"
 translation_key: treatment-diet-hunger-control
 ---
 # A Core Treatment Skill: Hunger Control (Toxic Hunger vs True Hunger)

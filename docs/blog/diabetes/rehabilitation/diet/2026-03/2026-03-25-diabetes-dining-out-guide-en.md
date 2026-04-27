@@ -1,5 +1,5 @@
 ---
-title: Dining Out with Diabetes: A Complete Guide to Safe Eating
+title: "Dining Out with Diabetes: A Complete Guide to Safe Eating"
 date: '2026-03-25T13:00:00+08:00'
 sort_date: '2026-03-25T13:00:00+08:00'
 lang: en

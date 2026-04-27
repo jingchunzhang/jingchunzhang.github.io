@@ -1,5 +1,5 @@
 ---
-title: '2 Weeks After 5-Day Fast and Still Very High Blood Ketones: A Diabetes Troubleshooting
+title: "'2 Weeks After 5-Day Fast and Still Very High Blood Ketones: A Diabetes Troubleshooting"
   Guide'
 date: '2026-04-05T08:01:04+00:00'
 draft: false

@@ -27,7 +27,7 @@ tags:
 - treatment diet
 - diabetes basics
 - A to Z guide
-title: 'Diabetes A to Z: A Practical Diet Guide for the Treatment Stage'
+title: "'Diabetes A to Z: A Practical Diet Guide for the Treatment Stage'"
 translation_key: diabetes-a-to-z
 ---
 

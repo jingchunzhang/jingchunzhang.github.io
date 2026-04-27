@@ -1,5 +1,5 @@
 ---
-title: 'Diabetes Foot Care: How to Prevent and Care for Diabetic Foot'
+title: "'Diabetes Foot Care: How to Prevent and Care for Diabetic Foot'"
 date: '2026-03-26T20:00:00+08:00'
 sort_date: '2026-03-26T20:00:00+08:00'
 lang: en

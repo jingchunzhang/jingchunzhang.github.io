@@ -30,7 +30,7 @@ tags:
 - Glucose Monitoring
 - Home Management
 - Diet
-title: 'Gestational Diabetes Home Care: How to Coordinate Glucose Checks, Snacks,
+title: "'Gestational Diabetes Home Care: How to Coordinate Glucose Checks, Snacks,"
   and Prenatal Follow-Up'
 translation_key: gestational-diabetes-home-care-pregnancy
 ---

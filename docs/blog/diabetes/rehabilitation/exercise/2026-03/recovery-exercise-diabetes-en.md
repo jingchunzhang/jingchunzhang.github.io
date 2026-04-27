@@ -8,7 +8,7 @@ layout: default
 tags:
 - Rehabilitation
 - Exercise
-title: 'Exercise in Diabetes Recovery: From “Glucose Control” to “Fitness Restoration”'
+title: "'Exercise in Diabetes Recovery: From “Glucose Control” to “Fitness Restoration”'"
 translation_key: rehab-exercise-recovery
 ---
 # Exercise in Diabetes Recovery: From “Glucose Control” to “Fitness Restoration”

@@ -1,5 +1,5 @@
 ---
-title: Diabetes Foot Care: Preventing Diabetic Foot Complications
+title: "Diabetes Foot Care: Preventing Diabetic Foot Complications"
 date: '2026-03-30T10:00:00+08:00'
 sort_date: '2026-03-30T10:00:00+08:00'
 lang: en

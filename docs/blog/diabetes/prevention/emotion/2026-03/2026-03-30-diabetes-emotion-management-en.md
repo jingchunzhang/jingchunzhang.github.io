@@ -1,5 +1,5 @@
 ---
-title: Diabetes Emotion Management: How to Regulate Emotions and Control Blood Sugar
+title: "Diabetes Emotion Management: How to Regulate Emotions and Control Blood Sugar"
 date: '2026-03-30T10:00:00+08:00'
 sort_date: '2026-03-30T10:00:00+08:00'
 lang: en

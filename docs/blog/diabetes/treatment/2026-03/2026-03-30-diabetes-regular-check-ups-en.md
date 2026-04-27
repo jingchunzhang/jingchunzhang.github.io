@@ -1,5 +1,5 @@
 ---
-title: 'Diabetes Regular Check-ups: The Key to Preventing Complications'
+title: "'Diabetes Regular Check-ups: The Key to Preventing Complications'"
 date: '2026-03-30T10:00:00+08:00'
 sort_date: '2026-03-30T10:00:00+08:00'
 lang: en

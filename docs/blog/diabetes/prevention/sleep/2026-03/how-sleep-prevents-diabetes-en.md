@@ -10,7 +10,7 @@ layout: default
 tags:
 - Prevention
 - Sleep
-title: 'Sleep as Medicine: How Adequate Quality Sleep Effectively Prevents Diabetes'
+title: "'Sleep as Medicine: How Adequate Quality Sleep Effectively Prevents Diabetes'"
 translation_key: prevention/sleep/how-sleep-prevents-diabetes
 ---
 ## Preface: The Overlooked Cornerstone of Diabetes Prevention

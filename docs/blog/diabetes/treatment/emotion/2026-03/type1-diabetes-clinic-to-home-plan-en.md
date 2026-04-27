@@ -30,7 +30,7 @@ tags:
 - Emotion Management
 - Insulin Management
 - Type 1 Diabetes
-title: 'Type 1 Diabetes: Turning Clinic Advice into a Daily Home Plan'
+title: "'Type 1 Diabetes: Turning Clinic Advice into a Daily Home Plan'"
 translation_key: type1-diabetes-clinic-to-home-plan
 ---
 

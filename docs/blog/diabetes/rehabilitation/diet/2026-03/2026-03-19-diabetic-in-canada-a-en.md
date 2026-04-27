@@ -18,7 +18,7 @@ tags:
 - 糖尿病
 - 饮食
 - Diet
-title: 'Managing Diabetes in Canada: A No-Fuss, Budget-Friendly Step-by-Step Guide
+title: "'Managing Diabetes in Canada: A No-Fuss, Budget-Friendly Step-by-Step Guide"
   for New Patients'
 ---
 

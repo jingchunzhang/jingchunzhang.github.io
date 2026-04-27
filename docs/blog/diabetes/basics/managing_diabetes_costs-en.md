@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Navigating the Cost of Care: Practical Tips for Managing Diabetes Expenses
+title: "'Navigating the Cost of Care: Practical Tips for Managing Diabetes Expenses"
   in 2026'
 description: Living with diabetes is a full-time job, and unfortunately, it often
   comes with a steep price tag.

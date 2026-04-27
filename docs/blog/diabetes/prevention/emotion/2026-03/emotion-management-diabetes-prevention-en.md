@@ -9,7 +9,7 @@ layout: default
 tags:
 - Emotion
 - Prevention
-title: 'Emotional Code: How Scientific Emotion Management Effectively Prevents Diabetes'
+title: "'Emotional Code: How Scientific Emotion Management Effectively Prevents Diabetes'"
 translation_key: prevention/emotion/emotion-management-diabetes-prevention
 ---
 > Breadcrumb: [Back to Prevention Home](../../) > [Emotion Management](../) > This Article

@@ -18,7 +18,7 @@ tags:
 - 糖尿病
 - 饮食
 - Diet
-title: 'Managing Diabetes in Autumn: My 3 Years of Tried-and-True Hacks (No Fancy
+title: "'Managing Diabetes in Autumn: My 3 Years of Tried-and-True Hacks (No Fancy"
   Gadgets Required!)'
 ---
 

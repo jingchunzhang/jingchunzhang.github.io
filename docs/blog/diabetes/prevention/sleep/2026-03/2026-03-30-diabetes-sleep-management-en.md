@@ -1,5 +1,5 @@
 ---
-title: Diabetes Sleep Management: How to Improve Sleep Quality and Control Blood Sugar
+title: "Diabetes Sleep Management: How to Improve Sleep Quality and Control Blood Sugar"
 date: '2026-03-30T10:00:00+08:00'
 sort_date: '2026-03-30T10:00:00+08:00'
 lang: en

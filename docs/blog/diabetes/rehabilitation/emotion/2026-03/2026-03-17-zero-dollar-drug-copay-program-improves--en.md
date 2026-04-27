@@ -19,7 +19,7 @@ tags:
 - 健康
 - 糖尿病
 - 饮食
-title: 'Zero Dollar Drug Copay Programs for Diabetes: A Comparative Analysis of Adherence
+title: "'Zero Dollar Drug Copay Programs for Diabetes: A Comparative Analysis of Adherence"
   and Medication Patterns'
 ---
 # Zero Dollar Drug Copay Programs for Diabetes: A Comparative Analysis of Adherence and Medication Patterns  

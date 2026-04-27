@@ -23,7 +23,7 @@ stage: treatment
 tags:
 - Diet
 - Treatment
-title: 'Practical Daily Diabetes Care: A Simple Routine for Blood Sugar Management'
+title: "'Practical Daily Diabetes Care: A Simple Routine for Blood Sugar Management'"
 translation_key: practical-diabetes-care-daily
 ---
 

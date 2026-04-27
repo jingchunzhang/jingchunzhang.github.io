@@ -30,7 +30,7 @@ tags:
 - Rehabilitation
 - Lactation
 - Postpartum Recovery
-title: 'Postpartum and Lactation Glucose Recovery: Eat Enough, Support Milk Production,
+title: "'Postpartum and Lactation Glucose Recovery: Eat Enough, Support Milk Production,"
   and Rebuild Metabolic Stability'
 translation_key: postpartum-lactation-glucose-recovery
 ---

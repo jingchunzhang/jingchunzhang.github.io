@@ -30,7 +30,7 @@ tags:
 - Prevention
 - Diet
 - Meal Planning
-title: 'Practical Carbohydrate Counting for Prevention: Keep It Simple and Sustainable'
+title: "'Practical Carbohydrate Counting for Prevention: Keep It Simple and Sustainable'"
 translation_key: practical-carbohydrate-counting
 ---
 

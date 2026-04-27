@@ -29,7 +29,7 @@ tags:
 - beginner guide
 - Diet
 - treatment diet
-title: 'Diabetic Meal Prep for Beginners: Build a Week Once, Reduce Daily Blood Sugar
+title: "'Diabetic Meal Prep for Beginners: Build a Week Once, Reduce Daily Blood Sugar"
   Chaos'
 translation_key: diabetic-meal-prep-beginners
 ---

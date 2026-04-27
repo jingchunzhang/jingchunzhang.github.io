@@ -1,5 +1,5 @@
 ---
-title: Diabetes Exercise Plan: How to Scientifically Control Blood Sugar Through Exercise
+title: "Diabetes Exercise Plan: How to Scientifically Control Blood Sugar Through Exercise"
 date: '2026-03-26T18:00:00+08:00'
 sort_date: '2026-03-26T18:00:00+08:00'
 lang: en

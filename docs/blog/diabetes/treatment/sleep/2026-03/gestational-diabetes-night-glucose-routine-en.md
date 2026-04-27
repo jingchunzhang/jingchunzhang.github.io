@@ -30,7 +30,7 @@ tags:
 - Treatment Care
 - Pregnancy Sleep
 - Night Glucose
-title: 'Gestational Diabetes Night Glucose Routine: Align Dinner, Night Wakings, and
+title: "'Gestational Diabetes Night Glucose Routine: Align Dinner, Night Wakings, and"
   Next-Morning Fasting'
 translation_key: gestational-diabetes-night-glucose-routine
 ---

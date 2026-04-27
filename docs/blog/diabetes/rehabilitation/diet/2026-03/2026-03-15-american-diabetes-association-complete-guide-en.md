@@ -23,7 +23,7 @@ tags:
 - treatment diet
 - american diabetes association
 - complete guide
-title: 'American Diabetes Association Complete Guide: What Should You Actually Eat
+title: "'American Diabetes Association Complete Guide: What Should You Actually Eat"
   During Diabetes Treatment to Reduce Post-Meal Spikes?'
 translation_key: american-diabetes-association-complete-guide
 ---

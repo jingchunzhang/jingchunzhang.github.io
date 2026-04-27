@@ -18,7 +18,7 @@ tags:
 - 糖尿病
 - 饮食
 - Diet
-title: 'Managing Glucose During Spring: Your Complete Guide to Monitors, Diet Hacks,
+title: "'Managing Glucose During Spring: Your Complete Guide to Monitors, Diet Hacks,"
   and Stress-Free Celebrations'
 ---
 

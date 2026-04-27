@@ -7,7 +7,7 @@ layout: default
 tags:
 - Treatment
 - Exercise
-title: 'Exercise During Diabetes Treatment: A Safe, Effective Prescription You Can
+title: "'Exercise During Diabetes Treatment: A Safe, Effective Prescription You Can"
   Sustain'
 translation_key: treatment-exercise-prescription
 ---

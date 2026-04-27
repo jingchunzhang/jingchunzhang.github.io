@@ -1,5 +1,5 @@
 ---
-title: '23 Month Old Recently Diagnosed With Type 1 Diabetes: A Caregiver’s Beginner
+title: "'23 Month Old Recently Diagnosed With Type 1 Diabetes: A Caregiver’s Beginner"
   Guide to Coping & First Steps'
 date: '2026-04-05T08:29:29+00:00'
 draft: false

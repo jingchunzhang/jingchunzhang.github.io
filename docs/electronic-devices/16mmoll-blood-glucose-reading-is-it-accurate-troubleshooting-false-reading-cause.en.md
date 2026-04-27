@@ -1,5 +1,5 @@
 ---
-title: '16mmol/L Blood Glucose Reading: Is It Accurate? Troubleshooting, False Reading
+title: "'16mmol/L Blood Glucose Reading: Is It Accurate? Troubleshooting, False Reading"
   Causes, and Safe Next Steps'
 date: '2026-04-05T07:45:38+00:00'
 draft: false

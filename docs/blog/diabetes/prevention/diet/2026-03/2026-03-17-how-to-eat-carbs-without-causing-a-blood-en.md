@@ -18,7 +18,7 @@ tags:
 - 糖尿病
 - 饮食
 - Diet
-title: 'How to Eat Carbs Without Causing a Blood Sugar Spike: A Practical Comparison
+title: "'How to Eat Carbs Without Causing a Blood Sugar Spike: A Practical Comparison"
   Guide'
 ---
 # How to Eat Carbs Without Causing a Blood Sugar Spike: A Practical Comparison Guide  

@@ -22,7 +22,7 @@ stage: treatment
 tags:
 - Diet
 - Treatment
-title: 'Diabetes Patient Education Essentials: Mastering Self-Management Fundamentals'
+title: "'Diabetes Patient Education Essentials: Mastering Self-Management Fundamentals'"
 translation_key: diabetes-education-patients
 ---
 

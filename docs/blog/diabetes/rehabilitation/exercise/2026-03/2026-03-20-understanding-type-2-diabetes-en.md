@@ -18,7 +18,7 @@ tags:
 - Exercise
 - 糖尿病
 - 饮食
-title: 'Type 2 Diabetes 101: What You Actually Need to Know to Prevent or Manage It'
+title: "'Type 2 Diabetes 101: What You Actually Need to Know to Prevent or Manage It'"
 ---
 
 # Type 2 Diabetes 101: What You Actually Need to Know to Prevent or Manage It

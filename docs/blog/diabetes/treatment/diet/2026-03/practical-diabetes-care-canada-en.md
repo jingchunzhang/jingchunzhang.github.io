@@ -29,7 +29,7 @@ tags:
 - Canada Care Model
 - Diet
 - Diet Management
-title: 'Diabetes Treatment in a Canadian Clinical Context: A Home-Executable Care
+title: "'Diabetes Treatment in a Canadian Clinical Context: A Home-Executable Care"
   Framework'
 translation_key: practical-diabetes-care-canada
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'What''s Wrong Sugar, Ran Outta Fuel? That''s My『Candy Man』: Meme Origin, Hypoglycemia
+title: "'What''s Wrong Sugar, Ran Outta Fuel? That''s My『Candy Man』: Meme Origin, Hypoglycemia"
   Context & Low Blood Sugar Tips'
 date: '2026-04-05T07:31:17+00:00'
 draft: false

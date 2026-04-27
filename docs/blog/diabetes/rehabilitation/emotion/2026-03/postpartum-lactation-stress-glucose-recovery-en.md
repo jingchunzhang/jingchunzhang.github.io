@@ -29,7 +29,7 @@ tags:
 - Lactation
 - Postpartum Recovery
 - Glucose Recovery
-title: 'Postpartum and Lactation Stress Management: Break the Stress-Eating-Glucose
+title: "'Postpartum and Lactation Stress Management: Break the Stress-Eating-Glucose"
   Loop'
 translation_key: postpartum-lactation-stress-glucose-recovery
 ---

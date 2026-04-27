@@ -30,7 +30,7 @@ tags:
 - Comfort Food
 - Diet
 - Diabetes Diet
-title: 'Comfort Food During Diabetes Treatment: Keep the Satisfaction Without Losing
+title: "'Comfort Food During Diabetes Treatment: Keep the Satisfaction Without Losing"
   Glucose Stability'
 translation_key: comfort-food-diabetes-treatment
 ---

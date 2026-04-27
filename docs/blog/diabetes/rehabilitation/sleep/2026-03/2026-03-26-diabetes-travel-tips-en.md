@@ -1,5 +1,5 @@
 ---
-title: 'Diabetes Travel Notes: How to Travel Safely and Enjoy the Journey'
+title: "'Diabetes Travel Notes: How to Travel Safely and Enjoy the Journey'"
 date: '2026-03-26T19:00:00+08:00'
 sort_date: '2026-03-26T19:00:00+08:00'
 lang: en

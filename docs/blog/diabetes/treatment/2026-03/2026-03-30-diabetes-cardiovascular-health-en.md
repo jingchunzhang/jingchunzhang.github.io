@@ -1,5 +1,5 @@
 ---
-title: 'Diabetes and Cardiovascular Health: A Comprehensive Guide to Protecting Your Heart'
+title: "'Diabetes and Cardiovascular Health: A Comprehensive Guide to Protecting Your Heart'"
 date: '2026-03-30T10:00:00+08:00'
 sort_date: '2026-03-30T10:00:00+08:00'
 lang: en

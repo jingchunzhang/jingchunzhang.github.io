@@ -1,5 +1,5 @@
 ---
-title: Diabetes Blood Pressure Control: Managing Blood Pressure to Reduce Cardiovascular Risk
+title: "Diabetes Blood Pressure Control: Managing Blood Pressure to Reduce Cardiovascular Risk"
 date: '2026-03-30T10:00:00+08:00'
 sort_date: '2026-03-30T10:00:00+08:00'
 lang: en

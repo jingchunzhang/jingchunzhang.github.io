@@ -8,7 +8,7 @@ tags:
 - Electronic Devices
 - Diabetes Equipment
 - Glucose Meter
-title: Electronic Devices: Diabetes Management Device Reviews & Recommendations
+title: "Electronic Devices: Diabetes Management Device Reviews & Recommendations"
 translation_key: electronic-devices/index
 ---
 

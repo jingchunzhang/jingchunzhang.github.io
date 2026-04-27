@@ -24,7 +24,7 @@ tags:
 - Prevention
 - 糖尿病
 - Diet
-title: 'Diabetes And Heart Health: Understanding The Risks'
+title: "'Diabetes And Heart Health: Understanding The Risks'"
 translation_key: diabetes-heart-health-risk
 ---
 

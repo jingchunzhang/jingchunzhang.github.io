@@ -7,7 +7,7 @@ layout: default
 tags:
 - Diet
 - Treatment
-title: 'Treatment Diet Fundamentals: Nutrient Density (ANDI) and Eating for Life'
+title: "'Treatment Diet Fundamentals: Nutrient Density (ANDI) and Eating for Life'"
 translation_key: treatment-diet-andi
 ---
 # Treatment Diet Fundamentals: Nutrient Density (ANDI) and Eating for Life

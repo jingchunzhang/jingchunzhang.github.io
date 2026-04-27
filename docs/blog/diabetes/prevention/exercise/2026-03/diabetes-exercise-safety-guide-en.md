@@ -25,7 +25,7 @@ tags:
 - 预防
 - Prevention
 - 糖尿病
-title: 'Diabetes Exercise Guide: Safe And Effective Workouts'
+title: "'Diabetes Exercise Guide: Safe And Effective Workouts'"
 translation_key: diabetes-exercise-safety-guide
 ---
 

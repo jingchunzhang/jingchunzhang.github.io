@@ -29,7 +29,7 @@ tags:
 - Diet
 - Rehabilitation
 - Long-Term Strategy
-title: 'Diabetes Prevention and Treatment Roadmap: A Step-by-Step Path'
+title: "'Diabetes Prevention and Treatment Roadmap: A Step-by-Step Path'"
 translation_key: diabetes-prevention-treatment-roadmap
 ---
 

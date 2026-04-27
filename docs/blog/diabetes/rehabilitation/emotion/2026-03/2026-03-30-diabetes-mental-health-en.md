@@ -1,5 +1,5 @@
 ---
-title: 'Diabetes Mental Health: A Guide to Emotional Management and Psychological Support'
+title: "'Diabetes Mental Health: A Guide to Emotional Management and Psychological Support'"
 date: '2026-03-30T10:00:00+08:00'
 sort_date: '2026-03-30T10:00:00+08:00'
 lang: en

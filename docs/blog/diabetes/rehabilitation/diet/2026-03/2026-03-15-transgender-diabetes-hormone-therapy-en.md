@@ -24,7 +24,7 @@ tags:
 - treatment diet
 - hormone therapy
 - diabetes management
-title: 'Transgender Individuals and Diabetes: Hormone Therapy, Metabolic Risks, and
+title: "'Transgender Individuals and Diabetes: Hormone Therapy, Metabolic Risks, and"
   Complete Health Management Guide'
 translation_key: transgender-diabetes-hormone-therapy
 ---

@@ -30,7 +30,7 @@ tags:
 - Diabetes Prevention
 - Prevention
 - Pregnancy Exercise
-title: 'Pregnancy-Safe Exercise for Gestational Diabetes Prevention: Turn After-Meal
+title: "'Pregnancy-Safe Exercise for Gestational Diabetes Prevention: Turn After-Meal"
   Movement into a Daily Stabilizer'
 translation_key: pregnancy-safe-exercise-gestational-diabetes-prevention
 ---

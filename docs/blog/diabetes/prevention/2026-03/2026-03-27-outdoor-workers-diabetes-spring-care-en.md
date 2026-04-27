@@ -1,5 +1,5 @@
 ---
-title: Diabetes Management for Outdoor Physical Workers in Spring: Practical Guide for Farmers, Construction Workers and Haulers
+title: "Diabetes Management for Outdoor Physical Workers in Spring: Practical Guide for Farmers, Construction Workers and Haulers"
 date: '2026-03-27T15:00:00+08:00'
 sort_date: '2026-03-27T15:00:00+08:00'
 lang: en
