@@ -110,5 +110,3 @@ If you want a broader home-management reference that helps turn advice into a ho
 ## Medical Disclaimer
 
 This article is for educational purposes only and does not replace individualized pregnancy care. Glucose targets, monitoring frequency, insulin use, activity restrictions, and delivery planning must follow the guidance of your obstetric and specialty care team.
-
-{% include related-articles.html %}

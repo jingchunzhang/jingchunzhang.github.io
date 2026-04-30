@@ -106,5 +106,3 @@ translation_key: topic-cluster-pregnancy-lactation
 ## 医疗免责声明
 
 本专题用于健康教育与信息整理，不替代个体化诊疗。孕期、妊娠糖尿病治疗与产后恢复方案，请以产科及相关专科医生建议为准。
-
-{% include related-articles.html %}

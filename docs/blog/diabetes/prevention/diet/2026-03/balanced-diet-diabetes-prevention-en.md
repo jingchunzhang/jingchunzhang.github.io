@@ -420,9 +420,3 @@ Change takes time, but benefits are immediate. Many people can feel improved ene
 Remember: Prevention is always easier than treatment, with lower cost and better effect. Through today's dietary changes, you are investing in future health. Let's start with every meal, using scientific and balanced diet to build a solid diabetes defense line for ourselves and our families.
 
 Every correct dietary choice you make is accumulating health "dividends." Start now, this is the best moment.
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

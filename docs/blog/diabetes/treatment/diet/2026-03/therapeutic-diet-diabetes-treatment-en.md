@@ -184,9 +184,3 @@ If you can keep structure at most meals and review weekly, improvements in gluco
 - Treatment: Sleep
 - Treatment: Emotion & Stress
 - Diabetes Diagnostic Criteria
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

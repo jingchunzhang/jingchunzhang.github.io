@@ -124,5 +124,3 @@ For deeper protocol design in Type 2 care:
 ## Medical Disclaimer
 
 This content is educational only and does not replace individualized medical advice. Treatment and medication adjustments must be discussed with qualified clinicians.
-
-{% include related-articles.html %}

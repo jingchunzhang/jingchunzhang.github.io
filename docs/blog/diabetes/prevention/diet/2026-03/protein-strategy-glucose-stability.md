@@ -99,9 +99,3 @@ translation_key: prevention/diet/protein-strategy-glucose-stability
 
 - American Diabetes Association – Food & Nutrition: https://diabetes.org/food-nutrition
 - Harvard Healthy Eating Plate: https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

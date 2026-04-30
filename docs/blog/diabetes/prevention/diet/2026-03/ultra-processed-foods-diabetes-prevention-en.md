@@ -136,5 +136,3 @@ If you start with one step, make it this:
 - ADA — Nutrition: https://diabetes.org/food-nutrition
 
 ---
-
-{% include related-articles.html %}

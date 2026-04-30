@@ -428,10 +428,6 @@ Cooking isn't a burden—it's an **opportunity to take control of your health**.
 Start with simple steaming and boiling, and gradually build your own healthy cooking habits.
 
 **Questions? Comment below or contact our nutrition advisors.**
-
----
-
-## Related Articles
 - [Supermarket Shopping Guide for Diabetics: How to Identify Hidden Sugars](/)
 - [15-Minute Quick Breakfasts for Diabetics: 5 Easy Formulas](/)
 - [Blood Sugar-Stable Dinners: 5 Simple Recipe Templates](/)

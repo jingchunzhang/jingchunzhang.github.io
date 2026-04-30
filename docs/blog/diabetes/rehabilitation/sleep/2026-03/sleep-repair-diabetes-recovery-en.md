@@ -267,9 +267,3 @@ Fixing the root issue often improves glucose control and quality of life more th
 - Recovery: Exercise for rebuilding capacity
 - Recovery: Psychological recovery
 - Treatment: Sleep and metabolism
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

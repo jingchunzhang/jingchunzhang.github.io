@@ -121,9 +121,3 @@ If you use a glucometer/CGM, watch the **2–3 hour** post‑breakfast pattern o
 
 - Harvard Healthy Eating Plate: https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/
 - ADA – Food & Nutrition: https://diabetes.org/food-nutrition
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

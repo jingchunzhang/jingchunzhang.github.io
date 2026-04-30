@@ -162,5 +162,3 @@ If you want breakfast, noodle meals, casseroles, snacks, and family comfort-food
 
 - [Comfort Food During Diabetes Treatment: Keep the Satisfaction Without Losing Glucose Stability](./comfort-food-diabetes-treatment-en)
 - [Snack and Craving Control in Diabetes Treatment](./comfort-food-snack-craving-control-diabetes-treatment-en)
-
-{% include related-articles.html %}

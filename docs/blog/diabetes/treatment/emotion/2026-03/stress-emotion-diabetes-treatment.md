@@ -158,9 +158,3 @@ translation_key: treatment-emotion-stress
 - 治疗期：饮食管理
 - 治疗期：运动处方
 - 治疗期：睡眠与代谢
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

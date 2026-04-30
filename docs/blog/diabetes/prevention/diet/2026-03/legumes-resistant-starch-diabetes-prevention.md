@@ -90,9 +90,3 @@ translation_key: prevention-diet-legumes-resistant-starch
 - [返回：预防-健康饮食栏目](./)
 - [返回：预防首页](./../)
 - 糖尿病诊断标准参考
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

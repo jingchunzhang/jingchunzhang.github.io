@@ -81,9 +81,3 @@ translation_key: treatment-diet-andi
 - [治疗期：掌控饥饿——区分“毒性饥饿”和“真实饥饿”](./hunger-control-toxic-hunger-diabetes-treatment.md)
 - 治疗期：运动处方
 - [返回：治疗-饮食管理栏目](./)
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

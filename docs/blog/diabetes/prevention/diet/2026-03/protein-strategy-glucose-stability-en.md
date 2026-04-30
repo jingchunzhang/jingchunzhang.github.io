@@ -92,9 +92,3 @@ Pick one:
 
 - ADA – Food & Nutrition: https://diabetes.org/food-nutrition
 - Harvard Healthy Eating Plate: https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

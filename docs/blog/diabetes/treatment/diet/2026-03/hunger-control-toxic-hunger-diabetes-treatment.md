@@ -91,9 +91,3 @@ translation_key: treatment-diet-hunger-control
 - [治疗期饮食管理：把“控糖”落到每一餐](./therapeutic-diet-diabetes-treatment.md)
 - [治疗期饮食底层逻辑：营养密度（ANDI）与“为生而食”](./nutrient-density-andi-eat-for-life-diabetes-treatment.md)
 - [返回：治疗-饮食管理栏目](./)
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

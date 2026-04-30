@@ -127,5 +127,3 @@ For a more complete terminology reference:
 ## Medical Disclaimer
 
 This article is for educational and communication support only. It does not replace individualized diagnosis or treatment.
-
-{% include related-articles.html %}

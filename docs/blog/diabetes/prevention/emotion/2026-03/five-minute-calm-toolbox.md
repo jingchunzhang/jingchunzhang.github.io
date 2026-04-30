@@ -88,9 +88,3 @@ translation_key: prevention/emotion/five-minute-calm-toolbox
 
 - American Psychological Association – Stress: https://www.apa.org/topics/stress
 - U.S. NIH (NCCIH) – Meditation and mindfulness: https://www.nccih.nih.gov/health/meditation-and-mindfulness-effectiveness-and-safety
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

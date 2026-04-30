@@ -97,5 +97,3 @@ Stop eating directly from large packages. Portion first, then decide whether you
 
 If you want practical ideas for snacks, desserts, breakfast, family comfort meals, and late-night hunger management, save the ebook here:  
 **[Download the comfort-food diabetes ebook](https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub)**
-
-{% include related-articles.html %}

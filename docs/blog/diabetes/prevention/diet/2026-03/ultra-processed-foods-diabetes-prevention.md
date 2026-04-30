@@ -145,5 +145,3 @@ UPF 往往：
 - ADA — Nutrition: https://diabetes.org/food-nutrition
 
 ---
-
-{% include related-articles.html %}

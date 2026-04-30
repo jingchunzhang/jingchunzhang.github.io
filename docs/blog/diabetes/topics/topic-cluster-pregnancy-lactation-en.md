@@ -106,5 +106,3 @@ Goal: protect metabolic recovery while managing real postpartum stress.
 ## Medical Disclaimer
 
 This hub is for health education and information organization only. It does not replace individualized medical care. For pregnancy, gestational diabetes treatment, and postpartum recovery decisions, follow your clinician’s guidance.
-
-{% include related-articles.html %}

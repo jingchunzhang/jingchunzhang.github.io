@@ -95,9 +95,3 @@ Make exercise more automatic:
 - Recovery: Exercise for rebuilding capacity
 - [Back: Recovery / Psychological Recovery](./)
 - [Back: Recovery Home](./../)
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

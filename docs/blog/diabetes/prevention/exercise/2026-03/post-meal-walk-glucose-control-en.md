@@ -73,9 +73,3 @@ Build one meal first, then add a second.
 
 - ADA – Healthy living: https://diabetes.org/healthy-living
 - WHO – Physical activity: https://www.who.int/news-room/fact-sheets/detail/physical-activity
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

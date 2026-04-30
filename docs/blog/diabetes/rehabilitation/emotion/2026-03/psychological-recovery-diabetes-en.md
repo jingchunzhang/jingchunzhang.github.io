@@ -230,9 +230,3 @@ Support isn’t a sign of weakness—it’s part of the recovery system.
 - Recovery: Exercise for rebuilding capacity
 - Recovery: Sleep repair
 - Treatment: Stress and emotion management
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

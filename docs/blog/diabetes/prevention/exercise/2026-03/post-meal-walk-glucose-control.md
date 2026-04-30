@@ -81,9 +81,3 @@ translation_key: prevention/exercise/post-meal-walk-glucose-control
 
 - American Diabetes Association – Healthy living: https://diabetes.org/healthy-living
 - World Health Organization – Physical activity: https://www.who.int/news-room/fact-sheets/detail/physical-activity
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

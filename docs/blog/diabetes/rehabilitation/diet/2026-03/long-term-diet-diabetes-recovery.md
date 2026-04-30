@@ -171,9 +171,3 @@ translation_key: rehab-diet-longterm
 - [缓解阶段：睡眠修复](./../sleep/)
 - [缓解阶段：心理健康](./../emotion/)
 - 治疗期：饮食管理
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

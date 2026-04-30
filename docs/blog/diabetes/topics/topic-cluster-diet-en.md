@@ -169,5 +169,3 @@ Don't start with calorie-counting anxiety. First establish the correct plate str
 - Biological Link Between Obesity and Type 2 Diabetes
 
 ---
-
-{% include related-articles.html %}

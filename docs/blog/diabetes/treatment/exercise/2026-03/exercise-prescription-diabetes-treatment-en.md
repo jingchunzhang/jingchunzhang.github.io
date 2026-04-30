@@ -184,9 +184,3 @@ Treatment‑phase exercise is a long game. The most important move is to build a
 - Treatment: Diet
 - Treatment: Sleep
 - Treatment: Emotion & Stress
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

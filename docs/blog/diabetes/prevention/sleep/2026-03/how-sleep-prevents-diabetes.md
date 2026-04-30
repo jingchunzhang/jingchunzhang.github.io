@@ -746,9 +746,3 @@ translation_key: prevention/sleep/how-sleep-prevents-diabetes
 **作者**：danezhang  
 **日期**：2026-01-14  
 **版权声明**：本文为原创内容，转载或引用请注明出处。
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

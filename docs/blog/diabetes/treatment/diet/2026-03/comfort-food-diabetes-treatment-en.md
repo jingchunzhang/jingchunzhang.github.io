@@ -178,5 +178,3 @@ If you want a practical comfort-food reference to support breakfast, noodle meal
 ## Medical Disclaimer
 
 This article is for educational purposes only and does not replace individualized medical care. If you use insulin, sulfonylureas, or other treatments that raise hypoglycemia risk, or if you have kidney disease, pregnancy, or gastrointestinal complications, review major meal changes with a qualified clinician or dietitian.
-
-{% include related-articles.html %}

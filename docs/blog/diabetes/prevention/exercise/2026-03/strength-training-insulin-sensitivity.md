@@ -78,9 +78,3 @@ translation_key: prevention/exercise/strength-training-insulin-sensitivity
 
 - World Health Organization – Physical activity: https://www.who.int/news-room/fact-sheets/detail/physical-activity
 - American Diabetes Association – Healthy living: https://diabetes.org/healthy-living
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

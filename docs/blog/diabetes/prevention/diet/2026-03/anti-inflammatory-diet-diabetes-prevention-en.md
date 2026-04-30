@@ -852,9 +852,3 @@ Every anti-inflammatory food choice is an investment in your future body's healt
 ---
 
 [Back to Healthy Diet Section](../) | [Back to Prevention Home](../../)
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

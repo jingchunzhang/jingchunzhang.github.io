@@ -90,9 +90,3 @@ If you use insulin/secretagogues, integrate glucose monitoring and clinician gui
 - [Diet During Diabetes Treatment: Turn “Glucose Control” Into Every Meal](./therapeutic-diet-diabetes-treatment-en.md)
 - [Treatment Diet Fundamentals: Nutrient Density (ANDI) and Eating for Life](./nutrient-density-andi-eat-for-life-diabetes-treatment-en.md)
 - [Back: Treatment / Diet](./)
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

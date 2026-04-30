@@ -192,9 +192,3 @@ translation_key: treatment-diet-therapeutic
 - 治疗期：睡眠与代谢
 - 治疗期：情绪与压力管理
 - 糖尿病诊断标准参考
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

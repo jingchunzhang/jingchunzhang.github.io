@@ -245,9 +245,3 @@ translation_key: rehab-emotion-psych
 - 康复期：恢复期锻炼
 - 康复期：睡眠修复
 - 治疗期：情绪与压力管理
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

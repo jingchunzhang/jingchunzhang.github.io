@@ -106,5 +106,3 @@ Usually not for this context. Post-meal light movement is often safer and more p
 ## Medical Disclaimer
 
 This article is educational and does not replace individualized obstetric advice. Follow your clinician’s activity guidance if your pregnancy has specific risks.
-
-{% include related-articles.html %}

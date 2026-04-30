@@ -70,9 +70,3 @@ More sustainable defaults:
 - [Back: Remission / Diet](./)
 - [Back: Remission Home](./../)
 
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

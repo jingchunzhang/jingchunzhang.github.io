@@ -148,9 +148,3 @@ This reduces burnout.
 - Treatment: Diet
 - Treatment: Exercise
 - Treatment: Sleep
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

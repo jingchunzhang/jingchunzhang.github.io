@@ -103,5 +103,3 @@ Trying to make the system perfect too quickly. A workable simple system beats an
 
 If you want practical comfort-food planning ideas for batch cooking, noodles, casseroles, snacks, and family dinners, save the ebook here:  
 **[Download the comfort-food diabetes ebook](https://download.tangyou.space/20260310/The-Diabetes-Comfort-Food-Diet-Cookbook-200-Delicious-Dishes-to-Help-You-Lose-Weight-and-Balance-Blood-Sugar.epub)**
-
-{% include related-articles.html %}

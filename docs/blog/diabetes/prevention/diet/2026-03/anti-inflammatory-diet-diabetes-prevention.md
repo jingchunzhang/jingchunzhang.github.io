@@ -849,9 +849,3 @@ translation_key: prevention/diet/anti-inflammatory-diet-diabetes-prevention
 ---
 
 [返回健康饮食专区](../) | [返回预防首页](../../)
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

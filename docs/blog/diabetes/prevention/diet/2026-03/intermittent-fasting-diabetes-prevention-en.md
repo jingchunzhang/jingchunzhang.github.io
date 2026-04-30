@@ -96,9 +96,3 @@ Within your eating window, prioritize:
 
 - ADA – Healthy living: https://diabetes.org/healthy-living
 - NHS – Eat well: https://www.nhs.uk/live-well/eat-well/
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

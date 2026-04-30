@@ -114,5 +114,3 @@ If you want a practical cooking reference that works for busy households during 
 ## Medical Disclaimer
 
 This article is for education only and does not replace postpartum follow-up, individualized nutrition guidance, or medical care. If you have persistent hyperglycemia, hypoglycemia symptoms, lactation difficulty, thyroid problems, or other metabolic concerns, speak with a qualified clinician.
-
-{% include related-articles.html %}

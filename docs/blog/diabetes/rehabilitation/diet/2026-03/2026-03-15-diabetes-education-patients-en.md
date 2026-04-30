@@ -448,10 +448,6 @@ We've created a comprehensive *Diabetes Self-Management Handbook* that includes:
 <button type="submit">Get Free Guide</button>
 </form>
 
----
-
-## Related Articles
-
 Want to dive deeper? Check out our other articles:
 
 - Best Breakfast Choices for Diabetes Patients

@@ -76,9 +76,3 @@ Once structure is consistent, fine‑tune with monitoring: starch portion, eatin
 - [Treatment skill: hunger control (to reduce rebounds)](./hunger-control-toxic-hunger-diabetes-treatment-en.md)
 - Treatment: Exercise
 - [Back: Treatment / Diet](./)
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

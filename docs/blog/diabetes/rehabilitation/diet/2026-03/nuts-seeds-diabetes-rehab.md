@@ -78,9 +78,3 @@ translation_key: rehab-diet-nuts-seeds
 - [缓解期长期饮食策略：从“控得住”到“吃得久”](./long-term-diet-diabetes-recovery.md)
 - [返回：缓解期饮食专题](./)
 - [返回：糖尿病缓解首页](./../)
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

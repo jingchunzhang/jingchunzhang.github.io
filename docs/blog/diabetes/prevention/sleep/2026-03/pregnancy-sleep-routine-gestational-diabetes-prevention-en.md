@@ -96,5 +96,3 @@ Short naps can help, but very long or late naps may worsen nighttime timing.
 ## Medical Disclaimer
 
 This article is educational and does not replace medical care. If you have persistent insomnia, sleep-disordered breathing symptoms, or high-risk pregnancy conditions, seek professional evaluation.
-
-{% include related-articles.html %}

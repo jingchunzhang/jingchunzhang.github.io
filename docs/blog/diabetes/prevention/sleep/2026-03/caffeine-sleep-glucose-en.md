@@ -68,9 +68,3 @@ Often you don’t need more caffeine — you need a small reset.
 
 - NIH (NHLBI) – Sleep: https://www.nhlbi.nih.gov/health/sleep
 - Mayo Clinic – Caffeine: https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

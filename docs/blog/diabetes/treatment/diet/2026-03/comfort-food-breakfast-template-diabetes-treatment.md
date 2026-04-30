@@ -153,5 +153,3 @@ A：不一定。重点不在于“清淡”两个字，而在于结构完整。�
 
 - [糖尿病治疗期的舒适食物改造法](./comfort-food-diabetes-treatment)
 - [治疗期加餐与馋意控制：把冲动进食变成可管理流程](./comfort-food-snack-craving-control-diabetes-treatment)
-
-{% include related-articles.html %}

@@ -169,5 +169,3 @@ translation_key: topic-cluster-diet
 - 肥胖与2型糖尿病的生物学联系
 
 ---
-
-{% include related-articles.html %}

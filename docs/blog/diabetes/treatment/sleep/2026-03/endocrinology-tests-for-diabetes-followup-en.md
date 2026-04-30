@@ -174,9 +174,6 @@ A: Strongly recommended. Maintaining a personal health record (paper or digital)
 - Type 2 Diabetes Monitoring Protocols
 
 ---
-
-{% include related-articles.html %}
-
 ---
 
 ## Medical Disclaimer

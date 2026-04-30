@@ -45,9 +45,3 @@ Being a "Type 3" (a nickname for supporters of people with diabetes) is a vital 
 **Recommended Reading:**
 *   **Navigating the Cost of Care: Practical Tips for Managing Diabetes Expenses** - Financial stress is often a shared family burden.
 *   **5 Myths About Diabetic Meal Planning** - Learn how to support dietary changes without being the "food police."
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

@@ -82,9 +82,3 @@ Create distance between urge and action (see: [5‑Minute Calm Toolbox](./five-m
 
 - APA – Stress: https://www.apa.org/topics/stress
 - CDC – Healthy eating: https://www.cdc.gov/healthyweight/healthy_eating/
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

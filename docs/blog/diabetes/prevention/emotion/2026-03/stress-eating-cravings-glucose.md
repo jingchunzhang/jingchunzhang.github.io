@@ -88,9 +88,3 @@ translation_key: prevention/emotion/stress-eating-cravings-glucose
 
 - American Psychological Association – Stress: https://www.apa.org/topics/stress
 - U.S. CDC – Healthy Weight, Healthy Eating: https://www.cdc.gov/healthyweight/healthy_eating/
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

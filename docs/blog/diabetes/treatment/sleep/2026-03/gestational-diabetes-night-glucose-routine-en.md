@@ -95,5 +95,3 @@ Follow prescribed monitoring plans. Excessive checking can increase anxiety and 
 ## Medical Disclaimer
 
 This article is educational and does not replace individualized medical care. Review snack, monitoring, and medication changes with your care team.
-
-{% include related-articles.html %}

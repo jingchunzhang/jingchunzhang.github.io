@@ -103,9 +103,6 @@ A：不是。高质量支持比高频监督更有效。
 ## 结尾 CTA
 
 把治疗期管理当成“团队项目”，不是个人硬扛。流程越清楚，长期越轻松。
-
-## 相关阅读
-
 - [治疗期饮食管理：把“控糖”落到每一餐](./therapeutic-diet-diabetes-treatment)
 - [家庭糖尿病管理框架](./home-diabetes-management-framework)
 - 治疗期：睡眠与代谢

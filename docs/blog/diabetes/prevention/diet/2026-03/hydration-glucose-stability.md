@@ -92,9 +92,3 @@ translation_key: prevention/diet/hydration-glucose-stability
 
 - CDC – Drinking water & healthier drinks: https://www.cdc.gov/healthyweight/healthy_eating/water-and-healthier-drinks.html
 - WHO – Healthy diet: https://www.who.int/news-room/fact-sheets/detail/healthy-diet
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

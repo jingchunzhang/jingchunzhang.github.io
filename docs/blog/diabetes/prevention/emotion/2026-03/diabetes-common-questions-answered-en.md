@@ -152,5 +152,3 @@ Build a calmer daily workflow with a structured Q&A reference:
 ## Medical Disclaimer
 
 This content is for educational purposes only and does not replace medical diagnosis or treatment. Always discuss medication and treatment changes with a qualified clinician.
-
-{% include related-articles.html %}

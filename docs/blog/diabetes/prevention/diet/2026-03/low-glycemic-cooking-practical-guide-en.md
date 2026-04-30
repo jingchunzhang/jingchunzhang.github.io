@@ -111,5 +111,3 @@ Want access to 250 all-natural, low-glycemic recipes?
 
 ## Medical Disclaimer
 The dietary suggestions provided here are for educational purposes. Because metabolic responses vary, it is recommended to consult a dietitian or doctor before making major changes and to use blood sugar monitoring to see how your body responds.
-
-{% include related-articles.html %}

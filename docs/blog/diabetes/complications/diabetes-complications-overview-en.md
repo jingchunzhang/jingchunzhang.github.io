@@ -94,9 +94,3 @@ Although complications sound scary, they are **preventable and delayable**. The 
 ---
 
 Back to Blog Home
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

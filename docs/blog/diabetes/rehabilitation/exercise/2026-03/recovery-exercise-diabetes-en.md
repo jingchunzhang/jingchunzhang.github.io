@@ -137,9 +137,3 @@ When these improve, long‑term glucose and risk management usually becomes easi
 - Recovery: Diet
 - Recovery: Sleep
 - Recovery: Psychological Recovery
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

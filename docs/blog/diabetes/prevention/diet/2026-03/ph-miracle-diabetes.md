@@ -103,9 +103,6 @@ A：看能否稳定执行 4 周且指标/体感有改善。
 ## 结尾 CTA
 
 预防不是追逐最“新奇”的方案，而是把正确动作做成习惯。你需要的是长期有效，而不是短期兴奋。
-
-## 相关阅读
-
 - [超加工食品（UPF）与2型糖尿病风险](./ultra-processed-foods-diabetes-prevention)
 - [低GI烹饪实战](./low-glycemic-cooking-practical-guide)
 - 预防：充足睡眠

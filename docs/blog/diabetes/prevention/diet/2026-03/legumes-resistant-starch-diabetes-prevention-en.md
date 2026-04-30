@@ -91,9 +91,3 @@ The key is to give your gut time to adapt.
 - Diabetes diagnostic criteria
 - [Back: Prevention / Healthy Diet](./)
 - [Back: Prevention Home](./../)
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

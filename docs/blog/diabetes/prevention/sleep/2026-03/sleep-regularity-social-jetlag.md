@@ -75,9 +75,3 @@ translation_key: prevention/sleep/sleep-regularity-social-jetlag
 
 - U.S. CDC – Sleep and Sleep Disorders: https://www.cdc.gov/sleep/
 - U.S. NIH (NHLBI) – Sleep: https://www.nhlbi.nih.gov/health/sleep
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

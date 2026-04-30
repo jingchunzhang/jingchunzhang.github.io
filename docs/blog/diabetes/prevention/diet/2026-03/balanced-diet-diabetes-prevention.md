@@ -421,9 +421,3 @@ translation_key: prevention/diet/balanced-diet-diabetes-prevention
 记住：预防永远比治疗容易，成本更低，效果更好。通过今天的饮食改变，你就在为未来的健康投资。让我们从每一顿饭开始，用科学、均衡的饮食，为自己和家人构筑一道坚实的糖尿病防线。
 
 你的每一个正确的饮食选择，都是在积累健康的"红利"。开始吧，现在就是最好的时刻。
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

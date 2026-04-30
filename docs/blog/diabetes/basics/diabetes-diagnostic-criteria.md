@@ -52,9 +52,3 @@ author_title: "健康科技研究员"
 ---
 
 [返回博客首页](./)
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

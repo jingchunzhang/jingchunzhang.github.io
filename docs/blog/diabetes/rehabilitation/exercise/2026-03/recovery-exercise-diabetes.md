@@ -148,9 +148,3 @@ translation_key: rehab-exercise-recovery
 - 康复期：长期饮食策略
 - 康复期：睡眠修复
 - 康复期：心理康复
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

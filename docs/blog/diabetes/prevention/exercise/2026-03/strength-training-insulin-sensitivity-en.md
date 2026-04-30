@@ -72,9 +72,3 @@ If you’re new, start with **2 sessions/week**, **20–30 minutes** each.
 
 - WHO – Physical activity: https://www.who.int/news-room/fact-sheets/detail/physical-activity
 - ADA – Healthy living: https://diabetes.org/healthy-living
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

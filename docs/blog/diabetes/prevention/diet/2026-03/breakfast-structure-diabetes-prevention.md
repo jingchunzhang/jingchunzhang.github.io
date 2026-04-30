@@ -127,9 +127,3 @@ translation_key: prevention/diet/breakfast-structure-diabetes-prevention
 
 - Harvard T.H. Chan School of Public Health – Healthy Eating Plate: https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/
 - American Diabetes Association – Food & Nutrition: https://diabetes.org/food-nutrition
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

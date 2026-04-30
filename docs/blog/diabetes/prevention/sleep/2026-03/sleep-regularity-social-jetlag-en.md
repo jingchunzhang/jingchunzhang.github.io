@@ -69,9 +69,3 @@ If you can do only one thing:
 
 - U.S. CDC – Sleep: https://www.cdc.gov/sleep/
 - U.S. NIH (NHLBI) – Sleep: https://www.nhlbi.nih.gov/health/sleep
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

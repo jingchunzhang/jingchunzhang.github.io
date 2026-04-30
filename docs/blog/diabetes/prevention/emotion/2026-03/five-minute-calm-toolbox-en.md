@@ -82,9 +82,3 @@ That turns a vague emotion into something you can work with.
 
 - APA – Stress: https://www.apa.org/topics/stress
 - NIH (NCCIH) – Meditation and mindfulness: https://www.nccih.nih.gov/health/meditation-and-mindfulness-effectiveness-and-safety
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

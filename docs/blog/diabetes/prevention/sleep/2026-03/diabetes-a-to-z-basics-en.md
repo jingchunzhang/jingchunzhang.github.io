@@ -122,5 +122,3 @@ Want to dive deeper into every aspect of diabetes management? We have prepared a
 
 ## Medical Disclaimer
 The information provided in this article is for educational purposes only and is not intended as a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
-
-{% include related-articles.html %}

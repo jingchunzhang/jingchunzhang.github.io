@@ -92,9 +92,3 @@ For diagnostic thresholds, see:
 - [Back: Prevention / Healthy Diet](./)
 - [Back: Prevention Home](./../)
 - Treatment diet (if you’re already diagnosed)
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

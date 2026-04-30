@@ -64,9 +64,3 @@ translation_key: fasting_blood_sugar_tracking
 
 ---
 *本文灵感来源于 [Diabetes.co.uk](https://www.diabetes.co.uk/forum/threads/fasting-blood-sugar-this-morning-yesterdays-food-and-physical-activity.185479/) 论坛的社区讨论。*
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

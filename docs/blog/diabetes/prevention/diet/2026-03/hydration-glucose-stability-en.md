@@ -82,9 +82,3 @@ Persistent excessive thirst or frequent urination can be a warning sign — cons
 
 - CDC – Drinking water & healthier drinks: https://www.cdc.gov/healthyweight/healthy_eating/water-and-healthier-drinks.html
 - WHO – Healthy diet: https://www.who.int/news-room/fact-sheets/detail/healthy-diet
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

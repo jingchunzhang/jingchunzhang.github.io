@@ -199,9 +199,6 @@ A：以下情况需立即处理：血糖 > 16.7 mmol/L（300 mg/dL）且有酮�
 - 糖尿病随访中的内分泌检查
 
 ---
-
-{% include related-articles.html %}
-
 ---
 
 ## 医疗免责声明

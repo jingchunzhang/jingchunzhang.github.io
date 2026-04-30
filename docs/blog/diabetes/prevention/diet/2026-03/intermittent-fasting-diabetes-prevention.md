@@ -112,9 +112,3 @@ translation_key: prevention/diet/intermittent-fasting-diabetes-prevention
 
 - American Diabetes Association – Healthy living: https://diabetes.org/healthy-living
 - National Health Service (NHS) – Eat well: https://www.nhs.uk/live-well/eat-well/
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

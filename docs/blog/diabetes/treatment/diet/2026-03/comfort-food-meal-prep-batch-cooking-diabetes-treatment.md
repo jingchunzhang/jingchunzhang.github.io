@@ -138,5 +138,3 @@ A：可以。你可以把外卖作为补充，但前提是家里始终留有一�
 
 - 治疗期家庭晚餐轮换：用舒适食物模板减少全家执行阻力
 - [治疗期加餐与馋意控制：把冲动进食变成可管理流程](./comfort-food-snack-craving-control-diabetes-treatment)
-
-{% include related-articles.html %}

@@ -116,5 +116,3 @@ For a deeper staged framework:
 ## Medical Disclaimer
 
 This content is for educational purposes only and does not replace individualized diagnosis or treatment. Always follow qualified clinical guidance for treatment and follow-up.
-
-{% include related-articles.html %}

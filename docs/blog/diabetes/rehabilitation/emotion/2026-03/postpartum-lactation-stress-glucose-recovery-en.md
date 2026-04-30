@@ -95,5 +95,3 @@ If low mood, anxiety, insomnia, or eating dysregulation is persistent and functi
 ## Medical Disclaimer
 
 This article is educational and does not replace mental-health or medical care. Seek qualified support if symptoms persist.
-
-{% include related-articles.html %}

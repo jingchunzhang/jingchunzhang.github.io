@@ -189,9 +189,3 @@ translation_key: treatment-exercise-prescription
 - 治疗期：饮食管理
 - 治疗期：睡眠与代谢
 - 治疗期：情绪与压力管理
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

@@ -132,5 +132,3 @@ If you want a practical low-glycemic reference for building steadier pregnancy-f
 ## Medical Disclaimer
 
 This article is for education only and does not replace individualized obstetric, endocrinology, or nutrition care. If you have high-risk pregnancy conditions, abnormal glucose results, or exercise restrictions, follow your clinician’s guidance first.
-
-{% include related-articles.html %}

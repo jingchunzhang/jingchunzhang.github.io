@@ -204,9 +204,6 @@ A: Seek emergency care immediately for: glucose > 16.7 mmol/L (300 mg/dL) with p
 - Endocrinology Tests for Diabetes Follow-Up
 
 ---
-
-{% include related-articles.html %}
-
 ---
 
 ## Medical Disclaimer

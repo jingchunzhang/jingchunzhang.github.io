@@ -74,9 +74,3 @@ translation_key: prevention/sleep/caffeine-sleep-glucose
 
 - U.S. NIH (NHLBI) – Sleep: https://www.nhlbi.nih.gov/health/sleep
 - Mayo Clinic – Caffeine: How much is too much?: https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372
-
----
-
-## 相关阅读
-
-{% include related-articles.html %}

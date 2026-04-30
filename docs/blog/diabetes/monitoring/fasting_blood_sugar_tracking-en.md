@@ -66,9 +66,3 @@ If you are struggling with your morning numbers, try keeping a detailed log for 
 
 ---
 *Inspired by community discussions on [Diabetes.co.uk](https://www.diabetes.co.uk/forum/threads/fasting-blood-sugar-this-morning-yesterdays-food-and-physical-activity.185479/).*
-
----
-
-## Related Articles
-
-{% include related-articles.html %}

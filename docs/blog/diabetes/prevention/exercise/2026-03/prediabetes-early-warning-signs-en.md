@@ -119,5 +119,3 @@ Looking for a structured guide to reversing prediabetes?
 
 ## Medical Disclaimer
 The information in this article is for educational purposes only. Diagnosis and treatment plans for prediabetes should be managed by a healthcare professional based on your individual health profile.
-
-{% include related-articles.html %}

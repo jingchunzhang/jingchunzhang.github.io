@@ -129,5 +129,3 @@ For a deeper home-care reference, download:
 ## Medical Disclaimer
 
 This article is for educational purposes only and does not replace individualized medical care. Medication decisions and treatment adjustments must be made with qualified clinicians.
-
-{% include related-articles.html %}
