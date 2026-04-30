@@ -7,17 +7,17 @@ lang: en
 layout: default
 tags:
 - Diet
-- Rehabilitation
-title: "'Diet in Diabetes Recovery: From “Controlled” to “Sustainable”'"
+- Remission
+title: "'Diet in Diabetes Remission: From “Controlled” to “Sustainable”'"
 translation_key: rehab-diet-longterm
 ---
-# Diet in Diabetes Recovery: From “Controlled” to “Sustainable”
+# Diet in Diabetes Remission: From “Controlled” to “Sustainable”
 
 > Disclaimer: This is general education, not medical advice. If you have kidney disease, gout, dyslipidemia, GI conditions, or use insulin/secretagogues, confirm major diet changes with your clinician/dietitian.
 
 Many people manage to get glucose “under control” during treatment. The real challenge often starts afterward: **the long term**.
 
-Recovery‑phase nutrition isn’t a sprint or a daily punishment. It’s about building a **low‑friction, reviewable lifestyle system** that keeps glucose steady and reduces long‑term risk.
+Remission‑phase nutrition isn’t a sprint or a daily punishment. It’s about building a **low‑friction, reviewable lifestyle system** that keeps glucose steady and reduces long‑term risk.
 
 This article focuses on three outcomes:
 
@@ -39,16 +39,16 @@ This article focuses on three outcomes:
 
 ---
 
-## 1) The recovery shift: from “glucose” to “risk”
+## 1) The remission shift: from “glucose” to “risk”
 
-You still care about glucose, but recovery is more about the long horizon:
+You still care about glucose, but remission is more about the long horizon:
 
 - stable weight and waist circumference (visceral fat matters)
 - blood pressure and lipids
 - kidney/liver markers and albuminuria
 - sustainable habits that reduce inflammation and relapse risk
 
-Great recovery nutrition isn’t “more restriction.” It’s **lower risk, sustained**.
+Great remission nutrition isn’t “more restriction.” It’s **lower risk, sustained**.
 
 ---
 
@@ -61,7 +61,7 @@ If you keep one framework, keep the plate:
 - **1/4** starch (whole grains/legumes/potatoes first)
 - **some** healthy fats
 
-In recovery, move fiber higher on the priority list. Fiber supports steadier glucose, satiety and weight management, gut microbiome health, and often better lipids.
+In remission, move fiber higher on the priority list. Fiber supports steadier glucose, satiety and weight management, gut microbiome health, and often better lipids.
 
 A practical checkpoint isn’t counting grams—it’s whether **each meal clearly includes vegetables/legumes/whole grains**.
 
@@ -114,7 +114,7 @@ If you use CGM, your curve becomes your best travel guide.
 
 ---
 
-## 6) Label reading: a recovery-phase superpower
+## 6) Label reading: a remission-phase superpower
 
 You don’t need to be a nutrition scientist. Check three things:
 
@@ -140,9 +140,9 @@ Long‑term success is small iterations, not one perfect plan.
 
 ## Related (Internal Links)
 
-- Recovery: Exercise
-- Recovery: Sleep
-- Recovery: Psychological Recovery
+- [Remission: Exercise](./../exercise/)
+- [Remission: Sleep](./../sleep/)
+- [Remission: Psychological Health](./../emotion/)
 - Treatment: Diet
 
 ---

@@ -8,8 +8,8 @@ lang: zh
 
 ## 最新文章
 *   [哺乳期与产后血糖恢复：吃得够、奶量稳，也把代谢慢慢带回正轨](postpartum-lactation-glucose-recovery)
-*   [康复期怎么吃坚果和种子：脂肪“质量”比“多少”更重要](nuts-seeds-diabetes-rehab)
-*   [康复期长期饮食策略：从“控得住”到“吃得久”](long-term-diet-diabetes-recovery)
+*   [缓解期怎么吃坚果和种子：脂肪“质量”比“多少”更重要](nuts-seeds-diabetes-rehab)
+*   [缓解期长期饮食策略：从“控得住”到“吃得久”](long-term-diet-diabetes-recovery)
 *   [糖尿病预防与治疗路线图：一步一步做对](diabetes-prevention-treatment-roadmap)
 *   [糖尿病患者零食选择：如何健康解馋不升糖](2026-03-26-diabetes-snack-selection)
 *   [糖尿病火锅攻略：如何健康享受火锅不升糖](2026-03-26-diabetes-hotpot-guide)

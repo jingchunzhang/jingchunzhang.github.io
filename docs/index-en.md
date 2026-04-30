@@ -13,7 +13,7 @@ translation_key: blog
 
 Hello, welcome to **[Tangyou Space](https://dm.tangyou.space/)**. This site is the official content hub focused entirely on diabetes management, education, and resources.
 
-Our core mission is to share knowledge related to diabetes, covering every key stage from **prevention** to **treatment** to **recovery**.
+Our core mission is to share knowledge related to diabetes, covering every key stage from **prevention** to **treatment** to **remission**.
 
 ---
 
@@ -25,8 +25,8 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 ### 2. Treatment
 *   [Enter **Treatment** Category](./blog/diabetes/treatment/index-en)
 
-### 3. Recovery
-*   [Enter **Recovery** Category](./blog/diabetes/rehabilitation/index-en)
+### 3. Remission
+*   [Enter **Remission** Category](./blog/diabetes/rehabilitation/index-en)
 
 ## Complications Management
 *   **[Diabetes Complications](./blog/diabetes/complications/index-en)**: Understanding and Prevention
@@ -36,12 +36,13 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 
 ## Resources & Devices
 *   **[E-Books](./ebooks/)**: Professional materials and guides for diabetes
+*   **[Diet Management](./health-log/diet/)**: Science-based diet and recipes
 *   **[Electronic Devices](./electronic-devices/)**: Reviews and recommendations for glucose monitors, insulin pumps, and related devices
 
 ---
 
 ## Diabetes Basics (Must Read)
-*   **[The Best Gifts for People with Diabetes](./blog/diabetes/rehabilitation/2026-03/2026-03-14-the-best-gifts-for-people-with-diabetes-en)**
+*   **[The Best Gifts for People with Diabetes](./blog/diabetes/rehabilitation/diet/2026-03/2026-03-14-the-best-gifts-for-people-with-diabetes-en)**
 *   **[Beware of the "Sweet Killer": A Panoramic Overview of Diabetes Complications](./blog/diabetes/complications/diabetes-complications-overview-en)**
 *   **[Mainstream Global Diabetes Diagnostic Criteria Reference](./blog/diabetes/basics/diabetes-diagnostic-criteria-en)**
 
@@ -49,7 +50,7 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 
 ## Personal Records and Thoughts
 
-*   **[About Me](./aboutme-en)**
+*   **[About Me](./blog/about/aboutme-en)**
 *   **[Personal Health Log](./health-log/)**
 
 ---

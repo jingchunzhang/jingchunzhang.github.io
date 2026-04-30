@@ -7,19 +7,19 @@ lang: en
 layout: default
 tags:
 - Diet
-- Rehabilitation
-title: "'Recovery Diet: Nuts and Seeds — Why Fat Quality Matters More Than Quantity'"
+tags:
+- Diet
+- Remission
+title: "'Remission Diet: Nuts and Seeds — Why Fat Quality Matters More Than Quantity'"
 translation_key: rehab-diet-nuts-seeds
 ---
-# Recovery Diet: Nuts and Seeds — Why Fat Quality Matters More Than Quantity
+# Remission Diet: Nuts and Seeds — Why Fat Quality Matters More Than Quantity
 
-In recovery, the challenge shifts from “getting glucose down” to “keeping long‑term risk down.”
+In remission, the challenge shifts from “getting glucose down” to “keeping long‑term risk down.”
 
 A key idea is not “low fat,” but **fat quality**.
 
 This article turns that idea into practical nuts/seeds strategies you can sustain.
-
-> Disclaimer: This is general education, not medical advice. If you have kidney disease, severe dyslipidemia, gallbladder issues, or nut allergies, confirm with your clinician/dietitian.
 
 ---
 
@@ -37,7 +37,7 @@ By contrast, minimally processed nuts/seeds and avocado are often closer to “h
 
 ## 2) Why nuts/seeds are useful long-term tools
 
-Two practical reasons they work well in recovery:
+Two practical reasons they work well in remission:
 
 1) They are nutrient-dense and can support long‑term cardiometabolic risk reduction.
 2) As replacements, they often work better than desserts/snacks/fried foods because they’re more satisfying.
@@ -66,9 +66,10 @@ More sustainable defaults:
 
 ## Related reading (internal links)
 
-- [Diet in Diabetes Recovery: From “Controlled” to “Sustainable”](./long-term-diet-diabetes-recovery-en.md)
-- [Back: Recovery / Diet](./)
-- [Back: Recovery Home](./../)
+- [Diet in Diabetes Remission: From “Controlled” to “Sustainable”](./long-term-diet-diabetes-recovery-en.md)
+- [Back: Remission / Diet](./)
+- [Back: Remission Home](./../)
+
 
 ---
 

@@ -9,7 +9,7 @@ automation_id: pending-mailerlite
 cta_form_id: pending-mailerlite
 date: 2026-03-09 00:00:00 +0800
 sort_date: "2026-03-09 00:00:00 +0800"
-description: 从高风险识别到治疗执行，再到康复维持的阶段化路线图，帮助患者和家属建立长期可持续的糖尿病管理系统。
+description: 从高风险识别到治疗执行，再到缓解维持的阶段化路线图，帮助患者和家属建立长期可持续的糖尿病管理系统。
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260309/Compass-on-the-Road-of-Diabetes-Prevention-and-Treatment-[2016.4].pdf
 ebook_id: 20260309-diabetes-compass
@@ -22,10 +22,10 @@ reviewer_name: yyh
 reviewer_role: 糖尿病治疗医生
 slug: diabetes-prevention-treatment-roadmap
 tags:
-- 康复管理
+- 缓解管理
 - Diet
 - 糖尿病预防
-- Rehabilitation
+- Remission
 - 长期规划
 - 治疗路径
 title: 糖尿病预防与治疗路线图：一步一步做对
@@ -36,7 +36,7 @@ translation_key: diabetes-prevention-treatment-roadmap
 
 > **[English Version](./diabetes-prevention-treatment-roadmap-en)** | **[英文版入口](./diabetes-prevention-treatment-roadmap-en)**
 
-糖尿病管理最常见的问题不是“信息不够”，而是“阶段混乱”：预防期做了治疗期的动作，治疗期又按康复期心态放松，导致努力很多、结果不稳。路线图思维的价值，就是在正确阶段做正确动作，并保留持续迭代能力。
+糖尿病管理最常见的问题不是“信息不够”，而是“阶段混乱”：预防期做了治疗期的动作，治疗期又按缓解期心态放松，导致努力很多、结果不稳。路线图思维的价值，就是在正确阶段做正确动作，并保留持续迭代能力。
 
 ![路线图与健康规划](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80)
 *图1：分阶段管理比一次性冲刺更可持续。来源：Unsplash（Scott Graham）*
@@ -66,7 +66,7 @@ translation_key: diabetes-prevention-treatment-roadmap
 
 这一阶段最怕“靠意志硬扛”。流程化管理是关键。
 
-## 阶段三：康复与长期维持（复发预防窗口）
+## 阶段三：缓解与长期维持（复发预防窗口）
 
 目标：避免“控制后反弹”，把健康行为变成生活默认。
 
@@ -76,10 +76,10 @@ translation_key: diabetes-prevention-treatment-roadmap
 - 保留每周复盘与每月就诊沟通
 - 提前设计“高风险场景预案”（旅行、节假日、失眠周）
 
-康复期不是“结束管理”，而是“升级管理模式”。
+缓解期不是“结束管理”，而是“升级管理模式”。
 
 ![长期习惯与饮食管理](https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80)
-*图2：长期饮食结构是康复维持的底盘。来源：Unsplash（Eiliv Aceron）*
+*图2：长期饮食结构是缓解维持的底盘。来源：Unsplash（Eiliv Aceron）*
 
 ## 路线图执行清单
 
@@ -97,7 +97,7 @@ A：药物重要，但生活方式是长期稳定和并发症风险管理的基�
 ### Q2：阶段之间怎么判断切换？
 A：由趋势数据和医生评估共同决定，不建议凭单点结果自行判断。
 
-### Q3：康复期还要不要记录？
+### Q3：缓解期还要不要记录？
 A：要，但可降低频率。重点是保留关键哨点与复盘能力。
 
 ## 电子书 CTA

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 康复
+title: 缓解
 lang: zh
 ---
 
-# 康复
+# 缓解
 
 ## 子分类
 *   [饮食](diet/)

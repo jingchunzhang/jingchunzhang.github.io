@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Rehabilitation
+title: Remission
 lang: en
 ---
 
-# Rehabilitation
+# Remission
 
 ## Subcategories
 *   [Diet](diet/index-en)

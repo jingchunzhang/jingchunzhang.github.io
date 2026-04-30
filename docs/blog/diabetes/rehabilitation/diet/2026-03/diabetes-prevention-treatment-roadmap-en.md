@@ -10,7 +10,7 @@ cta_form_id: pending-mailerlite
 date: 2026-03-09 00:00:00 +0800
 sort_date: "2026-03-09 00:00:00 +0800"
 description: A long-form staged roadmap from risk screening to treatment stabilization
-  and recovery maintenance for sustainable diabetes care.
+  and remission maintenance for sustainable diabetes care.
 disclaimer_key: medical-information-only
 download_url: https://download.tangyou.space/20260309/Compass-on-the-Road-of-Diabetes-Prevention-and-Treatment-[2016.4].pdf
 ebook_id: 20260309-diabetes-compass
@@ -24,10 +24,10 @@ reviewer_role: 糖尿病治疗医生
 slug: diabetes-prevention-treatment-roadmap-en
 tags:
 - Diabetes Prevention
-- Recovery Management
+- Remission Management
 - Treatment Plan
 - Diet
-- Rehabilitation
+- Remission
 - Long-Term Strategy
 title: "'Diabetes Prevention and Treatment Roadmap: A Step-by-Step Path'"
 translation_key: diabetes-prevention-treatment-roadmap
@@ -37,7 +37,7 @@ translation_key: diabetes-prevention-treatment-roadmap
 
 > **[中文版](./diabetes-prevention-treatment-roadmap)** | **[Chinese Version](./diabetes-prevention-treatment-roadmap)**
 
-The most common diabetes-care mistake is not lack of effort—it is stage confusion. People in prevention mode use treatment logic; people in recovery mode stop the habits that kept them stable. A staged roadmap helps you do the right actions at the right time, while keeping long-term adaptability.
+The most common diabetes-care mistake is not lack of effort—it is stage confusion. People in prevention mode use treatment logic; people in remission mode stop the habits that kept them stable. A staged roadmap helps you do the right actions at the right time, while keeping long-term adaptability.
 
 ![Strategic planning document](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80)
 *Image 1: Stage-based planning outperforms all-at-once optimization. Source: Unsplash (Scott Graham)*
@@ -67,7 +67,7 @@ Key actions:
 
 At this stage, workflow design matters more than motivation spikes.
 
-## Phase 3: recovery and long-term maintenance
+## Phase 3: remission and long-term maintenance
 
 Goal: prevent rebound and make healthy behavior default.
 
@@ -77,10 +77,10 @@ Key actions:
 - Maintain weekly review and scheduled clinical coordination
 - Pre-plan high-risk scenarios (travel, holidays, poor-sleep weeks)
 
-Recovery is not stopping management; it is upgrading management style.
+Remission is not stopping management; it is upgrading management style.
 
 ![Meal structure for maintenance](https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80)
-*Image 2: Long-term meal structure supports recovery durability. Source: Unsplash (Eiliv Aceron)*
+*Image 2: Long-term meal structure supports remission durability. Source: Unsplash (Eiliv Aceron)*
 
 ## Roadmap Checklist
 

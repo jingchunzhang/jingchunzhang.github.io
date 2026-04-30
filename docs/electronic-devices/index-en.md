@@ -20,12 +20,12 @@ Welcome to the Electronic Devices section. Here you'll find in-depth reviews and
 
 ## Latest Articles
 
-- **[23-Month-Old Recently Diagnosed with Type 1 Diabetes: A Caregiver's Beginner Guide](./23-month-old-recently-diagnosed-with-type-1-diabetes-a-caregivers-beginner-guide.en.md)** - Non-technical support guide for parents of newly diagnosed toddlers
-- **[2025's Best First Aid Kits for Vehicles: Expert Reviews for Diabetic Drivers](./2025s-best-first-aid-kits-for-vehicles-expert-reviews-top-recommendations-for-di.en.md)** - First aid kit reviews for diabetic drivers
-- **[2 Weeks After 5-Day Fast and Still Very High Blood Ketones: A Diabetes Troubleshooting Guide](./2-weeks-after-5-day-fast-and-still-very-high-blood-ketones-a-diabetes-troublesho.en.md)** - Fasting-related blood sugar and ketone troubleshooting
-- **[16mmol/L Blood Glucose Reading: Is It Accurate? Troubleshooting False Readings](./16mmoll-blood-glucose-reading-is-it-accurate-troubleshooting-false-reading-cause.en.md)** - Blood glucose reading anomaly analysis
-- **["What's Wrong Sugar" Candy Man Meme: The Viral Hypoglycemia Phenomenon](./whats-wrong-sugar-ran-outta-fuel-thats-mycandy-man-meme-origin-hypoglycemia-cont.en.md)** - Social media phenomenon explanation
-- **[Blood Glucose Meter Accuracy: FDA Standards, Common Errors & Tips for Trust](./are-blood-glucose-meters-accurate-fda-standards-common-errors-and-tips-for-trust.en.md)** - Comprehensive guide on meter accuracy
+- **[23-Month-Old Recently Diagnosed with Type 1 Diabetes: A Caregiver's Beginner Guide](23-month-old-recently-diagnosed-with-type-1-diabetes-a-caregivers-beginner-guide.en)** - Non-technical support guide for parents of newly diagnosed toddlers
+- **[2025's Best First Aid Kits for Vehicles: Expert Reviews for Diabetic Drivers](2025s-best-first-aid-kits-for-vehicles-expert-reviews-top-recommendations-for-di.en)** - First aid kit reviews for diabetic drivers
+- **[2 Weeks After 5-Day Fast and Still Very High Blood Ketones: A Diabetes Troubleshooting Guide](2-weeks-after-5-day-fast-and-still-very-high-blood-ketones-a-diabetes-troublesho.en)** - Fasting-related blood sugar and ketone troubleshooting
+- **[16mmol/L Blood Glucose Reading: Is It Accurate? Troubleshooting False Readings](16mmoll-blood-glucose-reading-is-it-accurate-troubleshooting-false-reading-cause.en)** - Blood glucose reading anomaly analysis
+- **["What's Wrong Sugar" Candy Man Meme: The Viral Hypoglycemia Phenomenon](whats-wrong-sugar-ran-outta-fuel-thats-mycandy-man-meme-origin-hypoglycemia-cont.en)** - Social media phenomenon explanation
+- **[Blood Glucose Meter Accuracy: FDA Standards, Common Errors & Tips for Trust](are-blood-glucose-meters-accurate-fda-standards-common-errors-and-tips-for-trust.en)** - Comprehensive guide on meter accuracy
 
 ---
 
@@ -33,16 +33,16 @@ Welcome to the Electronic Devices section. Here you'll find in-depth reviews and
 
 ### Blood Glucose Monitoring
 
-- **[Blood Glucose Meter Accuracy Guide](./are-blood-glucose-meters-accurate-fda-standards-common-errors-and-tips-for-trust.en.md)** - FDA standards, common errors, and usage tips
-- **[16mmol/L Reading Accuracy Analysis](./16mmoll-blood-glucose-reading-is-it-accurate-troubleshooting-false-reading-cause.en.md)** - Pseudohyperglycemia causes
+- **[Blood Glucose Meter Accuracy Guide](are-blood-glucose-meters-accurate-fda-standards-common-errors-and-tips-for-trust.en)** - FDA standards, common errors, and usage tips
+- **[16mmol/L Reading Accuracy Analysis](16mmoll-blood-glucose-reading-is-it-accurate-troubleshooting-false-reading-cause.en)** - Pseudohyperglycemia causes
 
 ### Emergency & Safety Equipment
 
-- **[2025 Vehicle First Aid Kit Reviews](./2025s-best-first-aid-kits-for-vehicles-expert-reviews-top-recommendations-for-di.en.md)** - Diabetic driver first aid kit reviews
+- **[2025 Vehicle First Aid Kit Reviews](2025s-best-first-aid-kits-for-vehicles-expert-reviews-top-recommendations-for-di.en)** - Diabetic driver first aid kit reviews
 
 ### Special Population Devices
 
-- **[Toddler Type 1 Diabetes Care Guide](./23-month-old-recently-diagnosed-with-type-1-diabetes-a-caregivers-beginner-guide.en.md)** - Device selection for caregivers
+- **[Toddler Type 1 Diabetes Care Guide](23-month-old-recently-diagnosed-with-type-1-diabetes-a-caregivers-beginner-guide.en)** - Device selection for caregivers
 
 ---
 
