@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Sleep
+title: Diabetes Treatment - Sleep
 lang: en
 ---
-
-# Sleep
-
-## Subcategories
-*   [2026-03](2026-03/index-en)
-
+# Diabetes Treatment - Sleep Articles
+{% include post-list.html path='/blog/diabetes/treatment/sleep/' %}
+---
+[Back to Diabetes Hub](../)

@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Sleep
+title: Diabetes Prevention - Sleep
 lang: en
 ---
-
-# Sleep
-
-## Subcategories
-*   [2026-03](2026-03/index-en)
-
+# Diabetes Prevention - Sleep Articles
+{% include post-list.html path='/blog/diabetes/prevention/sleep/' %}
+---
+[Back to Diabetes Hub](../)

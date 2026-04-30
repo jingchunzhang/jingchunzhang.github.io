@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Diet
+title: Diabetes Remission - Diet
 lang: en
 ---
-
-# Diet
-
-## Subcategories
-*   [2026-03](2026-03/index-en)
-
+# Diabetes Remission - Diet Articles
+{% include post-list.html path='/blog/diabetes/rehabilitation/diet/' %}
+---
+[Back to Diabetes Hub](../)

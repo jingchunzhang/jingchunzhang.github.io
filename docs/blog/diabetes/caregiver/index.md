@@ -1,11 +1,9 @@
 ---
 layout: default
-title: 护理者
+title: 护理人员指南
 lang: zh
 ---
-
-# 护理者
-
-## 最新文章
-*   [沉默的伙伴：糖尿病亲友支持指南](caregiver_support)
-
+# 护理人员指南专题
+{% include post-list.html path='/blog/diabetes/caregiver/' %}
+---
+[返回糖尿病中心](../)

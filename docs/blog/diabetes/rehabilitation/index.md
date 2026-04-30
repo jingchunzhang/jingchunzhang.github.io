@@ -1,14 +1,9 @@
 ---
 layout: default
-title: 缓解
+title: 糖尿病缓解
 lang: zh
 ---
-
-# 缓解
-
-## 子分类
-*   [饮食](diet/)
-*   [情绪与压力](emotion/)
-*   [运动](exercise/)
-*   [睡眠](sleep/)
-
+# 糖尿病缓解专题
+{% include post-list.html path='/blog/diabetes/rehabilitation/' %}
+---
+[返回糖尿病中心](../)

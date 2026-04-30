@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Exercise
+title: Diabetes Prevention - Exercise
 lang: en
 ---
-
-# Exercise
-
-## Subcategories
-*   [2026-03](2026-03/index-en)
-
+# Diabetes Prevention - Exercise Articles
+{% include post-list.html path='/blog/diabetes/prevention/exercise/' %}
+---
+[Back to Diabetes Hub](../)

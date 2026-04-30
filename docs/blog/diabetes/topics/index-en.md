@@ -1,12 +1,9 @@
 ---
 layout: default
-title: Topics
+title: Diabetes Topics
 lang: en
 ---
-
-# Topics
-
-## Latest Articles
-*   [Pregnancy and Lactation Diabetes Topic Cluster: Prevention, Care, and Postpartum Recovery](topic-cluster-pregnancy-lactation-en)
-*   [Diabetes Diet Management Complete Guide: From Prevention to Recovery](topic-cluster-diet-en)
-
+# Diabetes Topics Articles
+{% include post-list.html path='/blog/diabetes/topics/' %}
+---
+[Back to Diabetes Hub](../)

@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Emotion & Stress
+title: Diabetes Treatment - Emotion
 lang: en
 ---
-
-# Emotion & Stress
-
-## Subcategories
-*   [2026-03](2026-03/index-en)
-
+# Diabetes Treatment - Emotion Articles
+{% include post-list.html path='/blog/diabetes/treatment/emotion/' %}
+---
+[Back to Diabetes Hub](../)

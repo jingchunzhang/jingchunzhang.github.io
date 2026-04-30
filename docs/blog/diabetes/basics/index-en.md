@@ -1,12 +1,9 @@
 ---
 layout: default
-title: Basics
+title: Diabetes Basics
 lang: en
 ---
-
-# Basics
-
-## Latest Articles
-*   [Navigating the Cost of Care: Practical Tips for Managing Diabetes Expenses](managing_diabetes_costs-en)
-*   [Global Major Diabetes Diagnostic Criteria Reference](diabetes-diagnostic-criteria-en)
-
+# Diabetes Basics Articles
+{% include post-list.html path='/blog/diabetes/basics/' %}
+---
+[Back to Diabetes Hub](../)

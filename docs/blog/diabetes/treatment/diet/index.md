@@ -1,12 +1,9 @@
 ---
 layout: default
-title: 饮食
+title: 糖尿病治疗 - 饮食
 lang: zh
 ---
-
-# 饮食
-
-## 子分类
-*   [2026-03](2026-03/)
-*   [2026-04](2026-04/)
-
+# 糖尿病治疗 - 饮食专题
+{% include post-list.html path='/blog/diabetes/treatment/diet/' %}
+---
+[返回糖尿病中心](../)

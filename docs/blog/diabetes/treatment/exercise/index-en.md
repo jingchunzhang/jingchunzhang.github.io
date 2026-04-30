@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Exercise
+title: Diabetes Treatment - Exercise
 lang: en
 ---
-
-# Exercise
-
-## Subcategories
-*   [2026-03](2026-03/index-en)
-
+# Diabetes Treatment - Exercise Articles
+{% include post-list.html path='/blog/diabetes/treatment/exercise/' %}
+---
+[Back to Diabetes Hub](../)

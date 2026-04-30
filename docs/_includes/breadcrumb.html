@@ -26,125 +26,87 @@ Notes:
 
     {%- comment -%} 逐个处理URL中的目录 {%- endcomment -%}
     {%- assign accumulated_path = '' -%}
+    
+    {%- comment -%} 先预处理 url_parts 过滤掉空部分和 index 文件 {%- endcomment -%}
+    {%- assign clean_parts = "" | split: "" -%}
     {%- for part in url_parts -%}
-      {%- if part != '' and part != 'index.html' -%}
-        {%- assign accumulated_path = accumulated_path | append: '/' | append: part -%}
+      {%- if part != "" and part != "index.html" and part != "index-en.html" -%}
+        {%- assign clean_parts = clean_parts | push: part -%}
+      {%- endif -%}
+    {%- endfor -%}
+
+    {%- for part in clean_parts -%}
+      {%- assign accumulated_path = accumulated_path | append: '/' | append: part -%}
+      
+      {%- if forloop.last -%}
+        {%- comment -%} 最后一部分 - 显示当前页面标题 {%- endcomment -%}
+        <li class="breadcrumb-item breadcrumb-item--active">
+          <span class="breadcrumb-current">{{ page.title }}</span>
+        </li>
+      {%- else -%}
+        {%- comment -%} 这是一个中间目录 - 查找其标题 {%- endcomment -%}
+        {%- assign path_without_slash = accumulated_path | remove_first: '/' -%}
+        {%- assign display_title = part | replace: '-', ' ' | capitalize -%}
         
-        {%- comment -%} 检查是否为最后一部分（文件名） {%- endcomment -%}
-        {%- if forloop.last and part contains '.' -%}
-          {%- comment -%} 最后一部分是文件名 - 显示当前页面标题 {%- endcomment -%}
-          <li class="breadcrumb-item breadcrumb-item--active">
-            <span class="breadcrumb-current">{{ page.title }}</span>
-          </li>
-        {%- else -%}
-          {%- comment -%} 这是一个目录 - 查找其标题 {%- endcomment -%}
-          {%- assign path_without_slash = accumulated_path | remove_first: '/' -%}
-          {%- assign display_title = part | replace: '-', ' ' | capitalize -%}
-          
-           {%- comment -%} 使用case语句根据路径设置显示标题 {%- endcomment -%}
-            {%- case path_without_slash -%}
-              {%- when 'blog' -%}
-                {%- if is_en -%}{%- assign display_title = 'Blog' -%}{%- else -%}{%- assign display_title = '博客' -%}{%- endif -%}
-              {%- when 'blog/prevention' -%}
-                {%- if is_en -%}{%- assign display_title = 'Prevention' -%}{%- else -%}{%- assign display_title = '糖尿病预防' -%}{%- endif -%}
-              {%- when 'blog/treatment' -%}
-                {%- if is_en -%}{%- assign display_title = 'Treatment' -%}{%- else -%}{%- assign display_title = '糖尿病治疗' -%}{%- endif -%}
-              {%- when 'blog/rehabilitation' -%}
-                {%- if is_en -%}{%- assign display_title = 'Remission' -%}{%- else -%}{%- assign display_title = '糖尿病缓解' -%}{%- endif -%}
-              {%- when 'blog/health-log' -%}
-                {%- if is_en -%}{%- assign display_title = 'Health Log' -%}{%- else -%}{%- assign display_title = '个人健康日志' -%}{%- endif -%}
-              {%- when 'blog/tech-thoughts' -%}
-                {%- if is_en -%}{%- assign display_title = 'Tech Thoughts' -%}{%- else -%}{%- assign display_title = '技术个人思考' -%}{%- endif -%}
-              {%- when 'blog/prevention/diet' -%}
-                {%- if is_en -%}{%- assign display_title = 'Diet' -%}{%- else -%}{%- assign display_title = '健康饮食' -%}{%- endif -%}
-              {%- when 'blog/prevention/exercise' -%}
-                {%- if is_en -%}{%- assign display_title = 'Exercise' -%}{%- else -%}{%- assign display_title = '规律运动' -%}{%- endif -%}
-              {%- when 'blog/prevention/sleep' -%}
-                {%- if is_en -%}{%- assign display_title = 'Sleep' -%}{%- else -%}{%- assign display_title = '充足睡眠' -%}{%- endif -%}
-              {%- when 'blog/prevention/emotion' -%}
-                {%- if is_en -%}{%- assign display_title = 'Emotion' -%}{%- else -%}{%- assign display_title = '情绪管理' -%}{%- endif -%}
+         {%- comment -%} 使用case语句根据路径设置显示标题 {%- endcomment -%}
+          {%- case path_without_slash -%}
+            {%- when 'blog' -%}
+              {%- if is_en -%}{%- assign display_title = 'Blog' -%}{%- else -%}{%- assign display_title = '博客' -%}{%- endif -%}
+            {%- when 'blog/diabetes' -%}
+              {%- if is_en -%}{%- assign display_title = 'Diabetes' -%}{%- else -%}{%- assign display_title = '糖尿病管理' -%}{%- endif -%}
+            {%- when 'blog/diabetes/prevention' -%}
+              {%- if is_en -%}{%- assign display_title = 'Prevention' -%}{%- else -%}{%- assign display_title = '预防阶段' -%}{%- endif -%}
+            {%- when 'blog/diabetes/treatment' -%}
+              {%- if is_en -%}{%- assign display_title = 'Treatment' -%}{%- else -%}{%- assign display_title = '治疗阶段' -%}{%- endif -%}
+            {%- when 'blog/diabetes/rehabilitation' -%}
+              {%- if is_en -%}{%- assign display_title = 'Remission' -%}{%- else -%}{%- assign display_title = '缓解阶段' -%}{%- endif -%}
+            {%- when 'blog/diabetes/basics' -%}
+              {%- if is_en -%}{%- assign display_title = 'Basics' -%}{%- else -%}{%- assign display_title = '基础知识' -%}{%- endif -%}
+            {%- when 'blog/diabetes/monitoring' -%}
+              {%- if is_en -%}{%- assign display_title = 'Monitoring' -%}{%- else -%}{%- assign display_title = '血糖监测' -%}{%- endif -%}
+            {%- when 'blog/diabetes/complications' -%}
+              {%- if is_en -%}{%- assign display_title = 'Complications' -%}{%- else -%}{%- assign display_title = '并发症管理' -%}{%- endif -%}
+            {%- when 'blog/diabetes/diet' -%}
+              {%- if is_en -%}{%- assign display_title = 'Diet' -%}{%- else -%}{%- assign display_title = '饮食专题' -%}{%- endif -%}
+            {%- when 'blog/diabetes/research' -%}
+              {%- if is_en -%}{%- assign display_title = 'Research' -%}{%- else -%}{%- assign display_title = '研究进展' -%}{%- endif -%}
+            {%- when 'blog/diabetes/caregiver' -%}
+              {%- if is_en -%}{%- assign display_title = 'Caregiver' -%}{%- else -%}{%- assign display_title = '照护者支持' -%}{%- endif -%}
+            {%- when 'blog/diabetes/topics' -%}
+              {%- if is_en -%}{%- assign display_title = 'Topics' -%}{%- else -%}{%- assign display_title = '主题合集' -%}{%- endif -%}
 
-              {%- when 'blog/treatment/diet' -%}
-                {%- if is_en -%}{%- assign display_title = 'Diet' -%}{%- else -%}{%- assign display_title = '饮食管理' -%}{%- endif -%}
-              {%- when 'blog/treatment/exercise' -%}
-                {%- if is_en -%}{%- assign display_title = 'Exercise' -%}{%- else -%}{%- assign display_title = '运动处方' -%}{%- endif -%}
-              {%- when 'blog/treatment/sleep' -%}
-                {%- if is_en -%}{%- assign display_title = 'Sleep' -%}{%- else -%}{%- assign display_title = '睡眠与代谢' -%}{%- endif -%}
-              {%- when 'blog/treatment/emotion' -%}
-                {%- if is_en -%}{%- assign display_title = 'Emotion' -%}{%- else -%}{%- assign display_title = '情绪与压力管理' -%}{%- endif -%}
+            {%- when 'blog/diabetes/prevention/diet' -%}
+              {%- if is_en -%}{%- assign display_title = 'Diet' -%}{%- else -%}{%- assign display_title = '健康饮食' -%}{%- endif -%}
+            {%- when 'blog/diabetes/prevention/exercise' -%}
+              {%- if is_en -%}{%- assign display_title = 'Exercise' -%}{%- else -%}{%- assign display_title = '规律运动' -%}{%- endif -%}
+            {%- when 'blog/diabetes/prevention/sleep' -%}
+              {%- if is_en -%}{%- assign display_title = 'Sleep' -%}{%- else -%}{%- assign display_title = '充足睡眠' -%}{%- endif -%}
+            {%- when 'blog/diabetes/prevention/emotion' -%}
+              {%- if is_en -%}{%- assign display_title = 'Emotion' -%}{%- else -%}{%- assign display_title = '情绪管理' -%}{%- endif -%}
 
-              {%- when 'blog/rehabilitation/diet' -%}
-                {%- if is_en -%}{%- assign display_title = 'Diet' -%}{%- else -%}{%- assign display_title = '长期饮食策略' -%}{%- endif -%}
-              {%- when 'blog/rehabilitation/exercise' -%}
-                {%- if is_en -%}{%- assign display_title = 'Exercise' -%}{%- else -%}{%- assign display_title = '缓解期锻炼' -%}{%- endif -%}
-              {%- when 'blog/rehabilitation/sleep' -%}
-                {%- if is_en -%}{%- assign display_title = 'Sleep' -%}{%- else -%}{%- assign display_title = '睡眠修复' -%}{%- endif -%}
-              {%- when 'blog/rehabilitation/emotion' -%}
-                {%- if is_en -%}{%- assign display_title = 'Emotion' -%}{%- else -%}{%- assign display_title = '心理健康' -%}{%- endif -%}
+            {%- when 'blog/diabetes/treatment/diet' -%}
+              {%- if is_en -%}{%- assign display_title = 'Diet' -%}{%- else -%}{%- assign display_title = '饮食管理' -%}{%- endif -%}
+            {%- when 'blog/diabetes/treatment/exercise' -%}
+              {%- if is_en -%}{%- assign display_title = 'Exercise' -%}{%- else -%}{%- assign display_title = '运动处方' -%}{%- endif -%}
+            {%- when 'blog/diabetes/treatment/sleep' -%}
+              {%- if is_en -%}{%- assign display_title = 'Sleep' -%}{%- else -%}{%- assign display_title = '睡眠与代谢' -%}{%- endif -%}
+            {%- when 'blog/diabetes/treatment/emotion' -%}
+              {%- if is_en -%}{%- assign display_title = 'Emotion' -%}{%- else -%}{%- assign display_title = '情绪与压力管理' -%}{%- endif -%}
 
-              {%- when 'blog/diabetes/basics' -%}
-                {%- if is_en -%}{%- assign display_title = 'Basics' -%}{%- else -%}{%- assign display_title = '基础知识' -%}{%- endif -%}
-              {%- when 'blog/diabetes/monitoring' -%}
-                {%- if is_en -%}{%- assign display_title = 'Monitoring' -%}{%- else -%}{%- assign display_title = '血糖监测' -%}{%- endif -%}
-              {%- when 'blog/diabetes/complications' -%}
-                {%- if is_en -%}{%- assign display_title = 'Complications' -%}{%- else -%}{%- assign display_title = '并发症管理' -%}{%- endif -%}
-              {%- when 'blog/diabetes/prevention' -%}
-                {%- if is_en -%}{%- assign display_title = 'Prevention' -%}{%- else -%}{%- assign display_title = '预防阶段' -%}{%- endif -%}
-              {%- when 'blog/diabetes/treatment' -%}
-                {%- if is_en -%}{%- assign display_title = 'Treatment' -%}{%- else -%}{%- assign display_title = '治疗阶段' -%}{%- endif -%}
-              {%- when 'blog/diabetes/rehabilitation' -%}
-                {%- if is_en -%}{%- assign display_title = 'Remission' -%}{%- else -%}{%- assign display_title = '缓解阶段' -%}{%- endif -%}
-              {%- when 'blog/diabetes/diet' -%}
-                {%- if is_en -%}{%- assign display_title = 'Diet' -%}{%- else -%}{%- assign display_title = '饮食专题' -%}{%- endif -%}
-              {%- when 'blog/diabetes/caregiver' -%}
-                {%- if is_en -%}{%- assign display_title = 'Caregiver' -%}{%- else -%}{%- assign display_title = '照护者支持' -%}{%- endif -%}
-              {%- when 'blog/diabetes/topics' -%}
-                {%- if is_en -%}{%- assign display_title = 'Topics' -%}{%- else -%}{%- assign display_title = '主题合集' -%}{%- endif -%}
-
-              {%- when 'blog/affiliate' -%}
-                {%- if is_en -%}{%- assign display_title = 'Affiliate' -%}{%- else -%}{%- assign display_title = '网络广告联盟' -%}{%- endif -%}
-              {%- when 'blog/affiliate/basics' -%}
-                {%- if is_en -%}{%- assign display_title = 'Basics' -%}{%- else -%}{%- assign display_title = '入门知识' -%}{%- endif -%}
-              {%- when 'blog/affiliate/advanced' -%}
-                {%- if is_en -%}{%- assign display_title = 'Advanced' -%}{%- else -%}{%- assign display_title = '进阶知识' -%}{%- endif -%}
-              {%- when 'blog/affiliate/industry' -%}
-                {%- if is_en -%}{%- assign display_title = 'Industry' -%}{%- else -%}{%- assign display_title = '行业知识' -%}{%- endif -%}
-
-              {%- when 'blog/seo' -%}
-                {%- if is_en -%}{%- assign display_title = 'SEO' -%}{%- else -%}{%- assign display_title = 'SEO' -%}{%- endif -%}
-              {%- when 'blog/seo/basics' -%}
-                {%- if is_en -%}{%- assign display_title = 'Basics' -%}{%- else -%}{%- assign display_title = '入门知识' -%}{%- endif -%}
-              {%- when 'blog/seo/advanced' -%}
-                {%- if is_en -%}{%- assign display_title = 'Advanced' -%}{%- else -%}{%- assign display_title = '进阶知识' -%}{%- endif -%}
-              {%- when 'blog/seo/companies' -%}
-                {%- if is_en -%}{%- assign display_title = 'Companies' -%}{%- else -%}{%- assign display_title = '行业公司介绍' -%}{%- endif -%}
-
-              {%- comment -%} Back-compat (should mostly redirect) {%- endcomment -%}
-              {%- when 'prevention' -%}
-                {%- assign display_title = '糖尿病的预防：构建健康生活防线' -%}
-              {%- when 'treatment' -%}
-                {%- assign display_title = '糖尿病治疗' -%}
-              {%- when 'rehabilitation' -%}
-                {%- assign display_title = '糖尿病康复' -%}
-              {%- when 'health-log' -%}
-                {%- assign display_title = '个人健康日志' -%}
-              {%- when 'tech-thoughts' -%}
-                {%- assign display_title = '技术个人思考' -%}
-              {%- when 'prevention/diet' -%}
-                {%- assign display_title = '健康饮食：通过均衡营养预防糖尿病' -%}
-              {%- when 'prevention/exercise' -%}
-                {%- assign display_title = '规律运动：如何通过科学锻炼有效预防糖尿病' -%}
-              {%- when 'prevention/sleep' -%}
-                {%- assign display_title = '充足睡眠：通过优质睡眠预防糖尿病' -%}
-              {%- when 'prevention/emotion' -%}
-                {%- assign display_title = '情绪管理' -%}
-            {%- endcase -%}
-          
-           <li class="breadcrumb-item">
-             <a href="{{ accumulated_path }}/{{ index_file }}" class="breadcrumb-link">{{ display_title }}</a>
-           </li>
-         {%- endif -%}
-       {%- endif -%}
-     {%- endfor -%}
+            {%- when 'blog/diabetes/rehabilitation/diet' -%}
+              {%- if is_en -%}{%- assign display_title = 'Diet' -%}{%- else -%}{%- assign display_title = '长期饮食策略' -%}{%- endif -%}
+            {%- when 'blog/diabetes/rehabilitation/exercise' -%}
+              {%- if is_en -%}{%- assign display_title = 'Exercise' -%}{%- else -%}{%- assign display_title = '缓解期锻炼' -%}{%- endif -%}
+            {%- when 'blog/diabetes/rehabilitation/sleep' -%}
+              {%- if is_en -%}{%- assign display_title = 'Sleep' -%}{%- else -%}{%- assign display_title = '睡眠修复' -%}{%- endif -%}
+            {%- when 'blog/diabetes/rehabilitation/emotion' -%}
+              {%- if is_en -%}{%- assign display_title = 'Emotion' -%}{%- else -%}{%- assign display_title = '心理健康' -%}{%- endif -%}
+          {%- endcase -%}
+        
+         <li class="breadcrumb-item">
+           <a href="{{ accumulated_path }}/{{ index_file }}" class="breadcrumb-link">{{ display_title }}</a>
+         </li>
+      {%- endif -%}
+    {%- endfor -%}
   </ol>
 </nav>

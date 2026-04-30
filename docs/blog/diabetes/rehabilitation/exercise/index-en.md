@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Exercise
+title: Diabetes Remission - Exercise
 lang: en
 ---
-
-# Exercise
-
-## Subcategories
-*   [2026-03](2026-03/index-en)
-
+# Diabetes Remission - Exercise Articles
+{% include post-list.html path='/blog/diabetes/rehabilitation/exercise/' %}
+---
+[Back to Diabetes Hub](../)

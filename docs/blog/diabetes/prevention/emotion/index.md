@@ -1,11 +1,9 @@
 ---
 layout: default
-title: 情绪与压力
+title: 糖尿病预防 - 情绪
 lang: zh
 ---
-
-# 情绪与压力
-
-## 子分类
-*   [2026-03](2026-03/)
-
+# 糖尿病预防 - 情绪专题
+{% include post-list.html path='/blog/diabetes/prevention/emotion/' %}
+---
+[返回糖尿病中心](../)

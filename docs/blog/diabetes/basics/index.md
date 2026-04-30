@@ -1,12 +1,9 @@
 ---
 layout: default
-title: 基础知识
+title: 糖尿病基础
 lang: zh
 ---
-
-# 基础知识
-
-## 最新文章
-*   [驾驭护理成本：2026年糖尿病费用管理实用建议](managing_diabetes_costs)
-*   [全球主流糖尿病诊断标准参考](diabetes-diagnostic-criteria)
-
+# 糖尿病基础专题
+{% include post-list.html path='/blog/diabetes/basics/' %}
+---
+[返回糖尿病中心](../)

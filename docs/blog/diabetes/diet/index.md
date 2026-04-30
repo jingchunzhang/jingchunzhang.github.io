@@ -1,11 +1,9 @@
 ---
 layout: default
-title: 饮食
+title: 糖尿病饮食
 lang: zh
 ---
-
-# 饮食
-
-## 最新文章
-*   [关于糖尿病饮食规划的5个误区，你该停止相信了](meal_planning_myths)
-
+# 糖尿病饮食专题
+{% include post-list.html path='/blog/diabetes/diet/' %}
+---
+[返回糖尿病中心](../)

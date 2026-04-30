@@ -1,14 +1,9 @@
 ---
 layout: default
-title: Remission
+title: Diabetes Remission
 lang: en
 ---
-
-# Remission
-
-## Subcategories
-*   [Diet](diet/index-en)
-*   [Emotion & Stress](emotion/index-en)
-*   [Exercise](exercise/index-en)
-*   [Sleep](sleep/index-en)
-
+# Diabetes Remission Articles
+{% include post-list.html path='/blog/diabetes/rehabilitation/' %}
+---
+[Back to Diabetes Hub](../)

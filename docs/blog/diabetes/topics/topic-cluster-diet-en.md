@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Diabetes Diet Management Complete Guide: From Prevention to Recovery"
-description: "A systematic guide to diabetes diet management covering three stages: prevention-phase healthy eating, treatment-phase glucose control, and recovery-phase long-term strategies with practical advice."
+title: "Diabetes Diet Management Complete Guide: From Prevention to Remission"
+description: "A systematic guide to diabetes diet management covering three stages: prevention-phase healthy eating, treatment-phase glucose control, and remission-phase long-term strategies with practical advice."
 author: "Dane Zhang (张杨)"
 author_title: "Health Tech Researcher"
 lang: en
 translation_key: topic-cluster-diet
 ---
 
-# Diabetes Diet Management Complete Guide: From Prevention to Recovery
+# Diabetes Diet Management Complete Guide: From Prevention to Remission
 
-> **Core Insight**: Diabetes diet management is not short-term "dieting" but a sustainable lifestyle system. From prevention to treatment to recovery, each phase has different dietary priorities and strategies.
+> **Core Insight**: Diabetes diet management is not short-term "dieting" but a sustainable lifestyle system. From prevention to treatment to remission, each phase has different dietary priorities and strategies.
 
 ---
 
@@ -70,7 +70,7 @@ After diabetes diagnosis, the core goal is **stabilizing blood sugar, coordinati
 
 ---
 
-## Recovery Phase: Long-term Sustainable Strategy
+## Remission Phase: Long-term Sustainable Strategy
 
 After blood sugar stabilization, the goal is **long-term adherence, complication prevention, and quality of life improvement**.
 
@@ -160,7 +160,7 @@ Don't start with calorie-counting anxiety. First establish the correct plate str
 
 ### Beyond Diet
 - Exercise Prescription: Safe and Effective Exercise During Treatment
-- Sleep and Metabolism: Recovery Foundation During Treatment
+- Sleep and Metabolism: Remission Foundation During Treatment
 - Emotion and Stress Management: The "Invisible Medication" of Treatment
 
 ### Important References

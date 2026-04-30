@@ -12,7 +12,7 @@ translation_key: topic-cluster-pregnancy-lactation
 
 > **[English Version](./topic-cluster-pregnancy-lactation-en)** | **[英文版入口](./topic-cluster-pregnancy-lactation-en)**
 
-> **专题定位**：这个页面是“孕期与哺乳期糖尿病管理”总入口。你可以按阶段（预防→治疗→康复）或按问题（饮食、运动、睡眠、情绪）快速找到对应文章。
+> **专题定位**：这个页面是“孕期与哺乳期糖尿病管理”总入口。你可以按阶段（预防→治疗→缓解）或按问题（饮食、运动、睡眠、情绪）快速找到对应文章。
 
 ---
 
@@ -46,7 +46,7 @@ translation_key: topic-cluster-pregnancy-lactation
 - 夜间稳定策略
   - 妊娠糖尿病夜间血糖稳定策略：晚餐、夜醒与次日空腹的衔接
 
-### C. 康复阶段（产后与哺乳期）
+### C. 缓解阶段（产后与哺乳期）
 
 目标：在照护宝宝的高压力环境里，守住代谢恢复节奏。
 

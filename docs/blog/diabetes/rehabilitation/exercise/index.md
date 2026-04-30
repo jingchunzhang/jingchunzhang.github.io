@@ -1,11 +1,9 @@
 ---
 layout: default
-title: 运动
+title: 糖尿病缓解 - 运动
 lang: zh
 ---
-
-# 运动
-
-## 子分类
-*   [2026-03](2026-03/)
-
+# 糖尿病缓解 - 运动专题
+{% include post-list.html path='/blog/diabetes/rehabilitation/exercise/' %}
+---
+[返回糖尿病中心](../)

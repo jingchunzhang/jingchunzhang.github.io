@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Research
+title: Diabetes Research
 lang: en
 ---
-
-# Research
-
-## Subcategories
-*   [2026-03](2026-03/index-en)
-
+# Diabetes Research Articles
+{% include post-list.html path='/blog/diabetes/research/' %}
+---
+[Back to Diabetes Hub](../)

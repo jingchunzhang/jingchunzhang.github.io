@@ -1,11 +1,9 @@
 ---
 layout: default
-title: 睡眠
+title: 糖尿病缓解 - 睡眠
 lang: zh
 ---
-
-# 睡眠
-
-## 子分类
-*   [2026-03](2026-03/)
-
+# 糖尿病缓解 - 睡眠专题
+{% include post-list.html path='/blog/diabetes/rehabilitation/sleep/' %}
+---
+[返回糖尿病中心](../)

@@ -1,11 +1,9 @@
 ---
 layout: default
-title: 研究
+title: 糖尿病研究
 lang: zh
 ---
-
-# 研究
-
-## 子分类
-*   [2026-03](2026-03/)
-
+# 糖尿病研究专题
+{% include post-list.html path='/blog/diabetes/research/' %}
+---
+[返回糖尿病中心](../)

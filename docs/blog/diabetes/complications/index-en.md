@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Complications
+title: Diabetes Complications
 lang: en
 ---
-
-# Complications
-
-## Latest Articles
-*   [Beware of the “Sweet Killer”: A Panoramic Overview of Diabetes Complications](diabetes-complications-overview-en)
-
+# Diabetes Complications Articles
+{% include post-list.html path='/blog/diabetes/complications/' %}
+---
+[Back to Diabetes Hub](../)

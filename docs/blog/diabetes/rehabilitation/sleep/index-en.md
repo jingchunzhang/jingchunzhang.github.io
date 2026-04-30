@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Sleep
+title: Diabetes Remission - Sleep
 lang: en
 ---
-
-# Sleep
-
-## Subcategories
-*   [2026-03](2026-03/index-en)
-
+# Diabetes Remission - Sleep Articles
+{% include post-list.html path='/blog/diabetes/rehabilitation/sleep/' %}
+---
+[Back to Diabetes Hub](../)

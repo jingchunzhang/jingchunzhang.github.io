@@ -14,6 +14,9 @@
     <!-- Post List Section -->
   <div class="post-list">
     {% assign blog_pages = site.pages | where_exp: "item", "item.url contains '/blog/'" %}
+    {% if page.lang %}
+      {% assign blog_pages = blog_pages | where: "lang", page.lang %}
+    {% endif %}
     {% assign dated_pages = blog_pages | where_exp: "item", "item.sort_date" %}
     {% assign all_pages = dated_pages | sort: "sort_date" | reverse %}
     

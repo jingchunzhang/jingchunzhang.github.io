@@ -1,14 +1,9 @@
 ---
 layout: default
-title: 饮食
+title: 糖尿病预防 - 饮食
 lang: zh
 ---
-
-# 饮食
-
-## 子分类
-*   [2026-03](2026-03/)
-
-## 最新文章
-*   [超越减肥：理解肥胖与2型糖尿病之间的生物学联系](obesity_diabetes_link)
-
+# 糖尿病预防 - 饮食专题
+{% include post-list.html path='/blog/diabetes/prevention/diet/' %}
+---
+[返回糖尿病中心](../)

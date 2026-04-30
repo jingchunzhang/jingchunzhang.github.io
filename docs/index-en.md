@@ -20,31 +20,36 @@ Our core mission is to share knowledge related to diabetes, covering every key s
 ## Core Focus: Three Pillars of Diabetes Management
 
 ### 1. Prevention
-*   [Enter **Prevention** Category](./blog/diabetes/prevention/index-en)
+*   [Enter **Prevention** Category](/blog/diabetes/prevention/index-en)
 
 ### 2. Treatment
-*   [Enter **Treatment** Category](./blog/diabetes/treatment/index-en)
+*   [Enter **Treatment** Category](/blog/diabetes/treatment/index-en)
 
 ### 3. Remission
-*   [Enter **Remission** Category](./blog/diabetes/rehabilitation/index-en)
+*   [Enter **Remission** Category](/blog/diabetes/rehabilitation/index-en)
+
+### 4. Monitoring
+*   [Enter **Monitoring** Category](/blog/diabetes/monitoring/index-en)
 
 ## Complications Management
-*   **[Diabetes Complications](./blog/diabetes/complications/index-en)**: Understanding and Prevention
-    *   **[Diabetic Foot](./blog/diabetes/complications/2026-03/2026-03-30-diabetes-foot-care-en)**: Foot care and ulcer prevention
-    *   **[Diabetic Nephropathy](./blog/diabetes/complications/2026-03/2026-03-30-diabetes-kidney-disease-prevention-en)**: Kidney protection and management
-    *   **[Diabetic Eye Disease](./blog/diabetes/complications/2026-03/2026-03-30-diabetes-eye-care-en)**: Vision protection and regular check-ups
+*   **[Diabetes Complications](/blog/diabetes/complications/index-en)**: Understanding and Prevention
+    *   **[Diabetic Foot](/blog/diabetes/complications/2026-03-30-diabetes-foot-care-en)**: Foot care and ulcer prevention
+    *   **[Diabetic Nephropathy](/blog/diabetes/complications/2026-03-30-diabetes-kidney-disease-prevention-en)**: Kidney protection and management
+    *   **[Diabetic Eye Disease](/blog/diabetes/complications/2026-03-30-diabetes-eye-care-en)**: Vision protection and regular check-ups
 
 ## Resources & Devices
-*   **[E-Books](./ebooks/)**: Professional materials and guides for diabetes
-*   **[Diet Management](./health-log/diet/)**: Science-based diet and recipes
-*   **[Electronic Devices](./electronic-devices/)**: Reviews and recommendations for glucose monitors, insulin pumps, and related devices
+*   **[E-Books](/ebooks/)**: Professional materials and guides for diabetes
+*   **[Diet Management](/health-log/diet/)**: Science-based diet and recipes
+*   **[Electronic Devices](/electronic-devices/)**: Reviews and recommendations for glucose monitors, insulin pumps, and related devices
 
 ---
 
 ## Diabetes Basics (Must Read)
-*   **[The Best Gifts for People with Diabetes](./blog/diabetes/rehabilitation/diet/2026-03/2026-03-14-the-best-gifts-for-people-with-diabetes-en)**
-*   **[Beware of the "Sweet Killer": A Panoramic Overview of Diabetes Complications](./blog/diabetes/complications/diabetes-complications-overview-en)**
-*   **[Mainstream Global Diabetes Diagnostic Criteria Reference](./blog/diabetes/basics/diabetes-diagnostic-criteria-en)**
+*   **[The Best Gifts for People with Diabetes](/blog/diabetes/rehabilitation/diet/2026-03-14-the-best-gifts-for-people-with-diabetes-en)**
+*   **[Beware of the "Sweet Killer": A Panoramic Overview of Diabetes Complications](/blog/diabetes/complications/diabetes-complications-overview-en)**
+*   **[Mainstream Global Diabetes Diagnostic Criteria Reference](/blog/diabetes/basics/diabetes-diagnostic-criteria-en)**
+*   **[Mastering Your Morning Numbers: Tracking Food and Fasting Blood Sugar](/blog/diabetes/monitoring/fasting_blood_sugar_tracking-en)**
+
 
 ---
 
